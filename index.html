@@ -1,0 +1,747 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+</head>
+<body>
+<title>Escola Elev</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Escola Elev Turma 2027: 12 encontros semanais ao vivo com Gustavo Nardi para tirar o dono do operacional e estruturar a empresa.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=Public+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: degraus (Operador → Dono → Líder). Faixa escura de obra/noite no topo e no telão,
+   corpo claro em pedra fria, latão como única cor de destaque. */
+:root{
+  --bg:#F3F4F1; --surface:#FFFFFF; --ink:#12202B; --muted:#56636D; --line:#D8DCD6;
+  --accent:#C08A2A; --accent-text:#8A5E12; --accent-soft:#F3E7CF;
+  --deep:#0E1A24; --deep-2:#16263300; --on-deep:#EEF1EC; --on-deep-muted:#A9B5BD; --deep-line:#25384A;
+  --f-display:"Archivo","Arial Narrow",Arial,sans-serif;
+  --f-body:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Consolas,monospace;
+  --gutter-l:max(16px, env(safe-area-inset-left, 0px));
+  --gutter-r:max(16px, env(safe-area-inset-right, 0px));
+  --maxw:1120px;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0B141C; --surface:#111D27; --ink:#E7ECE6; --muted:#9AA7AF; --line:#22323F;
+    --accent:#D7A646; --accent-text:#E5BC66; --accent-soft:#2A2312;
+    --deep:#060D13; --on-deep:#EEF1EC; --on-deep-muted:#A9B5BD; --deep-line:#1E2E3B;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0B141C; --surface:#111D27; --ink:#E7ECE6; --muted:#9AA7AF; --line:#22323F;
+  --accent:#D7A646; --accent-text:#E5BC66; --accent-soft:#2A2312;
+  --deep:#060D13; --on-deep:#EEF1EC; --on-deep-muted:#A9B5BD; --deep-line:#1E2E3B;
+  color-scheme:dark;
+}
+
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto} *{animation:none!important;transition:none!important}}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:60;background:var(--deep)}
+a{color:inherit}
+.wrap{max-width:var(--maxw);margin:0 auto;padding-left:var(--gutter-l);padding-right:var(--gutter-r)}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0;letter-spacing:-.01em}
+h2{font-size:clamp(30px,4.2vw,46px);line-height:1.05;font-weight:800;font-stretch:88%}
+h3{font-size:20px;font-weight:750;line-height:1.2}
+p{margin:0}
+.eyebrow{font-family:var(--f-mono);font-size:12.5px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--accent-text)}
+.lead{font-size:18px;color:var(--muted);max-width:62ch}
+section{padding-block:clamp(64px,9vw,112px)}
+.sec-head{display:grid;gap:14px;margin-bottom:44px;max-width:760px}
+
+/* Botões */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;font-family:var(--f-display);font-weight:800;font-stretch:95%;font-size:17px;letter-spacing:.02em;text-transform:uppercase;text-decoration:none;border:0;cursor:pointer;padding:18px 28px;border-radius:4px;background:var(--accent);color:#14100A;transition:transform .15s ease, box-shadow .15s ease, background .15s}
+.btn:hover{transform:translateY(-2px);box-shadow:0 10px 24px -10px var(--accent)}
+.btn:focus-visible,.nav a:focus-visible,summary:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.btn .arr{transition:transform .15s}
+.btn:hover .arr{transform:translateX(4px)}
+.btn-ghost{background:transparent;color:var(--on-deep);box-shadow:inset 0 0 0 1.5px var(--deep-line)}
+.btn-ghost:hover{box-shadow:inset 0 0 0 1.5px var(--on-deep-muted)}
+
+/* Topo */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:50;background:color-mix(in srgb,var(--deep) 92%,transparent);backdrop-filter:blur(8px);border-bottom:1px solid var(--deep-line);color:var(--on-deep)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:16px;height:64px}
+.brand{display:flex;align-items:baseline;gap:10px;text-decoration:none}
+.brand b{font-family:var(--f-display);font-weight:900;font-stretch:125%;font-size:22px;letter-spacing:.06em}
+.brand span{font-family:var(--f-mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--on-deep-muted)}
+.nav{display:flex;align-items:center;gap:26px;font-size:14.5px}
+.nav a{text-decoration:none;color:var(--on-deep-muted)}
+.nav a:hover{color:var(--on-deep)}
+.nav .btn{padding:11px 18px;font-size:14px;color:#14100A}
+@media (max-width:820px){.nav a:not(.btn){display:none}}
+
+/* Hero */
+.hero{background:var(--deep);color:var(--on-deep);position:relative;overflow:hidden;padding-block:clamp(56px,8vw,96px) 0}
+.hero::after{content:"";position:absolute;inset:0;background:
+  radial-gradient(700px 380px at 85% 10%, color-mix(in srgb,var(--accent) 18%,transparent), transparent 70%);
+  pointer-events:none}
+.hero .wrap{position:relative;z-index:1;display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:end}
+.hero-copy{display:grid;gap:26px;padding-bottom:clamp(48px,7vw,88px);min-width:0}
+.hero h1{font-size:clamp(40px,6vw,70px);line-height:.95;font-weight:900;font-stretch:80%;text-transform:uppercase}
+.hero h1 em{font-style:normal;color:var(--accent)}
+.hero .lead{color:var(--on-deep-muted)}
+.hero .lead strong{color:var(--on-deep);font-weight:600}
+.hero-cta{display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+.facts{display:flex;flex-wrap:wrap;gap:10px 26px;font-family:var(--f-mono);font-size:13px;color:var(--on-deep-muted);letter-spacing:.04em}
+.facts span::before{content:"▲ ";color:var(--accent);font-size:10px}
+
+/* Escada */
+.stairs{display:grid;grid-template-columns:repeat(3,1fr);align-items:end;gap:6px;min-width:0}
+.step{background:linear-gradient(180deg, color-mix(in srgb,var(--on-deep) 9%,transparent), color-mix(in srgb,var(--on-deep) 3%,transparent));border:1px solid var(--deep-line);border-bottom:0;padding:16px 14px;display:flex;flex-direction:column;justify-content:flex-start;gap:6px;border-radius:3px 3px 0 0;animation:rise .8s cubic-bezier(.2,.8,.2,1) both}
+.step:nth-child(1){height:150px;animation-delay:.05s}
+.step:nth-child(2){height:240px;animation-delay:.2s}
+.step:nth-child(3){height:340px;animation-delay:.35s;background:linear-gradient(180deg, color-mix(in srgb,var(--accent) 34%,transparent), color-mix(in srgb,var(--accent) 8%,transparent));border-color:color-mix(in srgb,var(--accent) 55%,transparent)}
+.step .n{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;color:var(--on-deep-muted)}
+.step b{font-family:var(--f-display);font-weight:850;font-stretch:90%;font-size:clamp(16px,2vw,22px);text-transform:uppercase;letter-spacing:.02em}
+.step i{font-style:normal;font-size:13px;line-height:1.35;color:var(--on-deep-muted)}
+.step:nth-child(3) i{color:var(--on-deep)}
+@keyframes rise{from{transform:translateY(30px);opacity:.25}to{transform:none;opacity:1}}
+
+/* Dor */
+.pain-grid{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start}
+.question{font-family:var(--f-display);font-weight:800;font-stretch:85%;font-size:clamp(28px,3.6vw,40px);line-height:1.08}
+.question mark{background:none;color:var(--accent-text)}
+.symptoms{list-style:none;margin:0;padding:0;display:grid;border-top:1px solid var(--line)}
+.symptoms li{display:grid;grid-template-columns:28px 1fr;gap:12px;padding:16px 0;border-bottom:1px solid var(--line)}
+.symptoms li::before{content:"✕";font-family:var(--f-mono);font-weight:700;color:var(--accent-text)}
+.symptoms strong{font-weight:650}
+.callout{margin-top:28px;padding:22px 24px;background:var(--accent-soft);border-radius:4px;font-size:17px}
+.callout strong{font-family:var(--f-display);font-weight:800;font-size:22px;display:block;margin-bottom:4px;font-stretch:90%}
+
+/* Jornada */
+.journey{background:var(--surface);border-block:1px solid var(--line)}
+.meetings{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.meeting{padding:28px 26px 30px;display:grid;gap:10px;align-content:start;border-right:1px solid var(--line);border-bottom:1px solid var(--line);min-width:0}
+.meeting:nth-child(3n){border-right:0}
+.meeting:nth-child(n+4){border-bottom:0}
+.meeting .num{font-family:var(--f-mono);font-size:12px;font-weight:700;letter-spacing:.12em;color:var(--muted)}
+.meeting .pill{justify-self:start;font-family:var(--f-display);font-weight:850;font-stretch:110%;font-size:13px;letter-spacing:.12em;text-transform:uppercase;padding:5px 10px;border-radius:2px;background:var(--accent-soft);color:var(--accent-text)}
+.meeting p{color:var(--muted);font-size:15.5px}
+.meeting .out{font-size:14px;color:var(--ink);border-top:1px dashed var(--line);padding-top:10px;margin-top:4px}
+.meeting .out b{font-family:var(--f-mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent-text);display:block;margin-bottom:2px}
+.cadence{margin-top:28px;display:flex;flex-wrap:wrap;gap:12px 32px;font-family:var(--f-mono);font-size:13px;color:var(--muted)}
+.cadence b{color:var(--ink)}
+
+/* Entregáveis */
+.stack-grid{display:grid;grid-template-columns:1fr 1fr;gap:56px;align-items:start}
+.stack{list-style:none;margin:0;padding:0;display:grid;gap:0}
+.stack li{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:baseline;padding:15px 0;border-bottom:1px solid var(--line)}
+.stack li span{min-width:0}
+.stack li small{display:block;color:var(--muted);font-size:14px;margin-top:2px}
+.stack li em{font-style:normal;font-family:var(--f-mono);font-size:12px;color:var(--muted);white-space:nowrap}
+.tools{display:grid;gap:12px}
+.tool{display:grid;grid-template-columns:auto 1fr;gap:14px;align-items:start;padding:18px;border:1px solid var(--line);border-radius:6px;background:var(--surface)}
+.tool .tag{font-family:var(--f-mono);font-size:11px;font-weight:700;letter-spacing:.08em;padding:4px 7px;border-radius:3px;background:var(--ink);color:var(--bg)}
+.tool p{font-size:15px;color:var(--muted)}
+.tool h3{font-size:17px;margin-bottom:2px}
+
+/* ELEVE */
+.eleve{background:var(--deep);color:var(--on-deep)}
+.eleve .eyebrow{color:var(--accent)}
+.eleve .lead{color:var(--on-deep-muted)}
+.letters{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border-top:1px solid var(--deep-line)}
+.letter{padding:28px 22px 8px 0;display:grid;gap:10px;min-width:0}
+.letter + .letter{padding-left:22px;border-left:1px solid var(--deep-line)}
+.letter .L{font-family:var(--f-display);font-weight:900;font-stretch:125%;font-size:64px;line-height:.9;color:var(--accent)}
+.letter h3{font-size:19px;text-transform:uppercase;letter-spacing:.04em}
+.letter p{color:var(--on-deep-muted);font-size:15.5px}
+
+/* Mentor */
+.mentor{display:grid;grid-template-columns:.8fr 1.2fr;gap:56px;align-items:start}
+.mentor-card{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:30px;display:grid;gap:16px}
+.mono-badge{width:84px;height:84px;border-radius:50%;display:grid;place-items:center;background:var(--deep);color:var(--accent);font-family:var(--f-display);font-weight:900;font-stretch:120%;font-size:28px;letter-spacing:.04em}
+.mentor-card h3{font-size:26px}
+.mentor-card .role{font-family:var(--f-mono);font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.story{display:grid;gap:18px;font-size:18px;max-width:62ch}
+.story blockquote{margin:6px 0 0;padding:0 0 0 20px;border-left:3px solid var(--accent);font-family:var(--f-display);font-weight:750;font-stretch:90%;font-size:24px;line-height:1.2}
+
+/* Investimento */
+.offer{background:var(--surface);border-block:1px solid var(--line)}
+.offer-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+.price-card{background:var(--deep);color:var(--on-deep);border-radius:8px;padding:clamp(28px,4vw,44px);display:grid;gap:18px;position:relative;overflow:hidden}
+.price-card::before{content:"";position:absolute;right:-60px;top:-60px;width:220px;height:220px;border:36px solid color-mix(in srgb,var(--accent) 22%,transparent);border-radius:50%}
+.price-card > *{position:relative}
+.price-card .eyebrow{color:var(--accent)}
+.price-card .from{font-family:var(--f-mono);font-size:13px;color:var(--on-deep-muted)}
+.price-card .from s{color:var(--on-deep-muted)}
+.price{font-family:var(--f-display);font-weight:900;font-stretch:85%;line-height:.9;font-size:clamp(56px,8vw,88px);font-variant-numeric:tabular-nums;letter-spacing:-.02em}
+.price small{font-size:.38em;font-weight:700;vertical-align:.95em;margin-right:4px;letter-spacing:0}
+.price-card .terms{color:var(--on-deep-muted);font-size:14px}
+.price-card .bonus{border:1px dashed color-mix(in srgb,var(--accent) 60%,transparent);border-radius:6px;padding:14px 16px;font-size:15px;color:var(--on-deep-muted);line-height:1.5}
+.price-card .bonus b{display:block;color:var(--accent);font-family:var(--f-display);font-weight:800;font-stretch:92%;font-size:17px;margin-bottom:4px}
+.price-card .btn{width:100%}
+.price-card .seal{display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--on-deep-muted);font-family:var(--f-mono)}
+.anchor{display:grid;gap:18px}
+.anchor table{width:100%;border-collapse:collapse;font-size:15.5px}
+.anchor td{padding:12px 0;border-bottom:1px solid var(--line);vertical-align:top}
+.anchor td:last-child{text-align:right;font-family:var(--f-mono);font-size:14px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.anchor tr.total td{border-bottom:0;font-weight:700}
+.anchor tr.total td:last-child{color:var(--accent-text);font-size:16px}
+.checkout-note{display:none;font-size:14px;color:var(--on-deep);background:color-mix(in srgb,var(--accent) 20%,transparent);border-radius:4px;padding:12px 14px}
+.checkout-note.show{display:block}
+
+/* FAQ */
+.faq{display:grid;gap:0;border-top:1px solid var(--line);max-width:860px}
+details{border-bottom:1px solid var(--line)}
+summary{cursor:pointer;list-style:none;padding:20px 40px 20px 0;font-family:var(--f-display);font-weight:750;font-size:19px;position:relative}
+summary::-webkit-details-marker{display:none}
+summary::after{content:"+";position:absolute;right:4px;top:16px;font-family:var(--f-mono);font-size:24px;color:var(--accent-text);transition:transform .2s}
+details[open] summary::after{transform:rotate(45deg)}
+details p{padding:0 0 22px;color:var(--muted);max-width:68ch}
+
+/* CTA final */
+.final{background:var(--deep);color:var(--on-deep);text-align:left}
+.final .wrap{display:grid;gap:26px;justify-items:start}
+.final h2{font-size:clamp(34px,5.4vw,64px);text-transform:uppercase;font-stretch:80%;font-weight:900;max-width:16ch}
+.final h2 em{font-style:normal;color:var(--accent)}
+.final p{color:var(--on-deep-muted);max-width:56ch}
+footer{background:var(--deep);color:var(--on-deep-muted);border-top:1px solid var(--deep-line);font-size:13.5px}
+footer .wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px;padding-block:26px}
+
+/* Responsivo */
+@media (max-width:900px){
+  .hero .wrap,.pain-grid,.stack-grid,.mentor,.offer-grid{grid-template-columns:1fr;gap:36px}
+  .hero-copy{padding-bottom:0}
+  .stairs{max-width:520px}
+  .step:nth-child(1){height:110px}.step:nth-child(2){height:170px}.step:nth-child(3){height:230px}
+  .meetings{grid-template-columns:1fr 1fr}
+  .meeting{border-right:1px solid var(--line)!important;border-bottom:1px solid var(--line)!important}
+  .meeting:nth-child(2n){border-right:0!important}
+  .meeting:nth-child(n+5){border-bottom:0!important}
+  .letters{grid-template-columns:1fr 1fr}
+  .letter:nth-child(3){padding-left:0;border-left:0}
+  .letter:nth-child(n+3){border-top:1px solid var(--deep-line)}
+}
+@media (max-width:560px){
+  body{font-size:15.5px;line-height:1.55}
+  section{padding-block:48px}
+  .sec-head{margin-bottom:28px;gap:10px}
+  h2{font-size:26px;line-height:1.1}
+  h3{font-size:18px}
+  .lead{font-size:16px}
+  .eyebrow{font-size:11px;letter-spacing:.12em}
+  .top .wrap{height:56px}
+  .brand span{display:none}
+  .brand b{font-size:20px}
+  .nav .btn{width:auto;padding:9px 14px;font-size:12.5px}
+  .hero{padding-block:36px 0}
+  .hero .wrap{gap:28px}
+  .hero-copy{gap:18px}
+  .hero h1{font-size:40px}
+  .facts{font-size:11.5px;gap:6px 16px}
+  .stairs{gap:4px}
+  .step:nth-child(1){height:70px}.step:nth-child(2){height:105px}.step:nth-child(3){height:140px}
+  .step b{font-size:14px}
+  .step .n{font-size:9.5px}
+  .question{font-size:25px}
+  .symptoms li{padding:12px 0;grid-template-columns:22px 1fr;gap:8px}
+  .callout{padding:16px 18px;font-size:15.5px}
+  .callout strong{font-size:19px}
+  .meeting{padding:20px 18px 22px;gap:8px}
+  .meeting p{font-size:14.5px}
+  .cadence{font-size:12px;gap:8px 20px}
+  .stack li{padding:12px 0}
+  .stack li small{font-size:13.5px}
+  .tool{padding:14px}
+  .letter{padding:20px 0 14px}
+  .letter .L{font-size:44px}
+  .letter h3{font-size:17px}
+  .letter p{font-size:14.5px}
+  .mentor-card{padding:22px}
+  .mono-badge{width:64px;height:64px;font-size:22px}
+  .story{font-size:16px;gap:14px}
+  .story blockquote{font-size:20px}
+  .price{font-size:60px}
+  .anchor table{font-size:14.5px}
+  summary{font-size:16.5px;padding:16px 36px 16px 0}
+  summary::after{top:12px}
+  .final h2{font-size:32px}
+  .btn{padding:16px 20px;font-size:15.5px}
+  .mid-cta{padding:20px}
+  .mid-cta p{font-size:15px}
+  .meetings{grid-template-columns:1fr}
+  .meeting{border-right:0!important;border-bottom:1px solid var(--line)!important}
+  .meeting:last-child{border-bottom:0!important}
+  .letters{grid-template-columns:1fr}
+  .letter,.letter + .letter{padding-left:0;border-left:0;border-top:1px solid var(--deep-line)}
+  .letter:first-child{border-top:0}
+  .btn{width:100%}
+  .hero-cta .btn-ghost{width:100%}
+  .step{padding:12px 10px}
+  .step i{display:none}
+}
+
+/* ===== Destaques estratégicos ===== */
+.hl{background:linear-gradient(transparent 58%, color-mix(in srgb,var(--accent) 38%,transparent) 58%);color:inherit;font-weight:650;padding:0 2px}
+.hero .hl,.eleve .hl,.final .hl{background:none;color:var(--accent);padding:0}
+.badge{display:inline-flex;align-items:center;gap:8px;justify-self:start;font-family:var(--f-mono);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:7px 12px;border-radius:999px;background:color-mix(in srgb,var(--accent) 18%,transparent);color:var(--accent);border:1px solid color-mix(in srgb,var(--accent) 45%,transparent)}
+.badge .dot{width:8px;height:8px;border-radius:50%;background:var(--accent);animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.75)}}
+.mid-cta{margin-top:36px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:18px;padding:26px 28px;border-radius:6px;background:var(--deep);color:var(--on-deep)}
+.mid-cta p{font-size:17px;max-width:46ch;color:var(--on-deep-muted)}
+.mid-cta p b{color:var(--on-deep)}
+.best{display:inline-block;font-family:var(--f-mono);font-size:10.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;background:var(--accent);color:#14100A;padding:3px 7px;border-radius:2px;margin-left:6px;vertical-align:2px}
+
+@media (max-width:560px){
+  .mid-cta{padding:20px;margin-top:28px}
+  .mid-cta p{font-size:15px}
+  .mid-cta .btn{width:100%}
+  .badge{font-size:10.5px;padding:6px 10px}
+}
+
+/* Barra fixa de compra no celular */
+.buybar{display:none}
+@media (max-width:820px){
+  .buybar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:55;align-items:center;justify-content:space-between;gap:12px;
+    padding:10px max(16px, env(safe-area-inset-right, 0px)) calc(10px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
+    background:color-mix(in srgb,var(--deep) 96%,transparent);backdrop-filter:blur(8px);border-top:1px solid var(--deep-line);color:var(--on-deep);
+    transform:translateY(110%);transition:transform .25s ease}
+  .buybar.show{transform:none}
+  .buybar .bp{display:grid;line-height:1.15}
+  .buybar .bp small{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+  .buybar .bp b{font-family:var(--f-display);font-weight:900;font-stretch:88%;font-size:22px;font-variant-numeric:tabular-nums}
+  .buybar .btn{width:auto;padding:12px 16px;font-size:13.5px}
+  footer{padding-bottom:76px}
+  body.is-telao .buybar{display:none}
+}
+
+/* ===== Modo telão (#telao) ===== */
+.telao{display:none}
+body.is-telao > *:not(.telao){display:none!important}
+body.is-telao{background:var(--deep)}
+body.is-telao .telao{display:grid;min-height:100vh;place-items:center;background:var(--deep);color:var(--on-deep);padding:4vh max(16px, env(safe-area-inset-right, 0px)) 4vh max(16px, env(safe-area-inset-left, 0px))}
+.slide{width:min(100%, 163vh);aspect-ratio:16/9;max-width:100%;display:grid;grid-template-columns:1.25fr .75fr;gap:5%;align-items:center;padding:4%;position:relative}
+.slide .l{display:grid;gap:2.2vh;min-width:0}
+.slide .kick{font-family:var(--f-mono);font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);font-size:clamp(11px,1.5vh,18px)}
+.slide h1{font-size:clamp(28px,7vh,92px);line-height:.92;font-weight:900;font-stretch:78%;text-transform:uppercase}
+.slide h1 em{font-style:normal;color:var(--accent)}
+.slide ul{list-style:none;margin:0;padding:0;display:grid;gap:1.2vh;font-size:clamp(13px,2.4vh,30px);color:var(--on-deep-muted)}
+.slide ul li::before{content:"▲  ";color:var(--accent);font-size:.6em;vertical-align:.2em}
+.slide ul b{color:var(--on-deep);font-weight:650}
+.slide .p{display:flex;align-items:baseline;gap:2vh;flex-wrap:wrap}
+.slide .p .v{font-family:var(--f-display);font-weight:900;font-stretch:85%;font-size:clamp(34px,9vh,120px);line-height:1;color:var(--on-deep);font-variant-numeric:tabular-nums}
+.slide .p .v small{font-size:.38em;vertical-align:.95em;margin-right:.2em}
+.slide .p span{font-size:clamp(12px,2vh,24px);color:var(--on-deep-muted)}
+.slide .r{display:grid;gap:2vh;justify-items:center;text-align:center}
+.qr-box{background:#FFFFFF;padding:2.4vh;border-radius:1.4vh;width:min(100%,46vh)}
+.qr-box div, .qr-box img, .qr-box canvas{width:100%!important;height:auto!important;display:block}
+.qrs{display:grid;grid-template-columns:1fr 1fr;gap:3vh;width:100%}
+.qr-item{display:grid;gap:1.4vh;justify-items:center;min-width:0}
+.qrs .qr-box{width:100%;max-width:36vh}
+.qrs .scan{font-size:clamp(13px,2.6vh,30px)}
+.slide{grid-template-columns:1fr 1fr}
+.qr-one{width:min(100%,52vh)}
+.slide .r .scan small{max-width:30ch;margin-inline:auto}
+/* QR code na seção de investimento */
+.qr-inline{display:grid;gap:14px;padding:18px;border:1px solid var(--line);border-radius:8px;background:var(--bg)}
+.qr-pair{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.qr-cell{display:grid;gap:4px;justify-items:center;text-align:center;min-width:0}
+.qr-cell .qr-inline-box{width:100%;max-width:170px;margin-bottom:6px}
+.qr-cell b{font-family:var(--f-display);font-weight:800;font-size:16px;text-transform:uppercase}
+.qr-cell span{font-size:13.5px;color:var(--muted)}
+.qr-band{padding-block:clamp(40px,6vw,64px);background:var(--accent-soft);border-bottom:1px solid var(--line)}
+.qr-band-in{display:grid;grid-template-columns:220px 1fr;gap:40px;align-items:center}
+.qr-band-box{background:#FFFFFF;padding:14px;border-radius:10px;border:1px solid var(--line);box-shadow:0 12px 30px -18px rgba(0,0,0,.35)}
+.qr-band-box div,.qr-band-box img,.qr-band-box canvas{width:100%!important;height:auto!important;display:block}
+.qr-band-copy{display:grid;gap:12px;min-width:0}
+.qr-band-copy .lead b{color:var(--ink)}
+.qr-band-alt{font-size:15.5px}
+.qr-band-alt a{color:var(--accent-text);font-weight:700}
+@media (max-width:560px){.qr-band-in{grid-template-columns:1fr;gap:20px;justify-items:center;text-align:center}.qr-band-box{width:200px}}
+.qr-inline-box{background:#FFFFFF;padding:10px;border-radius:6px;border:1px solid var(--line)}
+.qr-inline-box div, .qr-inline-box img, .qr-inline-box canvas{width:100%!important;height:auto!important;display:block}
+.qr-inline-t{font-size:15px;color:var(--muted);margin-top:6px}
+@media (max-width:560px){.qr-inline{padding:14px}.qr-pair{gap:12px}}
+/* Tela #pagar */
+.pagar{display:none}
+body.is-pagar > *:not(.pagar){display:none!important}
+body.is-pagar{background:var(--deep)}
+body.is-pagar .pagar{display:grid;min-height:100vh;place-items:center;background:var(--deep);color:var(--on-deep);padding:32px var(--gutter-r) 40px var(--gutter-l)}
+.pg{width:100%;max-width:460px;display:grid;gap:16px}
+.pg .eyebrow{color:var(--accent)}
+.pg h1{font-size:clamp(36px,9vw,52px);line-height:.95;font-weight:900;font-stretch:80%;text-transform:uppercase}
+.pg h1 em{font-style:normal;color:var(--accent)}
+.pg-sub{color:var(--on-deep-muted);font-size:15.5px}
+.pg-sub b{color:var(--on-deep)}
+.pg-opt{display:grid;gap:6px;text-decoration:none;color:var(--on-deep);padding:20px;border-radius:8px;border:1px solid var(--deep-line);background:color-mix(in srgb,var(--on-deep) 5%,transparent);transition:border-color .15s, transform .15s}
+.pg-opt:hover{border-color:var(--accent);transform:translateY(-2px)}
+.pg-opt:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.pg-opt b{font-family:var(--f-display);font-weight:900;font-stretch:85%;font-size:44px;line-height:1;font-variant-numeric:tabular-nums}
+.pg-opt b small{font-size:.45em;vertical-align:.8em;margin-right:4px}
+.pg-opt i{font-style:normal;font-size:14px;color:var(--on-deep-muted)}
+.pg-opt .go{margin-top:8px;display:flex;justify-content:center;font-family:var(--f-display);font-weight:800;text-transform:uppercase;letter-spacing:.02em;font-size:16px;background:var(--accent);color:#14100A;padding:14px;border-radius:4px}
+.pg-more{justify-self:center;color:var(--on-deep-muted);font-size:14px;margin-top:4px}
+/* Opções de pagamento no cartão de preço */
+.opts{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.opt{display:grid;gap:10px;align-content:start;padding:18px 16px;border:1px solid var(--deep-line);border-radius:6px;background:color-mix(in srgb,var(--on-deep) 4%,transparent);min-width:0}
+.opt-k{font-family:var(--f-mono);font-size:11.5px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--accent)}
+.opt .price{font-size:clamp(40px,4.4vw,56px)}
+.opt p{font-size:13.5px;color:var(--on-deep-muted);line-height:1.45}
+.price-card .opt .btn{padding:14px 12px;font-size:14.5px;align-self:end}
+@media (max-width:560px){.opts{grid-template-columns:1fr}.opt .price{font-size:48px}}
+.slide .scan{font-family:var(--f-display);font-weight:850;font-stretch:95%;text-transform:uppercase;letter-spacing:.04em;font-size:clamp(14px,3vh,36px)}
+.slide .scan small{display:block;font-family:var(--f-body);font-weight:500;text-transform:none;letter-spacing:0;color:var(--on-deep-muted);font-size:.55em;margin-top:.6vh}
+.slide .sig{position:absolute;left:4%;bottom:3%;font-family:var(--f-mono);font-size:clamp(10px,1.5vh,18px);color:var(--on-deep-muted);letter-spacing:.08em}
+.slide .exit{position:absolute;right:2%;top:2%;font-family:var(--f-mono);font-size:12px;color:var(--on-deep-muted);text-decoration:none;opacity:.35}
+.slide .exit:hover{opacity:1}
+@media (max-aspect-ratio: 1/1){
+  .slide{aspect-ratio:auto;grid-template-columns:1fr;gap:28px}
+  .slide .sig,.slide .exit{position:static}
+}
+</style>
+
+<!-- =========================================================
+     CONFIGURAÇÃO — troque aqui o link de pagamento (Hotmart,
+     Mercado Pago, Asaas, Kiwify…) e o endereço público da página.
+     ========================================================= -->
+<script>
+  window.ELEV_CONFIG = {
+    checkoutUrl: "https://www.asaas.com/c/g9k4rwhoc6zltf84",   // cartão: até 6x R$ 297 sem juros (R$ 1.782) — usado no QR code
+    pixUrl: "https://www.asaas.com/c/t2jqnop7i3d19clq",        // Pix à vista R$ 1.782
+    pageUrl: "https://claude.ai/artifact/Eu1EytZo8cAVFkwChQn3he"        // link público desta página
+  };
+</script>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#inicio" aria-label="Escola Elev, início"><b>ELEV</b><span>Escola Elev</span></a>
+    <nav class="nav" aria-label="Seções">
+      <a href="#jornada">A jornada</a>
+      <a href="#entregas">O que você recebe</a>
+      <a href="#investimento">Investimento</a>
+      <a class="btn" href="#investimento">Quero minha vaga</a>
+    </nav>
+  </div>
+</header>
+
+<main id="inicio">
+  <!-- HERO -->
+  <section class="hero" aria-labelledby="h-hero">
+    <div class="wrap">
+      <div class="hero-copy">
+        <span class="badge"><span class="dot" aria-hidden="true"></span>Turma 2027</span>
+        <p class="eyebrow" style="color:var(--accent)">Escola Elev · Mentoria em grupo · 12 semanas</p>
+        <h1 id="h-hero">Do operador<br>ao <em>líder</em>.</h1>
+        <p class="lead">Em 12 encontros semanais ao vivo com <strong>Gustavo Nardi</strong>, você sai do operacional, organiza o financeiro, estrutura a equipe e constrói uma empresa que <mark class="hl">funciona sem depender de você para cada decisão</mark>.</p>
+        <div class="hero-cta">
+          <a class="btn" href="#investimento">Garantir minha vaga <span class="arr" aria-hidden="true">→</span></a>
+          <a class="btn btn-ghost" href="#jornada">Ver a jornada</a>
+        </div>
+        <div class="facts">
+          <span>12 encontros de 1h</span><span>Toda semana</span><span>Online e ao vivo</span><span>Início: sexta, 19/02/2027, às 7h</span>
+        </div>
+      </div>
+      <div class="stairs" aria-label="Os três degraus do dono">
+        <div class="step"><span class="n">DEGRAU 1</span><b>Operador</b><i>“Eu sou a máquina.” O resultado depende da sua força.</i></div>
+        <div class="step"><span class="n">DEGRAU 2</span><b>Dono</b><i>“Eu tenho a máquina.” O resultado depende de processo.</i></div>
+        <div class="step"><span class="n">DEGRAU 3</span><b>Líder</b><i>“Eu formo quem conduz.” O resultado depende de pessoas.</i></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- QR CODE DE PAGAMENTO -->
+  <section class="qr-band" aria-labelledby="h-qr">
+    <div class="wrap qr-band-in">
+      <div class="qr-band-box"><div id="qr-band" role="img" aria-label="QR code do pagamento no cartão"></div></div>
+      <div class="qr-band-copy">
+        <p class="eyebrow">Garanta sua vaga agora</p>
+        <h2 id="h-qr">Aponte a câmera e pague.</h2>
+        <p class="lead">Cartão de crédito em até <b>6x de R$ 297 sem juros</b>. Bônus Gestão que Move: 50% de desconto.</p>
+        <p class="qr-band-alt">Prefere Pix? <a class="js-pix" href="#investimento">Pague R$ 1.782 à vista no Pix →</a></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- JORNADA -->
+  <section class="journey" id="jornada" aria-labelledby="h-jornada">
+    <div class="wrap">
+      <div class="sec-head">
+        <p class="eyebrow">A jornada · 12 semanas</p>
+        <h2 id="h-jornada">Doze encontros. Uma empresa diferente.</h2>
+        <p class="lead">Seis pilares, dois encontros semanais para cada um. Todo encontro termina com um plano de aplicação de 7 dias. Você não sai com anotações, sai com a empresa mudando.</p>
+      </div>
+      <div class="meetings">
+        <article class="meeting">
+          <span class="num">ENCONTROS 01 E 02</span><span class="pill">Clareza</span>
+          <h3>Consciência x Realidade</h3>
+          <p>Raio-X das 7 áreas, os 5 níveis de maturidade e o gargalo dominante da sua empresa.</p>
+          <p class="out"><b>Você sai com</b>Seu nível real, seu gargalo e 3 ações prioritárias.</p>
+        </article>
+        <article class="meeting">
+          <span class="num">ENCONTROS 03 E 04</span><span class="pill">Liderança</span>
+          <h3>O empresário que a empresa precisa</h3>
+          <p>Mentalidade, autoliderança e o ciclo que prende o dono no operacional.</p>
+          <p class="out"><b>Você sai com</b>O comportamento que, se mudar, muda a empresa.</p>
+        </article>
+        <article class="meeting">
+          <span class="num">ENCONTROS 05 E 06</span><span class="pill">Financeiro</span>
+          <h3>Finanças inteligentes e lucro real</h3>
+          <p>Margem, caixa, custo fixo, ponto de equilíbrio e os vazamentos silenciosos.</p>
+          <p class="out"><b>Você sai com</b>Os números da empresa na mão e os vazamentos fechados.</p>
+        </article>
+        <article class="meeting">
+          <span class="num">ENCONTROS 07 E 08</span><span class="pill">Cultura</span>
+          <h3>Pessoas alinhadas</h3>
+          <p>Valores com comportamento, o que se tolera e o que não se tolera, contratação por cultura.</p>
+          <p class="out"><b>Você sai com</b>A cultura da empresa escrita e aplicável.</p>
+        </article>
+        <article class="meeting">
+          <span class="num">ENCONTROS 09 E 10</span><span class="pill">Organização</span>
+          <h3>Gestão que cresce sem caos</h3>
+          <p>Funções claras, processos, delegação em 4 passos e rotina de acompanhamento.</p>
+          <p class="out"><b>Você sai com</b>Quem faz o quê, até quando e como se confere.</p>
+        </article>
+        <article class="meeting">
+          <span class="num">ENCONTROS 11 E 12</span><span class="pill">Direção</span>
+          <h3>Plano estratégico e próximo nível</h3>
+          <p>Visão, metas e indicadores para transformar desejo em direção.</p>
+          <p class="out"><b>Você sai com</b>O plano dos próximos 12 meses da empresa.</p>
+        </article>
+      </div>
+      <div class="cadence">
+        <span><b>1h</b> por encontro, ao vivo</span>
+        <span><b>1 encontro</b> por semana</span>
+        <span><b>7 dias</b> de aplicação entre encontros</span>
+        <span><b>Início:</b> sexta, 19/02/2027, às 7h</span>
+      </div>
+      <div class="mid-cta" style="justify-content:center">
+        <a class="btn" href="#investimento">Reservar minha vaga <span class="arr" aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ENTREGÁVEIS -->
+  <section id="entregas" aria-labelledby="h-entregas">
+    <div class="wrap">
+      <div class="sec-head">
+        <p class="eyebrow">O que você recebe</p>
+        <h2 id="h-entregas">Você não compra aulas. Compra <mark class="hl">estrutura instalada</mark>.</h2>
+      </div>
+      <div style="max-width:760px">
+        <ul class="stack">
+          <li><span>Diagnóstico de maturidade empresarial<small>Aplicado no início para medir onde a empresa está de verdade.</small></span><em>início</em></li>
+          <li><span>Reunião de alinhamento com a sua equipe<small>30 a 60 minutos para que quem executa ouça o mesmo que você.</small></span><em>início</em></li>
+          <li><span>12 encontros ao vivo com Gustavo Nardi<span class="best">principal</span><small>1 hora cada, toda semana, em grupo.</small></span><em>12 semanas</em></li>
+          <li><span>Caderno do Aluno<small>Exercícios para registrar a verdade da sua empresa em cada pilar.</small></span><em>×6</em></li>
+          <li><span>Plano de aplicação semanal<small>O que fazer em cada dia útil até o próximo encontro.</small></span><em>×12</em></li>
+          <li><span>Acompanhamento da equipe Elev<small>Conferência das entregas e suporte entre os encontros.</small></span><em>semanal</em></li>
+          <li><span>Novo diagnóstico ao final<small>Para você ver, em números, o quanto a empresa subiu.</small></span><em>final</em></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ELEVE -->
+  <section class="eleve" aria-labelledby="h-eleve">
+    <div class="wrap">
+      <div class="sec-head">
+        <p class="eyebrow">Por que Elev</p>
+        <h2 id="h-eleve">Uma escola que não separa vida de negócio.</h2>
+        <p class="lead">Processos organizam, pessoas multiplicam, mas princípios sustentam tudo. O nome é a filosofia.</p>
+      </div>
+      <div class="letters">
+        <div class="letter"><span class="L">E</span><h3>Espiritualidade</h3><p>O fundamento de quem você é. Tudo que você constrói começa no que você acredita.</p></div>
+        <div class="letter"><span class="L">L</span><h3>Liderança</h3><p>Como você influencia pessoas. Sua empresa é o reflexo direto da sua liderança.</p></div>
+        <div class="letter"><span class="L">E</span><h3>Estratégia</h3><p>Como você pensa e decide. Sem estratégia, trabalha-se muito e avança-se pouco.</p></div>
+        <div class="letter"><span class="L">V</span><h3>Vendas</h3><p>Como você gera resultado. Sem resultado financeiro, propósito não sustenta empresa.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- INVESTIMENTO -->
+  <section class="offer" id="investimento" aria-labelledby="h-invest">
+    <div class="wrap offer-grid">
+      <div class="anchor">
+        <p class="eyebrow">Investimento</p>
+        <h2 id="h-invest">Quanto custaria montar isso sozinho?</h2>
+        <p class="lead">Um consultor de gestão cobra, em média, de R$ 300 a R$ 500 por hora. Só o acompanhamento de 12 semanas já passaria de R$ 15 mil.</p>
+        <div style="overflow-x:auto">
+          <table>
+            <tr><td>Hora de um consultor de gestão</td><td>R$ 300 a 500</td></tr>
+            <tr><td>12 semanas de acompanhamento com consultoria</td><td>R$ 15.000+</td></tr>
+            <tr><td>Escola Elev, valor integral</td><td>R$ 3.564,00</td></tr>
+            <tr class="total"><td>Com o bônus Gestão que Move (50%)</td><td>R$ 1.782,00</td></tr>
+            <tr><td>No cartão, sem juros</td><td>6x R$ 297,00</td></tr>
+            <tr><td>Ou no Pix à vista</td><td>R$ 1.782,00</td></tr>
+          </table>
+        </div>
+        <div class="qr-inline">
+          <p class="opt-k" style="color:var(--accent-text)">Pague pelo celular · aponte a câmera</p>
+          <div class="qr-cell"><div class="qr-inline-box"><div id="qr-page-card" role="img" aria-label="QR code do pagamento da Escola Elev"></div></div><b>Cartão de crédito</b><span>em até 6x de R$ 297 sem juros</span></div>
+        </div>
+      </div>
+      <div class="price-card">
+        <span class="badge"><span class="dot" aria-hidden="true"></span>Bônus exclusivo · Gestão que Move</span>
+        <p class="eyebrow">Escola Elev · Turma 2027</p>
+        <div class="bonus">
+          <b>50% de desconto para quem esteve no Gestão que Move</b>
+          Escolha como pagar:
+        </div>
+        <div class="opts">
+          <div class="opt">
+            <span class="opt-k">Cartão de crédito</span>
+            <div class="price"><small>6x</small>297</div>
+            <p>6x de R$ 297,00 sem juros no cartão de crédito. Total de R$ 1.782,00.</p>
+            <a class="btn js-checkout" href="#investimento" id="buy-main">Pagar no cartão <span class="arr" aria-hidden="true">→</span></a>
+          </div>
+          <div class="opt">
+            <span class="opt-k">Pix à vista</span>
+            <div class="price"><small>R$</small>1.782</div>
+            <p>Pagamento único no Pix. Vaga confirmada na hora.</p>
+            <a class="btn js-pix" href="#investimento">Pagar no Pix <span class="arr" aria-hidden="true">→</span></a>
+          </div>
+        </div>
+        <p class="terms">Valor integral: R$ 3.564,00. Com o bônus Gestão que Move você paga R$ 1.782,00, no Pix ou em 6x sem juros no cartão. Pagamento seguro pelo Asaas.</p>
+        <p class="checkout-note" id="checkout-note" role="status">As inscrições abrem em instantes. Fale com a equipe Elev no evento para reservar sua vaga.</p>
+        <div class="seal"><span>✓ 12 encontros ao vivo</span><span>✓ Material completo</span><span>✓ Acompanhamento</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section aria-labelledby="h-faq">
+    <div class="wrap">
+      <div class="sec-head">
+        <p class="eyebrow">Dúvidas</p>
+        <h2 id="h-faq">Antes de garantir sua vaga</h2>
+      </div>
+      <div class="faq">
+        <details><summary>Para quem é a Escola Elev?</summary><p>Para líderes, donos e sócios de empresas com mais de 2 anos que já faturam, mas sentem que o crescimento travou: o negócio depende demais deles, o lucro não acompanha o faturamento e a equipe não anda sozinha.</p></details>
+        <details><summary>Como funcionam os encontros?</summary><p>São 12 encontros online e ao vivo, de 1 hora cada, uma vez por semana. O primeiro é na sexta-feira, 19/02/2027, às 7h. Entre um encontro e outro você executa um plano de aplicação de 7 dias.</p></details>
+        <details><summary>Como funciona o bônus Gestão que Move?</summary><p>O valor integral da Escola Elev é R$ 3.564,00. Para quem participou do Gestão que Move, o bônus é de 50% de desconto: você paga R$ 1.782,00, em 6x de R$ 297,00 sem juros no cartão de crédito ou à vista no Pix.</p></details>
+        <details><summary>Posso levar meu sócio ou gerente?</summary><p>Sim, e é recomendado. Quem decide e quem executa precisam ouvir a mesma coisa. Fale com a equipe Elev sobre a inscrição de mais de uma pessoa da mesma empresa.</p></details>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA FINAL -->
+  <section class="final" aria-labelledby="h-final">
+    <div class="wrap">
+      <p class="eyebrow" style="color:var(--accent)">Turma 2027 · início 19/02/2027, às 7h</p>
+      <h2 id="h-final">Você não está aqui para liderar máquinas. Está aqui para liderar <em>pessoas</em>.</h2>
+      <p>Subir de degrau leva tempo, método e gente do lado. A Escola Elev é esse caminho.</p>
+      <a class="btn" href="#investimento">Quero entrar na Escola Elev <span class="arr" aria-hidden="true">→</span></a>
+    </div>
+  </section>
+</main>
+
+<div class="buybar" id="buybar" aria-label="Inscrição rápida">
+  <div class="bp"><small>Cartão ou Pix</small><b>6x R$ 297</b></div>
+  <a class="btn" href="#investimento" style="white-space:nowrap">Garantir vaga →</a>
+</div>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Grupo Elev · Escola Elev · Gustavo Nardi</span>
+    <span>Espiritualidade · Liderança · Estratégia · Vendas</span>
+  </div>
+</footer>
+
+<!-- MODO TELÃO: abra a página com #telao no fim do link -->
+<div class="telao" aria-label="Slide da Escola Elev para o telão">
+  <div class="slide">
+    <div class="l">
+      <p class="kick">Escola Elev · Turma 2027</p>
+      <h1>Do operador<br>ao <em>líder</em>.</h1>
+      <ul>
+        <li><b>12 encontros semanais de 1h</b> com Gustavo Nardi</li>
+        <li>Clareza · Liderança · Financeiro · Cultura · Organização · Direção</li>
+        <li>Início: <b>sexta, 19/02/2027, às 7h</b></li>
+      </ul>
+      <div class="p"><span class="v"><small>6x</small>297</span><span>sem juros no cartão<br>ou <b style="color:var(--on-deep)">R$ 1.782 no Pix à vista</b><br>Bônus Gestão que Move: 50% off</span></div>
+    </div>
+    <div class="r">
+      <div class="qr-box qr-one"><div id="qr" role="img" aria-label="QR code do pagamento da Escola Elev"></div></div>
+      <p class="scan">Aponte a câmera e pague no cartão<small>Em até 6x de R$ 297 sem juros · Pix à vista R$ 1.782 pelo site</small></p>
+    </div>
+    <p class="sig">QUANDO O CPF EVOLUI, O CNPJ ENCONTRA UM NOVO NÍVEL.</p>
+    <a class="exit" href="#inicio">sair do modo telão</a>
+  </div>
+</div>
+
+<!-- TELA DE PAGAMENTO (#pagar): destino do QR code do telão -->
+<div class="pagar" aria-label="Escolha como pagar">
+  <div class="pg">
+    <p class="eyebrow">Escola Elev · Turma 2027</p>
+    <h1>Escolha como <em>pagar</em>.</h1>
+    <p class="pg-sub">Bônus Gestão que Move: 50% de desconto. De <s>R$ 3.564</s> por <b>R$ 1.782</b>.</p>
+    <a class="pg-opt js-checkout" href="#investimento"><span class="opt-k">Cartão de crédito</span><b><small>6x</small>R$ 297</b><i>sem juros · total R$ 1.782</i><span class="go">Pagar no cartão →</span></a>
+    <a class="pg-opt js-pix" href="#investimento"><span class="opt-k">Pix à vista</span><b>R$ 1.782</b><i>pagamento único · vaga confirmada na hora</i><span class="go">Pagar no Pix →</span></a>
+    <a class="pg-more" href="#inicio">Conhecer a Escola Elev antes</a>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+<script>
+(function(){
+  var cfg = window.ELEV_CONFIG || {};
+
+  // Botões de compra
+  var note = document.getElementById('checkout-note');
+  if (cfg.pixUrl) document.querySelectorAll('.js-pix').forEach(function(a){
+    a.href = cfg.pixUrl; a.target = '_blank'; a.rel = 'noopener';
+  });
+  document.querySelectorAll('.js-checkout').forEach(function(a){
+    if (cfg.checkoutUrl){
+      a.href = cfg.checkoutUrl; a.target = '_blank'; a.rel = 'noopener';
+    } else {
+      a.addEventListener('click', function(){
+        if (note){ setTimeout(function(){ note.classList.add('show'); }, 350); }
+      });
+    }
+  });
+
+  // Modo telão
+  var qrDone = false;
+  function drawQR(){
+    if (qrDone) return;
+    if (!window.QRCode) return;
+    [['qr', cfg.checkoutUrl]].forEach(function(p){
+      var el = document.getElementById(p[0]);
+      if (el && p[1]) new QRCode(el, {text:p[1], width:640, height:640, colorDark:'#0E1A24', colorLight:'#FFFFFF', correctLevel:QRCode.CorrectLevel.M});
+    });
+    qrDone = true;
+  }
+  function route(){
+    var on = location.hash === '#telao';
+    var pay = location.hash === '#pagar';
+    document.body.classList.toggle('is-telao', on);
+    document.body.classList.toggle('is-pagar', pay);
+    if (on) drawQR();
+    if (pay || location.hash === '#inicio') window.scrollTo(0,0);
+  }
+  window.addEventListener('hashchange', route);
+  route();
+
+  // QR code na seção de investimento
+  if (window.QRCode) [['qr-page-card', cfg.checkoutUrl], ['qr-band', cfg.checkoutUrl]].forEach(function(p){
+    var el = document.getElementById(p[0]);
+    if (el && p[1]) new QRCode(el, {text:p[1], width:400, height:400, colorDark:'#0E1A24', colorLight:'#FFFFFF', correctLevel:QRCode.CorrectLevel.M});
+  });
+
+  // Barra de compra no celular: aparece depois do topo, some na seção de preço
+  var bar = document.getElementById('buybar');
+  var hero = document.querySelector('.hero');
+  var offer = document.getElementById('investimento');
+  function updBar(){
+    if (!bar || !hero || !offer) return;
+    var pastHero = hero.getBoundingClientRect().bottom < 0;
+    var r = offer.getBoundingClientRect();
+    var inOffer = r.top < window.innerHeight * 0.6 && r.bottom > 0;
+    bar.classList.toggle('show', pastHero && !inOffer);
+  }
+  window.addEventListener('scroll', updBar, {passive:true});
+  window.addEventListener('resize', updBar);
+  updBar();
+})();
+</script>
+
+</body>
+</html>
