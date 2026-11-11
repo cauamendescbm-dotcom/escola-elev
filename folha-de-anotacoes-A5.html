@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Folha de anotações</title>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Public+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  @page { size: 148mm 210mm; margin: 0; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Public Sans', Arial, sans-serif; color: #15181D; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .page { width: 148mm; height: 210mm; background: #F9F7F2; position: relative; overflow: hidden; page-break-after: always; display: flex; flex-direction: column; }
+  .page:last-child { page-break-after: auto; }
+  .head { background: #15181D; color: #F3EFE7; padding: 7mm 7mm 6mm; position: relative; }
+  .eyebrow { font-size: 7.5pt; font-weight: 600; letter-spacing: 2.2pt; text-transform: uppercase; color: #E8A33D; }
+  .head h1 { font-family: 'Oswald', Arial, sans-serif; font-size: 24pt; font-weight: 700; line-height: 1; text-transform: uppercase; margin-top: 2mm; }
+  .head p { font-size: 8.5pt; color: #A9B0B9; margin-top: 1.5mm; }
+  .bars { position: absolute; right: 7mm; bottom: 6mm; display: flex; align-items: flex-end; gap: 0; }
+  .bars div { width: 4mm; }
+  .body { padding: 5mm 7mm 0; flex: 1; display: flex; flex-direction: column; gap: 4.5mm; }
+  .sec-title { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 1.4pt solid #15181D; padding-bottom: 1.2mm; margin-bottom: 1.5mm; }
+  .sec-title h2 { font-family: 'Oswald', Arial, sans-serif; font-size: 11.5pt; font-weight: 600; letter-spacing: .6pt; text-transform: uppercase; }
+  .sec-title h2 span { color: #96550F; margin-right: 1.5mm; }
+  .sec-title small { font-size: 7.5pt; color: #4A4F57; }
+  .line { border-bottom: .6pt solid #9A958B; height: 6.5mm; }
+  table { width: 100%; border-collapse: collapse; }
+  .pr td { border-bottom: .6pt solid #DDD6C8; padding: 1.6mm 0; vertical-align: middle; }
+  .pr .n { font-family: 'Oswald', Arial, sans-serif; font-size: 13pt; font-weight: 700; color: #96550F; width: 7mm; }
+  .pr .nm { font-family: 'Oswald', Arial, sans-serif; font-size: 10.5pt; font-weight: 600; text-transform: uppercase; width: 34mm; line-height: 1.1; }
+  .pr .ds { font-size: 8pt; color: #4A4F57; line-height: 1.3; }
+  .pr .nt { width: 15mm; text-align: right; }
+  .box { display: inline-block; width: 11mm; height: 6.5mm; border: .8pt solid #15181D; background: #fff; }
+  .pr th { font-size: 6.5pt; font-weight: 600; letter-spacing: 1pt; text-transform: uppercase; color: #4A4F57; text-align: right; padding-bottom: .5mm; }
+  .fruto { background: #15181D; color: #F3EFE7; padding: 2.4mm 3mm; display: flex; justify-content: space-between; align-items: center; margin-top: 2mm; }
+  .fruto b { font-family: 'Oswald', Arial, sans-serif; font-size: 11pt; font-weight: 700; text-transform: uppercase; color: #E8A33D; letter-spacing: .5pt; }
+  .fruto span { font-size: 8pt; }
+  .src { font-size: 6.8pt; color: #6A6F77; padding: 0 7mm 5mm; margin-top: auto; }
+  .eq th { font-size: 6.5pt; font-weight: 600; letter-spacing: .8pt; text-transform: uppercase; color: #4A4F57; text-align: left; padding: 0 1.5mm 1mm 0; }
+  .eq td { border-bottom: .6pt solid #9A958B; height: 14mm; }
+  .eq td + td + td { border-left: .6pt solid #DDD6C8; }
+  .back .line { height: 10mm; }
+  .back { gap: 7mm !important; }
+  .eq td.i { width: 5mm; font-family: 'Oswald', Arial, sans-serif; font-weight: 700; color: #96550F; font-size: 11pt; border-bottom-color: transparent; }
+  .row2 { display: flex; gap: 5mm; }
+  .row2 > div { flex: 1; display: flex; align-items: flex-end; gap: 1.5mm; font-size: 8.5pt; }
+  .row2 .l { flex: 1; border-bottom: .6pt solid #9A958B; height: 6mm; }
+  .tip { font-size: 7.5pt; color: #4A4F57; font-style: italic; margin-bottom: 1mm; }
+  .band { background: #F4E3C3; border-top: 1.4pt solid #E8A33D; padding: 5mm 7mm; display: flex; gap: 5mm; align-items: center; margin-top: auto; }
+  .qr { width: 26mm; height: 26mm; border: 1pt dashed #96550F; background: #F9F7F2; display: flex; align-items: center; justify-content: center; font-size: 7.5pt; color: #96550F; flex: none; }
+  .band h3 { font-family: 'Oswald', Arial, sans-serif; font-size: 13pt; font-weight: 700; text-transform: uppercase; line-height: 1.05; }
+  .band p { font-size: 8pt; line-height: 1.4; margin-top: 1.2mm; }
+  .band .q { font-style: italic; color: #4A4F57; }
+  .band .sig { font-weight: 700; }
+</style>
+</head>
+<body>
+
+<div class="page">
+  <div class="head">
+    <div class="eyebrow">Gestão que Move · 14.11.2026</div>
+    <h1>Do Operador<br>ao Líder</h1>
+    <p>Folha de anotações · preencha durante a palestra</p>
+    <div class="bars"><div style="height:5mm;background:#3A414B"></div><div style="height:8mm;background:#7A5A26"></div><div style="height:11mm;background:#E8A33D"></div></div>
+  </div>
+  <div class="body">
+    <div>
+      <div class="sec-title"><h2><span>1</span>A frase de hoje</h2><small>Anote quando aparecer</small></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+    <div>
+      <div class="sec-title"><h2><span>2</span>7 princípios de quem lidera pessoas</h2></div>
+      <p class="tip">Dê uma nota de 0 a 10 para você em cada um.</p>
+      <table class="pr">
+        <tr><th></th><th></th><th></th><th>Minha nota</th></tr>
+        <tr><td class="n">1</td><td class="nm">Inteligência</td><td class="ds">Ter a informação.</td><td class="nt"><span class="box"></span></td></tr>
+        <tr><td class="n">2</td><td class="nm">Sabedoria</td><td class="ds">Saber o que fazer com ela, e com as pessoas.</td><td class="nt"><span class="box"></span></td></tr>
+        <tr><td class="n">3</td><td class="nm">Relacionamentos</td><td class="ds">Conhecer quem trabalha com você. Pessoa não é número.</td><td class="nt"><span class="box"></span></td></tr>
+        <tr><td class="n">4</td><td class="nm">Servir</td><td class="ds">Facilitar a vida de quem você lidera.</td><td class="nt"><span class="box"></span></td></tr>
+        <tr><td class="n">5</td><td class="nm">Honra</td><td class="ds">Elogiar em público, corrigir em particular.</td><td class="nt"><span class="box"></span></td></tr>
+        <tr><td class="n">6</td><td class="nm">Disciplina e Repreensão</td><td class="ds">Podar para crescer, não para matar. Fato, impacto, pedido.</td><td class="nt"><span class="box"></span></td></tr>
+        <tr><td class="n">7</td><td class="nm">Verdade</td><td class="ds">Combinado é cumprido. Dos dois lados.</td><td class="nt"><span class="box"></span></td></tr>
+      </table>
+      <div class="fruto"><b>= Frutos</b><span>Plantar · Cuidar · Podar · Colher</span></div>
+    </div>
+    <div>
+      <div class="sec-title"><h2><span>3</span>O princípio que eu mais preciso</h2><small>A menor nota</small></div>
+      <div class="line"></div>
+    </div>
+  </div>
+  <p class="src">Princípios inspirados nos Princípios Milenares, de Tiago Brunet. · Continue no verso →</p>
+</div>
+
+<div class="page">
+  <div class="body back" style="padding-top:7mm">
+    <div>
+      <div class="sec-title"><h2><span>4</span>3 pessoas da minha equipe</h2><small>90 segundos</small></div>
+      <table class="eq">
+        <tr><th></th><th style="width:30%">Nome</th><th style="width:25%">Quem ela ama</th><th style="width:22%">Um sonho</th><th>Fim de semana</th></tr>
+        <tr><td class="i">1</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td class="i">2</td><td></td><td></td><td></td><td></td></tr>
+        <tr><td class="i">3</td><td></td><td></td><td></td><td></td></tr>
+      </table>
+    </div>
+    <div>
+      <div class="sec-title"><h2><span>5</span>A conversa que estou adiando</h2></div>
+      <div class="line"></div>
+    </div>
+    <div>
+      <div class="sec-title"><h2><span>6</span>Segunda-feira de manhã</h2><small>Uma ação, pequena e concreta</small></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </div>
+    <div>
+      <div class="sec-title"><h2><span>7</span>Minha dupla</h2><small>Em 7 dias, um cobra o outro</small></div>
+      <div class="row2"><div>Nome:<span class="l"></span></div><div>WhatsApp:<span class="l"></span></div></div>
+    </div>
+  </div>
+  <div class="band">
+    <div class="qr">[QR code]</div>
+    <div>
+      <div class="eyebrow" style="color:#96550F">Bônus Gestão que Move · válido até 20/11</div>
+      <h3>Escola Elev · 50% de desconto</h3>
+      <p>12 encontros ao vivo com Gustavo Nardi. Início sexta, 19/02/2027, às 7h. Aponte a câmera e garanta sua vaga.</p>
+      <p class="q">Quando o CPF evolui, o CNPJ encontra um novo nível.</p>
+      <p class="sig">Gustavo Nardi · Escola Elev · @gustavonardioficial</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
