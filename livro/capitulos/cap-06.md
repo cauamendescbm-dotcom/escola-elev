@@ -83,6 +83,16 @@ Repare no caminho: o rei não perdeu tudo porque construiu. Construir era bom. P
 
 Todo empresário tem o seu terraço. Aquele momento em que olha para o que construiu e sente o peito estufar. É justo sentir gratidão pelo que foi feito. O perigo está no pronome: quando o "nós" vira "eu", e o "graças a Deus" vira "graças a mim".
 
+A Bíblia registra outro rei com a mesma trajetória, e a frase que resume a vida dele deveria estar na mesa de todo empresário. Uzias assumiu o trono de Judá aos dezesseis anos. Foi um gestor notável: construiu torres, cavou poços, investiu em agricultura, organizou o exército e desenvolveu máquinas de defesa inovadoras para a época. A fama dele se espalhou para longe.
+
+E então o cronista escreve: "porque foi maravilhosamente ajudado, até que se fortificou. Mas, havendo-se já fortificado, exaltou-se o seu coração até se corromper" (2Cr 26:15-16).
+
+Leia de novo: *foi ajudado, até que se fortaleceu*.
+
+Enquanto Uzias precisava de ajuda, ele crescia. Quando achou que não precisava mais, começou a cair. Entrou num lugar que não era o dele, não aceitou ser corrigido e terminou a vida isolado, longe da casa que tinha construído.
+
+O momento mais perigoso para um empresário não é o começo, quando tudo é difícil. É quando ele se torna forte o bastante para achar que não precisa de mais ninguém.
+
 ### O que a ciência confirma
 
 O médico e ex-chanceler britânico David Owen e o psiquiatra Jonathan Davidson, da Universidade Duke, publicaram em 2009, na revista científica *Brain*, um estudo sobre chefes de governo dos Estados Unidos e do Reino Unido ao longo de cem anos. Eles descreveram o que chamaram de **síndrome da húbris**: um conjunto de comportamentos que aparece em algumas pessoas depois de um período prolongado de poder e sucesso. Entre os sinais estão a confiança excessiva no próprio julgamento, o desprezo pelo conselho dos outros, a perda de contato com a realidade e a tendência a se identificar pessoalmente com a instituição que lidera.
