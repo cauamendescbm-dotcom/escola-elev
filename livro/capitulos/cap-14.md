@@ -110,6 +110,14 @@ Eu sei que um dos momentos mais difíceis da liderança é desligar alguém que 
 
 [AUTOR: contar uma decisão difícil de desligamento ou de contratação por cultura e o que ela te ensinou sobre o líder que você queria ser.]
 
+E o dono da distribuidora, você deve estar se perguntando, o que aconteceu com ele?
+
+Ele não trocou a placa. Trocou o despertador. Na semana seguinte àquela conversa, chegou às sete e quarenta e cinco e abriu a reunião das oito em ponto, com quem estava na sala. Não deu bronca em ninguém. Só começou. Na segunda semana, fez a mesma coisa. Na terceira, quando um gerente entregou um relatório atrasado, ele chamou a pessoa na sala dele, a sós, e disse com calma: "A partir de hoje, quando o prazo não der, você me avisa antes. Atrasar sem avisar aqui não existe mais."
+
+Sabe o que ele me contou dois meses depois? Que a equipe não tinha mudado porque ele cobrou mais. Tinha mudado porque, pela primeira vez, a placa da recepção e o dono estavam dizendo a mesma coisa.
+
+Foi aí que ele entendeu, e eu espero que você entenda também: as pessoas não seguem o que você escreve. Seguem o que você é.
+
 No fim das contas, o líder não é o dono da cultura. É o primeiro guardião dela. Vive antes de cobrar, protege quando ela é atacada, corrige quando ela desvia e celebra quando ela floresce. Processos organizam, pessoas multiplicam, mas princípios sustentam tudo.
 
 ### Antes de virar a página

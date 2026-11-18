@@ -48,8 +48,6 @@ Se a sua visão precisa de meia hora de explicação, ela ainda não está pront
 
 E aqui entra uma coisa que a gente vem conversando desde o primeiro capítulo. O CNPJ só alcança o que o CPF permite. Isso vale para a visão também. Nenhuma empresa enxerga mais longe do que quem a lidera. Se o dono só enxerga o mês, a empresa vive de mês em mês. Se o dono só enxerga o próximo boleto, a empresa vive de boleto em boleto.
 
-Lembra dos três degraus? O operador vive o dia, porque ele é a máquina. O dono enxerga o mês e o trimestre, porque já tem processo. O líder enxerga anos à frente, porque não está mais preso ao fazer. Visão é a marca do terceiro degrau. Não porque o operador não sonhe. Ele sonha. Mas a cabeça dele está tão cheia de urgência que não sobra lugar para o importante.
-
 É por isso que esta conversa só podia acontecer agora, quase no fim do livro. Você precisou se encontrar, perdoar, vencer o orgulho, arrumar a casa, cuidar do corpo e organizar a empresa. Agora tem espaço. Agora tem silêncio suficiente para ouvir a pergunta.
 
 Para onde?
@@ -64,7 +62,7 @@ Um dia, chegam uns viajantes de Jerusalém, a terra dos pais dele. Neemias pergu
 
 Neemias se senta e chora. Fica dias assim, em jejum e oração.
 
-Repara que ninguém pediu nada a ele. Ele podia ter dito "que pena" e voltado ao trabalho. A maioria de nós faria isso. Mas aquele incômodo não foi embora. E toda visão de verdade começa exatamente aí: num incômodo que a gente decide não ignorar.
+Neemias podia ter dito "que pena" e voltado ao trabalho. Mas aquele incômodo não foi embora. E toda visão de verdade começa exatamente aí: num incômodo que a gente decide não ignorar.
 
 Meses depois, servindo o vinho, o rei olha para o rosto dele.
 
@@ -158,7 +156,7 @@ A urgência vai gritar mais alto. Sempre vai ter um problema mais barulhento do 
 
 Vão aparecer oportunidades ótimas que não são suas. Visão clara também serve para dizer não. "Estou fazendo uma grande obra. Não posso descer."
 
-E, às vezes, o inimigo vai ser você mesmo. Muita gente escreve uma visão pequena porque ainda carrega aquela voz herdada que a gente desmontou no capítulo 3: "crescer dá muito trabalho". Se a sua visão não te assusta nem um pouquinho, talvez ela tenha sido escrita pelo medo. Do outro lado, tem o orgulho, que escreve uma visão gigante para impressionar, ignorando o caixa e a equipe. Visão não é vaidade.
+E, às vezes, o inimigo vai ser você mesmo. Muita gente escreve uma visão pequena porque ainda carrega aquela voz herdada que a gente desmontou no capítulo 3: "crescer dá muito trabalho". Se a sua visão não te assusta nem um pouquinho, talvez ela tenha sido escrita pelo medo.
 
 No fim das contas, uma visão só começa a existir de verdade quando aparece na sua agenda. Pergunta para si mesmo: se essa visão já fosse verdade, o que eu faria esta semana? Que conversa eu teria? Que pessoa eu começaria a formar? Que processo eu escreveria? As respostas viram compromissos com dia e hora.
 
