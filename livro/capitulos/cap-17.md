@@ -158,6 +158,12 @@ Vão aparecer oportunidades ótimas que não são suas. Visão clara também ser
 
 E, às vezes, o inimigo vai ser você mesmo. Muita gente escreve uma visão pequena porque ainda carrega aquela voz herdada que a gente desmontou no capítulo 3: "crescer dá muito trabalho". Se a sua visão não te assusta nem um pouquinho, talvez ela tenha sido escrita pelo medo.
 
+E tem um inimigo ainda mais silencioso: a distração. Lembra de Pedro andando sobre as águas? Enquanto olhava para Jesus, ele caminhava. Quando olhou para o vento e para as ondas, começou a afundar. Só que o vento já existia. As ondas também. O que mudou foi para onde ele estava olhando. No mercado é igual. A crise, o concorrente, a Copa do Mundo, o carro do vizinho, a empresa que cresceu mais rápido que a sua. Comparação rouba energia, rouba identidade e rouba propósito, tudo de uma vez.
+
+Deixa eu te fazer uma pergunta honesta. Se você já escreveu um projeto de vida ou um plano para a empresa, quantas vezes olhou para ele este ano?
+
+A gente é especialista em começar. Começa a dieta, o plano, o curso, o projeto. O sucesso não está no começo. Está em permanecer. Jesus disse que o ramo que permanece dá muito fruto (João 15:5). Repara na ordem: primeiro permanece, depois frutifica.
+
 No fim das contas, uma visão só começa a existir de verdade quando aparece na sua agenda. Pergunta para si mesmo: se essa visão já fosse verdade, o que eu faria esta semana? Que conversa eu teria? Que pessoa eu começaria a formar? Que processo eu escreveria? As respostas viram compromissos com dia e hora.
 
 Os três anos viram um ano. O ano vira o trimestre. O trimestre vira o mês. O mês vira a semana. E a semana vira a próxima ação. Visão grande, passo pequeno e constância. É assim que muro caído fica de pé.

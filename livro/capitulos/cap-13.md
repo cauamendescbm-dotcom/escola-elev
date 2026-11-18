@@ -90,6 +90,8 @@ Quando essa solidão dura muito tempo, ela distorce tudo. Os problemas ficam mai
 
 O ambiente certo não decide por você. Mas tira de você o peso de decidir sozinho.
 
+Eu lidero um grupo de homens há algum tempo, e já vi isso acontecer de perto mais vezes do que consigo contar. Os homens mais fortes daquela roda não são os que nunca precisam de ajuda. São os que têm humildade para pedir ajuda antes que seja tarde.
+
 `[AUTOR: inserir uma história sua de solidão como empresário e da pessoa ou do grupo que fez diferença naquele período.]`
 
 * * *

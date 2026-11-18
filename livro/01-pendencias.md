@@ -4,7 +4,6 @@ Marcas para o autor completar ([AUTOR]) e para o editor confirmar ([VERIFICAR]).
 
 - **Cap. 01** [AUTOR: contar em poucas linhas o segmento da empresa, quanto tempo ela tinha e o dia em que a proposta chegou.]
 - **Cap. 01** [VERIFICAR: confirmar o número mais recente no Mapa de Empresas ou no IBGE, com fonte e ano.]
-- **Cap. 02** [AUTOR: contar um momento concreto, depois da venda, em que alguém perguntou "e agora, o que você faz?" e o que você sentiu.]
 - **Cap. 03** [AUTOR: contar uma crença que você mesmo herdou e como ela apareceu na sua primeira empresa.]
 - **Cap. 04** [AUTOR: uma lembrança sua com o seu pai ou com a sua mãe que você percebe, hoje, no seu jeito de liderar.]
 - **Cap. 05** [AUTOR: inserir aqui uma ofensa que você precisou perdoar na vida empresarial e o que mudou nas suas decisões depois disso.]

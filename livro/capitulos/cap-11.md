@@ -88,19 +88,25 @@ O profeta debaixo do arbusto, o filósofo romano e o neurocientista de Berkeley.
 
 * * *
 
-Eu gosto de pensar no CPF como um tripé. Corpo, mente e espírito. Se uma perna encurta, tudo fica torto. Não adianta você ter a fé firme se o corpo está em colapso. Não adianta ter a mente afiada se a alma está vazia de sentido.
+Tem uma cena no livro de Ezequiel que eu já contei muitas vezes para os homens do grupo que eu lidero, e que eu quero contar para você agora. O profeta é levado a um vale cheio de ossos. Não ossos quaisquer: ossos muito secos. Deus pergunta se aqueles ossos podem voltar a viver, e Ezequiel, sabiamente, não inventa resposta. "Senhor, tu o sabes." Então ele fala sobre os ossos, e começa um barulho. Os ossos se juntam, cada um no seu lugar. Aparecem tendões, carne, pele.
+
+E aí vem a frase que me para toda vez: os corpos estavam formados, mas não havia espírito neles (Ezequiel 37:8).
+
+Havia estrutura. Não havia vida.
+
+Lembra da empresa que eu vendi? A estrutura estava lá. Faltou um CPF forte. É possível ter a agenda organizada, a empresa de pé e a família funcionando, e mesmo assim estar só funcionando. Não vivo. A vida só voltou àquele vale quando o Espírito soprou.
+
+Por isso eu gosto de pensar no CPF em três partes. O corpo é onde aparece o resultado. A alma é onde a razão e a emoção disputam o volante. E o espírito é o alimento que sustenta os outros dois. Se um deles enfraquece, tudo fica torto.
 
 O corpo é a parte mais óbvia, e justamente por isso é a primeira que o empresário ocupado abandona. Sono, comida, movimento, exame em dia. Parece básico demais para um livro sobre identidade, eu sei. Mas o básico mal feito derruba qualquer estratégia sofisticada.
 
 A mente é onde as emoções passam e as decisões se formam. O Augusto Cury abre o livro *Gestão da emoção* com uma frase que eu gostaria que estivesse pendurada em toda sala de reunião do Brasil: "Antes de uma empresa falir, a mente de seus executivos entra em colapso". Lê de novo, devagar. A falência quase nunca começa no caixa. Começa quando o medo passa a escolher no lugar da estratégia. Quando a raiva responde ao cliente no lugar da razão.
 
-E gestão da emoção não é deixar de sentir. Você vai sentir medo antes de uma decisão grande. Vai sentir raiva quando alguém errar pela terceira vez. É humano. A pergunta é outra: o que você sente está te informando ou te comandando? Entre reagir e responder existe um intervalo. Um respiro. Às vezes, uma noite de sono. Muita parceria boa foi destruída por uma mensagem enviada de madrugada que nunca teria saído se a pessoa tivesse esperado até de manhã.
+E gestão da emoção não é deixar de sentir. Você vai sentir medo antes de uma decisão grande. Vai sentir raiva quando alguém errar pela terceira vez. É humano. A pergunta é outra: o que você sente está te informando ou te comandando? E ajuda muito separar o fato da interpretação. "Meu negócio está em dificuldade" é um fato. "Eu sou um fracassado" é uma interpretação, e quase sempre ela vem do cansaço. Entre reagir e responder existe um intervalo. Um respiro. Às vezes, uma noite de sono. Muita parceria boa foi destruída por uma mensagem enviada de madrugada que nunca teria saído se a pessoa tivesse esperado até de manhã.
 
 `[AUTOR: inserir história de uma decisão sua tomada no impulso, num momento de cansaço, e o que ela custou.]`
 
 E o espírito é o sentido. É o "para quê". É o que te segura quando os números não seguram. Não é à toa que, na palavra ELEV, a Espiritualidade vem primeiro. Quando a gente desenhou a marca, fizemos questão de que o E fosse a letra mais forte. Porque é ela que sustenta todo o resto.
-
-Quando um empresário me diz que não tem tempo para cuidar dessas três coisas, eu costumo devolver com outra pergunta, meio provocativa: "E tempo para ficar doente, você tem? Para um divórcio? Para uma decisão errada de meio milhão porque estava exausto?".
 
 Cuidar de si não é luxo. É gestão de risco.
 

@@ -16,7 +16,11 @@ Parece só um jeito de falar. Mas não é.
 
 Durante anos, eu respondi exatamente assim e nunca achei estranho. Até o dia em que a empresa foi vendida e eu fiquei sem resposta. Eu continuava sendo filho, marido, pai, amigo, alguém com fé, com história, com valores. Só que nenhuma dessas palavras vinha primeiro. O CNPJ tinha tomado a primeira linha da minha identidade, e eu nem tinha percebido quando.
 
-[AUTOR: contar um momento concreto, depois da venda, em que alguém perguntou "e agora, o que você faz?" e o que você sentiu.]
+E não foi a primeira vez que isso me pegou. Houve um tempo em que eu perdi tudo financeiramente. E o que mais me assustou não foi o extrato. Foi perceber que, junto com o dinheiro, tinha ido embora a minha identidade. Eu me sentia um fracassado. Não alguém que tinha fracassado num negócio. Um fracassado, inteiro.
+
+A virada não veio de uma planilha. Veio quando eu entendi que a minha identidade estava em Deus, e não no que eu tinha. Parece frase de efeito, mas para mim foi chão firme. A partir dali os frutos começaram a voltar, e na ordem certa: primeiro a paz, depois a visão, depois a sabedoria para decidir, e só então a provisão.
+
+Repara que, lá no começo de Gênesis, a bênção vem antes do trabalho: "Frutificai e multiplicai-vos". E toda árvore frutifica segundo a sua espécie. Quem não sabe quem é não sabe que fruto precisa dar. Fica tentando produzir o fruto do vizinho. E não dá para governar do lado de fora quem ainda está escravizado por dentro.
 
 * * *
 
