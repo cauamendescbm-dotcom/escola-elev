@@ -158,3 +158,25 @@ Os arquivos da versão 2 estão em `/home/user/escola-elev/livro/versao-2/`. Gra
     - partes: `# Parte I — Quem você é`, com abertura de 40 a 70 palavras no topo do primeiro capítulo da parte.
     Use `* * *` como respiro e `### Antes de virar a página` como único intertítulo fixo. No máximo dois outros intertítulos por capítulo.
 11. **Erros a não repetir:** a Cláudia leva "(nome alterado)"; nenhuma epígrafe se repete; Edmondson só com "estudo com equipes de enfermagem, nos anos 1990", sem ano exato; nada de "atletas" sem fonte; o número de empresas fechadas sai sem número: "centenas de milhares por ano".
+
+## Revisão 3.1 (depois da segunda avaliação editorial, que deu nota 7,6)
+
+**Definições únicas das ferramentas (todos os capítulos devem usar exatamente estas):**
+- **Teste O-D-L.** O leitor marca cada uma das 10 últimas coisas que fez na empresa com uma letra.
+  - **O (Operador):** executei eu mesmo uma tarefa da operação.
+  - **D (Dono):** organizei ou pensei a empresa: criei processo, indicador ou rotina, olhei os números, decidi a estratégia.
+  - **L (Líder):** desenvolvi alguém: ensinei, deleguei com acompanhamento, dei feedback, formei um sucessor.
+  - "Subir meio degrau" significa trocar dois ou três O por D ou L no placar.
+  - A escada é explicada por inteiro **só na introdução**. Os capítulos 9 e 14 apenas a retomam, em uma ou duas frases.
+- **Sócio oculto nº 5:** chama-se **"ninguém faz como eu"**, o mesmo nome usado na introdução e no capítulo 1. Não use o nome "eu sou a máquina" para esse sócio. Nenhum sócio oculto é chamado de "o mais difícil".
+- **Balanço do CPF:** **uma única folha**, com um campo por capítulo e um único quadro de 15 linhas. O campo do capítulo 10 tem três colunas: valor, comportamento esperado e comportamento inadmissível. A expressão "balanço do CPF" não deve ser usada em nenhum outro sentido.
+- **Exercícios ("Antes de virar a página") e instruções:** imperativo formal ("escreva", "preencha", "marque", "pegue"). A instrução do Balanço tem formato único: `No seu Balanço do CPF, preencha o campo **Nome do campo**.` A narração continua coloquial.
+
+**Outras regras:**
+- Sem antíteses em série. No máximo três frases do tipo "Não é X. É Y." por capítulo.
+- Sem clichês: "o que te trouxe até aqui…", a "média das cinco pessoas", o navio e a lancha, o balde furado, o farol, "cansaço não é medalha", a pedra no lago, "vestir a camisa".
+- Sem fórmulas de homilia: "Repara no verbo", "três detalhes que valem para qualquer empresário", "a Bíblia manda".
+- Casos reais são contados como reais, com "(nome alterado)". Casos hipotéticos começam com "Imagine" e não ganham desfecho factual.
+- O livro precisa de pelo menos um caso que **não deu certo**, para dar peso aos outros. Ele fica no capítulo 10.
+- Variar o fechamento dos capítulos. Nenhum termina com "Agora você/a sua empresa tem…".
+- Varie o tamanho dos capítulos: o capítulo 13 pode ficar com cerca de 2.000 palavras, e a recapitulação do capítulo 14 deve ser curta.
