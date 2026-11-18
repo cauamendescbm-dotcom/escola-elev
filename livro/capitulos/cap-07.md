@@ -174,7 +174,15 @@ Esconder o erro não protege o líder. Trava a prosperidade. Reconhecer e mudar 
 
 ### O que a ciência confirma
 
-As equipes que mais aprendem não são as que menos erram, mas as que se sentem seguras para falar dos erros (Amy Edmondson, Harvard, 1999). O Projeto Aristóteles, do Google (2015), apontou a segurança psicológica como o fator que mais diferenciava as equipes de alto desempenho. E essa segurança começa num lugar só: no comportamento do líder quando ele mesmo erra.
+As equipes que mais aprendem não são as que menos erram, mas as que se sentem seguras para falar dos erros (Amy Edmondson, Harvard, 1999). E essa segurança começa num lugar só: no comportamento do líder quando ele mesmo erra.
+
+### Onde as fontes se encontram
+
+- **Bíblia:** Davi, confrontado por Natã, diz "pequei" e é restaurado. Saul, confrontado por Samuel, se justifica para não perder a honra diante do povo e perde o reino.
+- **Filosofia:** Confúcio ensinou, nos *Analectos*, que ter uma falha e não corrigi-la, esse sim é o verdadeiro erro. Uma máxima latina, atribuída a Sêneca e retomada por Agostinho, diz o mesmo: errar é humano; persistir no erro é diabólico.
+- **Psicologia e ciência:** as equipes de melhor desempenho são as que mais relatam erros, porque se sentem seguras para isso (Edmondson, 1999; Projeto Aristóteles, Google, 2015).
+
+Três caminhos, uma mesma conclusão: o erro não destrói o líder; o que destrói é escondê-lo.
 
 ### Caderno de Identidade — Exercício 7
 

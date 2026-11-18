@@ -72,23 +72,33 @@ A visão é a marca do terceiro degrau. Não porque o operador não tenha sonhos
 
 ### Neemias: a visão que nasceu de um incômodo
 
-Há cerca de dois mil e quinhentos anos, um homem chamado Neemias trabalhava como copeiro do rei da Pérsia. Era um cargo de confiança, confortável e seguro. Um dia, chegaram notícias de Jerusalém: os muros da cidade estavam derrubados e as portas, queimadas.
+Pérsia, cerca de 445 anos antes de Cristo. No palácio de Susã, um homem segura a taça do rei.
 
-Neemias poderia ter lamentado e seguido a vida. Em vez disso, ele se incomodou a ponto de mudar de vida.
+Seu nome é Neemias. Ele é o copeiro: prova o vinho antes do soberano, para que ninguém o envenene. Cargo de confiança, salário garantido, vida confortável.
 
-O relato de Neemias, especialmente nos capítulos 1 e 2, é um dos manuais de liderança estratégica mais antigos que conhecemos. Observe a sequência:
+Um dia, chegam viajantes de Jerusalém, a terra dos seus pais. Neemias pergunta como estão as coisas por lá. A resposta o atinge como um soco: os muros estão no chão, as portas foram queimadas e o povo vive em humilhação.
 
-1. **Ele se incomoda com a realidade.** Não fingiu que estava tudo bem.
-2. **Ele ora e planeja antes de agir.** Passou meses preparando o coração e a estratégia.
-3. **Ele apresenta um pedido específico ao rei.** Prazo, recursos, cartas de autorização, madeira para as vigas. Nada de "vou ver o que dá".
-4. **Ele inspeciona pessoalmente.** Chegando a Jerusalém, saiu de noite para ver os muros com os próprios olhos antes de falar com qualquer pessoa.
-5. **Ele comunica a visão com clareza.** "Vinde, e reedifiquemos o muro." Simples. Legível até para quem passa correndo.
-6. **Ele organiza o trabalho.** Cada família reconstruiu o trecho em frente à própria casa. Responsabilidade clara, dono para cada parte.
-7. **Ele não para diante da oposição.** Houve zombaria, ameaça e tentativa de distração. Neemias respondeu: "Estou fazendo uma grande obra, de modo que não poderei descer."
+Ele se senta e chora. Durante dias, jejua e ora.
 
-O muro foi reconstruído em 52 dias.
+Meses depois, ao servir o vinho, o rei repara no rosto dele.
 
-Agora releia essa sequência pensando na sua empresa. Incômodo, preparo, pedido claro, diagnóstico pessoal, comunicação simples, responsabilidade distribuída e foco diante da distração.
+— Por que você está triste? Você não está doente. Isso só pode ser tristeza do coração.
+
+Ali estava o risco. Na corte persa, aparecer abatido diante do rei podia custar o cargo, ou a vida. Neemias sente medo. Mas a visão já está pronta dentro dele, e por isso ele não improvisa. Faz uma oração silenciosa e apresenta um pedido exato: quanto tempo vai ficar fora, cartas de autorização para os governadores do caminho e uma ordem ao guarda das florestas do rei para entregar madeira para as vigas das portas.
+
+O rei concede tudo.
+
+Em Jerusalém, Neemias não faz discurso. Sai à noite, quase sozinho, montado num animal, para inspecionar os muros em ruínas com os próprios olhos. Só depois reúne o povo:
+
+— Vocês estão vendo a miséria em que estamos. Venham, vamos reconstruir o muro.
+
+Cada família assume o trecho em frente à própria casa. Vem a zombaria, depois a ameaça, e por fim um convite falso para uma reunião fora da cidade. Neemias manda dizer:
+
+— Estou fazendo uma grande obra. Não posso descer.
+
+O muro fica pronto em 52 dias.
+
+Releia essa cena pensando na sua empresa. Um incômodo que não foi ignorado. Um preparo feito antes da oportunidade. Um pedido claro. Um diagnóstico feito pessoalmente. Uma comunicação simples. Uma responsabilidade para cada um. E foco diante da distração.
 
 É exatamente o que a Escola ELEV percorre em doze semanas: Clareza, Liderança, Financeiro, Cultura, Organização e Direção. Não inventamos nada. Só traduzimos um caminho muito antigo para a linguagem do empresário de hoje.
 
@@ -180,17 +190,15 @@ Uma regra prática: se você perguntar a três pessoas da sua equipe, aleatoriam
 
 ### Os inimigos da visão
 
-Toda visão tem inimigos. Conhecê-los ajuda a não ser pego de surpresa.
+**A urgência.** Sempre haverá um problema mais barulhento do que a visão. Sem tempo protegido para pensar o futuro, o presente engole tudo.
 
-**A urgência.** É o inimigo mais comum. Sempre haverá um problema mais barulhento do que a visão. Se você não reservar tempo protegido para pensar no futuro, o presente vai engolir tudo. Na ELEV, chamamos isso de agenda do líder: blocos semanais em que o dono não opera, apenas pensa, planeja e acompanha.
+**A distração das oportunidades.** Nem toda boa oportunidade é a sua. Visão clara também serve para dizer não, como Neemias disse.
 
-**A distração das oportunidades.** Nem toda boa oportunidade é a sua oportunidade. Neemias recusou um convite para uma reunião no meio da obra: "Estou fazendo uma grande obra; não posso descer." Visão clara também serve para dizer não.
+**O medo do tamanho.** Muitos escrevem uma visão pequena porque ainda carregam a voz herdada do capítulo 3: "crescer dá muito trabalho". Se a sua visão não te assusta um pouco, talvez tenha sido escrita pelo medo.
 
-**O medo do tamanho.** Algumas pessoas escrevem uma visão pequena demais porque, no fundo, ainda carregam aquela voz herdada que conversamos no capítulo 3: "crescer dá muito trabalho", "quem nasceu para pouco não chega a muito". Se a sua visão de três anos não te assusta um pouco, talvez ela tenha sido escrita pelo medo, e não por você.
+**O orgulho.** A visão grandiosa, feita para impressionar, que ignora o caixa e a equipe. Visão não é vaidade.
 
-**O orgulho.** O oposto também acontece. A visão grandiosa, feita para impressionar os outros, que ignora a realidade do caixa e da equipe. Visão não é vaidade. É direção com os pés no chão.
-
-**A solidão.** Visão guardada só para si enfraquece. Visão compartilhada com um grupo que te cobra se fortalece. Esse é um dos motivos pelos quais o Mastermind ELEV existe: para que a visão de cada empresário seja ouvida, questionada e acompanhada por pares que caminham no mesmo nível.
+**A solidão.** Visão guardada só para si enfraquece. Compartilhada com pares que cobram, ela se fortalece. É para isso que existe o Mastermind ELEV.
 
 ### Do papel para a agenda
 
@@ -207,6 +215,14 @@ Grande visão, pequeno passo, constância. É assim que muros são reconstruído
 ### Princípio milenar
 
 *Onde não há visão, o povo se corrompe.* (Provérbios 29:18) Sem uma imagem clara do futuro, as pessoas se dispersam, as prioridades se misturam e a energia vaza. A visão não é um luxo do líder. É uma responsabilidade dele.
+
+### Onde as fontes se encontram
+
+- **Bíblia:** Neemias chora pelos muros caídos, prepara o pedido antes de ser perguntado e reconstrói em 52 dias, porque enxergou a obra pronta antes de colocar a primeira pedra.
+- **Filosofia:** Sêneca escreveu a Lucílio que nenhum vento é favorável para quem não sabe a que porto se dirige.
+- **Psicologia/Ciência:** Locke e Latham mostraram que metas específicas e desafiadoras superam as vagas, e Frankl observou que o sentido sustenta a pessoa quando tudo o mais falha.
+
+Três caminhos, uma mesma conclusão: quem enxerga o destino com clareza suporta o caminho e conduz outros até ele.
 
 ### Caderno de Identidade — Exercício 16
 

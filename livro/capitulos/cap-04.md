@@ -90,17 +90,37 @@ Um empresário que gasta energia mental remoendo uma ofensa está, literalmente,
 
 No Apocalipse, há uma carta dirigida a uma igreja que se achava rica e autossuficiente. Ela dizia: "Rico sou, e estou enriquecido, e de nada tenho falta". E a resposta veio dura: "não sabes que és um desgraçado, e miserável, e pobre, e cego, e nu" (Ap 3:17).
 
-É uma descrição perfeita de alguém tomado pela ofensa. Por fora, tudo parece em ordem. Faturamento bom, casa nova, carro na garagem. Por dentro, um coração endurecido, que não enxerga a própria condição.
+É o retrato de alguém tomado pela ofensa. Por fora, faturamento bom e casa nova. Por dentro, um coração endurecido que não enxerga a própria condição.
 
-O conselho que vem em seguida é lindo: "Aconselho-te que de mim compres ouro provado no fogo" (Ap 3:18).
+O conselho que vem em seguida é lindo: "compres ouro provado no fogo" (Ap 3:18). O ouro refinado é macio, maleável, livre de impurezas. O calor separa o ouro da escória.
 
-O ouro refinado é diferente do ouro bruto. É macio, maleável, livre de impurezas. Para chegar a esse estado, ele passa pelo fogo. O calor separa o que é ouro do que é escória.
-
-As ofensas que você sofreu na sua trajetória de empresário podem ser exatamente esse fogo. Elas podem endurecer você ou refinar você. A diferença não está no que aconteceu. Está no que você faz com o que aconteceu.
-
-O mesmo texto fala de um colírio para ungir os olhos, "a fim de que vejas". Ver o quê? A sua verdadeira condição. Esse é o primeiro passo do perdão: parar de olhar só para o que o outro fez e começar a olhar para o que aquilo fez em você.
+As ofensas da sua trajetória podem ser esse fogo. Podem endurecer você ou refinar você. A diferença não está no que aconteceu. Está no que você faz com o que aconteceu.
 
 Enquanto você se vê apenas como vítima, a ofensa continua no comando. Vítimas não decidem. Vítimas reagem.
+
+### O devedor que saiu perdoado e não perdoou
+
+Jesus contou uma história que todo empresário entende na hora, porque ela fala de dívida.
+
+Um rei resolveu acertar as contas com seus servos. Trouxeram até ele um homem que devia dez mil talentos. Era uma soma impagável, algo como a receita de uma província inteira. O servo não tinha como pagar. O rei mandou vender tudo: o homem, a mulher, os filhos, os bens.
+
+O servo caiu de joelhos. "Tem paciência comigo, e tudo te pagarei."
+
+Ele não pagaria nunca. Os dois sabiam disso. E o rei, movido de compaixão, fez o que nenhum credor faz: perdoou a dívida inteira. Não parcelou, não renegociou. Zerou.
+
+O homem saiu do palácio livre. E, na porta, encontrou um colega que devia a ele cem denários, cerca de cem dias de trabalho. Dinheiro, mas uma fração ridícula do que ele acabara de receber de graça.
+
+Ele agarrou o colega pelo pescoço. "Paga-me o que me deves."
+
+O colega caiu de joelhos e disse exatamente a mesma frase: "Tem paciência comigo, e tudo te pagarei".
+
+Ele não teve. Mandou o colega para a prisão até pagar.
+
+Os outros servos viram tudo e contaram ao rei. O rei chamou o homem de volta: "Não devias tu também ter compaixão do teu companheiro, como eu tive de ti?". E o entregou aos carcereiros (Mt 18:23-35).
+
+Repare na virada: quem acabou preso foi o que se recusou a perdoar.
+
+Todo empresário que chegou até aqui já foi perdoado de alguma dívida. Um banco que esperou. Um cliente que deu outra chance. Um fornecedor que segurou o prazo. Um cônjuge que suportou os anos de ausência. Quando nos esquecemos do que recebemos, ficamos implacáveis com o que nos devem.
 
 ### Perdoar não é o que você pensa
 
@@ -136,9 +156,9 @@ Não é mágica. É método. E método é exatamente o que nós, empresários, e
 
 Voltemos ao Marcos.
 
-Não houve uma cena de cinema. Ele não ligou para o ex-sócio, não houve abraço nem reconciliação. Talvez um dia aconteça. Talvez não. Não é isso que importa.
+Não houve cena de cinema nem reconciliação. Talvez um dia aconteça. Não é isso que importa.
 
-O que aconteceu foi mais simples e mais profundo. Num dos encontros, pedi que ele escrevesse em uma folha tudo o que aquela saída tinha custado a ele. Não só o dinheiro. Tudo.
+Num dos encontros, pedi que ele escrevesse em uma folha tudo o que aquela saída tinha custado a ele. Não só o dinheiro. Tudo.
 
 Ele escreveu sobre os clientes que perdeu, as noites sem dormir, a vergonha diante da família, a sensação de ter sido feito de bobo.
 
@@ -165,6 +185,14 @@ O CNPJ não precisava de uma nova estratégia. Precisava de um CPF que tivesse s
 ### Princípio milenar
 
 As ofensas virão, inevitavelmente. Mas a armadilha só se fecha em quem morde a isca. Perdoar é comprar ouro refinado no fogo: transformar a dor em caráter, e não em prisão.
+
+### Onde as fontes se encontram
+
+- **Bíblia:** o servo que teve uma dívida impagável perdoada e não perdoou cem denários acabou ele mesmo nas mãos dos carcereiros (Mt 18).
+- **Filosofia:** Sêneca escreveu um tratado inteiro, *Sobre a ira*, para mostrar que a raiva fere mais quem a carrega do que quem a provoca. Marco Aurélio resumiu nas *Meditações*: a melhor forma de se defender de alguém é não se tornar parecido com ele.
+- **Psicologia:** remoer a ofensa eleva frequência cardíaca, pressão e tensão; imaginar o perdão acalma o corpo (Witvliet, *Psychological Science*, 2001). Treinos de perdão reduzem raiva e estresse (Stanford Forgiveness Project).
+
+Três caminhos, uma mesma conclusão: quem não perdoa continua preso a quem o feriu.
 
 ### Caderno de Identidade — Exercício 4
 

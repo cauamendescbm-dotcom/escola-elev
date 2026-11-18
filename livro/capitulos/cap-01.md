@@ -1,3 +1,7 @@
+# Parte I — Se encontrar
+
+Toda jornada começa com uma pergunta simples que quase nenhum empresário consegue responder sem falar da empresa: quem é você? Nesta primeira parte, vamos separar a pessoa do negócio. Você vai entender por que a empresa encontra o limite de quem a lidera, o que acontece quando a identidade se funde ao CNPJ e quais vozes antigas ainda decidem por você. Não é o degrau mais confortável. Mas é o único que sustenta todos os outros.
+
 # Capítulo 1
 ## O problema nunca foi o CNPJ
 
@@ -14,7 +18,7 @@ Mas a história não terminou ali.
 
 Dois anos depois, sob outra liderança, aquela mesma empresa voltou a quebrar.
 
-Os processos que eu tinha desenhado continuavam lá. Os controles financeiros continuavam lá. O fluxo comercial que tirou a empresa do prejuízo e a levou ao lucro continuava lá. As planilhas, os indicadores, o organograma. Tudo no lugar.
+Os processos que eu tinha desenhado continuavam lá. Os controles financeiros, o fluxo comercial, os indicadores, o organograma. Tudo no lugar.
 
 E mesmo assim ela quebrou.
 
@@ -52,7 +56,7 @@ Aqui vem a parte que eu raramente conto nas palestras, mas que é o motivo deste
 
 Lá no topo, no maior resultado da minha vida, eu descobri que o resultado estava vazio.
 
-Não era ingratidão. Eu sabia o valor do que tinha conquistado. Mas eu percebi que tinha passado anos medindo a minha vida pelo tamanho do CNPJ. E, quando o CNPJ foi embora, ficou uma pergunta que nenhum balanço respondia:
+Não era ingratidão. Mas eu percebi que tinha passado anos medindo a minha vida pelo tamanho do CNPJ. E, quando o CNPJ foi embora, ficou uma pergunta que nenhum balanço respondia:
 
 Quem sou eu agora?
 
@@ -76,7 +80,7 @@ O CNPJ é o prédio. O CPF é a fundação.
 
 E a fundação não aparece na foto.
 
-Ninguém posta a fundação. Ninguém elogia a fundação. Mas é ela que define até onde o prédio pode subir e quanto peso ele aguenta quando vem a tempestade.
+Mas é ela que define até onde o prédio pode subir e quanto peso ele aguenta quando vem a tempestade.
 
 Por isso eu escrevi, anos atrás, numa folha de anotações que guardei até hoje:
 
@@ -90,15 +94,7 @@ Se o CPF carrega mágoa, o CNPJ vive em guerra: com sócio, com equipe, com clie
 
 Se o CPF não sabe quem é, o CNPJ vira a identidade dele. E aí qualquer crise na empresa vira uma crise de existência.
 
-Agora inverta.
-
-Se o CPF é seguro, o CNPJ delega.
-
-Se o CPF é humilde, o CNPJ aprende e se corrige rápido.
-
-Se o CPF é livre, o CNPJ constrói parcerias em vez de trincheiras.
-
-Se o CPF sabe quem é, o CNPJ ganha uma direção que não muda a cada vento.
+Agora inverta. O CPF seguro delega. O humilde aprende. O livre constrói parcerias em vez de trincheiras.
 
 **Quando o CPF evolui, o CNPJ encontra um novo nível.**
 
@@ -112,9 +108,7 @@ Talvez você esteja se perguntando: se existe um padrão de ações que leva emp
 
 Os números assustam. Levantamentos oficiais mostram que centenas de milhares de empresas encerram as atividades a cada ano no país. Nas minhas anotações antigas, eu tinha registrado mais de 700 mil fechamentos anuais. `[VERIFICAR: atualizar com o dado mais recente do Mapa de Empresas (gov.br) ou da Demografia das Empresas do IBGE e citar a fonte e o ano.]`
 
-As explicações de sempre aparecem: crise, juros, impostos, concorrência, mercado difícil. Tudo isso existe e pesa. Eu não vou fingir que não.
-
-Mas eu já vi empresas quebrando no setor que mais cresce no país. E já vi empresas crescendo no meio da pior crise.
+Crise, juros, impostos e concorrência existem e pesam. Mas eu já vi empresas quebrando no setor que mais cresce no país. E já vi empresas crescendo no meio da pior crise.
 
 A diferença raramente estava no mercado.
 
@@ -126,17 +120,9 @@ Não há produto, localização ou promoção que faça uma empresa sobreviver a
 
 Quando você abriu o seu CNPJ, provavelmente ninguém te disse que a parte mais difícil do negócio seria você.
 
-Te ensinaram a emitir nota. A calcular imposto. A vender. A contratar. Talvez a montar um fluxo de caixa.
+Te ensinaram a emitir nota, calcular imposto, vender, contratar.
 
-Ninguém te ensinou que o seu medo de errar viraria centralização.
-
-Que a sua necessidade de ser reconhecido viraria uma equipe que só obedece e não pensa.
-
-Que a mágoa com um sócio antigo viraria desconfiança de todo novo parceiro.
-
-Que a voz do seu pai dizendo "dinheiro não cresce em árvore" viraria um teto invisível para o seu faturamento.
-
-Que a sua dificuldade de ouvir "não" em casa seria a mesma dificuldade de ouvir "não" na reunião.
+Ninguém te ensinou que o seu medo de errar viraria centralização. Que a mágoa com um sócio antigo viraria desconfiança de todo novo parceiro. Que a voz do seu pai dizendo "dinheiro não cresce em árvore" viraria um teto invisível para o seu faturamento.
 
 Você não está travado porque é incapaz. Você chegou até aqui com força, e isso prova capacidade. Você está travado porque cresceu como empresa sem crescer na mesma velocidade como pessoa. E isso não é falha de caráter. É ausência de uma etapa que ninguém te mostrou.
 
@@ -194,15 +180,31 @@ Eu explico.
 
 Esse livro milenar continua sendo o mais vendido da história e, ainda assim, muita gente nunca teve acesso de verdade a ele. O tamanho do conhecimento assusta. Parece religioso demais, antigo demais, distante demais da segunda-feira de quem precisa pagar a folha.
 
-Mas, quando você o lê com olhos de empresário, encontra um manual de liderança impressionante. José administrando uma crise de sete anos. Neemias reconstruindo uma cidade com estratégia e gestão de pessoas. Jetro ensinando Moisés a delegar. Davi mostrando o que acontece quando o líder reconhece o erro, e Saul mostrando o que acontece quando não reconhece.
+Mas, lido com olhos de empresário, ele é um manual de liderança impressionante: José administrando uma crise de sete anos, Neemias reconstruindo uma cidade, Jetro ensinando Moisés a delegar.
 
-Nada disso é novo. São princípios que sustentam famílias, líderes e organizações há milhares de anos e continuam funcionando. O que eu faço aqui é traduzi-los para o mundo dos negócios.
+Nada disso é novo. São princípios que sustentam famílias, líderes e organizações há milhares de anos. O que eu faço aqui é traduzi-los para o mundo dos negócios.
 
-Ao lado deles, você vai encontrar outras sabedorias antigas, de Sócrates, Confúcio, Lao-Tsé e Sêneca. E vai encontrar também o que a ciência moderna, com seus estudos, laboratórios e acompanhamentos de décadas, tem descoberto sobre identidade, liderança, relacionamentos e desempenho.
+### O rei escondido entre as bagagens
 
-O curioso é como uma confirma a outra.
+Existe uma cena nesse livro antigo que resume este capítulo melhor do que qualquer gráfico.
 
-Você não precisa compartilhar a minha fé para aproveitar este livro. Mas precisa estar disposto a olhar para dentro. Esse é o único pré-requisito.
+Israel queria um rei. O profeta Samuel reúne todas as tribos para a escolha. A tensão cresce a cada etapa: primeiro a tribo, depois o clã, depois a família. Até que o nome é anunciado: Saul, filho de Quis.
+
+Todos se viram para procurá-lo.
+
+Ele não está lá.
+
+Precisam perguntar a Deus onde ele se meteu. E a resposta vem quase como ironia: "Eis que está escondido entre as bagagens" (1Sm 10:22).
+
+Correm até lá e o trazem. E o texto faz questão de registrar: quando ele se pôs no meio do povo, era o mais alto de todos, dos ombros para cima.
+
+Pense nisso como empresário. Saul tinha tudo que se vê. Altura, aparência, um reino inteiro entregue nas mãos, um exército, um profeta como conselheiro. A estrutura estava lá.
+
+Mas o homem que recebeu tudo isso estava escondido no meio da bagagem.
+
+Anos depois, essa mesma insegurança viraria ciúme de Davi, decisões impulsivas, desobediência justificada e, no fim, a perda do reino. O que se via era um rei. O que estava dentro era um homem que nunca resolveu quem era.
+
+Muitos empresários hoje são Saul. Mais altos que todos dos ombros para cima: faturamento, frota, equipe, sala bonita. E, por dentro, ainda escondidos entre as bagagens.
 
 ### Princípio milenar
 
@@ -211,17 +213,19 @@ Você não precisa compartilhar a minha fé para aproveitar este livro. Mas prec
 
 A altura do que você constrói é decidida por aquilo que ninguém vê. Rocha e areia parecem iguais em dia de sol. A diferença aparece na tempestade.
 
-### O que a ciência confirma
+### Onde as fontes se encontram
 
-Pesquisadores de liderança chegaram, por caminhos diferentes, à mesma conclusão que este capítulo propõe: a empresa reflete quem a conduz.
+- **Bíblia.** Saul tinha um reino nas mãos e continuava escondido entre as bagagens. A estrutura não salvou o homem; o homem é que perdeu a estrutura.
+- **Filosofia.** Platão, em *A República*, descreve a cidade como a alma escrita em letras grandes: a ordem ou a desordem de quem governa aparece, ampliada, no que é governado.
+- **Ciência.** Jim Collins, em *Empresas feitas para vencer* (2001), estudou companhias que saltaram de resultados e se mantiveram no topo por pelo menos quinze anos. O fator comum foi um líder de "Nível 5": humildade pessoal somada a vontade profissional inabalável. E Marshall Goldsmith resumiu: *o que te trouxe até aqui não vai te levar adiante*.
 
-Jim Collins, no clássico *Empresas feitas para vencer* (2001), estudou companhias que deram um salto de resultados e se mantiveram no topo por pelo menos quinze anos. Ele esperava encontrar estratégias geniais. Encontrou, primeiro, um tipo específico de líder, que chamou de Nível 5: uma combinação rara de humildade pessoal com vontade profissional inabalável. O fator decisivo não estava no CNPJ. Estava no CPF.
-
-Marshall Goldsmith, um dos coaches de executivos mais respeitados do mundo, resumiu a mesma ideia no título de um livro: *O que te trouxe até aqui não vai te levar adiante*. Os comportamentos que fizeram você chegar ao topo de um degrau são, muitas vezes, os mesmos que te impedem de subir o próximo.
+Três caminhos, uma mesma conclusão: o que se constrói por fora nunca ultrapassa, por muito tempo, o que foi construído por dentro.
 
 ### Como usar este livro
 
 Este não é um livro para ser apenas lido. É um livro para ser feito.
+
+**Por que Bíblia, filosofia e ciência juntas.** Em cada capítulo, você vai ver três fontes chegando à mesma verdade. Isso nasce de uma convicção minha: a fé bíblica e a ciência não são inimigas, e a história tem fatos que sustentam isso. Kepler, Newton, Boyle, Pascal e Francis Bacon, nomes que fundaram a ciência moderna, eram cristãos e viam no estudo da natureza a leitura do "livro da criação". Historiadores da ciência como R. Hooykaas, em *A religião e o desenvolvimento da ciência moderna*, defendem que a crença num Criador racional e num universo ordenado ajudou a nascer o método científico. Você não precisa compartilhar a minha fé para aproveitar este livro. Mas, quando a sabedoria antiga, os grandes pensadores e os laboratórios dizem a mesma coisa, vale a pena prestar atenção.
 
 **O Caderno de Identidade.** Ao final de cada capítulo, você vai encontrar um exercício. Separe um caderno só para isso, físico de preferência. Escrever à mão desacelera o pensamento e obriga você a ser honesto. Não pule os exercícios. A transformação está neles, não nas páginas que os antecedem.
 
@@ -229,7 +233,7 @@ Este não é um livro para ser apenas lido. É um livro para ser feito.
 
 **O Mapa de Alinhamento Vida e Negócio.** A cada capítulo, você vai preencher um pedaço desse mapa. Ele começa com a pergunta "quem sou eu?" e termina com "qual é o meu papel no mundo?". No último capítulo, você terá diante de si um retrato completo do CPF que você é, do CPF que quer se tornar e do CNPJ que esse CPF é capaz de sustentar.
 
-**Faça junto com alguém.** Se puder, leia com seu cônjuge, seu sócio ou seu líder mais próximo. Quem decide e quem caminha ao seu lado precisam ouvir a mesma coisa. Se você é aluno da Escola ELEV ou participa do Mastermind, leve os exercícios para os encontros. Eles foram pensados para isso.
+**Faça junto com alguém.** Se puder, leia com seu cônjuge, seu sócio ou seu líder mais próximo. Se você é aluno da Escola ELEV ou do Mastermind, leve os exercícios para os encontros.
 
 ### Caderno de Identidade — Exercício 1
 
