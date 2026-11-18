@@ -1,6 +1,6 @@
 # Parte IV — Do CPF ao CNPJ
 
-Até aqui, a conversa foi para dentro: quem você é, quem ainda decide por você e quem depende de você. Agora a gente atravessa a rua e entra na empresa. Mas não muda de assunto. Estrutura, cultura e números parecem temas técnicos, e são. Só que cada um deles é um espelho. A empresa que você tem hoje é a sua identidade transformada em sistema.
+Até aqui, a conversa foi para dentro: quem você é, quem ainda decide por você e quem depende de você. Agora a conversa entra na empresa. Mas não muda de assunto. Estrutura, cultura e números parecem temas técnicos, e são. Só que cada um deles é um espelho. A empresa que você tem hoje é a sua identidade transformada em sistema.
 
 # Capítulo 9
 ## Ele não delegou. Ele largou.
