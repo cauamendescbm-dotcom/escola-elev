@@ -1,0 +1,161 @@
+# Parte V — O que fica
+
+Você olhou para dentro, deu baixa nos sócios ocultos, voltou para casa e arrumou a empresa. Falta a pergunta que dá sentido a tudo isso: para onde, para quem e para quê. Esta última parte é sobre o que permanece quando o mês fecha, quando a crise passa e, um dia, quando você não estiver mais na cadeira.
+
+# Capítulo 12
+## Escreve a visão
+
+> "Escreve a visão, grava-a sobre tábuas, para que a possa ler até quem passa correndo."
+> — Habacuque 2:2
+
+Responde rápido, sem pensar muito: onde a sua empresa vai estar daqui a três anos?
+
+Se veio um número, ótimo. Se veio uma frase genérica, do tipo "maior e mais organizada", tudo bem também. Mas, se veio um branco, presta atenção, porque você não está sozinho.
+
+Imagine uma sala com doze empresários. Diante de cada um, uma folha em branco e uma caneta. A instrução é simples: escrever, à mão, como a empresa vai estar dali a três anos. Não a empresa que você tem medo de ter. A que você tem coragem de construir.
+
+Alguns começam na hora. Outros ficam olhando para o papel.
+
+Um deles é dono de uma construtora. Ergueu prédio, sobreviveu a crise de crédito e a obra parada, sabe o custo do metro quadrado de cabeça e negocia como poucos. Depois de uns minutos, ele levanta a mão:
+
+— Eu não sei o que escrever.
+
+Não é falta de capacidade. É que, quando a pergunta sai do "como eu resolvo isso hoje" e vai para o "onde eu quero chegar", a caneta trava.
+
+— Faz quinze anos que eu só apago incêndio — ele diz, meio sem graça. — Nunca parei para pensar onde essa estrada termina.
+
+A maioria das empresas que eu conheço cabe nessa frase. Elas não estão sem rumo por incompetência. Estão sem rumo porque o dono passou anos olhando para o chão, desviando de buraco, e esqueceu de levantar a cabeça.
+
+Este capítulo é um convite para você levantar a cabeça.
+
+* * *
+
+Antes de tudo, vamos tirar um peso das suas costas. Visão não é aquela frase pendurada na recepção. Você sabe qual: "Ser referência no mercado com excelência e inovação." Ninguém da sua equipe acorda pensando nisso. Você também não.
+
+Visão também não é desejo. "Quero crescer", "quero ganhar mais", "quero ter mais tempo" são vontades legítimas, mas vontade sem forma não dá direção. É como entrar no carro e dizer ao GPS: "quero ir para um lugar melhor". Ele não aceita.
+
+Visão é uma imagem clara de um futuro concreto, tão nítida que muda o que você decide hoje.
+
+Repara nesse último pedaço. Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração.
+
+O profeta Habacuque recebeu a ordem de escrever a visão "para que a possa ler até quem passa correndo". Quem passa correndo é a sua equipe no meio do expediente. É quem divide a casa com você, no fim do dia. É você mesmo numa segunda-feira caótica, com quinze mensagens não lidas. Se a sua visão precisa de meia hora de explicação, ela ainda não está pronta.
+
+E aqui a tese deste livro volta com força. O CNPJ só alcança o que o CPF permite, e isso vale para o horizonte também. Nenhuma empresa enxerga mais longe do que quem a lidera. Se o dono só enxerga o mês, a empresa vive de mês em mês. Se só enxerga o próximo boleto, vive de boleto em boleto.
+
+Não é por acaso que esta conversa só acontece agora. Para escrever uma visão honesta, você precisava saber quem é, dar baixa nas vozes que te encolhiam, arrumar a casa e olhar os números de frente. Agora tem espaço. Agora tem silêncio suficiente para ouvir a pergunta.
+
+Para onde?
+
+* * *
+
+Pérsia, uns 445 anos antes de Cristo. No palácio de Susã, um homem chamado Neemias serve como copeiro do rei. Parece cargo pequeno, mas não é: ele prova o vinho antes do soberano beber, para garantir que ninguém o envenene. É o homem de confiança do rei mais poderoso da época. Salário garantido, vida confortável, acesso livre ao palácio.
+
+Um dia chegam viajantes de Jerusalém, a terra dos pais dele. Neemias pergunta, por educação, como andam as coisas por lá. A resposta vem como um soco: os muros da cidade estão no chão, as portas foram queimadas e o povo vive humilhado.
+
+Neemias se senta e chora. Fica dias assim.
+
+Ele podia ter dito "que pena" e voltado ao trabalho. Mas aquele incômodo não foi embora. E toda visão de verdade começa exatamente aí: num incômodo que a gente decide não ignorar.
+
+Meses depois, servindo o vinho, o rei repara no rosto dele.
+
+— Por que essa cara triste? Você não está doente. Isso é tristeza do coração.
+
+Na corte persa, aparecer abatido diante do rei podia custar o cargo. Às vezes a cabeça. O texto diz que Neemias teve muito medo. E, mesmo assim, ele não improvisa. A visão já estava pronta dentro dele. Faz uma oração rápida, em silêncio, e pede ao rei exatamente o que precisa: quanto tempo vai ficar fora, cartas que o deixem passar pelos governadores do caminho e uma ordem para o guarda das florestas reais liberar madeira para as vigas das portas.
+
+Ele já sabia até de onde viria a madeira.
+
+O rei concede tudo.
+
+Em Jerusalém, Neemias não sobe num palanque. Sai de noite, quase sozinho, e vai olhar os muros caídos com os próprios olhos. Só depois reúne o povo e fala uma coisa simples:
+
+— Vocês estão vendo a situação em que a gente está. Vamos reconstruir esse muro.
+
+Cada família pega o trecho em frente à própria casa. Aí vem a zombaria. Depois, as ameaças. Por fim, os adversários inventam uma reunião fora da cidade, só para tirá-lo da obra. E Neemias manda uma resposta que todo empresário deveria pendurar na parede:
+
+— Estou fazendo uma grande obra. Não posso descer.
+
+O muro ficou pronto em cinquenta e dois dias.
+
+Relê essa história pensando na sua empresa. Um incômodo que não foi ignorado. Um preparo feito antes de a oportunidade aparecer. Um pedido claro. Um diagnóstico feito pessoalmente, de noite, sem plateia. Uma visão dita de um jeito que qualquer família entendia. E a coragem de dizer não para o que distraía.
+
+Não tem truque nenhum aí. Tem clareza, preparo e foco.
+
+* * *
+
+Séculos depois, um psiquiatra austríaco chamado Viktor Frankl descobriu o poder de um porquê num lugar onde nenhum laboratório entraria: os campos de concentração nazistas. Ele sobreviveu e contou o que viu em *Em busca de sentido*. Os prisioneiros que mantinham um motivo para seguir, fosse reencontrar alguém que amavam, terminar uma obra ou cumprir uma missão, encontravam forças para suportar o que parecia insuportável. Frankl gostava de repetir uma frase de Nietzsche: quem tem um porquê para viver suporta quase qualquer como.
+
+Na sua empresa, o "como" vai ser duro em muitos meses. Vai ter cliente grande que some, funcionário-chave que pede para sair, juro que sobe. O que te mantém de pé nesses meses não é a planilha. É saber por que você está fazendo tudo isso.
+
+* * *
+
+Então, na prática, como se escreve uma visão que funciona?
+
+Pense num prédio de três andares.
+
+O térreo é o porquê. Por que essa empresa existe, além de pagar as suas contas? Que problema ela resolve, que famílias sustenta, que vida torna possível para você e para quem trabalha com você? Esse andar quase não muda de um ano para o outro. É o alicerce. É o que te tira da cama quando o mês aperta.
+
+O andar do meio é a imagem de três anos. E aqui vai um pedido: escreve como se já tivesse acontecido, no presente. Quanto a empresa fatura e quanto sobra. Quantas pessoas trabalham com você e quem são os líderes abaixo de você. Que cliente você atende e qual deixou de atender. Em que degrau da escada você está, quantas horas trabalha e o que você não faz mais de jeito nenhum.
+
+E, na mesma folha, como estão a sua casa, a sua saúde e a sua fé.
+
+Isso não é detalhe. Já vi muita visão empresarial bonita que custava um casamento. Lembra do capítulo 6? Filho não se demite. Se a sua visão de três anos exige que você perca a família no caminho, ela está errada. Não é visão. É ambição desgovernada.
+
+O último andar é o plano de doze meses. Do alto da imagem de três anos, você desce um degrau e pergunta: o que precisa estar pronto daqui a um ano para que essa imagem continue de pé? Daí saem poucas metas, com número, prazo e um responsável para cada uma.
+
+O porquê te dá energia. A imagem te dá direção. O plano te dá os passos. Sem o porquê, você desiste no primeiro mês ruim. Sem a imagem, você se perde em oportunidades que não são suas. Sem o plano, você só sonha.
+
+Voltemos ao dono da construtora, aquele que travou diante da folha em branco. Ele levou quase quarenta minutos e escreveu uma única página. Não falava só de faturamento. Falava de ter um diretor de obras formado dentro de casa, de buscar o filho na escola às quintas-feiras e de jantar com a esposa sem o celular na mesa.
+
+Quando terminou, olhou para a folha e disse:
+
+— É a primeira vez que eu escrevo a minha empresa e a minha vida no mesmo papel.
+
+É exatamente isso.
+
+Depois, ele dobrou a folha, colocou num envelope e escreveu na frente a data em que ia abrir. Parece só um ritual, mas não é. Quando você escreve à mão, desacelera. Quando fecha o envelope, assume um compromisso. E, quando sabe que um dia vai abrir, marca um encontro com o seu próprio futuro.
+
+* * *
+
+Agora, cuidado com uma armadilha. Uma visão que só existe na cabeça do dono não é a visão da empresa. É um segredo. E segredo não mobiliza ninguém.
+
+Muito empresário reclama que a equipe "não veste a camisa". Quando você pergunta se a equipe sabe para onde a empresa vai nos próximos três anos, vem um silêncio desconfortável. Ninguém veste a camisa de um time que não sabe que campeonato está jogando.
+
+Neemias não levantou aquele muro sozinho. Ele contou a visão de um jeito tão simples que cada família entendeu qual era o seu pedaço.
+
+Faça o mesmo. Conte a visão pessoalmente, olho no olho, primeiro para a sua liderança e depois para todo mundo. Mensagem no grupo não vale. Traduza para cada área o que aquela imagem significa no dia a dia dela. Ligue a visão aos números que você aprendeu a acompanhar no capítulo anterior, para que cada pessoa saiba responder como o trabalho de hoje aproxima a empresa daquela imagem. E repita. Nas reuniões, nas contratações, nas comemorações. A rotina apaga a visão, por isso ela precisa ser dita de novo, sempre.
+
+Quer um teste simples? Pergunte a três pessoas da equipe, separadamente, para onde a empresa está indo. Se ouvir três respostas diferentes, você ainda não comunicou a visão. Você só anunciou.
+
+* * *
+
+Assim que você escrever, vai parecer que tudo conspira contra a sua visão. É normal. Neemias que o diga.
+
+A urgência vai gritar mais alto, porque sempre existe um problema mais barulhento do que o futuro. Se você não proteger na agenda um tempo para pensar adiante, o presente come tudo.
+
+Vão aparecer oportunidades ótimas que não são suas. Visão clara também serve para dizer não. "Estou fazendo uma grande obra. Não posso descer."
+
+E, às vezes, o adversário vai ser você mesmo. Muita gente escreve uma visão pequena porque um dos sócios ocultos ainda está votando: aquela voz que dizia que crescer dá muito trabalho, ou que gente como você não chega tão longe. Se a sua visão não te assusta nem um pouquinho, talvez quem a escreveu tenha sido o medo.
+
+No fim das contas, uma visão só começa a existir de verdade quando aparece na agenda. Pergunte a si mesmo: se essa visão já fosse verdade, o que eu faria esta semana? Que conversa eu teria? Que pessoa eu começaria a formar? Que processo eu escreveria? As respostas viram compromissos com dia e hora.
+
+Três anos viram um ano. O ano vira o trimestre. O trimestre vira o mês, e o mês vira a semana. A semana vira a próxima ação. Visão grande, passo pequeno e constância. Todo mundo é bom em começar; a visão é o que te faz permanecer. É assim que muro caído fica de pé.
+
+### Antes de virar a página
+
+Reserve uma hora. Uma hora sem celular, num lugar tranquilo, com papel e caneta. Escreva à mão.
+
+Primeiro, o térreo: por que a sua empresa existe, além de dar lucro? Até cinco linhas. Depois, o andar do meio: uma página no presente, como se já tivesse acontecido, contando como estão daqui a três anos a sua empresa, a sua casa, a sua saúde e a sua fé.
+
+A pergunta-chave é esta: **que frase resume tudo isso de um jeito que alguém da sua equipe entenderia passando correndo?**
+
+Coloque a página num envelope, escreva na frente a data em que vai abri-lo e guarde num lugar seguro.
+
+**O desafio dos próximos sete dias:** conte a frase para três pessoas. Primeiro, para quem divide a vida com você em casa, e escute de verdade o que ela tem a dizer. Depois, para alguém da sua liderança. Por último, para alguém da equipe que você nunca imaginaria chamando para essa conversa. E bloqueie na agenda duas horas fixas por semana para pensar no futuro.
+
+**No seu Balanço do CPF:** preencha o campo **"A visão de 3 anos em uma frase"**.
+
+Agora você sabe para onde está indo. Falta uma pergunta que talvez seja a mais bonita de todas: para quem você está indo? Nenhuma empresa existe só para o próprio dono. E existe um jeito simples, e um pouco assustador, de descobrir qual é o lugar da sua no mundo.
+
+::: {custom-style="Destaque"}
+"Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração."
+:::
