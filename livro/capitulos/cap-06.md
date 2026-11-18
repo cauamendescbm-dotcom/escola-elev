@@ -94,6 +94,8 @@ Agora, cuidado com o outro extremo. Quando se fala em liderar a casa, muita gent
 
 Liderar a casa não é dar ordens, é dar o exemplo. Não é cobrar mais, é servir primeiro. Não é ganhar todas as discussões, é ter coragem de pedir desculpas antes. É saber para onde a família está indo e conversar sobre isso. É estar inteiro onde está. E é colocar limite com amor, a coisa que Eli não teve coragem de fazer.
 
+Isso vale para homem e para mulher. Para quem é casado e para quem cria os filhos sozinho. Para quem tem filho pequeno e para quem cuida dos pais idosos. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você chegou até aqui, provavelmente essa pessoa é você, ou você divide essa função com alguém.
+
 E não existe neutralidade nisso. Muito empresário acha que, se não toma posição em casa, pelo menos não piora nada. Mas a ausência também é uma decisão. Na empresa você sabe disso muito bem: se o dono não define a cultura, ela se define sozinha, e quase nunca do jeito que ele queria. A casa funciona igual. Se você não lidera a sua casa, alguma coisa vai liderar no seu lugar. As telas, a pressa, o cansaço, as mágoas que ninguém resolveu. E um dia você acorda numa casa com valores que nunca escolheu.
 
 Há mais de dois mil anos, um texto da tradição de Confúcio, chamado *O Grande Saber*, descreveu uma sequência que eu considero um dos resumos mais precisos de liderança já escritos. Os antigos que queriam pôr ordem no mundo primeiro governavam bem o seu Estado. Para governar o Estado, primeiro ordenavam a família. Para ordenar a família, primeiro cultivavam a si mesmos. E, para cultivar a si mesmos, primeiro endireitavam o coração.
@@ -117,6 +119,10 @@ Não estou propondo transformar a família numa empresa. Estou propondo levar pa
 Em muitas famílias de empresários, a mudança começou com uma conversa de trinta minutos por semana, sem telas. O casal e, quando os filhos têm idade, os filhos também. Três perguntas: o que foi bom nesta semana, o que foi difícil e o que a gente vai fazer junto na próxima. Nas primeiras vezes parece formal demais. Depois de algumas semanas, vira o momento mais esperado da casa.
 
 Também ajuda muito definir uma retirada fixa e fazer a casa viver dela. A estabilidade da sua família não pode subir e descer junto com o faturamento do mês. Mais à frente, quando a gente falar de números, esse assunto volta.
+
+Ajuda também a família ter uma visão, do mesmo jeito que a empresa tem. Onde vocês querem estar daqui a cinco anos? Que tipo de família querem ser? O que querem que os filhos lembrem da infância deles? E ter poucos valores, com comportamento. Porque valor sem comportamento é só frase bonita na parede, em casa também. Se um valor da família é respeito, o que isso significa na prática? Que ninguém grita? Que ninguém fica no celular durante o jantar? Que ninguém sai de casa brigado?
+
+Eu sei que tudo isso pode parecer distante do assunto da empresa. Não é. O empresário com a casa em ordem decide melhor. Não leva a briga da manhã para a reunião das dez. Não desconta na equipe a tensão que não resolveu com o cônjuge. Não usa a empresa como esconderijo, então consegue sair do operacional na hora certa. Tem alguém em casa com quem pensar as grandes decisões. E tem um motivo maior do que o próprio ego para crescer.
 
 E faça o teste da agenda. Abra a última semana inteira. Com uma cor, marque tudo o que foi da empresa. Com outra, marque o que foi de propósito para a família. Não vale contar o tempo em que você estava em casa respondendo mensagem. Só vale presença de verdade, com atenção inteira.
 

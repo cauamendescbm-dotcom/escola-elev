@@ -88,7 +88,27 @@ Ajuda muito separar o fato da interpretação. "Meu negócio está em dificuldad
 
 E o espírito é o que te segura quando o resto balança. Um empresário com o corpo em dia e a cabeça organizada, mas sem um "para quê", funciona. Só não vive. Ele cumpre a agenda inteira e chega ao fim do ano se perguntando para onde foi a própria vida.
 
+O espírito também precisa de alimento, e ele não vem por acaso. Vem de pequenos hábitos que quase ninguém agenda. Alguns minutos de silêncio antes de abrir o celular. Oração. Uma leitura que não seja sobre trabalho. Gratidão escrita no fim do dia. Uma caminhada sem fone. Conversa sem pauta com quem você ama. Nada disso aparece no relatório do mês. Mas é isso que impede o relatório do mês de virar o centro da sua vida.
+
+Quem alimenta o espírito decide a partir de algo maior do que o medo do próximo boleto. E isso, curiosamente, costuma fazer o próximo boleto ser pago com mais tranquilidade.
+
 Cuidar de si não é luxo. É gestão de risco.
+
+* * *
+
+Talvez a mudança mais útil que eu conheço para um empresário cansado seja esta: parar de gerir só o tempo e começar a gerir a energia.
+
+O dia tem vinte e quatro horas para todo mundo. Mas nem toda hora vale o mesmo. Existe o momento em que você pensa com clareza, enxerga longe e decide bem. Para a maioria das pessoas, é a primeira parte do dia, depois de uma noite bem dormida. E existe o momento em que tudo parece mais grave do que é, em que a paciência acaba e a decisão sai torta. Quase sempre, é o fim do dia.
+
+Agora repara onde a maioria dos empresários coloca as suas decisões mais importantes. A conversa difícil com o sócio fica para depois do expediente. A análise do caixa fica para a noite, "quando tudo se acalmar". A resposta ao cliente que reclamou sai às onze, no sofá. E as primeiras horas da manhã, as melhores, vão embora apagando incêndio, respondendo mensagem e resolvendo o que qualquer outra pessoa poderia resolver.
+
+O operador gasta a melhor energia do dia no que é urgente. O líder protege essa energia para o que é importante.
+
+Duas regras simples ajudam muito. A primeira: nenhuma decisão grande, e nenhuma mensagem difícil, depois das dez da noite. Ela pode esperar até de manhã. Quase sempre, de manhã, você vai escrever outra coisa. A segunda: reserve a primeira hora de trabalho para pensar, e não para reagir. Uma hora por dia em que você olha para a empresa de cima, e não de dentro.
+
+Parece pouco. Mas pensa no que significam cinco horas por semana de dono pensando com a cabeça descansada, em vez de dono reagindo com a cabeça cansada. Em um ano, é outra empresa.
+
+E tem um termômetro que não mente: as férias. Se você não consegue ficar uma semana fora sem que a empresa entre em pânico, não é falta de sorte com a equipe. É um retrato fiel de onde você está na escada. E também de quanto você vai continuar pagando com o próprio corpo enquanto nada mudar.
 
 * * *
 

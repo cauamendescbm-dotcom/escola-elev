@@ -138,6 +138,12 @@ E, às vezes, o adversário vai ser você mesmo. Muita gente escreve uma visão 
 
 No fim das contas, uma visão só começa a existir de verdade quando aparece na agenda. Pergunte a si mesmo: se essa visão já fosse verdade, o que eu faria esta semana? Que conversa eu teria? Que pessoa eu começaria a formar? Que processo eu escreveria? As respostas viram compromissos com dia e hora.
 
+E uma visão precisa de revisão, como um carro precisa de revisão. Quem escreve uma vez e nunca mais olha descobre, três anos depois, que estava dirigindo por outra estrada. Por isso, crie um ritual simples para o fim de cada trimestre: uma manhã fora da empresa, sozinho ou com o seu braço direito, com três papéis na mesa. A visão, os cinco números do último trimestre e a agenda dos últimos noventa dias.
+
+Aí você faz três perguntas. O que os números dizem sobre a distância entre a empresa de hoje e a da visão? O que a agenda diz sobre onde o meu tempo realmente foi parar? E o que eu preciso parar, começar ou continuar nos próximos noventa dias?
+
+A terceira pergunta é a que mais revela. Quase sempre aparece alguma coisa para parar: um cliente que dá trabalho e não dá margem, uma reunião que não decide nada, um produto que você mantém por apego. Visão não serve só para acrescentar. Serve também para podar.
+
 Três anos viram um ano. O ano vira o trimestre. O trimestre vira o mês, e o mês vira a semana. A semana vira a próxima ação. Visão grande, passo pequeno e constância. Todo mundo é bom em começar; a visão é o que te faz permanecer. É assim que muro caído fica de pé.
 
 ### Antes de virar a página

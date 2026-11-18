@@ -100,9 +100,27 @@ Se a cultura é a identidade da empresa, cada contratação é uma decisão de i
 
 O erro mais comum que eu vejo é contratar pelo currículo e demitir pelo comportamento. O dono se encanta com a experiência, contrata, e seis meses depois descobre que a pessoa mente, fofoca ou trata mal os colegas. Aí demite, com custo financeiro e emocional para todo mundo. Faça como Gideão: observe a beira do rio antes de fechar o contrato. Pergunte como a pessoa agiu quando errou, quando discordou do chefe, quando ninguém estava vendo. E lembre do conselho de Jetro que a gente viu no capítulo anterior: gente capaz e de caráter. As duas coisas juntas. Nunca só uma delas.
 
+Na prática, a beira do rio cabe em três perguntas de entrevista que dizem mais do que qualquer currículo. "Me conta de um erro seu que custou caro. O que você fez nas primeiras vinte e quatro horas?" "Me fala de uma vez em que você discordou do seu chefe. Como foi a conversa?" "O que os seus antigos colegas diriam que é o seu pior defeito?" Quem nunca errou, nunca discordou e não tem defeito está te mostrando, logo de cara, como vai agir quando as coisas apertarem: escondendo.
+
 O mesmo vale para promover. Se você promove quem bate a meta mas atropela a cultura, está dizendo para a empresa inteira que os valores são negociáveis. E valor negociável não é valor. É preço.
 
 Eu sei que uma das decisões mais difíceis da liderança é desligar alguém que vende muito, mas envenena o ambiente. Quase todo dono adia. E quase todo dono, quando finalmente decide, descobre duas coisas. A primeira é que a equipe já sabia, havia muito tempo, e estava só esperando para ver se a placa era de verdade. A segunda é que o resultado não cai como ele temia. Muitas vezes sobe, porque as pessoas boas param de gastar energia se defendendo.
+
+* * *
+
+Quer descobrir qual é a cultura real da sua empresa, e não a da placa? Existe um teste simples, e eu gosto dele porque não depende da sua opinião.
+
+Chame a pessoa que entrou mais recentemente na equipe. Alguém com dois ou três meses de casa. Num café, sem pressa e sem ar de avaliação, pergunte: "O que você aprendeu aqui, nestes primeiros meses, sobre como as coisas realmente funcionam? Não o que te disseram. O que você percebeu."
+
+Depois fique quieto e escute.
+
+O recém-chegado ainda não se acostumou com nada. Ele enxerga o que você já parou de ver. Vai dizer que reunião aqui começa atrasada, que o gerente fulano decide e o dono desfaz, que erro é escondido até estourar, que quem fala mais alto ganha. Ou vai dizer coisas boas que você nem sabia que existiam: que aqui as pessoas se ajudam, que o cliente é levado a sério, que ninguém é humilhado.
+
+Seja o que for, aquilo é a sua cultura. A verdadeira. A que foi aprendida na beira do rio, sem manual nenhum.
+
+Se a resposta te incomodar, não brigue com o mensageiro. Agradeça. Ele acabou de te entregar, de graça, o diagnóstico que muita consultoria cobraria caro para fazer. E repare de onde vem cada comportamento que ele descreveu. Quase sempre, se você seguir o fio com honestidade, ele termina em uma decisão sua, ou em uma coisa que você deixou de decidir.
+
+Depois do diagnóstico, escolha um único comportamento para mudar primeiro. Não tente consertar a cultura inteira de uma vez. Cultura muda como um navio, não como uma lancha. Uma correção pequena, mantida com constância, muda o destino inteiro da viagem.
 
 * * *
 

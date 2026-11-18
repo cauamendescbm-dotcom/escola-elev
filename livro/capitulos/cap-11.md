@@ -88,6 +88,8 @@ A primeira decisão financeira de um CPF maduro é simples de falar e difícil d
 
 A conta da empresa é da empresa. A conta pessoal é pessoal. Você recebe um pró-labore definido, como qualquer outra função, e retira lucro só quando ele existe, de forma planejada. Nenhuma despesa pessoal passa pela empresa "só desta vez".
 
+Se hoje está tudo misturado, não tente desfazer anos de mistura num fim de semana. Faça em três movimentos. Primeiro, liste tudo o que é pessoal e passa pela empresa, sem julgamento, só para enxergar. Segundo, defina a data a partir da qual cada item para de passar. Terceiro, ajuste o seu pró-labore para cobrir o que é seu de verdade. Se o novo pró-labore não couber no caixa, você acabou de encontrar a informação mais valiosa do ano.
+
 Parece burocracia. É cura de identidade. E, como toda cura, costuma doer nos primeiros meses, porque revela quanto a empresa estava pagando por você sem ninguém anotar. Só que, quando você separa as contas, separa também os papéis. Você deixa de ser a empresa e passa a ser o líder dela. E, curiosamente, começa a respeitar mais o próprio dinheiro, porque ele finalmente tem limite e destino.
 
 Jesus contou uma pequena história sobre isso. Quem de vocês, querendo construir uma torre, não se senta primeiro para calcular o custo? Senão, lança o alicerce, não consegue terminar, e todos que passam começam a zombar: esse homem começou a construir e não foi capaz de acabar.
@@ -97,6 +99,18 @@ Quantos empresários começam torres que não conseguem terminar? Abrem filial s
 Eu conheço essa sensação por dentro. Na pandemia, a empresa que eu dirigia estava no prejuízo, e eu tentava resolver com mais horas de trabalho. O que virou o jogo foi ter coragem de olhar para os números como eles eram, e não como eu queria que fossem.
 
 [AUTOR: em duas ou três frases, a primeira vez que você abriu os números reais da empresa na pandemia e o que sentiu ao ver o tamanho do vazamento.]
+
+* * *
+
+Duas perguntas aparecem sempre que eu chego neste ponto da conversa.
+
+A primeira: "Quanto eu devo me pagar?" A resposta mais honesta é outra pergunta. Quanto você pagaria a um profissional competente para fazer exatamente o que você faz hoje na empresa? Esse é o ponto de partida do seu pró-labore. Se a empresa não consegue pagar esse valor, você não tem um problema de retirada. Tem um problema de modelo de negócio, e é melhor descobrir agora do que daqui a cinco anos. E, se você se paga muito acima disso, também precisa saber: parte do que você chama de salário é lucro antecipado, retirado antes de existir.
+
+A segunda: "Com que frequência eu preciso olhar tudo isso?" Uma vez por mês, no mesmo dia, sempre. Escolha os primeiros dias úteis do mês e marque na agenda trinta minutos sagrados com os números, como quem marca uma reunião com o cliente mais importante. Se tiver sócio, com o sócio. Se a sua família depende diretamente da empresa, vale a pena, de vez em quando, sentar com o seu cônjuge e mostrar a verdade, sem enfeite.
+
+Eu sei que muita gente evita esse encontro. E quase nunca é por falta de tempo. É por medo do que vai aparecer. Só que o número que você não olha não deixa de existir. Ele só cresce no escuro. O empresário que olha os números todo mês ainda vai ter meses ruins, mas nunca mais vai ser pego de surpresa. E, depois de alguns meses, acontece uma coisa curiosa: aquele encontro que dava medo vira o momento mais tranquilo do mês, porque a ansiedade quase sempre mora no que a gente não sabe.
+
+Conhecer os números não é só técnica. É coragem praticada com regularidade.
 
 * * *
 

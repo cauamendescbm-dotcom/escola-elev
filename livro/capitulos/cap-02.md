@@ -104,15 +104,31 @@ A sua voz herdada é uma estrada. Foi aberta por anos de repetição, muitas vez
 
 * * *
 
+Antes de abrir a trilha nova, é preciso saber reconhecer a velha. E aqui está a dificuldade: a voz herdada não se apresenta como voz herdada. Ela se apresenta como bom senso, como experiência, como "eu conheço o mercado".
+
+Com o tempo, eu aprendi a desconfiar de uma convicção quando ela tem três características.
+
+Ela fala em absolutos. "Ninguém tem compromisso." "Sempre que eu cresço, alguma coisa dá errado." "Funcionário bom não existe." A realidade quase nunca é tão redonda. Quando uma frase sobre pessoas ou dinheiro começa com "ninguém", "sempre" ou "nunca", é bem provável que ela tenha sido aprendida, e não observada.
+
+Ela chega com uma emoção maior do que a situação. Um cliente pede desconto e você sente uma vergonha desproporcional. Um gerente toma uma decisão sem te consultar e você sente uma raiva que não combina com o tamanho do fato. Quando a reação é maior do que o motivo, normalmente você não está reagindo ao presente. Está reagindo a uma cena antiga.
+
+E ela protege você de um perigo que já não existe. O seu avô talvez tenha perdido tudo confiando num sócio, num tempo sem contrato, sem auditoria, sem nenhuma proteção. A desconfiança fazia sentido para ele. Na sua empresa, com controles, números e processos, ela só serve para afastar gente boa.
+
+Existe ainda uma voz que merece atenção especial, porque ela é a mais silenciosa de todas: a lealdade à origem. Muita gente que veio de baixo sente, lá no fundo, que crescer demais é trair a família, o bairro, o pai que trabalhou a vida inteira sem conseguir sair do lugar. Então cresce até um certo ponto e para, sem saber por quê.
+
+Se é o seu caso, ouve isto: honrar a sua origem não é ficar nela. Às vezes a forma mais bonita de honrar quem lutou antes de você é chegar aonde ele não pôde chegar, e voltar para buscar outros.
+
+* * *
+
 E como se abre uma trilha nova? Na prática, são quatro movimentos. Nenhum é mágico. Todos funcionam.
 
-O primeiro é **enxergar**. Preste atenção nas frases que você repete quando algo dá errado. "Eu sabia." "Sempre acontece comigo." "Ninguém aqui tem compromisso." Essas frases são a ponta de crenças muito mais fundas.
+O primeiro é enxergar. Preste atenção nas frases que você repete quando algo dá errado. "Eu sabia." "Sempre acontece comigo." "Ninguém aqui tem compromisso." Essas frases são a ponta de crenças muito mais fundas.
 
-O segundo é **rastrear**. De quem é essa voz? Quando você a ouviu pela primeira vez? Muitas vezes você vai descobrir que ela era verdadeira para alguém, num contexto específico. Talvez o seu pai tenha mesmo sofrido para crescer, porque cresceu sem estrutura, sem ajuda, num país em crise. Isso explica a frase dele. Não a torna verdadeira para você.
+O segundo é rastrear. De quem é essa voz? Quando você a ouviu pela primeira vez? Muitas vezes você vai descobrir que ela era verdadeira para alguém, num contexto específico. Talvez o seu pai tenha mesmo sofrido para crescer, porque cresceu sem estrutura, sem ajuda, num país em crise. Isso explica a frase dele. Não a torna verdadeira para você.
 
-O terceiro é **confrontar**. Coloque a crença diante dos fatos. "Não dá para confiar em ninguém" não resiste ao fato de que você confia no piloto do avião e no médico que te opera. "Dinheiro é sujo" não resiste a uma leitura honesta de Provérbios, que trata a prosperidade fruto de trabalho e sabedoria como bênção.
+O terceiro é confrontar. Coloque a crença diante dos fatos. "Não dá para confiar em ninguém" não resiste ao fato de que você confia no piloto do avião e no médico que te opera. "Dinheiro é sujo" não resiste a uma leitura honesta de Provérbios, que trata a prosperidade fruto de trabalho e sabedoria como bênção.
 
-O quarto é **substituir**. Não basta arrancar a frase velha. É preciso plantar outra no lugar, curta, no presente, verdadeira. "Crescer dá muito trabalho" pode virar "crescer com estrutura dá menos trabalho do que continuar pequeno sem ela". "Gente honesta não fica rica" pode virar "preço justo é honestidade com todo mundo, inclusive comigo".
+O quarto é substituir. Não basta arrancar a frase velha. É preciso plantar outra no lugar, curta, no presente, verdadeira. "Crescer dá muito trabalho" pode virar "crescer com estrutura dá menos trabalho do que continuar pequeno sem ela". "Gente honesta não fica rica" pode virar "preço justo é honestidade com todo mundo, inclusive comigo".
 
 Nas primeiras semanas, a voz antiga vai falar mais alto. É natural. Ela teve trinta, quarenta anos de vantagem. Não desanime quando perceber que caiu no padrão de sempre. Perceber já é sinal de que a trilha nova está sendo aberta. Antes, você nem notava. Agora nota. E cada vez que nota, ganha a chance de escolher diferente.
 

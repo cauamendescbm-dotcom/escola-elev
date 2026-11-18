@@ -138,7 +138,7 @@ Vamos começar por dentro: quem você é, que vozes você herdou, quem foi o pri
 
 Pode parecer uma volta longa para quem quer resultado. Não é. É o caminho mais curto que eu conheço. Empresa que muda só por fora volta ao que era em seis meses.
 
-Ao longo da conversa, você vai encontrar histórias de um livro escrito há milhares de anos, ideias de pensadores antigos e resultados de pesquisas recentes. Eu escrevo assim por convicção. A Bíblia é, para mim, o maior manual de liderança já escrito, e eu sempre me impressiono quando a ciência chega, por outro caminho, ao mesmo lugar. Você não precisa compartilhar a minha fé para aproveitar este livro. Precisa só estar disposto a se olhar com honestidade.
+Ao longo da conversa, você vai encontrar histórias de um livro escrito há milhares de anos, ideias de pensadores antigos e resultados de pesquisas recentes. Eu escrevo assim por convicção. A Bíblia é, para mim, o maior manual de liderança já escrito, e eu sempre me impressiono quando uma pesquisa feita em laboratório confirma algo que já estava escrito ali há três mil anos. Você não precisa compartilhar a minha fé para aproveitar este livro. Precisa só estar disposto a se olhar com honestidade.
 
 Separe um caderno, de papel, se puder. Escrever à mão desacelera o pensamento e dificulta a mentira. E, se der, faça a jornada com alguém: o seu cônjuge, o seu sócio, o seu braço direito.
 

@@ -120,6 +120,18 @@ A quarta clínica não foi aberta. Ela fez uma coisa mais difícil: reorganizou 
 
 * * *
 
+Existe ainda uma consequência prática que pouca gente enxerga. Se a sua equipe espera de você direção, limites e proteção, então você pode oferecer conscientemente aquilo que, talvez, não recebeu. E pode começar amanhã.
+
+Dar direção, numa empresa, é dizer para onde vamos e por quê, com tanta clareza que qualquer pessoa da equipe consiga repetir. É também apontar para alguém o que você vê nele antes que ele mesmo enxergue: "Eu acho que você daria um ótimo líder de equipe. Vamos trabalhar para isso?". Muita gente nunca ouviu uma frase assim de ninguém. Quando ouve do chefe, não esquece.
+
+Dar limites é combinar o que se espera antes de cobrar o que não foi entregue. É corrigir cedo, em particular e com respeito, em vez de acumular irritação até explodir na reunião. Limite dado com clareza não humilha. Organiza. E a equipe, por incrível que pareça, se sente mais segura com um líder que corrige do que com um que finge não ver.
+
+Dar proteção é assumir publicamente a responsabilidade quando algo dá errado e tratar o erro de cada um longe da plateia. É defender a equipe diante do cliente abusivo. É garantir que ninguém seja punido por trazer um problema cedo. Equipes protegidas arriscam, inovam e falam a verdade. Equipes desprotegidas se escondem.
+
+Repara que nenhuma dessas três coisas depende de você ter tido um pai perfeito. Dependem de você decidir ser, para outras pessoas, o líder que gostaria de ter tido.
+
+* * *
+
 E tem mais uma coisa, talvez a mais importante.
 
 Se você tem filhos, neste exato momento você também é o primeiro líder que alguém está conhecendo. Eles estão vendo como você chega em casa, como fala da empresa, como trata quem erra, se está presente ou só fisicamente ali. Daqui a trinta anos, alguém vai perguntar a eles o que acontecia quando você chegava.

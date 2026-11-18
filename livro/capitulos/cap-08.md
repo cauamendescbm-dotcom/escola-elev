@@ -68,6 +68,10 @@ No começo, incomoda. Você vai se sentir pequeno. Vai ter vontade de voltar par
 
 Esse incômodo é o barulho do crescimento.
 
+E onde ficam essas salas? Mais perto do que parece. Uma associação de empresários do seu setor em que você nunca quis entrar porque "é só gente grande". Um conselho consultivo com duas ou três pessoas mais experientes, que se reúne uma vez por mês para olhar os seus números. Um mentor que já fez o caminho que você quer fazer. Um grupo pequeno de donos de empresa, de setores diferentes, que se encontra com regularidade e com uma regra clara: aqui ninguém vem só para desabafar.
+
+O formato importa menos do que o critério. Se você sai dali do mesmo tamanho que entrou, toda vez, não é uma sala nova. É a mesma sala com outra decoração.
+
 * * *
 
 Quer ver o que um ambiente é capaz de fazer com as pessoas? Tem uma cena na vida de Davi que eu considero uma das maiores aulas de liderança de que se tem registro.

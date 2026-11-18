@@ -52,6 +52,12 @@ Com uma carta, Jeremias tira aquele povo da posição de vítima que espera e o 
 
 Muito empresário vive de mala pronta. "Quando o mercado melhorar." "Quando o governo mudar." "Quando eu achar uma equipe boa." E, enquanto isso, não constrói nada que dure. A carta continua valendo: a sua rua, a sua cidade e o seu setor são o lugar onde o seu CNPJ deve buscar a paz. E, na paz deles, você também vai ter paz.
 
+Na prática, buscar a paz da cidade não exige uma fundação nem um departamento de responsabilidade social. Exige olhar ao redor com outros olhos. Começa com o comerciante que conhece pelo nome os vizinhos de porta. Passa pela empresa que contrata gente do próprio bairro e forma essas pessoas, em vez de reclamar que "não tem mão de obra". Inclui o empresário que aceita ensinar o que sabe para quem está começando no mesmo setor, mesmo que um dia aquele iniciante vire concorrente.
+
+E é também uma questão de interesse bem entendido. A empresa não vive numa ilha. Se o bairro empobrece, o cliente some. Se a escola da região é fraca, falta gente preparada para contratar. Se o comércio ao redor fecha, a rua fica escura e o seu movimento cai junto. A frase de Jeremias tem uma lógica que qualquer economista entenderia: "na paz dela vocês terão paz". O seu CNPJ prospera de verdade quando o lugar onde ele está prospera também.
+
+Há empresários que tratam a cidade como um lugar de onde extraem resultado. E há os que tratam a cidade como um lugar onde plantam. Os dois podem faturar o mesmo por um tempo. Só os segundos constroem algo que alguém sentiria falta.
+
 * * *
 
 Sabe quando você joga uma pedra no lago e as ondas se espalham? É um bom jeito de enxergar o alcance de uma empresa.
@@ -82,6 +88,14 @@ E tem outra coisa que anda junto. Em algum momento, a sua empresa vai encontrar 
 
 O atalho sempre promete crescimento rápido. E quase sempre entrega duas coisas: um risco que cresce em silêncio e uma identidade corroída por dentro, sem você perceber.
 
+Imagine o dono de uma loja de materiais de construção, numa cidade do interior. O maior cliente dele, uma incorporadora da região, propõe um acerto: a nota sai com um valor, a entrega com outro, e a diferença fica "entre os dois". O pedido daquele mês pagaria o décimo terceiro da equipe inteira. E o argumento vem embalado com cuidado: "Todo mundo faz assim. Se você não fizer, o seu concorrente faz."
+
+Ele passa a noite sem dormir. Faz as contas do que perde. Pensa nos funcionários, no caixa, no banco. E, de manhã, liga e recusa.
+
+Perdeu o cliente naquele ano. Dois anos depois, a incorporadora foi investigada, e várias empresas da região que tinham entrado no acerto foram arrastadas junto. A loja dele não.
+
+Seria fácil contar essa história como se a integridade sempre fosse recompensada rápido. Não é. Às vezes o preço chega antes da colheita, e a colheita demora. Mas existe uma conta que quase ninguém faz: quanto custa, por dentro, ser uma pessoa na frente da equipe e outra na frente do cliente grande? Esse custo não aparece no balanço do CNPJ. Aparece no balanço do CPF, em forma de insônia, de medo de auditoria e de vergonha de olhar o filho nos olhos.
+
 Integridade não é só ficar longe do crime. É ser a mesma pessoa quando ninguém está olhando. É aquilo que vimos lá no começo: identidade é o que permanece quando o cenário muda. Quando o seu "sim" é sim e o seu "não" é não, o mercado demora a perceber. Mas, quando percebe, não esquece.
 
 * * *
@@ -103,6 +117,12 @@ O professor Adam Grant, da Wharton, estudou uma equipe de telemarketing que liga
 Nada no trabalho mudou: o mesmo roteiro, o mesmo salário, a mesma cadeira. A diferença é que eles tinham visto o rosto de quem o trabalho deles ajudava.
 
 Agora pense na sua equipe. Quantas pessoas trabalham com você sem nunca ter visto o rosto de quem a empresa ajuda? Quantas acham que estão só embalando, vendendo, atendendo, quando na verdade estão sustentando a casa de alguém? Mostrar isso a elas não é discurso motivacional. É dar ao trabalho o sentido que ele já tem.
+
+E não precisa de nada sofisticado. Uma indústria pode levar a equipe de produção para ver o produto funcionando na casa de um cliente. Uma clínica pode abrir a reunião de segunda-feira com o recado de um paciente que voltou a andar. Uma escola pode convidar um ex-aluno para contar, para quem cuida da limpeza e da portaria, o que aquela escola significou na vida dele. Um atacadista pode mostrar ao motorista a foto da prateleira que ele abasteceu numa cidade onde não chegava quase nada.
+
+Repare que, em nenhum desses casos, o dono precisa falar de propósito. O rosto fala sozinho. E, quando a equipe vê o rosto, uma coisa muda no jeito de trabalhar: o cuidado deixa de ser uma regra cobrada pelo chefe e vira uma escolha de quem sabe para quem está fazendo.
+
+Isso também muda você. O dono que vê de perto a vida que a empresa toca aguenta melhor o mês ruim, decide com mais calma e tem menos vontade de pegar atalho. O sentido não serve só para motivar a equipe. Serve para sustentar o CPF que sustenta todo o resto.
 
 * * *
 
