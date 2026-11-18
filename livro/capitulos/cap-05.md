@@ -132,6 +132,16 @@ E tem uma troca pequena que muda muita coisa. Em vez de abrir a reunião com "de
 
 Mais uma: nas próximas reuniões, fale por último. Enquanto o maior da sala fala primeiro, todo mundo só repete o que ele disse.
 
+* * *
+
+Talvez você esteja pensando: "Tudo bem, mas como eu sei se já virei o maior da sala dentro da minha própria empresa?".
+
+Faz um teste honesto com a última reunião importante que você conduziu. Quanto tempo você falou e quanto tempo ouviu? Alguém trouxe uma má notícia antes de você descobrir sozinho? Alguma ideia que não era sua foi aprovada? E, quando você deu a sua opinião, alguém ainda tinha coragem de acrescentar um "mas"?
+
+Se as respostas incomodaram, a solução não é se humilhar. É criar, de propósito, espaço para a verdade entrar. Escolha uma pessoa da sua liderança e dê a ela uma permissão explícita, dita em voz alta e na frente dos outros: "Quando você achar que eu estou errado, eu quero ouvir. Aqui, discordar de mim não é falta de respeito. É lealdade à empresa". E depois cumpra. Na primeira vez que essa pessoa te contrariar, agradeça antes de responder. Toda a equipe vai estar olhando para esse momento, porque é nele que se descobre se a permissão era de verdade ou só um discurso bonito.
+
+Os líderes que crescem por muito tempo não são os que nunca erram. São os que mantêm por perto gente com liberdade para dizer que eles erraram.
+
 ### Antes de virar a página
 
 Responde com a honestidade de quem não precisa provar nada para ninguém.

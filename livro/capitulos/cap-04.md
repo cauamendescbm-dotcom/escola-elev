@@ -62,6 +62,10 @@ E, no fim do dia, ela vai para casa junto com você. A reunião da tarde ainda q
 
 A ofensa não fica quietinha num canto da memória. Ela trabalha. Dá opinião. Decide. E decide em seu nome, com a sua assinatura.
 
+Quer saber se esse sócio está no seu quadro? Repara em três sinais. O primeiro é a história que você conta demais. Todo empresário magoado tem um caso que repete em jantar, em reunião, em conversa de corredor, sempre com os mesmos detalhes, como quem confere se a ferida ainda está lá. O segundo é a regra exagerada: aquela norma da empresa que ninguém entende direito, mas que existe "por causa do que aconteceu da outra vez". E o terceiro é a reação desproporcional. Um funcionário pede para ver um relatório e você sente o sangue subir. Não é o pedido que te irrita. É a lembrança que ele acorda.
+
+Se você reconheceu um desses sinais, não se culpe. Só acende a luz. Quem não enxerga o sócio oculto não tem como tirá-lo da mesa.
+
 * * *
 
 Existe uma história muito antiga sobre exatamente isso: um homem traído pelas pessoas mais próximas e que, anos depois, recebeu nas mãos o poder de se vingar.
