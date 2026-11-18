@@ -42,7 +42,7 @@ Cheio de dias. Não só de dinheiro. Não só de obras. De dias.
 
 * * *
 
-Repara no que Davi fez naquele palácio. Ele não aceitou apenas que outro terminaria o seu sonho. Ele trabalhou para que o outro estivesse pronto quando a hora chegasse.
+Observe o que Davi fez naquele palácio. Ele não aceitou apenas que outro terminaria o seu sonho. Ele trabalhou para que o outro estivesse pronto quando a hora chegasse.
 
 Isso é o terceiro degrau. "Eu formo quem conduz."
 

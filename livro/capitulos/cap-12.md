@@ -36,7 +36,7 @@ Visão também não é desejo. "Quero crescer", "quero ganhar mais", "quero ter 
 
 Visão é uma imagem clara de um futuro concreto, tão nítida que muda o que você decide hoje.
 
-Repara nesse último pedaço. Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração.
+Pense nesse último pedaço. Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração.
 
 O profeta Habacuque recebeu a ordem de escrever a visão "para que a possa ler até quem passa correndo". Quem passa correndo é a sua equipe no meio do expediente. É quem divide a casa com você, no fim do dia. É você mesmo numa segunda-feira caótica, com vinte mensagens não lidas. Se a sua visão precisa de meia hora de explicação, ela ainda não está pronta.
 

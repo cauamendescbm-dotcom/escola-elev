@@ -32,7 +32,7 @@ Mas ela vale também num sentido mais fundo. A palavra crédito vem do latim *cr
 
 E aqui mora um dos gargalos mais silenciosos que eu encontro. O dono sabe quanto vende, mas não sabe quanto sobra. As contas pessoais passam pela empresa, e os buracos da empresa são tapados com o dinheiro do dono, sem registro, sem critério e sem fim. Quase sem ninguém perceber, a estrutura cresce mais rápido do que a margem consegue pagar.
 
-Repara que tudo isso tem uma raiz só. O dono que mistura as contas, quase sempre, é o dono que mistura as identidades. Ele não se vê como alguém que dirige uma empresa. Ele se vê como a própria empresa. Então o dinheiro da empresa é dele, e o dinheiro dele é da empresa.
+Perceba que tudo isso tem uma raiz só. O dono que mistura as contas, quase sempre, é o dono que mistura as identidades. Ele não se vê como alguém que dirige uma empresa. Ele se vê como a própria empresa. Então o dinheiro da empresa é dele, e o dinheiro dele é da empresa.
 
 Lembra da identidade fundida, lá no primeiro capítulo? Ela aparece primeiro no extrato bancário.
 

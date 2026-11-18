@@ -30,7 +30,7 @@ Foi o jeito.
 
 Ele saiu e deixou tudo na mão da equipe. Sem dizer para onde a empresa ia. Sem descrever o que cada um tinha de fazer. Sem nenhum número para saber quem ia bem, quem precisava de ajuda e onde o dinheiro estava vazando. Treinamento, nem pensar. Ele não participava nem da contratação.
 
-E repara na ironia. O dono dizia que as pessoas não tinham compromisso. Mas, sem perceber, fazia exatamente a mesma coisa: não estava comprometido com a própria responsabilidade de liderar.
+E veja a ironia. O dono dizia que as pessoas não tinham compromisso. Mas, sem perceber, fazia exatamente a mesma coisa: não estava comprometido com a própria responsabilidade de liderar.
 
 Ele não tinha saído da operação. Tinha saído da liderança.
 
@@ -64,7 +64,7 @@ Traduzindo: "Eles precisam de mim".
 
 A resposta de Jetro é dura e carinhosa ao mesmo tempo: "Não é bom o que você está fazendo. Você vai se esgotar, você e esse povo. Isso é pesado demais para você. Você não consegue fazer sozinho".
 
-Repara que Jetro não chama Moisés de centralizador, de vaidoso, de controlador. Ele só diz: do jeito que está, não vai aguentar. E, em vez de apenas criticar, entrega um caminho.
+Perceba que Jetro não chama Moisés de centralizador, de vaidoso, de controlador. Ele só diz: do jeito que está, não vai aguentar. E, em vez de apenas criticar, entrega um caminho.
 
 Primeiro, ensine a eles as regras e mostre o caminho em que devem andar e o trabalho que devem fazer. Antes de passar qualquer coisa adiante, deixe claro o que é certo, como se faz e o que se espera.
 

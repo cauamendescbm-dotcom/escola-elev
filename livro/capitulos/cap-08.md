@@ -36,7 +36,7 @@ Um dia, ele comentou na mesa que estava pensando em contratar um gerente e sair 
 
 O Fábio riu junto, mudou de assunto e pediu mais uma. Mas voltou para casa com uma sensação esquisita. Gostava daqueles caras. Tinha ido ao casamento de metade deles. E percebeu uma coisa que doeu: se quisesse crescer, não ia conseguir fazer isso ali. Ali, crescer era visto quase como traição.
 
-Repara que ninguém naquela mesa era mal-intencionado. Ninguém queria o mal do Fábio. Eles só estavam defendendo o normal do grupo. E o normal do grupo era o teto do grupo.
+Perceba que ninguém naquela mesa era mal-intencionado. Ninguém queria o mal do Fábio. Eles só estavam defendendo o normal do grupo. E o normal do grupo era o teto do grupo.
 
 * * *
 
