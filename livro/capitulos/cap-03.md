@@ -4,192 +4,138 @@
 > "Porque, como imaginou na sua alma, assim é."
 > — Provérbios 23:7
 
+Eu terminei o capítulo anterior falando de vozes. Agora quero te apresentar uma delas, porque ela quase quebrou uma empresa que tinha tudo para dar certo.
+
 "Crescer dá muito trabalho."
 
-Ele ouviu essa frase tantas vezes na infância que nem lembrava mais quem tinha dito primeiro. Talvez o pai, chegando cansado do trabalho. Talvez a mãe, ao ver uma vizinha que tinha "subido na vida" e vivia estressada. Talvez os dois.
+Ele ouviu essa frase tantas vezes na infância que nem lembrava mais quem tinha dito primeiro. Talvez o pai, chegando cansado do serviço. Talvez a mãe, comentando sobre uma vizinha que tinha "subido na vida" e vivia estressada. Talvez os dois.
 
-O que ele lembrava era do tom. Crescer era sinônimo de sofrer. Ter mais significava se preocupar mais. Quem prosperava pagava um preço alto demais.
+O que ele lembrava era do tom. Crescer era sinônimo de sofrer. Ter mais significava se preocupar mais. Quem prosperava pagava caro demais por isso.
 
-Décadas depois, aquele menino era dono de um pet shop. E não um pet shop qualquer: um negócio num dos setores que mais crescem no país, com boa localização, clientela fiel e produto de qualidade.
+Décadas depois, aquele menino era dono de um pet shop. E não um pet shop qualquer. Um negócio num dos setores que mais crescem no país, bem localizado, com clientela fiel e produto de qualidade.
 
-Mesmo assim, a empresa estava estagnada. E o dono vivia se queixando da crise.
+Mesmo assim, a empresa estava parada. E o dono vivia reclamando da crise.
 
-Quando aprofundamos o diagnóstico, os problemas técnicos apareceram: falta de indicadores, equipe sem treinamento, ausência de descrição de atividades. Mas, por baixo de tudo, havia algo que nenhuma planilha mostrava.
+Quando a gente aprofundou o diagnóstico, os problemas técnicos apareceram rapidinho: nenhum indicador, equipe sem treinamento, ninguém sabendo direito o que era responsabilidade de quem. Mas, por baixo disso tudo, tinha uma coisa que nenhuma planilha mostrava.
 
-Ele acreditava que já tinha resultado demais.
+Ele achava que já tinha resultado demais.
 
-Pelo esforço que entregava à própria empresa, achava que não merecia mais do que tinha. Crescer, para ele, significava trabalhar ainda mais, sofrer ainda mais, ter ainda mais dor de cabeça. Então, sem perceber, ele freava. Não tinha visão de expansão. Não investia em pessoas. Não planejava o próximo nível.
+Pelo tanto que entregava à própria empresa, achava que não merecia mais do que já tinha. Crescer, para ele, era trabalhar ainda mais, sofrer ainda mais, ter ainda mais dor de cabeça. Então, sem perceber, ele puxava o freio. Não pensava em expansão. Não investia nas pessoas. Não planejava o próximo passo.
 
-E a equipe sentia isso. Ninguém se sentia parte de algo que estava indo para algum lugar, porque a empresa não estava indo para lugar nenhum. Não havia conexão, não havia limites claros, não havia futuro para se vincular.
+E a equipe sentia isso no ar. Ninguém se sentia parte de algo que estava indo para algum lugar, porque a empresa não estava indo para lugar nenhum.
 
-A frase ouvida na infância tinha virado o teto da empresa.
+A frase ouvida na mesa de jantar, trinta anos antes, tinha virado o teto da empresa.
 
-### O teto invisível
+* * *
 
-Todo empresário carrega frases como essa. A maioria nem sabe que carrega.
+Todo empresário carrega frases assim. A maioria nem sabe que carrega.
 
-Elas foram instaladas cedo, quando você ainda não tinha filtro para separar o que era verdade do que era só o medo de alguém. Vieram de pais, avós, professores, da igreja, do bairro, de uma crise que a família atravessou, de um tio que quebrou e nunca mais se levantou.
+Elas foram instaladas cedo, quando você ainda não tinha filtro para separar o que era verdade do que era só o medo de alguém. Vieram dos pais, dos avós, de um professor, da igreja, do bairro, de uma crise que a família atravessou, de um tio que quebrou e nunca mais se levantou.
 
-Algumas das mais comuns que eu encontro em empresários:
+Você provavelmente reconhece algumas. "Dinheiro é sujo." "Rico é tudo desonesto." "Se quer bem feito, faça você mesmo." "Não dá para confiar em ninguém." "Pedir ajuda é coisa de fraco." "Isso não é para gente como nós."
 
-- "Dinheiro é sujo." Ou: "Rico é tudo desonesto."
-- "Quem nasce pobre morre pobre."
-- "Se quer bem feito, faça você mesmo."
-- "Não dá para confiar em ninguém."
-- "Pedir ajuda é sinal de fraqueza."
-- "Homem não chora." Ou: "Mulher não manda."
-- "Quem tem muito tem muita dor de cabeça."
-- "Não é para gente como nós."
+Agora repara no que cada uma delas vira dentro de uma empresa.
 
-Repare como cada uma delas vira um comportamento empresarial.
-
-Quem acredita que dinheiro é sujo sabota a própria precificação. Dá desconto demais, tem vergonha de cobrar, fica constrangido ao falar de lucro.
-
-Quem acredita que "se quer bem feito, faça você mesmo" nunca delega de verdade. Vai morrer no operacional achando que é zelo.
-
-Quem acredita que não dá para confiar em ninguém monta uma empresa de controle, cheia de aprovações, sem autonomia, e depois reclama que ninguém tem iniciativa.
-
-Quem acredita que "não é para gente como nós" para de crescer exatamente quando começaria a se destacar. Porque, no fundo, sucesso demais parece trair a própria origem.
+Quem cresceu ouvindo que dinheiro é sujo sabota o próprio preço. Dá desconto antes de o cliente pedir, tem vergonha de cobrar, fica sem graça quando o assunto é lucro. Quem aprendeu que "se quer bem feito, faça você mesmo" nunca delega de verdade e vai morrer no operacional achando que aquilo é zelo. Quem acredita que não dá para confiar em ninguém monta uma empresa cheia de aprovações e controles e depois reclama que ninguém tem iniciativa. E quem ouviu a vida inteira que "isso não é para gente como nós" para de crescer exatamente quando começaria a se destacar, porque, lá no fundo, sucesso demais parece uma traição à própria origem.
 
 Nenhuma dessas pessoas é preguiçosa ou incompetente. Elas estão sendo fiéis a uma voz antiga. E essa voz decide por elas sem pedir licença.
 
-### A consultora que tinha vergonha de cobrar
+* * *
 
-Uma empresária que acompanhei, vou chamá-la de Helena (nome alterado), tinha uma consultoria de recursos humanos. Era excelente no que fazia. Os clientes a recomendavam, renovavam contratos, elogiavam o trabalho.
+Eu acompanhei uma empresária, a Helena (nome alterado), que tinha uma consultoria de recursos humanos. Ela era excelente. Os clientes a indicavam, renovavam contrato, elogiavam o trabalho para todo mundo.
 
 E ela vivia apertada.
 
-Olhamos os números. A margem era baixíssima. Os preços estavam muito abaixo do mercado, mesmo com uma entrega muito acima da média. Toda vez que ia apresentar uma proposta, Helena reduzia o valor antes que o cliente pedisse. Tinha um "desconto preventivo" para tudo.
+Fomos olhar os números. A margem era baixíssima. Os preços estavam muito abaixo do mercado, mesmo com uma entrega muito acima da média. E eu notei uma coisa: toda vez que ia apresentar uma proposta, a Helena baixava o valor antes que o cliente pedisse. Ela tinha um "desconto preventivo" para tudo.
 
-Perguntei por que fazia isso. A primeira resposta foi técnica: "O mercado está difícil." A segunda, comercial: "Prefiro garantir o cliente." Só na terceira veio a verdade.
+Perguntei por que fazia isso. A primeira resposta foi técnica: "O mercado está difícil." A segunda foi comercial: "Prefiro garantir o cliente." Só na terceira veio a verdade.
 
 — Na minha casa, quem cobrava caro era aproveitador. Meu pai dizia que gente honesta não fica rica.
 
-Helena era honesta. Profundamente honesta. E, para continuar se sentindo honesta, precisava continuar sem lucro. A empresa dela pagava, todo mês, o preço de uma frase dita décadas antes, numa mesa de jantar.
+A Helena era honesta. Profundamente honesta. E, para continuar se sentindo honesta, precisava continuar sem lucro. A empresa dela pagava, todo mês, o preço de uma frase dita décadas antes numa mesa de jantar.
 
-Quando ela entendeu que preço justo também é uma forma de honestidade, com o cliente, com a equipe e com a própria família, os números mudaram. Não porque ela aprendeu uma técnica nova de precificação. A técnica ela já conhecia. Mudaram porque a voz antiga perdeu o poder de decidir.
+Quando ela entendeu que preço justo também é uma forma de honestidade, com o cliente, com a equipe e com a própria família, os números mudaram. E não foi porque aprendeu uma técnica nova de precificação. A técnica ela já conhecia de cor. Os números mudaram porque a voz antiga perdeu o poder de decidir por ela.
 
-Repare: a crença não aparecia no plano de negócios. Aparecia no momento da proposta, no tom de voz, na pressa em oferecer desconto. É sempre assim. As crenças não se anunciam. Elas agem nas pequenas decisões, todos os dias, e o acumulado dessas pequenas decisões vira o resultado do ano.
+É sempre assim, sabe? As crenças não aparecem no plano de negócios. Aparecem no momento da proposta, no tom de voz, na pressa em oferecer desconto. Elas agem nas decisões pequenas, todos os dias. E a soma dessas decisões pequenas vira o resultado do ano.
 
-`[AUTOR: inserir uma crença que você mesmo herdou, como ela apareceu na sua primeira empresa e como você a percebeu.]`
+[AUTOR: contar uma crença que você mesmo herdou e como ela apareceu na sua primeira empresa.]
 
-### Os gafanhotos
+* * *
 
-Há uma história milenar que mostra como uma crença pode custar uma geração inteira.
+Tem uma história milenar que mostra como uma única crença pode custar uma geração inteira.
 
-O povo de Israel tinha saído do Egito. Depois de séculos de escravidão, estava finalmente às portas da terra prometida. Moisés escolhe doze homens, um líder de cada tribo, e os envia em missão de reconhecimento. Uma pesquisa de mercado, diríamos hoje.
+O povo de Israel tinha saído do Egito. Depois de séculos de escravidão, estava finalmente na porta da terra prometida. Moisés escolhe doze homens, um líder de cada tribo, e manda todos numa missão de reconhecimento. Hoje a gente chamaria isso de pesquisa de mercado.
 
-Quarenta dias depois, eles voltam (Nm 13).
+Quarenta dias depois, eles voltam (Nm 13). E trazem nos ombros um cacho de uvas tão grande que precisa ser carregado por dois homens numa vara. A terra era exatamente o que tinha sido prometido. O produto era real. O mercado era real. A oportunidade era real.
 
-Trazem nos ombros um cacho de uvas tão grande que precisa ser carregado por dois homens numa vara. A terra é exatamente o que tinha sido prometido: mana leite e mel. O produto é real. O mercado é real. A oportunidade é real.
+Mas dez dos doze espias tinham outra coisa para contar. "O povo de lá é forte, as cidades são muradas e enormes. E vimos gigantes." E então vem a frase que, para mim, resume tudo: "Éramos aos nossos olhos como gafanhotos, e assim também éramos aos olhos deles."
 
-Mas dez dos doze espias têm outra coisa a relatar.
+Para um pouco nessa frase. Eles não disseram que os gigantes os acharam pequenos. Disseram que, primeiro, eles mesmos se viram como gafanhotos. A opinião dos outros veio depois, e era só um espelho da opinião que tinham de si.
 
-"O povo que habita nessa terra é poderoso, as cidades são fortificadas e muito grandes. Vimos lá gigantes." E então vem a frase que resume tudo:
-
-"Éramos aos nossos olhos como gafanhotos, e assim também éramos aos seus olhos."
-
-Pare um pouco nessa frase. Eles não disseram "os gigantes nos acharam pequenos". Disseram: *primeiro* nós nos vimos como gafanhotos. A opinião dos outros veio depois, e era só um reflexo da que eles tinham de si mesmos.
-
-Dois homens viram a mesma terra, os mesmos gigantes, as mesmas muralhas. Josué e Calebe. E disseram o contrário: "Subamos animosamente, porque certamente prevaleceremos contra ela."
+Dois homens viram a mesma terra, os mesmos gigantes, as mesmas muralhas. Josué e Calebe. E disseram exatamente o contrário: "Vamos subir, porque certamente vamos vencer."
 
 Mesmos fatos. Crenças diferentes. Conclusões opostas.
 
-O povo escolheu acreditar nos dez. E aquela geração passou quarenta anos andando em círculos no deserto. Só Josué e Calebe, entre os adultos que saíram do Egito, entraram na terra.
+O povo preferiu acreditar nos dez. E aquela geração passou quarenta anos andando em círculos no deserto.
 
-E há um epílogo que pouca gente conhece. Quarenta e cinco anos depois, já dentro da terra, Calebe procura Josué. Tem oitenta e cinco anos. E diz: "Ainda hoje estou tão forte como no dia em que Moisés me enviou. Agora, pois, dá-me este monte" (Js 14:10-12). E o monte que ele pede é justamente a região onde viviam os gigantes que tinham assustado os outros dez.
+E tem um final que pouca gente conhece. Quarenta e cinco anos depois, já dentro da terra, Calebe vai até Josué. Está com oitenta e cinco anos. E diz: "Eu continuo tão forte quanto no dia em que Moisés me enviou. Me dá aquele monte." Sabe qual monte ele pediu? Justamente a região onde moravam os gigantes que tinham apavorado os outros dez.
 
-A crença certa não tinha prazo de validade. Aos oitenta e cinco, ele ainda escolhia o desafio que a mente dos outros chamava de impossível.
+A crença certa não tinha prazo de validade. Aos oitenta e cinco anos, Calebe ainda escolhia o desafio que a cabeça dos outros chamava de impossível.
 
-Quantos empresários estão andando em círculos há anos, diante de uma oportunidade real, porque se veem como gafanhotos?
+Quantos empresários estão andando em círculos há anos, diante de uma oportunidade real, porque se enxergam como gafanhotos? O mercado não é o seu gigante. A forma como você se vê diante dele é.
 
-O mercado não é o seu gigante. A sua autoimagem é.
+* * *
 
-### Metanoia: a mudança de mente
+Existe uma palavra grega que traduz exatamente o que precisa acontecer aqui. Eu a encontrei sublinhada num livro que estava lendo há pouco tempo, e ela não saiu mais da minha cabeça.
 
-Existe uma palavra grega que traduz exatamente o que precisa acontecer aqui. E ela está escondida numa das frases mais conhecidas da história.
-
-Quando Jesus começou a sua mensagem, as primeiras palavras foram: "Arrependei-vos e crede no evangelho." Para muitos, *arrependimento* soa como culpa, como chorar pelos erros. Mas a palavra original é *metanoia*.
-
-*Meta* significa "além de", "acima de", "depois de". *Noia*, de *nous*, significa "mente", "razão". Metanoia é, literalmente, ir além da mente que você tem. Mudar a forma de pensar. Expandir a consciência para enxergar além do que os olhos e o hábito mostram.
+Quando Jesus começou a pregar, as primeiras palavras foram: "Arrependei-vos e crede no evangelho." Muita gente escuta "arrependimento" e pensa em culpa, em chorar pelos erros. Mas a palavra original é *metanoia*. *Meta* quer dizer "além de". *Noia* vem de *nous*, que quer dizer "mente". Metanoia é, literalmente, ir além da mente que você tem. É mudar o jeito de pensar.
 
 O convite não era "sinta-se mal". Era "pense diferente".
 
-Há uma cena que ilustra isso de modo quase empresarial. Diante de uma multidão de cinco mil homens, fora mulheres e crianças, num lugar deserto, Jesus pergunta aos discípulos onde comprariam pão para tanta gente. Filipe, de raciocínio exato, faz a conta na hora: nem duzentos denários bastariam. A mente dele estava presa ao que dava para calcular.
+E tem uma cena que mostra isso de um jeito quase empresarial. Diante de uma multidão de cinco mil homens, fora mulheres e crianças, num lugar deserto, Jesus pergunta aos discípulos onde iam comprar pão para tanta gente. Filipe, que tinha a cabeça boa para números, faz a conta na hora: nem duzentos denários dariam. A mente dele estava presa ao que dava para calcular.
 
-André olha para a mesma cena e traz o que encontrou: um menino com cinco pães e dois peixes. Ainda com dúvida, pergunta: "Mas o que é isso para tantos?" Mas traz.
+André olha para a mesma cena e traz o que encontrou: um menino com cinco pães e dois peixes. Ainda meio sem graça, pergunta: "Mas o que é isso para tanta gente?" Mesmo assim, traz.
 
 O milagre não começou na conta de Filipe. Começou na disposição de André de colocar nas mãos certas o pouco que havia.
 
-Não estou dizendo que você deve abandonar a planilha. Você vai ver, mais adiante neste livro, que eu defendo números como poucos. Estou dizendo que existe uma diferença entre usar a razão e ser prisioneiro dela. Muitos empresários fazem a conta de Filipe a vida inteira e nunca percebem os cinco pães que já estão na mão.
+Não me entenda mal. Eu não estou dizendo para você jogar a planilha fora. Mais adiante você vai ver que eu defendo números como poucos. O que eu estou dizendo é que existe uma diferença entre usar a razão e ser prisioneiro dela. Tem empresário que faz a conta de Filipe a vida inteira e nunca enxerga os cinco pães que já estão na mão dele: a pessoa da equipe que ninguém valoriza, o cliente antigo que confia nele, um conhecimento que ele mesmo subestima.
 
-Metanoia é a mudança de mente que vem antes de qualquer mudança de resultado.
+O curioso é que essa ideia atravessou os séculos. No primeiro século, o filósofo Epicteto escreveu que não são as coisas que perturbam as pessoas, mas as opiniões que elas têm sobre as coisas. Quase dois mil anos depois, Albert Ellis e Aaron Beck construíram as terapias cognitivas, que hoje são das mais usadas no mundo, em cima exatamente dessa ideia: é a nossa interpretação, e não o fato em si, que molda o que sentimos e fazemos. O próprio Ellis citava Epicteto como inspiração. E a psicóloga Carol Dweck, de Stanford, mostrou em décadas de pesquisa que quem acredita que as próprias habilidades podem ser desenvolvidas persiste mais e aprende mais com os erros do que quem acredita que nasceu pronto.
 
-### Como uma crença muda de verdade
+Os espias com os gafanhotos, um filósofo escravo que virou mestre e os laboratórios de psicologia. Três caminhos chegando ao mesmo lugar: o resultado que você colhe é filho da mente com que você enxerga.
 
-A boa notícia é que crenças não são sentenças. Elas foram aprendidas e podem ser reaprendidas. Mas não basta ler uma frase motivacional e trocar. O processo tem etapas.
+* * *
 
-**1. Identificar.** Você não muda o que não enxerga. Comece observando as frases que você repete quando algo dá errado. "Eu sabia." "Isso sempre acontece comigo." "Ninguém aqui tem compromisso." Essas frases são a superfície de crenças mais profundas.
+A boa notícia é que crença não é sentença. Ela foi aprendida, então pode ser reaprendida. A neurociência explica isso com uma imagem bonita: o cérebro funciona como um mato. Cada vez que você pensa de um jeito, abre uma trilha. Quanto mais passa por ela, mais ela vira estrada. Lá em 1949, o psicólogo Donald Hebb resumiu isso numa ideia que ficou famosa: neurônios que disparam juntos se conectam.
 
-**2. Rastrear a origem.** Pergunte: de quem é essa voz? Quando foi a primeira vez que eu ouvi isso? Muitas vezes você vai descobrir que a crença era verdadeira para alguém, num contexto específico. Seu pai talvez tenha mesmo sofrido ao crescer. Isso não significa que você vai sofrer.
+Então, como se abre uma trilha nova?
 
-**3. Confrontar com a verdade.** Coloque a crença diante de fatos e de princípios. "Dinheiro é sujo" não resiste a uma leitura honesta de Provérbios, que trata a prosperidade fruto de trabalho e sabedoria como bênção. "Não dá para confiar em ninguém" não resiste ao fato de que você confia no piloto do avião e no médico que te opera.
+Primeiro, você precisa enxergar a velha. Comece prestando atenção nas frases que você repete quando algo dá errado. "Eu sabia." "Sempre acontece comigo." "Ninguém aqui tem compromisso." Essas frases são a pontinha de crenças muito mais fundas.
 
-**4. Substituir.** Não basta arrancar a crença velha. É preciso plantar uma nova no lugar. "Crescer dá muito trabalho" pode virar "crescer com estrutura dá menos trabalho do que permanecer pequeno sem ela".
+Depois, pergunte de quem é aquela voz. Quando você ouviu aquilo pela primeira vez? Muitas vezes você vai descobrir que a crença era verdadeira para alguém, num contexto específico. Talvez o seu pai tenha mesmo sofrido para crescer. Isso não quer dizer que você vai sofrer.
 
-**5. Praticar até virar natural.** Uma crença nova começa como uma trilha no meio do mato. Só vira estrada com repetição.
+Aí coloque a crença diante da verdade. "Dinheiro é sujo" não resiste a uma leitura honesta de Provérbios, que trata a prosperidade fruto de trabalho e sabedoria como bênção. "Não dá para confiar em ninguém" não resiste ao fato de que você confia no piloto do avião e no médico que te opera.
 
-Nas primeiras semanas, a voz antiga vai falar mais alto. É normal. Ela teve trinta ou quarenta anos de vantagem. Não desanime quando perceber que caiu de novo no velho padrão. Perceber já é sinal de que a trilha nova está sendo aberta. Antes, você nem notava. Agora nota, e cada vez que nota tem a chance de escolher diferente.
+E, por fim, plante uma frase nova no lugar. Não basta arrancar a velha. "Crescer dá muito trabalho" pode virar "crescer com estrutura dá menos trabalho do que continuar pequeno sem ela".
 
-### Onde as fontes se encontram
+Nas primeiras semanas, a voz antiga vai falar mais alto. É normal. Ela teve trinta, quarenta anos de vantagem. Não desanime quando perceber que caiu no padrão velho. Perceber já é sinal de que a trilha nova está sendo aberta. Antes, você nem notava. Agora nota. E cada vez que nota, ganha a chance de escolher diferente.
 
-- **Bíblia.** Dez espias se viram como gafanhotos e uma geração inteira andou em círculos. Dois viram a mesma terra com outra mente e entraram. E a primeira palavra da mensagem de Jesus foi *metanoia*: mudar a forma de pensar.
-- **Filosofia.** O estoico Epicteto, no século I, escreveu: "Não são as coisas que perturbam os homens, mas as opiniões que eles têm sobre as coisas." A mesma terra, com opiniões diferentes, gerou medo ou coragem.
-- **Psicologia e ciência.** Albert Ellis e Aaron Beck, criadores das principais terapias cognitivas do século XX, partiram justamente dessa ideia: nossas interpretações, e não os fatos em si, moldam emoções e comportamentos. Ellis citava Epicteto como inspiração. A psicóloga Carol Dweck, de Stanford, mostrou em décadas de pesquisa que pessoas com *mentalidade de crescimento*, que acreditam que suas habilidades podem ser desenvolvidas, persistem mais e aprendem mais com os erros do que as de *mentalidade fixa*. E a neurociência explica por que a mudança é possível: o cérebro é plástico. O psicólogo Donald Hebb propôs, em 1949, o princípio resumido como "neurônios que disparam juntos se conectam". Cada vez que você pensa diferente, a trilha nova fica um pouco mais firme.
-
-Três caminhos, uma mesma conclusão: o resultado que você colhe é filho da mente com que você enxerga, e essa mente pode ser renovada.
-
-### A crença do líder vira o desempenho da equipe
-
-Antes de fechar, um alerta importante. As suas crenças não afetam só você.
-
-Em 1968, os pesquisadores Robert Rosenthal e Lenore Jacobson fizeram um experimento numa escola americana. Disseram aos professores que alguns alunos, escolhidos ao acaso, tinham um potencial acima da média. Ao fim do ano, muitos desses alunos tinham apresentado ganhos maiores. A única diferença era a expectativa dos professores. O fenômeno ficou conhecido como efeito Pigmalião. `[VERIFICAR: o estudo é clássico, mas teve críticas metodológicas e o tamanho do efeito é debatido; manter a formulação cuidadosa.]`
-
-Agora pense no empresário que repete, em toda reunião, que "ninguém hoje em dia quer nada com nada". Que equipe ele está formando?
-
-Lembra do dono do pet shop? A equipe dele não se sentia parte da empresa. Não era coincidência. Um dono que não acredita que merece crescer não consegue fazer ninguém acreditar que vale a pena crescer junto.
+E tem mais uma coisa que eu preciso te dizer antes de fechar. As suas crenças não afetam só você. Afetam todo mundo que trabalha com você. Pensa no empresário que repete em toda reunião que "hoje em dia ninguém quer nada com nada". Que tipo de equipe ele está formando? Lembra do dono do pet shop? A equipe dele não se sentia parte de nada. Não era coincidência. Um dono que não acredita que merece crescer não consegue fazer ninguém acreditar que vale a pena crescer junto.
 
 O teto do dono vira o teto da equipe. E o teto da equipe vira o teto do CNPJ.
 
-### Princípio milenar
+### Antes de virar a página
 
-> "E não vos conformeis com este mundo, mas transformai-vos pela renovação do vosso entendimento."
-> — Romanos 12:2
+Pega o seu caderno e volta, por alguns minutos, para a mesa de jantar da sua infância.
 
-A transformação não começa pela agenda nem pelo organograma. Começa pelo entendimento. Mude a mente, e o comportamento acompanha.
+1. Quais foram as frases sobre dinheiro, trabalho, sucesso e pessoas que você mais ouviu ali? Escreva como foram ditas, e anote quem dizia.
+2. Onde cada uma delas aparece hoje na sua empresa? Seja bem concreto. "Não dá para confiar em ninguém" pode estar escondida em "eu aprovo todas as compras acima de duzentos reais".
+3. Qual é o seu gigante? Que oportunidade real você está evitando porque se vê como gafanhoto diante dela?
 
-### Caderno de Identidade — Exercício 3
+Na sua página, faça duas colunas. Na da esquerda, escreva "Vozes que eu herdei". Na da direita, "Verdades que eu escolho". Passe para lá as frases que você descobriu e, ao lado de cada uma, a nova versão.
 
-**Escutando as vozes.**
+O desafio desta semana: escolha a crença que mais trava a sua empresa, reescreva-a como uma verdade nova, curta, no presente, e coloque num cartão onde você vai ver todas as manhãs. Na carteira, no espelho, na tela do computador. Leia em voz alta uma vez por dia. E, toda vez que perceber a voz antiga falando, anote o momento. No sétimo dia, releia as anotações. Você vai descobrir em que situações ela fala mais alto. Ali estão os seus gigantes.
 
-1. Escreva as cinco frases sobre dinheiro, trabalho, sucesso e pessoas que você mais ouviu na infância. Não filtre. Escreva como foram ditas.
-2. Ao lado de cada uma, anote quem a dizia e em que contexto.
-3. Para cada frase, responda: de que forma ela aparece hoje na minha empresa? Seja específico. Por exemplo: "Não dá para confiar em ninguém" aparece em "eu aprovo todas as compras acima de 200 reais".
-4. Qual é o seu "gigante"? Qual oportunidade real você está evitando porque se vê como gafanhoto diante dela?
-5. Onde você está fazendo a conta de Filipe? Quais "cinco pães" você já tem na mão e não está enxergando: uma pessoa da equipe, um cliente, um conhecimento, um relacionamento?
-6. Escolha a crença que mais trava a sua empresa e reescreva-a como uma nova verdade, em uma frase curta, no presente.
+Mas talvez, ao rastrear a origem dessas vozes, você tenha esbarrado em algo mais pesado do que uma frase. Talvez tenha esbarrado num nome. Num rosto. Em alguém que te machucou de verdade.
 
-**Mapa de Alinhamento, parte 3:** no Mapa, crie duas colunas. Na da esquerda, "Vozes que eu herdei". Na da direita, "Verdades que eu escolho". Transfira as crenças do exercício e as novas versões delas.
-
-**Plano de 7 dias:** escreva a nova verdade num cartão e deixe-o onde você o veja todos os dias de manhã: na carteira, no espelho, na tela do computador. Leia em voz alta, uma vez por dia. E, toda vez que perceber a voz antiga falando, anote no caderno o momento e o que estava acontecendo. No sétimo dia, releia as anotações e observe: a voz antiga fala mais em que situações? Ali estão os seus gigantes.
-
-### Degrau subido
-
-- Crenças herdadas viram comportamentos empresariais, e comportamentos viram o teto do CNPJ.
-- O mercado raramente é o seu gigante. A forma como você se vê diante dele costuma ser.
-- Metanoia é ir além da mente que você tem. Toda mudança de resultado começa por uma mudança de mente.
-- Crenças se aprendem e se reaprendem: identifique, rastreie, confronte, substitua e pratique.
-
-Até aqui, você olhou para quem você é e para as vozes que herdou. Mas, ao rastrear a origem dessas vozes, talvez você tenha esbarrado em algo mais pesado do que uma frase. Talvez tenha esbarrado em um nome. Em um rosto. Em alguém que te feriu.
-
-Esse peso você leva para o escritório todos os dias, mesmo sem perceber. E é ele que vamos tirar dos seus ombros.
+Esse peso você leva para o escritório todos os dias, mesmo sem perceber. E é dele que a gente vai falar agora.

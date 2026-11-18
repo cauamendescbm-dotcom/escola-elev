@@ -6,169 +6,114 @@
 
 O homem mais poderoso de Israel estava sentado entre os dois portões da cidade, esperando notícias de uma batalha.
 
-Não era uma batalha qualquer. Do outro lado do campo, liderando um exército contra ele, estava o próprio filho.
+E não era uma batalha qualquer. Do outro lado do campo, comandando um exército contra ele, estava o próprio filho.
 
-Davi já tinha vencido gigantes, unificado tribos, conquistado Jerusalém e construído um reino. Era o grande rei de Israel. E agora estava ali, velho, cansado, esperando saber se o filho que tentava tomar o seu trono tinha sobrevivido.
+Davi já tinha derrubado gigante, unificado tribos, conquistado Jerusalém e construído um reino. E agora estava ali, mais velho, cansado, sentado no portão, esperando saber se o filho que tentava tirar o trono dele tinha saído vivo.
 
-Para entender como Davi chegou àquele portão, é preciso voltar alguns anos.
+No capítulo anterior, eu te disse que estar em casa não é a mesma coisa que liderar a casa. Pois foi exatamente nessa diferença que Davi tropeçou. E, para entender como ele foi parar naquele portão, a gente precisa voltar alguns anos.
 
-Amnom, o filho mais velho de Davi, violentou a própria meia-irmã, Tamar. A Bíblia registra a reação do rei numa frase curta: Davi "ficou muito irado" (2 Samuel 13:21). E só. Nenhuma conversa, nenhuma justiça, nenhuma consequência para Amnom. Nenhum cuidado registrado com Tamar.
+* * *
 
-Absalão, irmão de Tamar, esperou. Dois anos inteiros, em silêncio, alimentando o ódio. Até que armou uma festa e mandou matar Amnom. Depois fugiu e ficou três anos no exílio.
+Amnom, o filho mais velho de Davi, violentou a própria meia-irmã, Tamar. Uma tragédia dentro do palácio. E a Bíblia registra a reação do rei numa frase curtíssima: Davi ficou muito irado.
 
-Quando finalmente voltou a Jerusalém, Davi deu uma ordem: "Que ele vá para a casa dele e não veja a minha face" (2 Samuel 14:24). Absalão morou dois anos na mesma cidade que o pai sem ser recebido por ele. Dois anos a poucas ruas de distância.
+E só.
 
-E o filho que não foi ouvido pelo pai começou a ouvir o povo. Sentava-se à porta da cidade, recebia quem chegava com queixas e dizia: "Se eu fosse juiz nesta terra, eu faria justiça" (2 Samuel 15:4). Absalão conquistou o coração de Israel com tudo aquilo que faltou dentro de casa: escuta, atenção e presença.
+Nenhuma conversa registrada com Amnom. Nenhuma justiça. Nenhuma consequência. Nenhum cuidado registrado com Tamar, que passou a viver desolada na casa do irmão. O rei que julgava o povo inteiro não julgou a própria casa.
 
-A conspiração virou guerra. E a guerra terminou com Absalão morto, preso pelos cabelos nos galhos de um carvalho.
+Absalão, irmão de Tamar, assistiu a tudo isso calado. E esperou. Dois anos inteiros alimentando o ódio em silêncio. Até que um dia ele organizou uma festa, convidou todos os irmãos e, no meio da comemoração, mandou matar Amnom. Depois fugiu e ficou três anos longe.
 
-Quando o mensageiro trouxe a notícia, Davi subiu ao quarto que ficava sobre a porta e chorou: "Meu filho Absalão, meu filho, meu filho Absalão! Quem me dera que eu tivesse morrido em teu lugar!" (2 Samuel 18:33).
+Quando finalmente pôde voltar para Jerusalém, Davi deu uma ordem que, para mim, é uma das frases mais tristes da Bíblia: "Que ele vá para a casa dele e não veja a minha face." Absalão morou dois anos na mesma cidade que o pai, a poucas ruas de distância, sem ser recebido por ele.
 
-O maior líder de Israel venceu todas as batalhas, menos a que começou dentro da sua casa.
+Dá para imaginar o que se passava na cabeça daquele rapaz?
 
-### Ausência não é neutralidade
+E aí o filho que não foi ouvido pelo pai começou a ouvir o povo. Ele acordava cedo, ficava na porta da cidade e, quando alguém chegava com uma causa para levar ao rei, Absalão chamava a pessoa, perguntava de onde ela era, ouvia a história inteira e dizia: "Olha, a sua causa é boa. Pena que não tem ninguém do rei para te ouvir. Ah, se eu fosse juiz nesta terra…". Quando alguém se curvava para cumprimentá-lo, ele estendia a mão, abraçava e beijava. A Bíblia diz que assim Absalão roubou o coração dos homens de Israel.
 
-No capítulo anterior, vimos Eli, o sacerdote ocupado que repreendeu os filhos com uma bronca. Davi foi além: ele nem a bronca deu. Ficou irado e calado. E depois, ferido, fechou a porta.
+Repara no que ele usou para conquistar o povo. Escuta, atenção, presença. Exatamente tudo aquilo que faltou dentro de casa.
 
-Muitos empresários acreditam que, quando não tomam uma posição dentro de casa, estão sendo neutros. Que o silêncio não causa estrago. Que, se não fizerem nada de errado, ao menos não estão piorando as coisas.
+A conspiração virou guerra. E a guerra terminou com Absalão fugindo no lombo de uma mula, a cabeça presa nos galhos de um carvalho, morto pelos homens do próprio pai. Quando o mensageiro trouxe a notícia ao portão, Davi subiu para o quartinho que ficava em cima da porta e chorou. E enquanto subia, dizia: "Meu filho Absalão, meu filho, meu filho Absalão! Quem me dera ter morrido no seu lugar."
 
-Não é assim. Em liderança, a ausência também é uma decisão.
+O maior líder de Israel venceu todas as batalhas da vida dele, menos a que começou dentro de casa.
 
-Na empresa, você sabe disso. Se o dono não define a cultura, a cultura se define sozinha, e quase nunca do jeito que ele gostaria. Se o dono não estabelece prioridades, cada um escolhe as suas. Se o dono não corrige um comportamento grave, toda a equipe entende que aquilo é permitido.
+* * *
 
-A casa funciona exatamente igual.
+Lembra do Eli, o sacerdote do capítulo anterior? Pelo menos ele deu uma bronca nos filhos. Davi nem isso. Ficou irado e calado. E depois, ferido, fechou a porta.
 
-Se você não lidera a sua casa, alguém ou alguma coisa vai liderar no seu lugar. As telas, a pressa, o cansaço, as mágoas não resolvidas, a cultura do lado de fora. E um dia você vai acordar numa casa com valores que você nunca escolheu.
+Eu vejo muito empresário fazendo exatamente isso, e achando que está sendo neutro. A lógica é mais ou menos esta: "se eu não tomo posição, pelo menos não pioro as coisas". Mas em liderança não existe neutralidade. A ausência também é uma decisão.
 
-### Liderar em casa não é mandar em casa
+Na empresa, você sabe disso muito bem. Se o dono não define a cultura, a cultura se define sozinha, e quase nunca do jeito que ele gostaria. Se o dono não estabelece as prioridades, cada um escolhe as suas. Se o dono não corrige um comportamento grave, a equipe inteira entende que aquilo está liberado.
 
-Antes de seguir, preciso fazer um alerta. Quando falo em liderar a casa, muita gente entende "mandar na casa". E é exatamente o oposto.
+A casa funciona do mesmo jeito. Se você não lidera a sua casa, alguém ou alguma coisa vai liderar no seu lugar. As telas, a pressa, o cansaço, as mágoas que ninguém resolveu, a cultura que vem lá de fora. E um dia você acorda numa casa com valores que você nunca escolheu.
 
-Na Escola ELEV, a gente repete uma frase que vale para a empresa e vale ainda mais para a família: **liderar é ser escada para que os outros cresçam.**
+Agora, deixa eu fazer um alerta antes de seguir, porque eu sei como essa conversa pode ser mal entendida. Quando eu falo em liderar a casa, muita gente escuta "mandar na casa". E é exatamente o contrário.
 
-O líder em casa não é o que dá as ordens. É o que dá o exemplo. Não é o que cobra mais. É o que serve primeiro. Não é o que sempre ganha a discussão. É o que tem coragem de pedir desculpas antes.
+Na ELEV, a gente repete uma frase que vale para a empresa e vale mais ainda para a família: liderar é ser escada para que os outros cresçam. Em casa, o líder não é o que dá as ordens, é o que dá o exemplo. Não é o que cobra mais, é o que serve primeiro. Não é o que sempre ganha a discussão, é o que tem coragem de pedir desculpas antes. É quem dá direção, porque sabe para onde a família está indo e conversa sobre isso. É quem dá segurança, quem está inteiro onde está, quem tem coragem de colocar limite com amor, coisa que nem Eli nem Davi tiveram. E é quem vive dentro de casa os valores que prega na empresa.
 
-Liderar a casa é:
+Isso vale para homem e para mulher. Para quem é casado e para quem cria os filhos sozinho. Para quem tem filho pequeno e para quem cuida dos pais idosos. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você chegou até aqui neste livro, eu imagino que essa pessoa é você, ou que você divide essa função com alguém.
 
-- **Dar direção:** saber para onde a família está indo e conversar sobre isso.
-- **Dar segurança:** ser um porto estável, emocional, financeira e espiritualmente.
-- **Dar presença:** estar inteiro onde está.
-- **Dar limites:** ter coragem de corrigir com amor, coisa que Eli e Davi não fizeram.
-- **Dar o exemplo:** viver em casa os valores que você prega na empresa.
+Josué, no fim de uma vida inteira liderando um povo, reuniu todo mundo e disse uma frase que muita família pendura na parede da sala: "Eu e a minha casa serviremos ao Senhor." Mas repara na ordem. Primeiro "eu". Depois "a minha casa". O líder não pede da família o que ele mesmo não vive.
 
-E isso vale para homens e mulheres, para quem é casado e para quem cria os filhos sozinho, para quem tem filhos pequenos e para quem cuida dos pais idosos. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você está lendo este livro, provavelmente essa pessoa é você, ou divide essa função com alguém.
+* * *
 
-Josué, ao final de uma vida inteira liderando um povo, deixou uma frase que muitas famílias penduram na parede: "Eu e a minha casa serviremos ao Senhor" (Josué 24:15). Repare na ordem. Primeiro "eu". Depois "a minha casa". O líder não pede da família o que ele mesmo não vive.
+Uma vez, lendo sobre a sabedoria oriental, eu encontrei um texto da tradição de Confúcio, com mais de dois mil anos, chamado *O Grande Saber*. E ali tem uma sequência que eu considero um dos resumos mais precisos de liderança que eu já li.
 
-### A ordem que os sábios já conheciam
+O texto diz mais ou menos assim: os antigos que queriam trazer ordem ao mundo primeiro governavam bem o seu Estado. Para governar bem o Estado, primeiro colocavam ordem na família. Para colocar ordem na família, primeiro cultivavam a si mesmos. E, para cultivar a si mesmos, primeiro endireitavam o coração.
 
-Há mais de dois mil anos, um texto da tradição confucionista chamado *O Grande Saber* descreveu uma sequência que, para mim, é um dos resumos mais precisos de liderança já escritos.
+Lê de trás para a frente: coração, eu, família, Estado, mundo.
 
-Os antigos que queriam trazer ordem ao mundo, diz o texto, primeiro governavam bem os seus Estados. Para governar bem os Estados, primeiro colocavam ordem em suas famílias. Para colocar ordem em suas famílias, primeiro cultivavam a si mesmos. E, para cultivar a si mesmos, primeiro retificavam o coração.
+Agora traduz para a vida do empresário: o seu CPF, a sua casa, o seu CNPJ, a sociedade.
 
-Leia de trás para frente: **coração, eu, família, Estado, mundo.**
+Quando eu percebi isso, levei um susto, porque é exatamente o caminho deste livro. A gente começou pelo coração, com identidade, mágoas e orgulho. Agora está na casa. Depois vai para a empresa e, por fim, para o papel dela no mundo. Não fui eu que inventei essa ordem. Ela está aí há milênios, em fontes que nunca conversaram entre si. Paulo, escrevendo ao jovem Timóteo, usou a casa como critério para escolher líderes: se alguém não sabe governar a própria casa, como vai cuidar de algo maior? E Salomão escreveu: "Prepara lá fora a tua obra, deixa tudo pronto no campo, e depois edifica a tua casa." Primeiro prepare o sustento, sim. Mas não confunda o campo com a casa.
 
-Agora traduza para o mundo do empresário: **CPF, casa, CNPJ, sociedade.**
+E aí entra a ciência, que eu acho que fecha essa conversa de um jeito lindo.
 
-É exatamente o caminho deste livro. Começamos pela identidade, pelas mágoas e pelo orgulho, que são o coração. Agora estamos na casa. Depois iremos para a empresa e, por fim, para o papel dela na sociedade.
+Em 1938, a Universidade Harvard começou a acompanhar um grupo de rapazes. Uns eram estudantes da própria universidade. Outros, pouco depois, eram garotos de bairros pobres de Boston. A ideia era descobrir o que faz uma pessoa viver bem e com saúde ao longo da vida. Os pesquisadores foram acompanhando esses homens por décadas: casamento, carreira, doenças, alegrias, perdas. Hoje o estudo segue com os filhos deles. É um dos estudos mais longos já feitos sobre a vida humana.
 
-Não é coincidência. A sabedoria milenar, de fontes diferentes, sempre percebeu a mesma ordem. Paulo, escrevendo a Timóteo, usou a casa como critério para escolher líderes: se alguém não sabe governar a própria casa, como cuidará de algo maior? Salomão escreveu: "Prepara de fora a tua obra, e aparelha-a no campo, e então edifica a tua casa" (Provérbios 24:27). Primeiro prepare o sustento, sim. Mas não confunda o campo com a casa.
+O atual diretor, o psiquiatra Robert Waldinger, resumiu mais de oito décadas de dados numa frase simples: o que mais nos mantém felizes e saudáveis ao longo da vida são relacionamentos de qualidade. Não foi a fama. Não foi o dinheiro. Não foi o sucesso profissional. E tem um dado que me impressiona: as pessoas mais satisfeitas com os seus relacionamentos aos cinquenta anos eram as mais saudáveis aos oitenta. A qualidade das relações na meia-idade previa melhor a saúde na velhice do que o nível de colesterol.
 
-Há também a figura de Noé. Durante décadas, ele construiu uma obra enorme, sob o olhar desconfiado de toda a cidade. Trabalhou como poucos homens trabalharam. Mas a carta aos Hebreus registra o motivo daquela obra: Noé preparou a arca "para a salvação da sua casa" (Hebreus 11:7). O maior projeto da vida dele tinha um destino claro. Não era para impressionar os vizinhos nem para provar que estava certo. Era para que a família dele estivesse dentro quando a chuva viesse.
+Outro pesquisador, o psicólogo John Gottman, passou décadas observando casais em laboratório, filmando discussões, medindo reações. Uma das conclusões mais conhecidas dele é que, nos casamentos que duram, as interações positivas superam as negativas numa proporção de mais ou menos cinco para uma, mesmo durante os conflitos. Para cada crítica, cinco gestos de carinho, interesse, humor, reconhecimento. Nos casais que caminhavam para a separação, essa conta não fechava.
 
-Essa é a pergunta que todo empresário precisa fazer sobre o próprio CNPJ: quando a chuva vier, e ela sempre vem, a minha família estará dentro da obra que eu construí ou do lado de fora, me esperando chegar?
-
-Quem pula etapas nessa ordem constrói sobre a areia.
-
-### O que a ciência confirma
-
-Em 1938, a Universidade Harvard começou a acompanhar um grupo de jovens: estudantes da própria universidade e, pouco depois, rapazes de bairros pobres de Boston. A ideia era entender o que leva uma pessoa a viver bem e com saúde. O **Estudo de Harvard sobre o Desenvolvimento Adulto** é um dos estudos mais longos da história sobre a vida humana e hoje acompanha também os filhos dos participantes originais.
-
-O atual diretor do estudo, o psiquiatra Robert Waldinger, resumiu mais de oito décadas de dados numa conclusão simples: **relacionamentos de qualidade são o que mais nos mantém felizes e saudáveis ao longo da vida.** Não era a fama. Não era o dinheiro. Não era o sucesso profissional. Os participantes mais satisfeitos com seus relacionamentos aos 50 anos eram os mais saudáveis aos 80. Segundo os pesquisadores, a satisfação com os relacionamentos na meia-idade previa melhor a saúde na velhice do que os níveis de colesterol.
-
-Outro pesquisador, o psicólogo John Gottman, passou décadas observando casais em laboratório. Uma de suas conclusões mais conhecidas é que, nos casamentos estáveis, as interações positivas superam as negativas numa proporção de cerca de **cinco para uma** durante os conflitos. Para cada crítica, cinco gestos de carinho, interesse, humor ou reconhecimento. Nos casais que caminhavam para a separação, essa proporção era muito menor.
-
-Pense nisso com olhos de líder. Quantas vezes por dia você corrige, cobra, reclama ou interrompe alguém da sua casa? E quantas vezes elogia, agradece, escuta ou demonstra afeto?
+Pensa nisso com olhos de dono. Quantas vezes por dia você corrige, cobra, reclama ou interrompe alguém da sua casa? E quantas vezes você elogia, agradece, escuta ou faz um carinho?
 
 A conta precisa fechar. Em casa, como no caixa da empresa.
 
-### A casa também precisa de gestão
+* * *
 
-Você jamais deixaria a sua empresa sem reunião, sem visão, sem valores e sem acompanhamento. Por que deixa a sua casa?
+E, por falar em caixa, deixa eu te fazer uma pergunta meio provocativa. Você deixaria a sua empresa sem reunião, sem visão, sem valores e sem acompanhamento? Claro que não. Então por que deixa a sua casa?
 
-Não estou propondo transformar a família numa empresa. Estou propondo levar para casa a intencionalidade que você já tem no trabalho. Algumas práticas que funcionam muito bem nas famílias dos empresários que acompanho:
+Eu não estou propondo transformar a família numa empresa. Pelo amor de Deus, não. Estou propondo levar para dentro de casa a mesma intenção que você já tem no trabalho.
 
-**1. A reunião de família.**
-Uma vez por semana ou a cada quinze dias, trinta minutos, sem telas. Com o cônjuge, e com os filhos quando tiverem idade. Três perguntas: o que foi bom nesta semana? O que foi difícil? O que vamos fazer juntos na próxima? Parece formal demais no começo. Depois de algumas semanas, vira o momento mais esperado da casa.
+Na família de muitos empresários que eu acompanho, a mudança começou com uma conversa simples, uma vez por semana, de uns trinta minutos, sem telas. O casal e, quando os filhos têm idade, os filhos também. Três perguntas: o que foi bom nesta semana, o que foi difícil e o que a gente vai fazer junto na próxima. Parece formal demais nas primeiras vezes. Depois de umas semanas, vira o momento mais esperado da casa.
 
-**2. A visão da família.**
-Assim como a empresa tem visão, a família também precisa ter. Onde vocês querem estar daqui a cinco anos? Que tipo de família querem ser? O que querem que os filhos lembrem da infância deles? Escreva. Coloque num lugar visível.
+Também ajuda muito a família ter uma visão, do mesmo jeito que a empresa tem. Onde vocês querem estar daqui a cinco anos? Que tipo de família vocês querem ser? O que vocês querem que os filhos lembrem da infância deles? E ter alguns poucos valores com comportamento, porque valor sem comportamento é só frase bonita na parede, em casa também. Se um valor da família é respeito, o que isso significa na prática? Que ninguém grita? Que ninguém fica no celular durante o jantar?
 
-**3. Os valores da casa.**
-Na empresa, valor sem comportamento é só uma frase bonita na parede. Em casa também. Se um valor da família é "respeito", que comportamento isso significa? Ninguém grita? Ninguém mexe no celular à mesa? E o que não se tolera?
+Tem ainda uma questão que gera muita briga em casa de empresário: dinheiro. A casa não sabe quanto pode gastar porque tudo depende de como foi o mês da empresa. Eu sempre recomendo definir uma retirada fixa, mesmo que modesta no começo, e fazer a casa viver dela. A estabilidade da sua família não pode subir e descer junto com o faturamento. Mais à frente, quando a gente falar dos números, eu volto nesse assunto.
 
-**4. A separação entre o caixa da empresa e o caixa da casa.**
-Muitos conflitos conjugais de empresários nascem do dinheiro. A casa não sabe quanto pode gastar porque tudo depende do mês da empresa. Defina um pró-labore fixo, mesmo que modesto, e faça a casa viver dele. Vamos aprofundar isso no capítulo 15, mas comece agora: a estabilidade da sua família não pode oscilar com o faturamento de cada mês.
+E, se você tiver coragem, separe um dia por semana em que a empresa não entra em casa. Nem por mensagem. Os antigos chamavam isso de sábado, e a gente vai conversar mais sobre ele no próximo capítulo. Se a sua empresa não sobrevive a um dia sem você, o problema não está na sua família. Está na estrutura da empresa. E isso tem solução.
 
-**5. O dia sem empresa.**
-Um dia por semana em que a empresa não entra em casa. Nem por mensagem. Os antigos chamavam isso de sábado, e voltaremos a ele no próximo capítulo. Se a sua empresa não sobrevive a um dia sem você, o problema não está na sua família. Está na estrutura da empresa, e isso tem solução.
+[AUTOR: contar uma prática de liderança em casa que você adotou com a sua família e o efeito que ela teve.]
 
-[AUTOR: inserir história sobre uma prática de liderança em casa que você adotou com a sua família e o efeito que ela teve.]
+* * *
 
-### Quando a casa melhora, a empresa sente
+Eu poderia te dar só razões espirituais e afetivas para você liderar a sua casa, e elas já bastariam. Mas eu prometi que este é um livro para empresários, então deixa eu ser bem prático.
 
-Eu poderia te dar razões apenas espirituais ou afetivas para liderar a sua casa. E elas bastariam. Mas este é um livro para empresários, então quero ser claro sobre o efeito prático.
+O empresário com a casa em ordem decide melhor. Ele não leva a briga da manhã para a reunião das dez. Não desconta na equipe a tensão que não resolveu com a esposa ou com o marido. Não usa a empresa como esconderijo, então consegue sair do operacional na hora certa. Tem alguém em casa com quem pensar as grandes decisões. E tem um motivo maior do que o próprio ego para crescer.
 
-O empresário que tem a casa em ordem decide melhor. Ele não leva a briga da manhã para a reunião das dez. Não desconta na equipe a tensão que não resolveu com a esposa ou com o marido. Não usa a empresa como esconderijo, então consegue sair do operacional na hora certa. Tem alguém em casa com quem pensar as grandes decisões. E tem uma razão maior do que o próprio ego para crescer.
-
-O Marcelo, do capítulo anterior, aquele do desenho na mesa da cozinha, começou com uma prática só: a primeira hora em casa sem celular. Depois vieram as reuniões de família aos domingos. Seis meses mais tarde, ele me disse uma coisa que eu nunca esqueci:
+O Marcelo, aquele do desenho na mesa da cozinha, começou com uma coisa só: a primeira hora em casa sem celular. Depois vieram as conversas de domingo com a esposa e o filho. Uns seis meses depois, ele me disse uma frase que eu nunca esqueci:
 
 — Eu achava que a empresa ia sofrer porque eu ia trabalhar menos. Ela melhorou. Porque eu parei de levar para lá o homem cansado e culpado que eu era.
 
 Quando o CPF evolui, o CNPJ encontra um novo nível. E poucas coisas fazem o CPF evoluir tanto quanto uma casa em ordem.
 
-### Onde as fontes se encontram
+### Antes de virar a página
 
-- **Bíblia:** Davi venceu gigantes e exércitos, mas se calou diante do erro de um filho e fechou a porta para o outro. A guerra mais dolorosa da vida dele começou dentro de casa.
-- **Filosofia:** *O Grande Saber*, da tradição de Confúcio, ensina a ordem: retificar o coração, cultivar a si mesmo, ordenar a família e só então governar o Estado.
-- **Psicologia e ciência:** o Estudo de Harvard sobre o Desenvolvimento Adulto, iniciado em 1938, mostra que relacionamentos de qualidade são o maior preditor de saúde e felicidade ao longo da vida. Gottman aponta que relações estáveis mantêm cerca de cinco interações positivas para cada negativa.
+Pega a sua página de novo. Essas perguntas são para responder com calma, de preferência num momento em que a casa esteja em silêncio.
 
-Três caminhos, uma mesma conclusão: quem não lidera a própria casa constrói qualquer outra coisa sobre a areia.
+1. Hoje, quem ou o que está liderando a sua casa de verdade? Você, o seu cônjuge, as telas, a pressa, o cansaço?
+2. Existe algum assunto na sua família sobre o qual você está calado, como Davi ficou? Ou alguém para quem você fechou a porta?
+3. Em uma frase, que família vocês querem ser daqui a cinco anos? E quais são os três valores da sua casa?
 
-### Princípio milenar
+O desafio desta semana começa com uma conversa. Senta com o seu cônjuge, ou com quem divide a casa com você, fala sobre este capítulo e pergunta: "Como você enxerga a minha liderança aqui dentro?". Depois, marca a primeira conversa de família, com dia e hora, e faz as três perguntas. Durante a semana, experimenta a regra dos cinco para um: antes de qualquer correção, cinco gestos positivos. E, se existe um assunto calado ou uma porta fechada, dá o primeiro passo. Uma ligação, uma mensagem, uma visita. Não espera dois anos, como Davi esperou.
 
-> "Eu e a minha casa serviremos ao Senhor."
-> — Josué 24:15
+Escreve na sua página a visão da família e os três valores da casa. Mais para a frente, eles vão conversar com a visão e os valores da sua empresa.
 
-Primeiro "eu", depois "a minha casa". O líder vive antes o que pede dos outros, e a casa é o primeiro lugar onde a liderança dele é provada.
-
-### Caderno de Identidade — Exercício 9
-
-1. Hoje, quem ou o que está liderando a sua casa de fato? Você, o seu cônjuge, as telas, a pressa, o cansaço?
-2. Existe algum assunto na sua família sobre o qual você está calado, como Davi depois do que aconteceu com Tamar? Qual?
-3. Existe alguém da sua casa para quem você fechou a porta, como Davi fez com Absalão?
-4. Em casa, você pratica a proporção de cinco para um? Faça uma estimativa honesta: quantas correções e quantos gestos positivos por dia?
-5. Escreva em uma frase a visão da sua família para os próximos cinco anos.
-6. Liste três valores da sua casa e, ao lado de cada um, um comportamento que mostra esse valor na prática.
-
-**Mapa de Alinhamento — peça 9:** escreva a visão da família e os três valores da casa. Eles vão conversar, mais adiante, com a visão e os valores da sua empresa.
-
-**Plano de aplicação de 7 dias:**
-- **Dia 1:** converse com o seu cônjuge (ou com quem divide a casa com você) sobre este capítulo. Pergunte: "Como você enxerga a minha liderança aqui dentro?"
-- **Dia 2:** marque a primeira reunião de família, com dia, hora e duração.
-- **Dia 3:** pratique a proporção de cinco para um. Antes de qualquer correção, faça cinco gestos positivos.
-- **Dia 4:** se existe um assunto calado ou uma porta fechada, dê o primeiro passo. Uma conversa, uma mensagem, uma visita.
-- **Dia 5:** defina um valor de pró-labore fixo para a sua casa, mesmo que provisório.
-- **Dia 6:** faça a reunião de família com as três perguntas.
-- **Dia 7:** escolha o dia sem empresa da próxima semana e avise a equipe.
-
-Se você participa do Mastermind ELEV, leve a visão da sua família para o grupo. Ouvir outros empresários falando de casa com a mesma seriedade com que falam de margem muda a forma como você enxerga as duas coisas.
-
-### Degrau subido
-
-- Em liderança, a ausência também é uma decisão, e quase sempre cobra caro.
-- Liderar em casa não é mandar; é ser escada, dar direção, presença, limites e exemplo.
-- Coração, eu, família, empresa, sociedade: os sábios de culturas diferentes perceberam a mesma ordem.
-- A ciência confirma que relacionamentos de qualidade são o maior preditor de uma vida saudável e feliz.
-
-Mas existe um detalhe que ainda não enfrentamos. Para liderar a casa e a empresa, o líder precisa estar de pé. E muitos empresários estão tentando liderar tudo com um corpo exausto, uma mente sobrecarregada e uma alma vazia. Está na hora de cuidar do ativo que não aparece em nenhum balanço.
+Só que tem um detalhe que a gente ainda não enfrentou. Para liderar a casa e a empresa, o líder precisa estar de pé. E muito empresário está tentando liderar tudo com o corpo exausto, a mente sobrecarregada e a alma vazia. Está na hora de a gente falar do ativo que não aparece em nenhum balanço.

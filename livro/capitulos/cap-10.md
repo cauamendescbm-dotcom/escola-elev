@@ -1,6 +1,6 @@
 # Parte V — Potencializar o CPF
 
-Até aqui, você olhou para dentro. Encontrou sua identidade, abriu mão de mágoas antigas e encarou o orgulho de frente. Agora começa outra etapa. Uma coisa é limpar o terreno. Outra é construir sobre ele. Nesta parte, vamos tratar o CPF como ele merece ser tratado: como o ativo mais valioso que você possui. Vamos falar do corpo que sustenta suas decisões, da imagem que entra na sala antes de você e das pessoas com quem você caminha. Um CPF potencializado não é um CPF perfeito. É um CPF cuidado.
+Até aqui a gente olhou para dentro. Você foi atrás da sua identidade, soltou pesos antigos, encarou o orgulho e levou tudo isso para dentro de casa. Agora quero conversar sobre outra coisa. Limpar o terreno é uma etapa. Construir em cima dele é outra. Nas próximas páginas, vamos cuidar do seu CPF como ele merece: do corpo que sustenta as suas decisões, da imagem que chega antes de você e das pessoas que caminham do seu lado.
 
 # Capítulo 10
 ## O ativo que não aparece no balanço
@@ -8,188 +8,140 @@ Até aqui, você olhou para dentro. Encontrou sua identidade, abriu mão de mág
 > "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida."
 > — Provérbios 4:23
 
-Já reparou que nenhuma empresa coloca o dono no balanço patrimonial?
+No capítulo anterior, a gente falou sobre liderar em casa. E talvez, enquanto lia, você tenha pensado: "Gustavo, eu entendo, eu quero, mas eu chego em casa sem energia nenhuma". Eu sei. Já cheguei assim muitas vezes. Então vamos conversar sobre isso agora, com calma, porque é aqui que muita coisa trava.
 
-Lá estão os imóveis, os veículos, o estoque, as máquinas, as contas a receber. Tudo listado, depreciado, conferido pelo contador. Mas o ativo que faz tudo isso funcionar não aparece em linha nenhuma.
+Deixa eu te fazer uma pergunta meio estranha. Você já reparou que nenhuma empresa coloca o dono no balanço patrimonial?
+
+Está tudo lá. Imóvel, veículo, estoque, máquina, contas a receber. Tudo listado, depreciado, conferido pelo contador. Mas o ativo que faz tudo isso girar não aparece em linha nenhuma.
 
 Você.
 
-Pense em um empresário que conheci numa mentoria. Vou chamá-lo de Roberto (nome alterado). Empresa de distribuição, trinta e poucos funcionários, quinze anos de mercado. Ele chegou ao primeiro encontro com uma planilha impecável. Sabia o giro do estoque de cabeça. Sabia o prazo médio de recebimento. Sabia quanto cada caminhão consumia por quilômetro.
+Vou te contar do Roberto (nome alterado). Ele chegou a um encontro de mentoria com uma planilha que dava gosto de ver. Distribuidora, trinta e poucos funcionários, quinze anos de mercado. Sabia o giro do estoque de cabeça. Sabia o prazo médio de recebimento. Sabia quanto cada caminhão gastava por quilômetro.
 
-Perguntei quantas horas ele tinha dormido na última noite.
+Eu olhei para a planilha, olhei para ele e perguntei quantas horas ele tinha dormido na noite anterior.
 
-Ele riu. Depois ficou em silêncio. "Umas quatro. Mas eu sou assim. Funciono bem com pouco sono."
+Ele riu. Depois ficou quieto. "Umas quatro. Mas eu sou assim, funciono bem com pouco sono."
 
-Perguntei quando tinha sido o último exame de rotina. Ele não lembrava. Perguntei quando tinha tirado férias sem abrir o celular. Ele não lembrava. Perguntei quando tinha jantado com a família numa terça-feira qualquer, sem pressa.
+Perguntei quando tinha sido o último exame de rotina. Não lembrava. Perguntei quando tinha tirado férias sem abrir o celular. Também não lembrava. Aí perguntei quando ele tinha jantado com a família numa terça-feira qualquer, sem pressa, sem telefone na mesa.
 
-Ele não respondeu. Olhou para a planilha.
+Ele não respondeu. Baixou os olhos e ficou olhando a planilha.
 
-Roberto cuidava de cada caminhão da frota com uma disciplina admirável. Troca de óleo no prazo. Pneus calibrados. Revisão preventiva. Ele sabia que um caminhão parado custa caro.
+Sabe o que me impressionava no Roberto? Ele cuidava de cada caminhão da frota com uma disciplina admirável. Troca de óleo no prazo, pneu calibrado, revisão preventiva. Ele sabia, melhor do que ninguém, que caminhão parado custa caro.
 
-Só não tinha percebido que ele mesmo era o caminhão que mais rodava. E o único que nunca parava para revisão.
+Só não tinha percebido que ele mesmo era o caminhão que mais rodava. E o único que nunca entrava na oficina.
 
-Seis meses depois daquela conversa, Roberto teve uma crise de ansiedade dentro de uma reunião com um fornecedor. Achou que era infarto. Foi parar no pronto-socorro. Não era o coração. Era o corpo cobrando uma conta que ele vinha empurrando havia anos.
+Seis meses depois daquela conversa, o Roberto teve uma crise de ansiedade no meio de uma reunião com fornecedor. Achou que estava infartando. Foi parar no pronto-socorro. Não era o coração. Era o corpo apresentando uma conta que ele vinha empurrando com a barriga havia anos.
 
-Ele me disse depois uma frase que nunca esqueci: "Eu passei quinze anos protegendo a empresa de tudo. Menos de mim."
+Quando a gente se encontrou de novo, ele me disse uma frase que eu nunca mais esqueci: "Eu passei quinze anos protegendo a empresa de tudo. Menos de mim."
 
-Este capítulo é sobre isso. Sobre o ativo que não aparece no balanço, mas sem o qual o balanço inteiro desmorona.
+Talvez você ainda não tenha chegado no pronto-socorro. Graças a Deus. Mas eu te pergunto com carinho: será que você não está protegendo a sua empresa de tudo, menos de você?
 
-### O mito do empresário incansável
+* * *
 
-Existe uma figura que o mercado aplaude. O empresário que chega primeiro e sai por último. Que responde mensagem de madrugada. Que não tira férias há sete anos. Que "dorme quando morrer".
+Existe um personagem que o mercado adora aplaudir. Você conhece. O empresário que chega primeiro e sai por último. Que responde mensagem à uma da manhã. Que não tira férias há sete anos e conta isso com orgulho. Que repete que vai "dormir quando morrer".
 
-Talvez você já tenha se orgulhado de ser essa pessoa. Eu já me orgulhei.
+Eu já fui esse personagem. E, confesso, já me orgulhei dele.
 
-Mas preciso te dizer com a clareza de quem já pagou esse preço: cansaço não é medalha. Exaustão não é prova de compromisso. É sinal de que alguma coisa na estrutura está errada. Na estrutura da empresa e na sua.
+Mas hoje eu te digo com a tranquilidade de quem já pagou o preço: cansaço não é medalha. Exaustão não prova compromisso. Quando você vive esgotado, isso é um sinal de que alguma coisa na estrutura está errada. Na estrutura da empresa e na sua.
 
-Lembra dos três degraus? O operador diz: "Eu sou a máquina". E máquina, quando não recebe manutenção, quebra. Não por falta de vontade. Por física.
+Lembra do primeiro degrau, o do operador? Aquele que diz "eu sou a máquina"? Pois é. Máquina sem manutenção quebra. Não por falta de vontade. Por física.
 
-O problema é que, no caso do CPF, a quebra quase nunca é súbita. Ela vem em camadas. Primeiro a irritação que aparece por qualquer coisa. Depois a dificuldade de concentração. A memória falhando em detalhes simples. O sono que não descansa. A sensação de que tudo é urgente e nada dá prazer. As decisões ficam mais curtas, mais reativas, mais pobres.
+O problema é que, com a gente, a quebra quase nunca é de uma vez. Ela vem devagar, em camadas. Primeiro aparece uma irritação por qualquer coisa. Depois fica difícil se concentrar. Você esquece detalhes simples. Dorme, mas acorda cansado. Tudo vira urgente e nada dá prazer. E, sem perceber, as suas decisões vão ficando mais curtas, mais reativas, mais pobres.
 
-E aqui está o ponto que quase ninguém conecta: **as decisões da sua empresa são tomadas pelo seu cérebro.** Se esse cérebro está exausto, a empresa inteira está sendo conduzida por um piloto cansado.
+E aqui está o ponto que quase ninguém conecta. Quem toma as decisões da sua empresa é o seu cérebro. Se esse cérebro está exausto, a empresa inteira está sendo pilotada por alguém cansado.
 
-Você não deixaria um piloto de avião voar depois de três noites sem dormir. Mas deixa o seu CNPJ ser pilotado assim há anos.
+Você entraria num avião sabendo que o piloto não dorme direito há três noites? Claro que não. Mas talvez esteja deixando o seu CNPJ voar assim há anos.
 
-### O profeta que precisou dormir
+* * *
 
-Há uma história milenar que eu gosto muito, porque ela é de uma honestidade desconcertante.
+Quero te contar uma das histórias mais honestas que eu conheço sobre isso. Ela está lá no livro de Reis, e eu acho que todo empresário deveria ler.
 
-Elias foi um dos profetas mais poderosos de Israel. Acabara de viver a maior vitória da sua vida, no monte Carmelo. Fogo do céu, multidão impactada, inimigos derrotados. O auge.
+Elias era um dos profetas mais poderosos de Israel. E ele tinha acabado de viver o maior dia da vida dele. No alto do monte Carmelo, enfrentou sozinho quatrocentos e cinquenta adversários diante de uma multidão. Pediu fogo do céu, e o fogo caiu. O povo inteiro se prostrou. Foi o auge. Se fosse hoje, seria aquele dia em que você fecha o maior contrato da história da empresa.
 
-Logo depois, recebe uma ameaça. E o homem que tinha enfrentado quatrocentos e cinquenta adversários sozinho foge para o deserto, senta-se debaixo de uma árvore e pede para morrer. "Basta, Senhor" (1 Reis 19:4).
+E aí vem o detalhe que me pega toda vez. Logo depois dessa vitória, chega um recado da rainha Jezabel ameaçando a vida dele. E o homem que tinha enfrentado quatrocentos e cinquenta sozinho sai correndo. Anda um dia inteiro deserto adentro, se joga debaixo de um arbusto e pede para morrer. "Basta, Senhor. Toma a minha vida" (1 Reis 19:4).
 
-Note o detalhe: isso acontece depois da vitória, não depois da derrota. Quantos empresários conhecem essa sensação? Bater a meta do ano e, em vez de alegria, sentir um vazio estranho. Fechar o maior contrato da história da empresa e não conseguir dormir de ansiedade.
+Repara quando isso acontece. Depois da vitória, não depois da derrota.
 
-E qual é a primeira resposta que Elias recebe? Não é um sermão. Não é uma bronca. Não é um novo plano estratégico.
+Você conhece essa sensação? Bater a meta do ano e, no lugar da alegria, sentir um vazio esquisito. Assinar o contrato que você esperou a vida inteira e não conseguir dormir de ansiedade naquela noite. Eu conheço. Foi exatamente o que eu senti lá no topo, quando vendi a empresa, e te contei no começo do livro.
 
-Ele dorme. Um anjo o acorda, oferece pão e água, e diz: "Levanta-te e come". Ele come e dorme de novo. O anjo volta, oferece comida mais uma vez e acrescenta: "porque o caminho te será sobremodo longo" (1 Reis 19:7).
+Agora presta atenção na resposta que Elias recebe. Você esperaria um sermão, não é? Uma bronca. "Cadê a sua fé, homem?" Ou, no mínimo, um novo plano estratégico.
 
-Primeiro o corpo. Depois a conversa sobre propósito.
+Nada disso.
 
-Há milhares de anos, a sabedoria já sabia o que a ciência só confirmou recentemente: não existe clareza espiritual nem estratégica num corpo destruído. Antes de perguntar "qual é o meu chamado?", às vezes a pergunta certa é "quando foi a última vez que eu dormi direito?".
+Ele dorme. Um anjo toca nele, mostra um pão assado sobre pedras quentes e uma botija de água e diz: "Levanta-te e come". Ele come, bebe e dorme de novo. O anjo volta, toca nele outra vez e repete: "Levanta-te e come, porque o caminho te será sobremodo longo" (1 Reis 19:7).
 
-### Corpo, mente e espírito: um tripé, não uma escada
+Só depois disso, com o corpo de pé, Elias caminha até o monte e ouve a voz que o devolve à missão. Não no vento forte, não no terremoto, não no fogo. Num murmúrio suave.
 
-Gosto de pensar no CPF como um tripé. Corpo, mente e espírito. Se uma perna encurta, tudo fica torto. Não adianta ter a perna espiritual firme se o corpo está em colapso. Não adianta ter a mente afiada se o espírito está vazio de sentido. As três precisam de atenção.
+Primeiro o pão e o sono. Depois a conversa sobre propósito.
 
-**O corpo** é o hardware. Sono, alimentação, movimento, exames em dia. Parece básico demais para estar num livro sobre identidade e liderança. Mas o básico é exatamente o que o empresário ocupado abandona primeiro.
+Eu acho isso de uma sabedoria impressionante. Há quase três mil anos, já estava escrito o que a ciência só foi confirmar recentemente: não existe clareza, nem espiritual nem estratégica, num corpo destruído. Às vezes, antes de perguntar "qual é o meu chamado?", a pergunta certa é bem mais simples: "quando foi a última vez que eu dormi direito?".
 
-**A mente** é onde as emoções são processadas e as decisões são formadas. Ansiedade, medo, raiva, culpa. Tudo isso passa por aqui. Uma mente sem gestão vira refém da última notícia ruim, do último cliente insatisfeito, do último funcionário que pediu demissão.
+* * *
 
-**O espírito** é o sentido. É o "para quê". É o que te sustenta quando os números não sustentam. É por isso que, no nome ELEV, a Espiritualidade vem primeiro. Ela é o alicerce. É o ponto de partida e de retorno.
+E a ciência confirma mesmo. Em 2019, a Organização Mundial da Saúde incluiu o *burnout* na sua classificação internacional de doenças, a CID-11, como um fenômeno ligado ao trabalho. A definição tem três partes, e a terceira é a que mais me chama a atenção. Além do esgotamento e do distanciamento mental do trabalho, a pessoa perde eficácia profissional. Traduzindo para a nossa conversa: o esgotamento não te deixa só mal. Te deixa pior naquilo que você faz.
 
-Quando um empresário me diz que não tem tempo para cuidar dessas três dimensões, eu costumo devolver com outra pergunta: "Você tem tempo para ficar doente? Para se divorciar? Para tomar uma decisão errada de meio milhão de reais porque estava exausto?"
+O neurocientista Matthew Walker, professor da Universidade da Califórnia em Berkeley, juntou décadas de pesquisa no livro *Por que nós dormimos*. E a conclusão dele é bem desconfortável para quem se orgulha de dormir pouco. Um cérebro privado de sono reage com mais força ao que é negativo e tem menos capacidade de controlar essa reação. Ou seja, aquele e-mail duro que você escreveu às onze e meia da noite não foi escrito pelo seu melhor eu. Foi escrito por um cérebro mais reativo e menos preciso.
+
+Muito antes de tudo isso, Sêneca, que foi conselheiro de um império inteiro, já dizia que é preciso dar descanso à mente, porque, descansada, ela se levanta melhor e mais aguda.
+
+O profeta debaixo do arbusto, o filósofo romano e o neurocientista de Berkeley. Três caminhos completamente diferentes, chegando ao mesmo lugar: quem não cuida de si perde justamente a capacidade de conduzir aquilo que construiu.
+
+* * *
+
+Eu gosto de pensar no CPF como um tripé. Corpo, mente e espírito. Se uma perna encurta, tudo fica torto. Não adianta você ter a fé firme se o corpo está em colapso. Não adianta ter a mente afiada se a alma está vazia de sentido.
+
+O corpo é a parte mais óbvia, e justamente por isso é a primeira que o empresário ocupado abandona. Sono, comida, movimento, exame em dia. Parece básico demais para um livro sobre identidade, eu sei. Mas o básico mal feito derruba qualquer estratégia sofisticada.
+
+A mente é onde as emoções passam e as decisões se formam. O Augusto Cury abre o livro *Gestão da emoção* com uma frase que eu gostaria que estivesse pendurada em toda sala de reunião do Brasil: "Antes de uma empresa falir, a mente de seus executivos entra em colapso". Lê de novo, devagar. A falência quase nunca começa no caixa. Começa quando o medo passa a escolher no lugar da estratégia. Quando a raiva responde ao cliente no lugar da razão.
+
+E gestão da emoção não é deixar de sentir. Você vai sentir medo antes de uma decisão grande. Vai sentir raiva quando alguém errar pela terceira vez. É humano. A pergunta é outra: o que você sente está te informando ou te comandando? Entre reagir e responder existe um intervalo. Um respiro. Às vezes, uma noite de sono. Muita parceria boa foi destruída por uma mensagem enviada de madrugada que nunca teria saído se a pessoa tivesse esperado até de manhã.
+
+`[AUTOR: inserir história de uma decisão sua tomada no impulso, num momento de cansaço, e o que ela custou.]`
+
+E o espírito é o sentido. É o "para quê". É o que te segura quando os números não seguram. Não é à toa que, na palavra ELEV, a Espiritualidade vem primeiro. Quando a gente desenhou a marca, fizemos questão de que o E fosse a letra mais forte. Porque é ela que sustenta todo o resto.
+
+Quando um empresário me diz que não tem tempo para cuidar dessas três coisas, eu costumo devolver com outra pergunta, meio provocativa: "E tempo para ficar doente, você tem? Para um divórcio? Para uma decisão errada de meio milhão porque estava exausto?".
 
 Cuidar de si não é luxo. É gestão de risco.
 
-### A emoção também precisa de gestão
+* * *
 
-Augusto Cury abre o livro *Gestão da emoção* com uma frase que deveria estar pendurada na parede de toda sala de diretoria: "Antes de uma empresa falir, a mente de seus executivos entra em colapso."
+Tem um princípio antigo que o mundo moderno trata como opcional, e que eu considero um dos mais revolucionários já escritos. O descanso semanal.
 
-Leia de novo. Devagar.
+No relato da criação, o próprio Criador descansa no sétimo dia. Não porque estava cansado, mas para deixar um ritmo: trabalho e pausa, fazer e ser. Mais tarde, esse princípio vira mandamento. E olha que curioso: ele aparece na mesma lista que "não matarás" e "não furtarás". Não foi colocado ali como dica de bem-estar. Foi colocado como fundamento de vida.
 
-A falência raramente começa no caixa. Ela começa na mente de quem decide. Começa quando o medo passa a escolher no lugar da estratégia. Quando a raiva responde ao cliente no lugar da razão. Quando a ansiedade antecipa problemas que nunca vão acontecer e ignora os que já estão acontecendo.
+Para quem empreende, esse dia de pausa tem um efeito prático muito forte. Ele obriga a empresa a funcionar sem você por vinte e quatro horas. E isso, meu amigo, minha amiga, é um teste de estrutura. Se o seu CNPJ não sobrevive a um dia sem o seu CPF, você não tem uma empresa. Tem um emprego caro.
 
-Gestão da emoção não significa não sentir. Significa não ser governado pelo que se sente.
+"Mas eu não tenho tempo, Gustavo."
 
-Você vai sentir medo antes de uma decisão grande. Isso é normal. A pergunta é: o medo está te informando ou te comandando? Você vai sentir raiva quando alguém da equipe errar pela terceira vez. Natural. A pergunta é: você está respondendo ou reagindo?
+Eu sei. Eu já disse essa frase muitas vezes. E deixa eu te mostrar o ciclo em que ela prende a gente. Você não tem tempo para cuidar de si porque a empresa depende demais de você. A empresa depende demais de você porque você nunca parou para estruturar. E você nunca parou para estruturar porque está cansado demais para pensar além da urgência do dia.
 
-A diferença entre reagir e responder é um intervalo. Um respiro. Às vezes, uma noite de sono. Muitos e-mails que destruíram parcerias foram escritos às onze da noite por alguém exausto. E muitos deles nunca teriam sido enviados se a pessoa tivesse esperado até a manhã seguinte.
+Ciclo assim não se quebra com mais esforço. Se quebra com uma decisão.
 
-[AUTOR: inserir história sobre uma decisão tomada no impulso, em um momento de cansaço, e o que ela custou.]
+E a decisão é tratar o seu CPF com o mesmo compromisso com que você trata o caixa. Você coloca na agenda a reunião com o banco, certo? Coloque a academia. Você protege a margem da empresa. Proteja a margem de energia do seu dia. Na Escola ELEV, quando a gente trabalha o pilar da Liderança, essa costuma ser uma das descobertas que mais mexem com os alunos. Eles juravam que o problema era falta de tempo. Era falta de energia para decidir diferente.
 
-### O ritmo do descanso
+* * *
 
-Existe um princípio milenar que o mundo moderno trata como opcional, e que talvez seja um dos mais revolucionários já registrados: o descanso semanal.
+Lembra do Roberto, o dos caminhões? Depois do susto, ele começou a fazer uma coisa simples que eu sugiro para você também. Uma vez por mês, ele senta e faz o balanço do próprio CPF, do mesmo jeito que olha o resultado da empresa.
 
-No relato da criação, o próprio Criador descansa no sétimo dia (Gênesis 2:2-3). Não por cansaço, mas para estabelecer um ritmo. Trabalho e descanso. Produção e contemplação. Fazer e ser.
+De um lado, o que soma: horas de sono, dias de atividade física, refeição com calma, tempo de verdade com a família, silêncio, oração, leitura, amizade cultivada. Do outro, o que pesa: noite mal dormida, semana sem pausa, irritação desproporcional, consulta adiada, conversa importante evitada.
 
-Mais tarde, esse princípio vira mandamento. E repare: ele aparece na mesma lista que "não matarás" e "não furtarás". Não foi colocado ali como sugestão de bem-estar. Foi colocado como fundamento de vida.
+Não precisa de nada sofisticado. Uma folha de papel resolve.
 
-Para o empresário, o descanso semanal tem um efeito prático poderoso. Ele força a empresa a funcionar sem você por um dia. E isso é um teste de estrutura. Se o seu CNPJ não sobrevive a vinte e quatro horas sem o seu CPF, você não tem uma empresa. Tem um emprego caro.
+Ele me contou que, na primeira vez que fez isso, levou um susto maior do que com qualquer prejuízo da empresa. "Eu estava no vermelho fazia anos e nem sabia."
 
-Parece impossível? Comece pequeno. Uma manhã de domingo sem celular. Depois um dia inteiro. Cada degrau de descanso que você conquista é um degrau de estrutura que a empresa conquista junto.
+Hoje o Roberto dorme sete horas. Caminha quatro vezes por semana. Janta com a família às terças e quintas, sem celular na mesa. E a empresa? Cresceu. Não porque ele passou a trabalhar mais. Porque passou a decidir melhor.
 
-Descansar não é parar de liderar. É liderar a si mesmo.
+Quando o CPF evolui, o CNPJ encontra um novo nível. E às vezes a evolução começa num lugar bem pouco glamoroso: no travesseiro.
 
-### O que a ciência confirma
+### Antes de virar a página
 
-Em 2019, a Organização Mundial da Saúde incluiu o *burnout* na Classificação Internacional de Doenças, a CID-11, como um fenômeno ocupacional. A definição é clara: uma síndrome resultante de estresse crônico no trabalho que não foi gerenciado com sucesso. Ela se manifesta em três dimensões: sensação de esgotamento de energia, distanciamento mental do trabalho (ou cinismo em relação a ele) e redução da eficácia profissional. Note a terceira: o esgotamento não deixa apenas você mal. Deixa você pior no que faz.
+Pega a sua página, aquela onde você vem juntando as respostas desde o começo do livro. Hoje ela ganha um pedaço novo: a sua energia. Separa uns vinte minutos, num lugar quieto, e responde com sinceridade.
 
-Matthew Walker, neurocientista e professor da Universidade da Califórnia em Berkeley, reuniu em *Por que nós dormimos* (2017) décadas de pesquisa sobre o sono. A conclusão central é desconfortável para quem se orgulha de dormir pouco: a privação crônica de sono prejudica a memória, a capacidade de aprendizado, o controle emocional e o sistema imunológico. O cérebro privado de sono reage com mais intensidade a estímulos negativos e tem menos capacidade de regular essa reação. Em outras palavras, o empresário que dorme quatro horas não está ganhando tempo. Está tomando decisões com um cérebro mais reativo e menos preciso.
+1. De zero a dez, que nota você dá hoje para o seu corpo, para a sua mente e para o seu espírito? Escreve um motivo curto para cada nota.
+2. Qual emoção mais decidiu por você no último mês: medo, raiva, ansiedade ou culpa? Lembra de uma situação concreta.
+3. Se a sua empresa precisasse funcionar vinte e quatro horas sem você, o que aconteceria? O que precisaria estar pronto para isso dar certo?
 
-Shawn Achor, que estudou e lecionou em Harvard, resume em *O jeito Harvard de ser feliz* (2010) o que chama de vantagem da felicidade. A ideia contraria a lógica que a maioria de nós aprendeu: não é o sucesso que gera bem-estar; é o bem-estar que aumenta a probabilidade de sucesso. Um cérebro em estado positivo é mais criativo, resolve problemas com mais facilidade e trabalha melhor em equipe. Achor cita pesquisas que associam esse estado a ganhos expressivos de produtividade e vendas. [VERIFICAR: percentuais citados por Achor, como produtividade 31% maior e vendas 37% maiores, antes de incluí-los no texto.]
+E agora o desafio para os próximos sete dias. Escolhe um horário fixo para dormir e outro para acordar, e cumpre os dois a semana inteira. Agenda aquele check-up que você vem adiando, porque agendar já conta. E, em algum dia da semana, fica quatro horas seguidas sem celular. Repara no que acontece com a empresa. E, principalmente, repara no que acontece com você. No sétimo dia, refaz as notas da primeira pergunta e anota na sua página a mudança que você quer sustentar.
 
-### Onde as fontes se encontram
-
-- **Bíblia:** Elias, no auge da vitória, desaba debaixo de uma árvore e pede para morrer. A resposta do céu não é cobrança: é sono e pão, duas vezes, "porque o caminho te será sobremodo longo" (1 Reis 19:5-7). Só depois ele ouve a voz que o devolve à missão.
-- **Filosofia:** Sêneca, conselheiro de um império, escreveu em *Sobre a tranquilidade da alma*: "É preciso dar descanso à mente; descansada, ela se levanta melhor e mais aguda."
-- **Psicologia e ciência:** a OMS reconhece o esgotamento crônico como fenômeno ocupacional que reduz a eficácia profissional, e a pesquisa sobre o sono mostra um cérebro privado de descanso mais reativo e menos preciso.
-
-Três caminhos, uma mesma conclusão: quem não cuida de si perde justamente a capacidade de conduzir o que construiu.
-
-### O paradoxo do tempo
-
-"Mas eu não tenho tempo."
-
-Essa é a frase que mais escuto quando falo sobre isso. E eu entendo. De verdade. Quem está no degrau do operador não tem tempo mesmo. Tudo passa por ele. Tudo depende dele.
-
-Só que existe um paradoxo aqui. Você não tem tempo para cuidar de si porque a empresa depende demais de você. E a empresa depende demais de você porque você nunca parou para estruturar. E você nunca parou para estruturar porque está cansado demais para pensar além da urgência do dia.
-
-É um ciclo. E ciclos não se quebram com mais esforço. Se quebram com uma decisão.
-
-A decisão é esta: tratar o próprio CPF com o mesmo compromisso com que você trata o caixa da empresa. Com agenda, com indicador, com revisão periódica.
-
-Você coloca na agenda a reunião com o banco. Coloque a academia. Você protege a margem da empresa. Proteja a margem de energia do seu dia.
-
-Na Escola ELEV, quando trabalhamos o pilar da Liderança, falamos do ciclo que prende o dono no operacional. E uma das descobertas mais frequentes dos alunos é esta: eles achavam que o problema era falta de tempo. Era falta de energia para decidir diferente.
-
-### O balanço do CPF
-
-Proponho que você comece a fazer, todo mês, um balanço do seu CPF. Do mesmo jeito que olha o DRE da empresa.
-
-No lado dos ativos: horas de sono, dias de atividade física, refeições feitas com calma, tempo de qualidade com a família, momentos de silêncio, oração ou reflexão, leitura, amizades cultivadas.
-
-No lado dos passivos: noites mal dormidas, dias sem pausa, irritações desproporcionais, consultas adiadas, conversas importantes evitadas, culpa acumulada.
-
-Não precisa ser sofisticado. Uma folha de papel resolve. O que importa é olhar. Porque o que não é medido não é gerido, e isso vale para pessoas tanto quanto para empresas.
-
-Roberto, aquele da distribuidora, hoje faz isso. Ele me contou que a primeira vez que preencheu o balanço do CPF levou um susto maior do que com qualquer prejuízo da empresa. "Eu estava no vermelho fazia anos e nem sabia."
-
-Hoje ele dorme sete horas. Caminha quatro vezes por semana. Janta com a família às terças e quintas, sem celular na mesa. E a empresa? Cresceu. Não porque ele trabalhou mais. Porque passou a decidir melhor.
-
-Quando o CPF evolui, o CNPJ encontra um novo nível.
-
-### Princípio milenar
-
-Guarda o teu coração acima de tudo, porque dele procedem as fontes da vida (Provérbios 4:23). Quem não cuida da fonte não pode reclamar da água que corre na empresa. Antes do chamado, vem o pão e o sono (1 Reis 19).
-
-### Caderno de Identidade — Exercício 10: o balanço do CPF
-
-Este exercício acrescenta ao seu **Mapa de Alinhamento Vida e Negócio** a camada da energia. Separe trinta minutos, em um lugar tranquilo, e responda por escrito.
-
-1. De zero a dez, que nota você dá hoje para cada perna do seu tripé: corpo, mente e espírito? Escreva um motivo para cada nota.
-2. Quantas horas você dormiu, em média, nos últimos sete dias? Quantas vezes fez atividade física? Quando foi seu último check-up?
-3. Qual emoção mais tomou decisões por você no último mês: medo, raiva, ansiedade ou culpa? Descreva uma situação concreta.
-4. Se a sua empresa precisasse funcionar vinte e quatro horas sem você, o que aconteceria? O que precisaria estar pronto para isso ser possível?
-5. O que, na sua rotina, alimenta o seu "para quê"? Quanto tempo por semana você dedica a isso?
-6. Monte seu balanço do CPF: liste cinco ativos e cinco passivos atuais da sua vida pessoal.
-
-**Plano de aplicação de 7 dias:**
-
-- Dias 1 e 2: defina um horário fixo para dormir e um para acordar. Cumpra os dois.
-- Dia 3: agende o check-up que você está adiando. Agendar já conta.
-- Dias 4 e 5: bloqueie na agenda três horários de movimento para a semana seguinte, com a mesma prioridade de uma reunião com cliente.
-- Dia 6: escolha um período de quatro horas sem celular. Observe o que acontece com a empresa e com você.
-- Dia 7: refaça as notas do item 1 e compare. Anote no seu Mapa a principal mudança que você quer sustentar.
-
-Se você faz parte da Escola ELEV, leve esse balanço para o encontro de Liderança. Ele costuma revelar o comportamento que, se mudar, muda a empresa.
-
-### Degrau subido
-
-- O CPF é o ativo mais valioso da empresa, mesmo sem aparecer no balanço.
-- Cansaço não é medalha. Exaustão reduz a qualidade das decisões, e isso a ciência já mostrou.
-- Corpo, mente e espírito formam um tripé: se uma perna falha, tudo fica torto.
-- Descansar é um teste de estrutura. Se a empresa não aguenta um dia sem você, o problema não é você descansar.
-
-Agora que você começou a cuidar de quem está por dentro, é hora de olhar para algo que muita gente considera superficial, mas que entra em cada sala antes mesmo de você abrir a boca.
+Agora que você começou a cuidar de quem está aí dentro, quero falar de uma coisa que muita gente acha superficial. Mas ela entra em cada sala antes de você abrir a boca.

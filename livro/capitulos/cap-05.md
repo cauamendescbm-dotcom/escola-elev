@@ -4,190 +4,158 @@
 > "Vós bem intentastes mal contra mim; porém Deus o tornou em bem."
 > — Gênesis 50:20
 
-Renata tinha três clínicas de estética, uma agenda lotada e uma frase que repetia para si mesma desde os dezenove anos: "Eu vou mostrar para ele". (Nome alterado.)
+No fim do capítulo anterior, eu te disse que talvez tivesse aparecido um nome mais antigo. Alguém de casa. Então deixa eu te contar a história da Renata (nome alterado), porque ela explica isso melhor do que qualquer teoria.
+
+A Renata tinha três clínicas de estética, agenda lotada e uma frase que repetia para si mesma desde os dezenove anos: "Eu vou mostrar pra ele".
 
 "Ele" era o pai.
 
-Um homem duro, que nunca elogiou nada. Quando ela contou que ia abrir o primeiro consultório, ele riu e disse que "isso é coisa de quem não quer trabalhar de verdade". Quando ela abriu a segunda unidade, ele perguntou se o banco ainda ia demorar para tomar tudo.
+Um homem duro, que nunca elogiou nada. Quando ela contou que ia abrir o primeiro consultório, ele riu e disse que aquilo era "coisa de quem não quer trabalhar de verdade". Quando ela abriu a segunda unidade, ele perguntou quanto tempo o banco ia levar para tomar tudo.
 
-Ela cresceu. Faturou. Ganhou prêmio de empresária do ano na associação comercial da cidade. Na noite da premiação, olhou para a plateia procurando um rosto que não estava lá.
+Ela cresceu. Faturou. Ganhou o prêmio de empresária do ano da associação comercial da cidade. E, na noite da premiação, ficou olhando para a plateia procurando um rosto que não estava lá.
 
-Quando chegou à mentoria, o problema que ela trouxe era técnico: "Minha margem caiu, minha equipe não para, eu não consigo sair da operação".
+Quando ela chegou à mentoria, o problema que trouxe era técnico: "A margem caiu, a equipe não para, e eu não consigo sair da operação".
 
-Fomos olhar os números. Estava tudo lá. Uma terceira unidade aberta cedo demais, com custo fixo alto e sem uma gerente preparada. Uma quarta já em negociação. Expansão acelerada, caixa apertado, e a dona atendendo pacientes pessoalmente em três endereços.
+Fomos olhar os números, e estava tudo ali. Uma terceira unidade aberta cedo demais, com custo fixo alto e sem uma gerente preparada. Uma quarta já em negociação. Expansão acelerada, caixa apertado e a dona atendendo pessoalmente em três endereços diferentes.
 
-Perguntei por que a pressa.
+Eu perguntei por que a pressa.
 
-Ela respondeu com números de mercado, crescimento do setor, oportunidade de ponto comercial. Tudo verdade. Mas, quando perguntei pela terceira vez, a voz embargou:
+Ela me respondeu com dados de mercado, crescimento do setor, oportunidade de ponto comercial. Tudo verdade. Perguntei de novo. Mais dados. Quando eu perguntei pela terceira vez, a voz dela embargou.
 
 "Porque, se eu parar, ele vai ter razão."
 
-Naquele dia, entendemos juntos que a empresa da Renata tinha um sócio oculto. Ele não investia nada, mas tinha poder de veto sobre tudo. Cada decisão de crescimento era, no fundo, uma resposta a um homem que nunca pisou numa das clínicas.
+Naquele dia, a gente descobriu juntos que a empresa da Renata tinha um sócio oculto. Ele não tinha investido um real, mas tinha poder de veto sobre tudo. Cada decisão de crescimento era, no fundo, uma resposta a um homem que nunca tinha pisado em nenhuma das clínicas.
 
 Ela não estava construindo um negócio. Estava construindo uma prova.
 
-E provas não têm limite. Sempre falta uma unidade a mais para, finalmente, ser suficiente.
+E prova não tem fim, né? Sempre falta mais uma unidade para, finalmente, ser suficiente.
 
-### A empresa como resposta
+* * *
 
-No capítulo anterior, falamos das ofensas que acontecem no trabalho: o sócio, o funcionário, o cliente. Elas doem, mas têm data e endereço.
+As ofensas de que a gente falou no capítulo passado doem, mas têm data e endereço. O sócio, o cliente, o funcionário. Você sabe quando aconteceu.
 
-Existe outra categoria de ferida, mais antiga e mais silenciosa. Ela nasceu em casa. Foi aberta por quem deveria ter protegido. E, por isso, quase nunca é reconhecida como ferida. Parece apenas "o meu jeito".
+Existe outro tipo de ferida, mais antiga e mais silenciosa. Ela nasceu em casa. Foi aberta por quem deveria ter protegido. E justamente por isso quase nunca é reconhecida como ferida. Parece só "o meu jeito".
 
-Veja algumas formas como ela aparece no CNPJ:
+Eu vejo isso o tempo todo nas empresas que acompanho, e de formas diferentes.
 
-**A empresa como prova.** "Eu vou mostrar que sou capaz." O dono cresce, mas nunca descansa, porque a plateia que ele quer convencer não está assistindo.
+Tem o empresário que, como a Renata, transformou a empresa numa prova. Ele cresce, mas nunca descansa, porque a plateia que ele quer convencer não está assistindo.
 
-**A empresa como fuga.** A casa da infância era barulhenta, instável ou fria. A empresa virou o lugar onde ele tem controle. Por isso, ele fica lá até tarde. Não por necessidade. Por refúgio.
+Tem o que transformou a empresa num esconderijo. A casa da infância era barulhenta, instável ou fria, e a empresa virou o único lugar onde ele tem controle. Por isso ele fica lá até tarde. Não é por necessidade. É por refúgio.
 
-**A empresa como repetição.** O pai centralizava tudo, gritava com os funcionários e não deixava ninguém crescer. O filho jurou que seria diferente. Hoje, centraliza tudo, levanta a voz nas reuniões e não sabe por que os bons vão embora.
+E tem o que jurou que seria diferente do pai e, sem perceber, virou uma cópia dele. O pai centralizava tudo, gritava com os funcionários e não deixava ninguém crescer. O filho prometeu que nunca faria isso. Hoje ele centraliza tudo, levanta a voz na reunião e não entende por que os bons vão embora.
 
-**A empresa como herança mal resolvida.** Em empresas familiares, a ferida senta à mesa do conselho. O pai que não solta o comando. O filho que nunca é levado a sério. Irmãos que disputam a aprovação do fundador como disputavam na infância.
+Às vezes a herança nem é um comportamento. É um medo. A mãe repetia que "dinheiro some", que "rico não presta", que "a gente tem que se contentar". O filho virou empresário, mas não consegue cobrar o preço justo, não investe, não ousa. Fatura com uma mão e sabota com a outra.
 
-**A empresa como medo herdado.** A mãe repetia que "dinheiro some", que "rico não presta", que "a gente tem que se contentar". O filho virou empresário, mas não consegue cobrar o preço justo, não investe, não ousa. Ele fatura com uma mão e sabota com a outra.
+Você não escolheu a casa em que nasceu. Mas é você quem escolhe se ela vai continuar mandando na sua empresa.
 
-Você não escolheu a casa em que nasceu. Mas é você quem escolhe se ela vai continuar governando a sua empresa.
+### O menino que foi vendido pelos irmãos
 
-### O irmão que foi vendido
+Poucas histórias falam tão fundo sobre ferida de família quanto a de José. E eu gosto muito dela, porque ela termina dentro de um escritório de governo, administrando uma crise.
 
-Poucas histórias da humanidade falam tão diretamente sobre feridas de família quanto a de José.
+José era o filho preferido de Jacó, e todo mundo sabia disso. O pai deu a ele uma túnica especial, colorida, que o destacava dos outros onze. Os irmãos odiavam aquilo. E José, novo e meio ingênuo, ainda contava para eles os sonhos em que todos se curvavam diante dele. Imagina o clima naquela casa.
 
-Ele era o filho preferido de Jacó, e todo mundo sabia. Ganhou do pai uma túnica especial, colorida, que o diferenciava dos outros. Os irmãos o odiavam por isso. E José, jovem e ingênuo, ainda contava a eles os sonhos em que todos se curvavam diante dele.
-
-Um dia, longe de casa, os irmãos o viram chegar no campo. "Lá vem o sonhador." Tiraram a túnica dele, jogaram-no numa cisterna vazia e, enquanto comiam, decidiram vendê-lo como escravo para uma caravana que passava rumo ao Egito. Mancharam a túnica de sangue de bode e levaram ao pai. Jacó chorou o filho como morto.
+Um dia, os irmãos estavam longe, cuidando do rebanho, e viram José chegando pelo campo. "Lá vem o sonhador." Arrancaram a túnica dele, jogaram o menino numa cisterna vazia e, enquanto comiam, resolveram vendê-lo para uma caravana que ia para o Egito. Depois, mancharam a túnica com sangue de bode e levaram para o pai. Jacó chorou o filho como morto.
 
 José tinha dezessete anos.
 
-Pense no que ele carregou para o Egito. Rejeição dos irmãos. Distância do pai. Depois, a falsa acusação da mulher de Potifar. Depois, anos esquecido numa prisão por alguém que prometeu se lembrar dele.
+Pensa no que ele carregou para o Egito. A rejeição dos irmãos. A distância do pai. Depois, uma acusação falsa que o levou para a prisão. E, na prisão, anos esquecido por alguém que tinha prometido se lembrar dele.
 
-Treze anos depois, José era o governador do Egito. O segundo homem mais poderoso do maior império da época. Administrava os estoques de alimento durante uma fome que atingia toda a região.
+Treze anos depois, José era governador do Egito. O segundo homem mais poderoso do maior império da época, responsável pelos estoques de comida durante uma fome que castigava toda a região.
 
-E então os irmãos apareceram diante dele, pedindo comida. Não o reconheceram. Curvaram-se até o chão. O sonho tinha se cumprido.
+E aí, um dia, os irmãos aparecem na frente dele, pedindo comida. Não o reconhecem. Curvam-se até o chão.
 
-Tudo estava nas mãos de José. Ele podia prender, humilhar, mandar matar. Ninguém o questionaria.
+Tudo estava nas mãos de José. Ele podia prender, humilhar, mandar matar. Ninguém ia questionar.
 
-O texto diz que ele não conseguiu se conter. Mandou todos os egípcios saírem da sala e chorou tão alto que o choro foi ouvido no palácio do faraó. "Eu sou José, vosso irmão, a quem vendestes para o Egito" (Gn 45:4).
+O texto conta que ele não aguentou. Mandou todos os egípcios saírem da sala e chorou tão alto que o choro foi ouvido no palácio. "Eu sou José, o irmão de vocês, aquele que vocês venderam para o Egito."
 
-Anos mais tarde, depois da morte de Jacó, os irmãos tiveram medo de que, sem o pai por perto, José finalmente se vingasse. Mandaram um recado e se jogaram aos pés dele.
+Anos mais tarde, quando o pai morreu, os irmãos ficaram com medo. Agora que o velho não estava mais lá, José ia finalmente se vingar. Foram até ele e se jogaram aos pés dele.
 
-A resposta de José é uma das frases mais maduras já registradas: "Não temais. Vós bem intentastes mal contra mim; porém Deus o tornou em bem, para fazer como se vê neste dia, para conservar em vida a um povo grande" (Gn 50:19-20).
+E José disse uma das frases mais maduras que eu já li: "Não tenham medo. Vocês planejaram o mal contra mim, mas Deus o transformou em bem, para salvar a vida de muita gente".
 
-Repare no que José fez. Ele não negou o mal. Disse com todas as letras: "vocês planejaram o mal". Mas ele se recusou a deixar que esse mal fosse a última palavra sobre a vida dele.
+Repara no que ele fez. Ele não negou o mal. Disse com todas as letras: vocês planejaram o mal. Mas não deixou que esse mal fosse a última palavra sobre a vida dele.
 
-E observe o detalhe que muda tudo para nós, empresários: foi justamente o governador que perdoou que conseguiu administrar a crise e salvar uma nação inteira. Um José ressentido teria sido um gestor perigoso. Com o poder que tinha, a mágoa dele teria virado política de Estado.
+E tem um detalhe aqui que, para mim, muda tudo para quem lidera empresa. Foi justamente o governador que perdoou que conseguiu administrar a crise e salvar uma nação inteira. Um José ressentido teria sido um gestor perigoso. Com o poder que ele tinha, a mágoa teria virado política de Estado.
 
-Um CPF ferido com muito poder nas mãos é um risco para o CNPJ. Um CPF curado com o mesmo poder é uma bênção para muita gente.
+Um CPF ferido com muito poder na mão é um risco para o CNPJ. O mesmo poder na mão de um CPF curado vira bênção para muita gente.
 
-### Perdoar os pais não é fingir que foram perfeitos
+* * *
 
-Quando falo sobre perdoar pai e mãe, muita gente se defende de imediato: "Mas meus pais fizeram o melhor que podiam".
+Quando eu falo em perdoar pai e mãe, quase sempre alguém se defende rápido: "Mas os meus pais fizeram o melhor que podiam".
 
-Talvez tenham feito. E, ainda assim, podem ter ferido você.
+Talvez tenham feito mesmo. E, ainda assim, podem ter ferido você.
 
-As duas coisas cabem na mesma frase. Seu pai pode ter trabalhado dezesseis horas por dia para pôr comida na mesa e, ao mesmo tempo, nunca ter dito que tinha orgulho de você. Sua mãe pode ter se sacrificado por você e, ao mesmo tempo, ter transmitido um medo de dinheiro que hoje trava a sua empresa.
+As duas coisas cabem na mesma frase. O seu pai pode ter trabalhado dezesseis horas por dia para pôr comida na mesa e nunca ter dito que tinha orgulho de você. A sua mãe pode ter se sacrificado por você e, ao mesmo tempo, ter passado um medo de dinheiro que hoje trava a sua empresa.
 
-Perdoar não é reescrever a história. É olhar para ela inteira, com o que foi bom e o que foi ruim, e decidir que você não vai mais cobrar dos seus pais uma dívida que eles não têm como pagar.
+Perdoar não é reescrever a história nem fingir que eles foram perfeitos. É olhar para a história inteira, com o que foi bom e o que foi ruim, e decidir que você não vai mais cobrar deles uma dívida que eles não têm como pagar.
 
-Uma observação importante: perdão não significa expor-se de novo ao que fere. Se houve abuso, violência ou uma relação que continua destrutiva, perdoar pode ser feito à distância, com limites claros, e muitas vezes com a ajuda de um profissional. O perdão liberta você. Ele não obriga você a voltar para dentro da cisterna.
+Agora, presta atenção numa coisa importante. Perdoar não é se expor de novo ao que fere. Se houve abuso, violência ou uma relação que continua destrutiva, o perdão pode acontecer de longe, com limites claros, e muitas vezes com a ajuda de um profissional. O perdão te liberta. Ele não te obriga a voltar para dentro da cisterna.
 
-### O que a ciência confirma
+E, olha, não sou só eu que estou dizendo que essas marcas de infância acompanham a gente. No fim dos anos 1990, nos Estados Unidos, dois pesquisadores, o médico Vincent Felitti e o epidemiologista Robert Anda, acompanharam mais de dezessete mil adultos num estudo que ficou famoso com o nome de ACE, as "experiências adversas na infância". Eles descobriram que situações difíceis vividas na infância, como violência, negligência ou um lar desestruturado, estavam ligadas a mais problemas de saúde física e emocional na vida adulta.
 
-No fim da década de 1990, o médico Vincent Felitti, da Kaiser Permanente, e o epidemiologista Robert Anda, do CDC, nos Estados Unidos, conduziram o famoso estudo ACE (*Adverse Childhood Experiences*, ou experiências adversas na infância), com mais de dezessete mil adultos. Os resultados, publicados em 1998, mostraram que experiências difíceis na infância, como violência, negligência ou um lar desestruturado, estavam associadas a mais problemas de saúde física e emocional na vida adulta.
-
-O estudo não diz que o passado é uma sentença. Diz que ele deixa marcas, e que marcas ignoradas continuam agindo.
-
-Há uma boa notícia. A psicóloga Kristin Neff, da Universidade do Texas, dedicou anos a estudar a autocompaixão: a capacidade de tratar a si mesmo, nos erros, com a mesma firmeza gentil com que trataríamos um amigo. E pesquisadores da Universidade da Califórnia em Berkeley, Juliana Breines e Serena Chen, publicaram em 2012 uma série de experimentos com um resultado que contraria o senso comum dos empresários: as pessoas que receberam um estímulo de autocompaixão depois de um fracasso se mostraram mais motivadas a melhorar, e estudaram mais para um teste seguinte, do que as que foram estimuladas apenas a pensar bem de si.
-
-Traduzindo para a linguagem do escritório: chicotear a si mesmo não melhora a performance. Assumir o erro sem se destruir, sim.
+Mas repara bem no que o estudo diz e no que ele não diz. Ele não diz que o passado é uma sentença. Diz que ele deixa marcas. E marca ignorada continua agindo.
 
 ### O devedor mais difícil de perdoar
 
-Existe uma pessoa que o empresário tem ainda mais dificuldade de perdoar do que o pai, a mãe ou o ex-sócio.
+Tem uma pessoa que o empresário perdoa com ainda mais dificuldade do que o pai, a mãe ou o ex-sócio.
 
 Ele mesmo.
 
-A decisão de expansão que quase quebrou a empresa. A contratação errada que custou dois anos. O sócio que você escolheu contra todos os conselhos. A dívida que você assumiu por vaidade. As férias de família que você cancelou tantas vezes que os filhos pararam de perguntar. A pessoa que você demitiu de forma injusta e nunca procurou para se desculpar.
+A expansão que quase quebrou a empresa. A contratação errada que custou dois anos. O sócio que você escolheu contra o conselho de todo mundo. A dívida que você fez por vaidade. As férias de família que você cancelou tantas vezes que as crianças pararam de perguntar. Aquela pessoa que você demitiu de forma injusta e nunca procurou para pedir desculpas.
 
-Muitos empresários carregam essa culpa como um processo trabalhista interno que nunca termina. E a culpa não resolvida produz dois comportamentos opostos, ambos destrutivos.
+Muita gente carrega isso como um processo trabalhista interno que nunca termina. E a culpa que não se resolve costuma empurrar a gente para um de dois lados, os dois ruins.
 
-O primeiro é a paralisia. "Da última vez que arrisquei, quase perdi tudo." Então, nunca mais arrisca. Toda decisão importante vai para a gaveta.
+Um é a paralisia. "Da última vez que eu arrisquei, quase perdi tudo." Então nunca mais arrisca, e toda decisão importante vai parar na gaveta.
 
-O segundo é a compensação. "Preciso recuperar o que perdi." Então, arrisca demais, rápido demais, tentando apagar o erro com um acerto grande o bastante.
+O outro é a compensação. "Preciso recuperar o que eu perdi." Então arrisca demais, rápido demais, tentando apagar o erro com um acerto bem grande.
 
-Nenhum dos dois é estratégia. Os dois são culpa disfarçada de gestão.
+Nenhum dos dois é estratégia. Os dois são culpa vestida de gestão. E a equipe percebe. Ela não sabe dar nome, mas sente quando o dono decide com medo ou com pressa de se redimir.
 
-E a equipe percebe. Ela não sabe nomear, mas sente quando o dono decide com medo ou com pressa de se redimir.
+Quer ver uma coisa que contraria o senso comum de muito empresário? Em 2012, duas pesquisadoras da Universidade da Califórnia em Berkeley, Juliana Breines e Serena Chen, fizeram uma série de experimentos com pessoas que tinham acabado de fracassar numa tarefa. As que foram estimuladas a tratar o próprio erro com compreensão, em vez de se chicotear, ficaram mais motivadas a melhorar. Estudaram mais para a prova seguinte.
 
-Jesus contou a história de um filho que pediu a herança antecipada, saiu de casa e desperdiçou tudo. Faliu longe da família, foi cuidar de porcos e chegou a desejar a comida dos animais. O texto diz uma frase que eu considero uma das mais importantes para quem lidera: "E, caindo em si..." (Lc 15:17).
+Traduzindo para a linguagem do escritório: se bater não melhora o resultado. Assumir o erro sem se destruir, sim.
 
-O jovem não mudou quando o pai o perdoou. Mudou antes, quando caiu em si. Quando parou de se enganar e olhou a própria condição. A partir daí, ele levantou e voltou.
+Isso me lembra uma frase que Jesus colocou no meio de uma das histórias mais conhecidas do mundo. Um filho pediu ao pai a herança adiantada, foi embora de casa e gastou tudo. Faliu longe da família, foi cuidar de porcos e chegou a ter vontade de comer a comida dos animais. E aí vem a frase: "E, caindo em si...".
+
+O rapaz não mudou quando o pai o perdoou. Mudou antes, quando caiu em si. Quando parou de se enganar e olhou para a própria situação. Só depois disso ele levantou e voltou para casa.
 
 E o pai já estava na estrada, olhando o horizonte, esperando.
 
-Autoperdão não é passar a mão na própria cabeça. É cair em si, assumir o que fez, tirar a lição, reparar o que for possível e, depois, levantar e voltar para casa. Quem não se perdoa nunca volta. Fica para sempre entre os porcos, explicando a si mesmo por que não merece sair dali.
+Muito antes de qualquer pesquisa de Berkeley, Agostinho escreveu as *Confissões* olhando para os erros da própria juventude com uma honestidade que assusta. E o que ele encontrou ali não foi condenação. Foi recomeço.
 
-[AUTOR: inserir história pessoal sobre uma decisão sua de que você se arrependeu e como aprendeu a se perdoar por ela.]
+Perdoar a si mesmo não é passar a mão na cabeça. É cair em si, assumir o que fez, aprender, reparar o que der para reparar e voltar para casa. Quem não se perdoa nunca volta. Fica para sempre no chiqueiro, explicando para si mesmo por que não merece sair dali.
 
-### Renata, um ano depois
+[AUTOR: inserir aqui uma decisão sua de que você se arrependeu e como aprendeu a se perdoar por ela.]
+
+### A Renata, um ano depois
 
 A Renata não abriu a quarta clínica.
 
-Ela fez algo mais difícil: reorganizou a terceira. Contratou e formou uma gerente, reduziu o custo fixo, saiu do atendimento direto em duas unidades e começou a olhar a empresa como dona, e não como a melhor funcionária dela mesma.
+Ela fez uma coisa mais difícil: reorganizou a terceira. Contratou e formou uma gerente, cortou custo fixo, saiu do atendimento direto em duas unidades e começou a olhar para a empresa como dona, e não como a melhor funcionária de si mesma.
 
-Mas a virada não começou nos números. Começou numa tarde em que ela escreveu uma carta ao pai. Uma carta que nunca enviou.
+Mas a virada não começou nos números. Começou numa tarde em que ela escreveu uma carta para o pai. Uma carta que nunca mandou.
 
-Nela, contou tudo o que tinha sentido nas vezes em que foi desprezada. E terminou com uma frase que ela me mostrou depois:
+Ela contou ali tudo o que tinha sentido cada vez que foi desprezada. E terminou com uma frase que depois me mostrou:
 
-"Eu não preciso mais que você me aplauda. Eu te libero dessa dívida. E me libero também."
+"Eu não preciso mais do seu aplauso. Eu te libero dessa dívida. E me libero também."
 
-Meses depois, ela visitou o pai. Ele continuava o mesmo homem duro. Não pediu desculpas. Não elogiou. Mas ela saiu de lá diferente, porque já não estava esperando nada.
+Meses depois, ela foi visitar o pai. Ele continuava o mesmo homem duro. Não pediu desculpas, não elogiou nada. Mas ela saiu de lá diferente, porque já não estava esperando coisa nenhuma.
 
-"Pela primeira vez", ela me disse, "eu estou crescendo porque quero, e não porque preciso provar."
+"Pela primeira vez", ela me disse, "eu estou crescendo porque eu quero, e não porque eu preciso provar."
 
-Há uma liberdade enorme em construir um CNPJ que não precisa provar nada a ninguém. Ele cresce no ritmo certo, com a estrutura certa, pelos motivos certos.
+Existe uma liberdade enorme em ter um CNPJ que não precisa provar nada para ninguém. Ele cresce no ritmo certo, com a estrutura certa e pelos motivos certos.
 
-### Princípio milenar
+### Antes de virar a página
 
-O mal que fizeram contra você pode ser transformado em bem, mas só se você deixar de usá-lo como desculpa. Quem cai em si e se levanta encontra o caminho de volta para casa.
+Este talvez seja o exercício mais corajoso do livro. Faz num lugar tranquilo, com tempo, e com a sua página do lado.
 
-### Onde as fontes se encontram
+1. Complete sem pensar muito: "A minha empresa é, em parte, uma resposta a ______".
+2. Qual comportamento seu, como empresário, é a repetição de algo que você jurou nunca fazer?
+3. Qual é a decisão de que você mais se arrepende, e o que ela ainda está decidindo por você hoje?
 
-- **Bíblia:** José, vendido pelos irmãos aos dezessete anos, chora diante deles no Egito e declara que o mal planejado foi transformado em bem. O governador que perdoou foi o que salvou uma nação (Gn 45 e 50).
-- **Filosofia:** Agostinho, nas *Confissões*, olha para os erros da própria juventude com honestidade total e encontra, na confissão, não a condenação, mas o recomeço. Para ele, conhecer a si mesmo por inteiro era o caminho da cura.
-- **Psicologia:** as experiências adversas da infância deixam marcas que agem na vida adulta (estudo ACE, Felitti e Anda, 1998). E a autocompaixão depois de um fracasso aumenta a motivação para melhorar (Breines e Chen, Berkeley, 2012).
+Depois, escreve duas cartas que você não precisa enviar. A primeira para o seu pai, a sua mãe ou quem fez esse papel: conta o que te feriu, reconhece o que foi bom e termina liberando a dívida. A segunda, mais curta, para você mesmo, terminando com uma frase simples: "Eu caio em mim, eu me levanto e eu volto". Na sua página, anota a frase que você herdou de casa e, ao lado, a frase nova que decide adotar no lugar dela.
 
-Três caminhos, uma mesma conclusão: o passado explica você, mas não precisa decidir por você.
+Nos próximos sete dias, pega uma decisão da empresa que está travada pela culpa ou acelerada pela necessidade de provar alguma coisa e olha para ela de novo só com critério técnico: números, estrutura, momento. Se tiver algo para reparar, um pedido de desculpas, uma conversa, dá o primeiro passo.
 
-### Caderno de Identidade — Exercício 5
+E, se essas cartas mexerem em feridas fundas, não carrega isso sozinho. Procura alguém preparado: um terapeuta, um conselheiro, um líder espiritual de confiança. Isso não é fraqueza. É gestão.
 
-**A carta que você não precisa enviar**
-
-Este exercício pede coragem. Faça num lugar tranquilo, com tempo.
-
-1. Complete a frase, sem pensar muito: "A minha empresa é, em parte, uma resposta a ______". (Pode ser uma pessoa, uma situação, uma escassez, uma humilhação.)
-2. Que frase o seu pai repetia sobre trabalho, dinheiro ou sucesso? E a sua mãe? Escreva as duas.
-3. Qual comportamento seu como empresário é uma repetição de algo que você jurou nunca fazer?
-4. Escreva uma carta ao seu pai ou à sua mãe (ou a quem fez esse papel). Diga o que te feriu, sem filtro. Depois diga o que você reconhece de bom. Termine liberando a dívida: "Eu te libero de me dever ______".
-5. Agora escreva uma segunda carta, curta, para você mesmo. Nomeie a decisão de que você mais se arrepende. Escreva o que aprendeu com ela, o que ainda pode reparar e termine com: "Eu caio em mim, eu me levanto e eu volto".
-
-**Plano de aplicação de 7 dias:**
-
-- **Dia 1:** responda às perguntas 1 a 3.
-- **Dia 2:** escreva a carta da pergunta 4. Não envie. Guarde.
-- **Dia 3:** escreva a carta da pergunta 5.
-- **Dia 4:** identifique uma decisão empresarial travada pela culpa ou acelerada pela necessidade de provar algo. Reavalie essa decisão apenas com critérios técnicos: números, estrutura, momento.
-- **Dia 5:** se houver algo a reparar (um pedido de desculpas, uma conversa, um acerto), dê o primeiro passo.
-- **Dias 6 e 7:** observe o que muda no seu ritmo de decisão. Anote.
-
-No **Mapa de Alinhamento Vida e Negócio**, registre na área "Raízes" a frase que você herdou e a frase nova que decide adotar no lugar dela.
-
-Se a carta da pergunta 4 tocar em feridas profundas, não carregue isso sozinho. Converse com alguém preparado: um terapeuta, um conselheiro, um líder espiritual de confiança.
-
-### Degrau subido
-
-- Muitas empresas são construídas como prova, fuga ou repetição de uma história de família.
-- José mostra que o mal sofrido pode ser transformado em bem, e que um líder curado administra crises que um líder ferido agravaria.
-- Perdoar os pais não é fingir que foram perfeitos. É parar de cobrar deles uma dívida que não podem pagar.
-- Autoperdão é cair em si, aprender, reparar e voltar. A culpa não resolvida vira paralisia ou compensação, nunca estratégia.
-
-Você soltou o peso das ofensas. Agora vamos encarar um adversário ainda mais sutil. Ele não vem de fora, não tem nome de pessoa e costuma se disfarçar de experiência, de competência, até de sucesso. É o inimigo que mais quebra empresas que já deram certo.
+Agora que você soltou esse peso, eu preciso te apresentar um adversário mais disfarçado. Ele não vem de fora, não tem nome de gente e costuma se vestir de experiência, de competência, às vezes até de sucesso. É o inimigo que mais quebra empresas que já deram certo.

@@ -1,6 +1,6 @@
 # Parte I — Se encontrar
 
-Toda jornada começa com uma pergunta simples que quase nenhum empresário consegue responder sem falar da empresa: quem é você? Nesta primeira parte, vamos separar a pessoa do negócio. Você vai entender por que a empresa encontra o limite de quem a lidera, o que acontece quando a identidade se funde ao CNPJ e quais vozes antigas ainda decidem por você. Não é o degrau mais confortável. Mas é o único que sustenta todos os outros.
+Antes de falar da sua empresa, eu quero falar de você. Pode parecer um desvio, mas é o caminho mais curto. Nestas primeiras páginas, a gente vai separar, com calma, a pessoa do negócio. Vai descobrir por que toda empresa esbarra no limite de quem a lidera e quais vozes antigas ainda decidem por você. Não é a parte mais confortável da jornada. Mas é a que sustenta todas as outras.
 
 # Capítulo 1
 ## O problema nunca foi o CNPJ
@@ -10,254 +10,154 @@ Toda jornada começa com uma pergunta simples que quase nenhum empresário conse
 
 Eu vendi a minha empresa com superágio.
 
-Para quem empreende, essa frase é quase um troféu. Significa que alguém olhou para o que você construiu e decidiu pagar mais do que os números diziam que valia. Significa que a sua empresa tinha algo que não cabia na planilha.
+Se você empreende, sabe o peso dessa frase. É quase um troféu. Quer dizer que alguém olhou para o que você construiu e decidiu pagar mais do que os números diziam que valia. Quer dizer que havia ali alguma coisa que não cabia na planilha.
 
-Durante um tempo, eu também tratei essa venda como o ponto final de uma história bem-sucedida.
+Durante um bom tempo, eu contei essa história como se ela terminasse ali, no aperto de mão, na assinatura, na transferência caindo na conta. Final feliz.
 
-Mas a história não terminou ali.
+Só que não terminou.
 
-Dois anos depois, sob outra liderança, aquela mesma empresa voltou a quebrar.
+Dois anos depois, já sob outra liderança, aquela mesma empresa voltou a quebrar.
 
-Os processos que eu tinha desenhado continuavam lá. Os controles financeiros, o fluxo comercial, os indicadores, o organograma. Tudo no lugar.
+E aqui está o detalhe que me tirou o sono: os processos que eu tinha desenhado continuavam lá. O controle financeiro, o fluxo comercial, os indicadores, o organograma. Estava tudo no lugar. Ninguém tinha mexido em nada.
 
 E mesmo assim ela quebrou.
 
-Eu precisei de tempo para entender o que tinha acontecido. E, quando entendi, a resposta mudou a forma como eu enxergo empresas, empresários e, principalmente, a mim mesmo.
+Eu demorei para entender o que tinha acontecido. Quando finalmente entendi, a resposta mudou o jeito como eu enxergo empresas, empresários e, principalmente, como eu enxergo a mim mesmo. Ela cabe em duas frases, e eu quero que você guarde as duas desde já.
 
 A estrutura estava lá.
 
 Faltou um CPF forte para sustentá-la.
 
-### Antes do topo, o vale
+* * *
 
-Para você entender por que essa frase pesa tanto para mim, preciso voltar um pouco.
+Deixa eu voltar um pouco, para você entender por que essas duas frases pesam tanto para mim.
 
-Durante a pandemia, enfrentei a primeira grande dificuldade profissional da minha vida. Eu não era um iniciante. Tinha conhecimento. Tinha experiência. Trabalhava muito, mais do que quase todo mundo à minha volta. E mesmo assim a empresa estava no prejuízo, sob uma pressão que não cedia.
+Durante a pandemia, eu enfrentei a primeira grande crise profissional da minha vida. E não era a crise de um iniciante. Eu tinha conhecimento, tinha experiência, tinha anos de estrada. Trabalhava mais do que quase todo mundo à minha volta. E, mesmo assim, a empresa estava no prejuízo, com uma pressão que não aliviava nunca.
 
-Eu tentava resolver tudo com esforço. Mais horas, mais reuniões, mais cobrança, mais presença.
+Sabe o que eu fazia? O que quase todo empresário faz. Mais horas. Mais reuniões. Mais cobrança. Mais presença. Eu chegava antes de todo mundo e saía depois de todo mundo, achando que o problema ia ceder pelo cansaço. O meu cansaço, no caso.
 
-Hoje eu sei o nome do que eu estava fazendo: tentava resolver um problema estrutural com esforço emocional.
+Hoje eu sei dar nome ao que eu estava fazendo. Eu estava tentando resolver um problema estrutural com esforço emocional.
 
-Não funciona. Nunca funcionou.
+Isso não funciona. Nunca funcionou com ninguém.
 
-Foi preciso parar. E, para mim, parar teve um nome: entrega. Quando as certezas se desfizeram e o controle parecia impossível, eu coloquei tudo nas mãos de Deus. Não como fuga da responsabilidade, mas como reconhecimento de que eu não era a fonte de tudo. Dessa rendição veio a lucidez que o cansaço não deixava ver.
+Até que chegou um ponto em que eu precisei parar. E, para mim, parar teve um nome: entrega. Quando as certezas se desfizeram e o controle parecia impossível, eu coloquei tudo nas mãos de Deus. Não como quem foge da responsabilidade, mas como quem finalmente admite que não é a fonte de tudo. E foi curioso. Daquela rendição veio uma lucidez que o meu cansaço nunca tinha deixado aparecer.
 
-A partir daí, revisei o fluxo da operação. Revisei a margem, item por item. Encarei a dependência que a empresa tinha de mim. Reorganizei o comercial.
+Comecei a enxergar o que estava na minha frente o tempo todo. Revisei o fluxo da operação. Olhei a margem, item por item, com uma honestidade que eu vinha evitando. Encarei o quanto a empresa dependia de mim para respirar. Reorganizei o comercial.
 
-O que era prejuízo virou lucro.
+O que era prejuízo virou lucro. E o lucro virou uma proposta de compra que eu não podia recusar.
 
-E o lucro virou uma proposta de compra que eu não podia recusar.
+[AUTOR: contar em poucas linhas o segmento da empresa, quanto tempo ela tinha e o dia em que a proposta chegou.]
 
-`[AUTOR: inserir detalhes da empresa vendida — segmento, tempo de operação, o momento em que a virada aconteceu e o dia em que a proposta chegou.]`
-
-### O resultado vazio
-
-Aqui vem a parte que eu raramente conto nas palestras, mas que é o motivo deste livro existir.
+Agora vem a parte que eu quase nunca conto nas palestras, mas que é o motivo de este livro existir.
 
 Lá no topo, no maior resultado da minha vida, eu descobri que o resultado estava vazio.
 
-Não era ingratidão. Mas eu percebi que tinha passado anos medindo a minha vida pelo tamanho do CNPJ. E, quando o CNPJ foi embora, ficou uma pergunta que nenhum balanço respondia:
+Não era ingratidão. Eu sou muito grato por tudo que aquela empresa me deu. Mas eu percebi que tinha passado anos medindo a minha vida pelo tamanho do meu CNPJ. E, quando o CNPJ foi embora, sobrou uma pergunta que nenhum balanço do mundo conseguia responder.
 
 Quem sou eu agora?
 
-Depois, quando soube que a empresa tinha voltado a quebrar, a pergunta ganhou uma segunda parte:
+Depois, quando chegou a notícia de que a empresa tinha voltado a quebrar, a pergunta ganhou uma segunda parte. Se a estrutura estava lá, o que foi que faltou?
 
-Se a estrutura estava lá, o que faltou?
+A resposta não veio de uma vez. Veio aos poucos, olhando para dezenas de empresas, sentando à mesa com centenas de empresários, observando quem prosperava e quem travava. E ela é simples de dizer, mas muito difícil de viver: toda empresa encontra o limite de quem a lidera.
 
-A resposta veio aos poucos, olhando para dezenas de empresas, conversando com centenas de empresários, observando quem prosperava e quem travava. Ela é simples de dizer e difícil de viver:
+Chega um momento em que o problema deixa de ser comercial, financeiro ou operacional. A empresa simplesmente cresceu mais rápido do que a pessoa que está sentada na cadeira de dono.
 
-**Toda empresa encontra o limite de quem a lidera.**
+* * *
 
-Chega um momento em que o problema deixa de ser comercial, financeiro ou operacional. A empresa simplesmente cresceu mais rápido do que a pessoa que a conduz.
+Pensa comigo no seu CNPJ como se fosse um prédio.
 
-### O CNPJ só alcança o que o CPF permite
-
-Pense no seu CNPJ como um prédio.
-
-Você pode contratar o melhor arquiteto, comprar o melhor material, instalar os melhores elevadores. Mas a altura do prédio não é decidida pelo acabamento. É decidida pela fundação.
+Você pode contratar o melhor arquiteto, comprar o melhor material, instalar os elevadores mais modernos. Mas a altura desse prédio não é decidida pelo acabamento. É decidida pela fundação. E a fundação não aparece na foto. Ninguém posta foto de fundação. Mesmo assim, é ela que define até onde o prédio pode subir e quanto peso ele aguenta quando vem a tempestade.
 
 O CNPJ é o prédio. O CPF é a fundação.
 
-E a fundação não aparece na foto.
+Anos atrás, bem antes de pensar em escrever qualquer livro, eu anotei numa folha uma frase que guardo até hoje: o CNPJ só alcança o que o CPF permite.
 
-Mas é ela que define até onde o prédio pode subir e quanto peso ele aguenta quando vem a tempestade.
+Quando o dono é inseguro, a empresa centraliza tudo, porque ele não consegue confiar em ninguém. Quando o dono é orgulhoso, a empresa para de aprender, porque ele já sabe tudo. Quando o dono carrega mágoa, a empresa vive em guerra, com o sócio, com a equipe, com o cliente, com o concorrente. E quando o dono não sabe quem é, a empresa vira a identidade dele. Aí qualquer crise no caixa vira uma crise de existência.
 
-Por isso eu escrevi, anos atrás, numa folha de anotações que guardei até hoje:
+Agora inverte o raciocínio. O dono seguro delega. O dono humilde aprende. O dono livre constrói parcerias em vez de trincheiras.
 
-**O CNPJ só alcança o que o CPF permite.**
+Quando o CPF evolui, o CNPJ encontra um novo nível.
 
-Se o CPF é inseguro, o CNPJ centraliza tudo, porque o dono não confia em ninguém.
+Talvez você esteja pensando: "Tá, mas e a economia? E os juros? E os impostos?" Eu não vou fingir que isso não pesa. Pesa, e muito. Todo ano, centenas de milhares de empresas fecham as portas no Brasil. Nas minhas anotações antigas eu tinha escrito "mais de 700 mil por ano". [VERIFICAR: confirmar o número mais recente no Mapa de Empresas ou no IBGE, com fonte e ano.]
 
-Se o CPF é orgulhoso, o CNPJ para de aprender, porque o dono já sabe tudo.
+Mas, em mais de vinte anos de vida empresarial, eu vi uma coisa se repetir. Vi empresa quebrando no setor que mais cresce no país. E vi empresa crescendo no meio da pior crise. Quando eu colocava esses casos lado a lado, de segmentos que nem competiam entre si, a diferença raramente estava no mercado. Quase sempre estava na pessoa que tomava as decisões.
 
-Se o CPF carrega mágoa, o CNPJ vive em guerra: com sócio, com equipe, com cliente, com concorrente.
+Não existe produto, ponto comercial ou promoção que salve uma empresa de uma gestão que não amadureceu. E não existe gestão que amadureça enquanto quem a exerce continua do mesmo tamanho.
 
-Se o CPF não sabe quem é, o CNPJ vira a identidade dele. E aí qualquer crise na empresa vira uma crise de existência.
+* * *
 
-Agora inverta. O CPF seguro delega. O humilde aprende. O livre constrói parcerias em vez de trincheiras.
+Sabe o que é mais injusto nisso tudo? Ninguém te avisou.
 
-**Quando o CPF evolui, o CNPJ encontra um novo nível.**
+Quando você abriu a sua empresa, te ensinaram a emitir nota, a calcular imposto, a vender, a contratar. Mas ninguém te disse que a parte mais difícil do negócio ia ser você.
 
-### Por que tantas empresas fecham?
+Ninguém te contou que o seu medo de errar ia virar centralização. Que a mágoa com um sócio antigo ia virar desconfiança de todo parceiro novo. Que aquela frase do seu pai, "dinheiro não cresce em árvore", ia virar um teto invisível para o seu faturamento.
 
-Pense no padrão que eu observei em mais de vinte anos de dedicação ao mundo empresarial.
-
-Empresas de segmentos completamente diferentes, que nunca competiram entre si, prosperaram de forma extraordinária. E, quando analisei esses casos lado a lado, havia um padrão. Ações que se repetiam. Posturas que se repetiam. Escolhas que se repetiam.
-
-Talvez você esteja se perguntando: se existe um padrão de ações que leva empresas a resultados extraordinários, por que tantas fecham todos os anos no Brasil?
-
-Os números assustam. Levantamentos oficiais mostram que centenas de milhares de empresas encerram as atividades a cada ano no país. Nas minhas anotações antigas, eu tinha registrado mais de 700 mil fechamentos anuais. `[VERIFICAR: atualizar com o dado mais recente do Mapa de Empresas (gov.br) ou da Demografia das Empresas do IBGE e citar a fonte e o ano.]`
-
-Crise, juros, impostos e concorrência existem e pesam. Mas eu já vi empresas quebrando no setor que mais cresce no país. E já vi empresas crescendo no meio da pior crise.
-
-A diferença raramente estava no mercado.
-
-Quase sempre estava na pessoa sentada na cadeira de dono.
-
-Não há produto, localização ou promoção que faça uma empresa sobreviver a uma gestão que não amadureceu. E não há gestão que amadureça enquanto a pessoa que a exerce continua do mesmo tamanho.
-
-### Ninguém te ensinou isso
-
-Quando você abriu o seu CNPJ, provavelmente ninguém te disse que a parte mais difícil do negócio seria você.
-
-Te ensinaram a emitir nota, calcular imposto, vender, contratar.
-
-Ninguém te ensinou que o seu medo de errar viraria centralização. Que a mágoa com um sócio antigo viraria desconfiança de todo novo parceiro. Que a voz do seu pai dizendo "dinheiro não cresce em árvore" viraria um teto invisível para o seu faturamento.
-
-Você não está travado porque é incapaz. Você chegou até aqui com força, e isso prova capacidade. Você está travado porque cresceu como empresa sem crescer na mesma velocidade como pessoa. E isso não é falha de caráter. É ausência de uma etapa que ninguém te mostrou.
+Então, se você se sente travado, eu quero te dizer uma coisa com toda a sinceridade: você não está travado porque é incapaz. Você chegou até aqui com força, e isso já prova capacidade. Você está travado porque cresceu como empresa sem crescer na mesma velocidade como pessoa. E isso não é falha de caráter. É só uma etapa que ninguém te mostrou.
 
 Este livro é essa etapa.
 
-### Os três degraus
+Na ELEV, a gente costuma olhar para a jornada do empresário como uma escada de três degraus. No primeiro está o operador, aquele que diz "eu sou a máquina". Tudo depende da força dele. Ele é o melhor vendedor, o melhor técnico, o melhor apagador de incêndio, e é exatamente por isso que está preso. No segundo está o dono, que já pode dizer "eu tenho a máquina". Ele organizou funções, rotinas, números, e a empresa anda sem ele em várias frentes. E no terceiro está o líder, aquele que diz "eu formo quem conduz". Ele deixou de ser a resposta para tudo e passou a formar quem responde.
 
-Na ELEV, enxergamos a jornada do empresário em três degraus. Você vai encontrá-los ao longo de todo o livro, então vale apresentá-los já.
+Agora repara numa coisa. Para sair do primeiro degrau e chegar ao segundo, você precisa de ferramenta. Processo, indicador, organograma. Isso se aprende num curso.
 
-**Degrau 1: Operador.** "Eu sou a máquina." O resultado depende da sua força. Se você para, tudo para. Você é o melhor vendedor, o melhor técnico, o melhor resolvedor de problemas. E é exatamente por isso que está preso.
-
-**Degrau 2: Dono.** "Eu tenho a máquina." O resultado depende de processo. Você organizou funções, rotinas, números. A empresa já anda sem você em várias frentes.
-
-**Degrau 3: Líder.** "Eu formo quem conduz." O resultado depende de pessoas. Você deixou de ser a resposta para tudo e passou a formar quem responde.
-
-Agora repare numa coisa. Para subir do primeiro para o segundo degrau, você precisa de ferramenta: processo, indicador, organograma. Isso se aprende.
-
-Mas para subir do segundo para o terceiro, ferramenta não basta. Você precisa mudar por dentro. Precisa abrir mão do controle, confiar, formar gente, aceitar que outros façam diferente de você, ouvir críticas sem se defender, perdoar erros sem abandonar a exigência.
+Mas para subir do segundo para o terceiro, ferramenta não basta. Você precisa mudar por dentro. Precisa abrir mão do controle, aceitar que os outros façam diferente de você, ouvir crítica sem se defender, perdoar um erro sem abrir mão da exigência.
 
 Isso não é técnica. É identidade.
 
-Foi o que faltou na empresa que eu vendi. O novo dono herdou o segundo degrau pronto. Mas não tinha o terceiro dentro dele. E estrutura sem um CPF que a sustente é como uma casa bonita construída sobre a areia. Fica de pé até a primeira chuva forte.
+E foi exatamente o que faltou na empresa que eu vendi. O novo dono herdou o segundo degrau prontinho. Mas não tinha o terceiro dentro dele. E estrutura sem um CPF para sustentá-la é como casa bonita construída na areia. Fica de pé até a primeira chuva forte.
 
-### A tese deste livro
+* * *
 
-Tudo que você vai ler daqui para frente se apoia numa convicção:
+Tem uma história muito antiga que, para mim, resume este capítulo melhor do que qualquer gráfico.
 
-**Por trás de todo CNPJ existe um CPF. E é esse CPF que precisa ser desenvolvido primeiro.**
+Israel queria um rei. O profeta Samuel reúne todas as tribos para a escolha, e você consegue imaginar a tensão no ar. Primeiro é sorteada a tribo. Depois o clã. Depois a família. O povo inteiro prendendo a respiração. Até que o nome é anunciado: Saul, filho de Quis.
 
-Para isso, você vai percorrer uma jornada em etapas. Cada uma é um degrau interior que destrava um degrau exterior.
+Todo mundo se vira para procurá-lo.
 
-**Primeiro, se encontrar.** Descobrir quem você é além do cargo, do faturamento e do crachá de dono. E identificar as vozes que você herdou e que ainda decidem por você.
+E ele não está lá.
 
-**Depois, liberar perdão.** Largar o peso que você carrega para o escritório todos os dias: mágoas de sócios, de funcionários, de pais, de você mesmo.
+Precisam perguntar a Deus onde o homem se meteu. E a resposta vem quase como ironia: "Eis que está escondido entre as bagagens" (1Sm 10:22).
 
-**Em seguida, vencer o orgulho.** O inimigo mais silencioso do empresário bem-sucedido. Aquele que te faz parar de aprender justamente quando você mais precisa.
+Imagina a cena. O rei recém-escolhido, agachado no meio das malas e dos sacos de mantimento. Vão lá, puxam o homem para fora e o colocam no meio do povo. E o texto faz questão de registrar que, de pé, ele era o mais alto de todos, dos ombros para cima.
 
-**Então, liderar em casa.** Porque funcionário você demite. Filho, não. E quem não lidera bem a própria casa acaba usando a empresa como esconderijo.
+Pensa nisso como empresário. Saul tinha tudo o que se vê. Altura, aparência, um reino inteiro entregue nas mãos, um exército, um profeta como conselheiro. A estrutura estava lá. Mas o homem que recebeu tudo aquilo continuava escondido entre as bagagens. E, anos depois, essa mesma insegurança viraria ciúme, decisões impulsivas, desobediência bem justificada e, no fim, a perda do reino.
 
-**Depois, potencializar o CPF.** Corpo, mente, espírito, imagem e ecossistema. O ativo que não aparece no balanço, mas que define todos os outros.
+O que se via era um rei. O que estava dentro era um homem que nunca resolveu quem era.
 
-**Na sequência, levar isso para o CNPJ.** Os três degraus aplicados, a cultura como reflexo do dono, os números como espelho de quem você é.
+Quantos empresários eu conheço que são Saul. Mais altos que todo mundo dos ombros para cima: faturamento, frota, equipe, sala bonita. E, por dentro, ainda escondidos entre as bagagens.
 
-**Por fim, visão e legado.** Qual é o papel do seu CPF e do seu CNPJ na sociedade. Para que, afinal, tudo isso existe.
+O mais interessante é que essa intuição não é só bíblica. Uns quatrocentos anos antes de Cristo, Platão escreveu em *A República* que a cidade é como a alma escrita em letras grandes. A ordem ou a desordem de quem governa aparece, ampliada, naquilo que é governado. E, já no nosso tempo, o pesquisador Jim Collins passou anos estudando empresas que saíram de resultados medianos para resultados excelentes e se mantiveram lá por pelo menos quinze anos. Sabe o que ele encontrou em comum? Um tipo de líder que juntava humildade pessoal com uma vontade profissional inabalável. Não era o mais carismático. Era o mais inteiro.
 
-Repare na ordem. Ela não é por acaso.
+Um profeta, um filósofo grego e um pesquisador americano, separados por milênios, chegando ao mesmo lugar: o que se constrói por fora não ultrapassa, por muito tempo, o que foi construído por dentro.
 
-O nome ELEV carrega essa ordem: Espiritualidade, Liderança, Estratégia, Vendas. O espírito vem primeiro e sustenta todo o resto. A venda vem por último, não porque seja menos importante, mas porque é consequência. Quem tenta começar pelo fim constrói de cima para baixo.
+* * *
 
-### Princípios que não envelhecem
+Talvez você esteja estranhando encontrar, num livro sobre empresas, histórias de um livro escrito há milhares de anos. Eu entendo. Então deixa eu te explicar por que eu escrevo assim.
 
-Talvez você estranhe encontrar, num livro sobre empresas, versículos de um livro escrito há milhares de anos.
+A Bíblia continua sendo o livro mais vendido da história, e, mesmo assim, muita gente nunca teve acesso de verdade a ela. O tamanho assusta. Parece religioso demais, antigo demais, distante demais da segunda-feira de quem precisa pagar a folha. Mas, quando eu passei a lê-la com olhos de empresário, encontrei um manual de liderança impressionante. Tem José administrando uma crise de sete anos. Tem Neemias reconstruindo uma cidade com uma equipe de voluntários. Tem um sogro chamado Jetro ensinando Moisés a delegar.
 
-Eu explico.
+E eu tenho uma convicção que você vai perceber ao longo de todas estas páginas: a fé e a ciência não são inimigas. A própria história mostra isso. Kepler, Newton, Boyle, Pascal e Francis Bacon, homens que ajudaram a fundar a ciência moderna, eram cristãos e viam o estudo da natureza como uma forma de ler o "livro da criação". Historiadores da ciência como R. Hooykaas defendem que a crença num Criador racional, num universo ordenado e compreensível, ajudou o método científico a nascer.
 
-Esse livro milenar continua sendo o mais vendido da história e, ainda assim, muita gente nunca teve acesso de verdade a ele. O tamanho do conhecimento assusta. Parece religioso demais, antigo demais, distante demais da segunda-feira de quem precisa pagar a folha.
+Você não precisa compartilhar a minha fé para aproveitar este livro. De verdade. Mas, quando a sabedoria antiga, os grandes pensadores e os laboratórios dizem a mesma coisa, eu acho que vale a pena prestar atenção. É por isso que, ao longo da nossa conversa, você vai ver os três caminhando juntos.
 
-Mas, lido com olhos de empresário, ele é um manual de liderança impressionante: José administrando uma crise de sete anos, Neemias reconstruindo uma cidade, Jetro ensinando Moisés a delegar.
+Agora, um pedido. Este não é um livro para ser só lido. É um livro para ser vivido.
 
-Nada disso é novo. São princípios que sustentam famílias, líderes e organizações há milhares de anos. O que eu faço aqui é traduzi-los para o mundo dos negócios.
+No fim de cada capítulo, eu vou te fazer algumas perguntas e te deixar um desafio para os sete dias seguintes. É o mesmo princípio que a gente usa na Escola ELEV: ninguém sai de um encontro só com anotações, sai com alguma coisa para aplicar. Então separa um caderno só para isso, de papel mesmo, se puder. Escrever à mão desacelera o pensamento e te obriga a ser honesto.
 
-### O rei escondido entre as bagagens
+E, nesse caderno, reserve uma página especial. Eu vou chamá-la de "sua página". É ali que você vai juntar, capítulo após capítulo, as respostas mais importantes. Ela começa com a pergunta "quem sou eu?" e, lá no final do livro, termina com "qual é o meu papel no mundo?". Quando você chegar ao último capítulo, vai ter na mão um retrato do CPF que você é, do CPF que quer se tornar e do CNPJ que esse CPF é capaz de sustentar.
 
-Existe uma cena nesse livro antigo que resume este capítulo melhor do que qualquer gráfico.
+Se você é ansioso, como quase todo empresário, vai querer devorar o livro numa noite. Tudo bem. Leia rápido na primeira vez, se quiser. Mas depois volte e faça a jornada no ritmo certo. E, se puder, faça junto com alguém: seu cônjuge, seu sócio, seu braço direito. Conversa boa fica melhor a dois.
 
-Israel queria um rei. O profeta Samuel reúne todas as tribos para a escolha. A tensão cresce a cada etapa: primeiro a tribo, depois o clã, depois a família. Até que o nome é anunciado: Saul, filho de Quis.
+### Antes de virar a página
 
-Todos se viram para procurá-lo.
+Pega o caderno agora. Sério, agora, antes de passar para o próximo capítulo. Eu quero que você responda três perguntas, sem pensar no que soaria bonito.
 
-Ele não está lá.
+1. Se a sua empresa fosse encerrada amanhã, como você se apresentaria para um desconhecido num jantar? Escreva a frase exatamente como diria.
+2. Em qual degrau você está hoje, operador, dono ou líder? E qual fato da última semana prova a sua resposta?
+3. Se você ficasse trinta dias fora, sem telefone, o que aconteceria com a empresa? E com a sua casa?
 
-Precisam perguntar a Deus onde ele se meteu. E a resposta vem quase como ironia: "Eis que está escondido entre as bagagens" (1Sm 10:22).
+Depois, no topo da sua página, escreva "Quem eu sou hoje" e resuma essas respostas em cinco linhas.
 
-Correm até lá e o trazem. E o texto faz questão de registrar: quando ele se pôs no meio do povo, era o mais alto de todos, dos ombros para cima.
+E o desafio para os próximos sete dias é simples, mas revelador. Toda vez que você resolver alguma coisa que outra pessoa poderia ter resolvido, anote: o que era, por que você mesmo fez e quanto tempo levou. No sétimo dia, some as horas. Esse número é o tamanho da sua prisão. E, acredite, saber o tamanho dela já é o começo da saída.
 
-Pense nisso como empresário. Saul tinha tudo que se vê. Altura, aparência, um reino inteiro entregue nas mãos, um exército, um profeta como conselheiro. A estrutura estava lá.
-
-Mas o homem que recebeu tudo isso estava escondido no meio da bagagem.
-
-Anos depois, essa mesma insegurança viraria ciúme de Davi, decisões impulsivas, desobediência justificada e, no fim, a perda do reino. O que se via era um rei. O que estava dentro era um homem que nunca resolveu quem era.
-
-Muitos empresários hoje são Saul. Mais altos que todos dos ombros para cima: faturamento, frota, equipe, sala bonita. E, por dentro, ainda escondidos entre as bagagens.
-
-### Princípio milenar
-
-> "Todo aquele, pois, que escuta estas minhas palavras e as pratica, será comparado a um homem prudente, que edificou a sua casa sobre a rocha."
-> — Mateus 7:24
-
-A altura do que você constrói é decidida por aquilo que ninguém vê. Rocha e areia parecem iguais em dia de sol. A diferença aparece na tempestade.
-
-### Onde as fontes se encontram
-
-- **Bíblia.** Saul tinha um reino nas mãos e continuava escondido entre as bagagens. A estrutura não salvou o homem; o homem é que perdeu a estrutura.
-- **Filosofia.** Platão, em *A República*, descreve a cidade como a alma escrita em letras grandes: a ordem ou a desordem de quem governa aparece, ampliada, no que é governado.
-- **Ciência.** Jim Collins, em *Empresas feitas para vencer* (2001), estudou companhias que saltaram de resultados e se mantiveram no topo por pelo menos quinze anos. O fator comum foi um líder de "Nível 5": humildade pessoal somada a vontade profissional inabalável. E Marshall Goldsmith resumiu: *o que te trouxe até aqui não vai te levar adiante*.
-
-Três caminhos, uma mesma conclusão: o que se constrói por fora nunca ultrapassa, por muito tempo, o que foi construído por dentro.
-
-### Como usar este livro
-
-Este não é um livro para ser apenas lido. É um livro para ser feito.
-
-**Por que Bíblia, filosofia e ciência juntas.** Em cada capítulo, você vai ver três fontes chegando à mesma verdade. Isso nasce de uma convicção minha: a fé bíblica e a ciência não são inimigas, e a história tem fatos que sustentam isso. Kepler, Newton, Boyle, Pascal e Francis Bacon, nomes que fundaram a ciência moderna, eram cristãos e viam no estudo da natureza a leitura do "livro da criação". Historiadores da ciência como R. Hooykaas, em *A religião e o desenvolvimento da ciência moderna*, defendem que a crença num Criador racional e num universo ordenado ajudou a nascer o método científico. Você não precisa compartilhar a minha fé para aproveitar este livro. Mas, quando a sabedoria antiga, os grandes pensadores e os laboratórios dizem a mesma coisa, vale a pena prestar atenção.
-
-**O Caderno de Identidade.** Ao final de cada capítulo, você vai encontrar um exercício. Separe um caderno só para isso, físico de preferência. Escrever à mão desacelera o pensamento e obriga você a ser honesto. Não pule os exercícios. A transformação está neles, não nas páginas que os antecedem.
-
-**O plano de 7 dias.** Todo exercício termina com uma ação para a semana seguinte. É o mesmo princípio que usamos na Escola ELEV: ninguém sai de um encontro só com anotações. Sai com algo para aplicar. Leia um capítulo, aplique por sete dias, e só então avance. Se você for ansioso, como quase todo empresário, vai querer devorar o livro numa noite. Tudo bem ler rápido na primeira vez. Mas volte e faça a jornada no ritmo certo.
-
-**O Mapa de Alinhamento Vida e Negócio.** A cada capítulo, você vai preencher um pedaço desse mapa. Ele começa com a pergunta "quem sou eu?" e termina com "qual é o meu papel no mundo?". No último capítulo, você terá diante de si um retrato completo do CPF que você é, do CPF que quer se tornar e do CNPJ que esse CPF é capaz de sustentar.
-
-**Faça junto com alguém.** Se puder, leia com seu cônjuge, seu sócio ou seu líder mais próximo. Se você é aluno da Escola ELEV ou do Mastermind, leve os exercícios para os encontros.
-
-### Caderno de Identidade — Exercício 1
-
-**O ponto de partida.**
-
-Responda com sinceridade, sem pensar no que soaria bem.
-
-1. Se o seu CNPJ fosse encerrado amanhã, como você se apresentaria para um desconhecido? Escreva a frase exatamente como diria.
-2. Dê uma nota de 0 a 10 para cada área da sua vida hoje: saúde, família, fé ou vida interior, finanças pessoais, amizades, empresa. Qual é a mais alta? Qual é a mais baixa? Existe relação entre elas?
-3. Em qual degrau você está hoje: operador, dono ou líder? Escreva um fato concreto da última semana que prove a sua resposta.
-4. Complete a frase: "A minha empresa trava sempre que eu..."
-5. Se você saísse trinta dias de férias a partir de amanhã, sem telefone, o que aconteceria com a empresa? E com a sua casa?
-
-**Mapa de Alinhamento, parte 1:** no topo de uma página em branco, escreva "Quem eu sou hoje" e resuma, em cinco linhas, as respostas acima. Essa página vai acompanhar você até o fim do livro.
-
-**Plano de 7 dias:** nesta semana, toda vez que você resolver algo que outra pessoa poderia ter resolvido, anote no caderno: o quê, por que você mesmo fez e quanto tempo levou. No sétimo dia, some as horas. Esse número é o tamanho da sua prisão.
-
-### Degrau subido
-
-- O problema raramente é o CNPJ. A empresa encontra o limite de quem a lidera.
-- O CNPJ só alcança o que o CPF permite. Quando o CPF evolui, o CNPJ encontra um novo nível.
-- Do operador ao dono, você precisa de ferramenta. Do dono ao líder, você precisa de identidade.
-- Este livro se faz, não se lê. O caderno, o plano de 7 dias e o Mapa de Alinhamento são a jornada.
-
-Na primeira pergunta do exercício, talvez você tenha travado. Talvez tenha percebido que não sabe se apresentar sem falar da empresa.
-
-Se isso aconteceu, você não está sozinho. E é exatamente por aí que vamos começar.
+Talvez, na primeira pergunta, você tenha travado. Talvez tenha percebido que não sabe se apresentar sem falar da empresa. Se isso aconteceu, fica tranquilo. Você não está sozinho. E é exatamente por aí que a gente vai começar.

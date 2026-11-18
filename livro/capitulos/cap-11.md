@@ -4,161 +4,134 @@
 > "Viste o homem perito na sua obra? Perante reis será posto."
 > — Provérbios 22:29
 
-Uma empresária me procurou depois de uma palestra. Vou chamá-la de Carla (nome alterado). Dona de uma clínica de estética bem estabelecida, equipe de doze pessoas, agenda cheia. Ela estava incomodada com uma coisa que não conseguia explicar.
+No capítulo anterior, a gente cuidou de quem está aí dentro: do corpo, da mente e do espírito. Agora quero dar um passo para fora. E já te aviso que esse assunto costuma gerar um pouco de resistência. Fica comigo até o fim, porque ele é muito mais profundo do que parece.
 
-"Eu entro na reunião com o fornecedor e ele fala com o meu gerente. Eu entro na negociação do aluguel e o corretor se dirige ao meu marido, que só foi me acompanhar. Eu sou a dona. Por que ninguém percebe?"
+Depois de uma palestra, uma empresária veio falar comigo. Vou chamá-la de Carla (nome alterado). Ela era dona de uma clínica de estética bem estabelecida, com doze pessoas na equipe e agenda cheia. E estava incomodada com uma coisa que não sabia explicar.
 
-Perguntei como ela tinha ido à última reunião importante.
+"Gustavo, eu entro na reunião com o fornecedor e ele fala com o meu gerente. Vou negociar o aluguel e o corretor se dirige ao meu marido, que só foi me fazer companhia. Eu sou a dona. Por que ninguém percebe?"
 
-Ela pensou um pouco. "Do jeito que eu estava. Saí correndo da clínica, de jaleco ainda, cabelo preso de qualquer jeito. Não tive tempo."
+Eu perguntei como ela tinha ido à última reunião importante.
 
-Não havia nada de errado com o jaleco. Ele é o uniforme de quem atende, de quem executa, de quem está na operação. E era exatamente essa a mensagem que Carla levava para cada sala: "Eu sou a máquina".
+Ela pensou um pouco e respondeu meio rindo: "Do jeito que eu estava. Saí correndo da clínica, de jaleco ainda, cabelo preso de qualquer jeito. Não deu tempo".
 
-Ela já tinha dado vários passos para sair do operacional. Contratou gerente, organizou processos, começou a pensar na expansão. Por dentro, estava subindo de degrau. Por fora, continuava se apresentando como a profissional que faz o procedimento, não como a empresária que conduz o negócio.
+Olha, não tem nada de errado com o jaleco. É o uniforme de quem atende, de quem executa, de quem está com a mão na massa. E era exatamente essa a mensagem que a Carla levava para cada sala: "eu sou a máquina".
 
-A imagem dela estava atrasada em relação à identidade dela.
+O curioso é que ela já tinha dado vários passos para sair do operacional. Tinha contratado gerente, organizado processos, começado a pensar em abrir a segunda unidade. Por dentro, estava subindo de degrau. Por fora, continuava se apresentando como a profissional que faz o procedimento, não como a empresária que conduz o negócio.
 
-Isso acontece mais do que se imagina. Com homens e com mulheres. Em empresas pequenas e grandes. O empresário evolui por dentro e esquece de atualizar o que mostra por fora. E o mundo, que não tem acesso ao que se passa no seu coração, responde ao que vê.
+A imagem dela estava atrasada em relação à identidade.
 
-Este capítulo não é sobre vaidade. É sobre coerência.
+E isso acontece muito mais do que a gente imagina. Com homem e com mulher, em empresa pequena e em empresa grande. A pessoa evolui por dentro e esquece de atualizar o que mostra por fora. E o mundo, que não tem acesso ao seu coração, responde ao que vê.
 
-### Antes de abrir a boca
+Por isso eu quero deixar claro desde já: este capítulo não é sobre vaidade. É sobre coerência.
 
-Muita gente torce o nariz quando o assunto é imagem. "Eu sou um homem de resultado, não de aparência." "O que importa é o conteúdo." "Quem gosta de mim gosta do jeito que eu sou."
+* * *
 
-Eu concordo com o espírito dessas frases. Conteúdo vale mais do que embalagem. Caráter vale mais do que roupa. A sabedoria milenar é clara: "o homem vê o que está diante dos olhos, porém o Senhor olha para o coração" (1 Samuel 16:7).
+Eu sei que muita gente torce o nariz quando o assunto é imagem. "Sou homem de resultado, não de aparência." "O que importa é o conteúdo." "Quem gosta de mim gosta do jeito que eu sou."
 
-Mas repare no detalhe. O texto não diz que a aparência não comunica. Diz que o homem olha para ela. E o seu cliente é homem. O seu fornecedor é homem. O gerente do banco, o candidato à vaga, o investidor, o futuro sócio. Todos olham o que está diante dos olhos antes de ter qualquer acesso ao seu coração.
+E eu concordo com o espírito dessas frases. Conteúdo vale mais do que embalagem. Caráter vale mais do que roupa. A própria Bíblia diz que "o homem vê o que está diante dos olhos, porém o Senhor olha para o coração" (1 Samuel 16:7).
 
-Você não precisa gostar disso. Precisa liderar sabendo disso.
+Mas repara num detalhe desse versículo. Ele não diz que a aparência não comunica. Diz que o homem olha para ela. E o seu cliente é homem. O seu fornecedor, o gerente do banco, o candidato à vaga, o investidor, o futuro sócio. Todos eles olham para o que está diante dos olhos muito antes de ter qualquer acesso ao seu coração.
 
-A imagem é a primeira frase que você diz em qualquer sala. Ela é dita antes do aperto de mão, antes do "bom dia", antes da apresentação da empresa. Se essa primeira frase contradiz tudo o que você vai dizer depois, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
+Você não precisa gostar disso. Mas precisa liderar sabendo disso.
 
-### O prisioneiro que se barbeou
+A sua imagem é a primeira frase que você diz em qualquer sala. Ela é dita antes do aperto de mão, antes do bom-dia, antes da apresentação da empresa. E se essa primeira frase contradiz tudo o que você vai falar depois, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
 
-Há uma cena na história de José que eu considero uma das mais estratégicas de toda a literatura antiga. E quase sempre passa despercebida.
+* * *
 
-José estava preso havia anos. Vendido pelos irmãos, levado ao Egito como escravo, acusado injustamente pela mulher do seu senhor, esquecido na prisão por um homem a quem tinha ajudado. Anos de cela. Anos de espera. Anos sendo tratado como ninguém.
+Quer ver uma coisa bonita? Tem uma cena na história de José que eu considero uma das mais estratégicas de toda a literatura antiga. E quase todo mundo passa por ela sem perceber.
 
-Um dia, o faraó tem dois sonhos que nenhum sábio do Egito consegue interpretar. Alguém finalmente se lembra do jovem hebreu da prisão. O faraó manda chamá-lo às pressas.
+Você conhece a trajetória dele. Vendido pelos próprios irmãos, levado ao Egito como escravo, acusado injustamente pela mulher do patrão, jogado na prisão e, para completar, esquecido lá dentro por um homem a quem ele tinha ajudado. Foram anos de cela. Anos de espera. Anos sendo tratado como ninguém.
 
-Imagine a cena. O homem mais poderoso do mundo conhecido quer ver você agora. A oportunidade da sua vida. A porta que você esperou por treze anos está aberta. A reação natural seria correr.
+Até que um dia o faraó tem dois sonhos que nenhum sábio do Egito consegue explicar. E finalmente alguém lembra do jovem hebreu que interpretava sonhos na prisão. O faraó manda buscá-lo às pressas.
 
-O texto diz outra coisa: "Então mandou Faraó chamar a José, e o fizeram sair logo da cova; e barbeou-se e mudou as suas roupas, e apresentou-se a Faraó" (Gênesis 41:14).
+Agora se coloca no lugar dele. O homem mais poderoso do mundo conhecido quer te ver agora. É a oportunidade da sua vida. A porta que você esperou durante treze anos acabou de abrir. Qual seria a reação natural? Correr. Sair do jeito que estava, antes que mudassem de ideia.
 
-Barbeou-se. Mudou as roupas. Só então se apresentou.
+Mas olha o que o texto diz: "Então mandou Faraó chamar a José, e o fizeram sair logo da cova; e barbeou-se e mudou as suas roupas, e apresentou-se a Faraó" (Gênesis 41:14).
 
-Não foi vaidade. Foi leitura de contexto. Os egípcios da corte andavam barbeados; um hebreu barbudo, saído direto do cárcere, seria visto como estrangeiro, como prisioneiro, como alguém de fora. José sabia quem ele era. Sabia o dom que carregava. E entendeu que, para que o faraó ouvisse a sabedoria, a aparência não podia ser um obstáculo.
+Barbeou-se. Trocou de roupa. Só então entrou.
+
+Não foi vaidade. Foi leitura de contexto. Na corte egípcia, os homens andavam barbeados. Um hebreu barbudo, saindo direto do cárcere, seria visto como estrangeiro, como prisioneiro, como alguém de fora. José sabia quem ele era. Sabia o dom que carregava. E entendeu que, para o faraó ouvir a sabedoria que ele tinha, a aparência não podia ser um obstáculo.
 
 Ele não mudou a identidade para agradar o faraó. Ajustou a apresentação para que a identidade pudesse ser ouvida.
 
-O resto você conhece. Naquele mesmo dia, o prisioneiro se tornou governador do Egito. E administrou, com sabedoria, a maior crise de abastecimento da região. Mas tudo começou com uma decisão de três segundos: não entrar na sala do jeito que estava.
+E você sabe o final. Naquele mesmo dia, o prisioneiro virou governador do Egito. Mas tudo começou com uma decisão de poucos minutos: não entrar naquela sala do jeito que estava.
 
-### Imagem não é fantasia
+* * *
 
-Aqui preciso fazer uma distinção importante, porque é nela que muita gente se perde.
+Agora, preciso fazer uma diferença importante aqui, porque é nela que muita gente se perde.
 
-Existe a imagem como fantasia. É quando a pessoa se veste para parecer o que não é. O terno caro para esconder a empresa endividada. O carro importado para disfarçar a falta de caixa. A foto no Instagram com uma vida que não existe. Isso não é imagem. É máscara. E máscara pesa. Quem vive de máscara passa a vida com medo de ser descoberto.
+Existe a imagem como fantasia. É quando a pessoa se veste para parecer o que não é. O terno caro para esconder a empresa endividada. O carro importado para disfarçar o caixa vazio. A foto no Instagram mostrando uma vida que não existe. Isso não é imagem. É máscara. E máscara pesa, porque quem vive de máscara vive com medo de ser descoberto.
 
-Existe a imagem como coerência. É quando o que você mostra por fora corresponde ao que você é e ao lugar que você ocupa. Não é sobre ser mais do que você é. É sobre não se apresentar como menos.
+E existe a imagem como coerência. É quando aquilo que você mostra por fora corresponde ao que você é e ao lugar que você ocupa. Não é sobre parecer mais do que você é. É sobre parar de se apresentar como menos.
 
 A primeira é fuga. A segunda é responsabilidade.
 
-Lembra dos degraus? O operador se apresenta como quem executa. O dono, como quem organiza. O líder, como quem conduz pessoas e direção. Não existe um uniforme certo para cada degrau. Mas existe uma pergunta que vale para todos: a forma como eu me apresento hoje comunica o papel que eu realmente ocupo?
+Pensa nos três degraus de que eu falei lá no começo. O operador se apresenta como quem executa. O dono, como quem organiza. O líder, como quem conduz pessoas e dá direção. Não existe um uniforme certo para cada degrau. Mas existe uma pergunta que vale para todos eles: a forma como eu me apresento hoje comunica o papel que eu realmente ocupo?
 
-Se você já deixou de ser a máquina, mas continua se vestindo, falando e se portando como a máquina, as pessoas vão continuar tratando você como a máquina. Inclusive a sua equipe.
+Porque, se você já deixou de ser a máquina, mas continua se vestindo, falando e se portando como a máquina, as pessoas vão continuar te tratando como a máquina. Inclusive a sua equipe.
 
-### O que a ciência confirma
+* * *
 
-Em 2006, os psicólogos Janine Willis e Alexander Todorov, da Universidade de Princeton, publicaram um estudo com um título que diz tudo: *Primeiras impressões: decidindo depois de uma exposição de 100 milissegundos a um rosto*. Os participantes viam fotos de rostos por um décimo de segundo e avaliavam traços como confiabilidade e competência. Os julgamentos feitos nesse intervalo mínimo eram muito parecidos com os feitos sem limite de tempo. Mais tempo aumentava a confiança no julgamento, mas mudava pouco o julgamento em si.
+E a ciência tem coisas muito interessantes a dizer sobre isso.
 
-Antes disso, em 1993, Nalini Ambady e Robert Rosenthal, de Harvard, mostraram que pessoas que assistiam a trechos curtíssimos de vídeo de professores dando aula, sem som e com poucos segundos de duração, faziam avaliações que se aproximavam bastante das avaliações dadas pelos próprios alunos ao fim do semestre. Eles chamaram isso de "fatias finas": pequenos recortes de comportamento a partir dos quais formamos impressões surpreendentemente estáveis.
+Em 2006, dois pesquisadores de Princeton, Janine Willis e Alexander Todorov, mostraram fotos de rostos para algumas pessoas por apenas um décimo de segundo e pediram que elas avaliassem o quanto aquele rosto parecia confiável e competente. Depois compararam com as avaliações feitas sem limite de tempo. E sabe o que descobriram? Eram praticamente iguais. Mais tempo deixava as pessoas mais seguras do julgamento, mas quase não mudava o julgamento em si. Cem milissegundos. É o tempo que você tem.
 
-E há um efeito que vai na direção contrária, de fora para dentro. Em 2012, Hajo Adam e Adam Galinsky, da Universidade Northwestern, publicaram uma pesquisa sobre o que chamaram de *enclothed cognition*, a cognição vestida. Participantes que usavam um jaleco branco descrito como jaleco de médico tiveram desempenho melhor em tarefas de atenção do que os que usavam o mesmo jaleco descrito como jaleco de pintor, ou que apenas o viam sobre a mesa. A roupa influenciava o comportamento de quem a vestia, de acordo com o significado que ela tinha para a pessoa.
+Só que tem um outro estudo que me interessa ainda mais, porque vai na direção contrária, de fora para dentro. Em 2012, Hajo Adam e Adam Galinsky, da Universidade Northwestern, pediram que alguns voluntários vestissem um jaleco branco. Para uma parte deles, disseram que era um jaleco de médico. Para outra, que era um jaleco de pintor. Era o mesmíssimo jaleco. Mas quem achava que vestia o de médico se saiu melhor nas tarefas de atenção. Eles chamaram isso de "cognição vestida": a roupa mexe com o comportamento de quem a veste, de acordo com o que ela significa para a pessoa.
 
-Juntas, as três pesquisas dizem algo simples: a imagem fala com os outros em frações de segundo, e fala também com você.
+Percebe? A imagem não fala só com os outros. Fala com você.
 
-### O caminho de mão dupla
+E os antigos já sabiam. Aristóteles ensinava que a persuasão começa no *ethos*, no caráter que os outros percebem em quem fala, antes mesmo dos argumentos. E Epicteto, aquele filósofo que tinha sido escravo, dizia algo que eu acho lindo: primeiro diga a si mesmo quem você quer ser; depois faça o que precisa ser feito.
 
-Essa última descoberta é a que mais me interessa para um livro sobre identidade.
+José diante do faraó, os filósofos gregos e os laboratórios de Princeton e Northwestern. Caminhos bem diferentes, a mesma conclusão. A apresentação não substitui a identidade. Mas precisa estar à altura dela para que ela seja ouvida.
 
-A gente costuma pensar a imagem só como mensagem para fora. Mas ela também é mensagem para dentro. Quando você se veste para o papel que ocupa, você se lembra desse papel. Quando você se prepara para uma reunião com o cuidado de quem respeita a ocasião, você entra nela com outra postura.
+* * *
 
-Conheço empresários que trabalham de casa e que só conseguiram mudar a qualidade das próprias manhãs quando passaram a se vestir para trabalhar, mesmo sem sair do escritório de casa. Nada de terno. Apenas o gesto de dizer a si mesmo: "Agora eu estou exercendo o meu papel".
+Essa ideia de que a imagem também fala para dentro é a que mais me toca num livro sobre identidade.
+
+Quando você se veste para o papel que ocupa, você se lembra desse papel. Conheço empresários que trabalham de casa e só conseguiram mudar a qualidade das próprias manhãs quando passaram a se arrumar para trabalhar, mesmo sem sair do escritório improvisado no quarto. Nada de terno. Só o gesto de dizer para si mesmo: "agora eu estou exercendo o meu papel".
 
 A imagem é um lembrete visível de uma decisão invisível.
 
-[AUTOR: inserir história pessoal sobre um momento em que mudar a própria apresentação mudou a forma como você se percebeu ou foi percebido.]
+`[AUTOR: inserir uma história sua em que mudar a própria apresentação mudou a forma como você se percebeu ou foi percebido.]`
 
-### Imagem também é palavra, postura e pontualidade
+E quando eu falo de imagem, não estou falando só de roupa. Roupa é a parte mais visível, mas está longe de ser a única. Imagem é como você cumprimenta as pessoas. É chegar no horário ou viver chegando cinco minutos atrasado com uma desculpa pronta. É o tom com que você fala com o garçom na frente do cliente. É o estado do carro quando você dá carona ao fornecedor. É aquele áudio de quatro minutos mandado no trânsito, no lugar de uma mensagem pensada.
 
-Quando falo de imagem, não estou falando só de roupa. A roupa é a parte mais visível, mas está longe de ser a única.
+Tudo isso comunica. E tudo isso, no fundo, revela quem você é.
 
-Imagem é como você cumprimenta. É se você chega no horário ou sempre com cinco minutos de atraso e uma desculpa pronta. É o tom com que você fala com o garçom na frente do cliente. É o estado do seu carro quando você dá carona ao fornecedor. É a foto do seu perfil no aplicativo de mensagens. É o e-mail escrito com cuidado ou o áudio de quatro minutos enviado no trânsito.
+Se você cobra pontualidade e chega atrasado, a sua imagem desmente o seu discurso. Se fala de excelência e aparece desleixado na reunião com o maior cliente, desmente de novo. A sua equipe aprende muito mais com o jeito como você se porta do que com o quadro de valores pendurado na parede. Coerência é quando as duas coisas dizem a mesma frase.
 
-Tudo isso comunica. E tudo isso é, no fundo, uma expressão de quem você é.
+* * *
 
-Na Escola ELEV, quando trabalhamos cultura, repetimos que a empresa é o reflexo do líder. A imagem do líder é a primeira página desse reflexo. A equipe aprende muito mais com a forma como você se porta do que com o que está escrito no quadro de valores.
+Foi pensando exatamente nessa coerência que nós criamos o Refinado.
 
-Se você exige pontualidade e chega atrasado, a sua imagem desmente o seu discurso. Se você fala de excelência e aparece desleixado na reunião com o maior cliente, a sua imagem desmente o seu discurso. Coerência é quando as duas coisas dizem a mesma frase.
+Ele nasceu de uma dor que eu via o tempo todo nos empresários que acompanho. A maioria não tem problema de gosto. Tem problema de tempo e de clareza. Decide a roupa no susto, cinco minutos antes de sair, e acaba se apresentando de um jeito que não tem nada a ver com o momento que está vivendo.
 
-### Onde entra o Refinado
+Então pensamos num consultor de imagem virtual, que cabe no celular. O homem fotografa as roupas que já tem no armário e conta as ocasiões da semana: reunião com investidor na segunda, visita à obra na quarta, jantar com a esposa na sexta. E o Refinado devolve um look para cada ocasião, usando o que ele já tem, explicando o porquê de cada escolha. Leva em conta o tom de pele, o formato do rosto, a proporção do corpo, as cores que combinam e o ambiente profissional. Ajuda até no corte de cabelo e na barba. E, quando vale a pena comprar alguma coisa, ele diz o quê, em vez de empurrar compras.
 
-Foi pensando nessa coerência que nasceu o **Refinado**, um consultor virtual de imagem masculina que desenvolvemos dentro do nosso ecossistema.
+Não é para transformar o empresário em outra pessoa. É para que a apresentação acompanhe a pessoa que ele está se tornando. O mesmo princípio de José: ajustar o que se mostra para que a identidade possa ser ouvida.
 
-A ideia é simples e muito prática. O homem fotografa as roupas que já tem. Informa as ocasiões da semana: reunião com investidores na segunda, visita à obra na quarta, jantar com a esposa na sexta. E o Refinado devolve um look para cada ocasião, usando o próprio guarda-roupa, com a justificativa de cada escolha. Considera tom de pele, formato do rosto, proporção corporal, alfaiataria, cores que harmonizam e o contexto profissional. Também orienta sobre visagismo, como corte de cabelo e barba, e indica o que realmente vale comprar, em vez de empurrar compras.
+E você, leitora que empreende: tudo o que eu disse neste capítulo vale integralmente para você. A história da Carla está aqui justamente por isso. O Refinado hoje é focado no público masculino, mas o princípio é para todos. Faça o mesmo exercício de coerência, com uma consultora de confiança ou com o seu próprio olhar, treinado pelas perguntas que vêm a seguir.
 
-Por que isso está num livro sobre identidade? Porque muitos empresários que eu acompanho não têm problema de gosto. Têm problema de tempo e de clareza. Decidem a roupa no susto, cinco minutos antes de sair, e acabam se apresentando de um jeito que não corresponde ao momento que estão vivendo. O Refinado tira esse peso. Não para transformar o empresário em outra pessoa, mas para que a apresentação dele acompanhe a pessoa que ele está se tornando.
+* * *
 
-É o mesmo princípio de José: ajustar a apresentação para que a identidade possa ser ouvida.
+Antes de fechar, quero te contar mais uma cena, porque ela completa a de José.
 
-E você, leitora, que empreende e chegou até aqui: tudo o que foi dito neste capítulo vale integralmente para você. A história da Carla é prova disso. O Refinado hoje é focado no público masculino, mas o princípio é universal. Você pode, e deve, fazer o mesmo exercício de coerência, com uma consultora de imagem de confiança ou com o seu próprio olhar treinado pelas perguntas deste capítulo.
+Rute era uma estrangeira, viúva, que sustentava a si e à sogra recolhendo as espigas que sobravam no campo de um homem chamado Boaz. Trabalho duro, de sol a sol. Quando chega a hora de ela se apresentar a Boaz em busca de proteção e de um futuro, a sogra, Noemi, dá uma orientação bem precisa: "Lava-te, pois, e unge-te, e veste os teus vestidos" (Rute 3:3).
 
-### Rute e o preparo para o momento certo
+Rute não virou outra mulher. Continuou sendo a mesma pessoa leal e trabalhadora que tinha conquistado o respeito de toda a cidade. Mas deixou de se apresentar como quem recolhe sobras e passou a se apresentar como quem estava pronta para um novo capítulo da vida.
 
-Há outra cena milenar que completa a de José. Rute, uma estrangeira viúva, trabalhava colhendo as sobras nos campos de Boaz. Quando chega o momento de se apresentar a ele em busca de proteção e de um futuro, a sogra, Noemi, lhe dá uma orientação precisa: "Lava-te, pois, e unge-te, e veste os teus vestidos" (Rute 3:3).
+Percebe que, nas duas histórias, a mudança de apresentação acontece num momento de virada? José saindo da prisão para o palácio. Rute saindo do campo para uma nova família. A imagem acompanha a transição da identidade.
 
-Rute não se transformou em outra mulher. Continuou sendo a mesma pessoa leal e trabalhadora que tinha conquistado o respeito de todos. Mas deixou de se apresentar como a colhedora de sobras para se apresentar como quem estava pronta para um novo capítulo.
+Talvez você esteja vivendo uma virada assim agora. Saindo do operacional para a liderança. Subindo de degrau. E a pergunta que eu te deixo é simples: a sua apresentação já atravessou essa porta com você?
 
-Repare que, nas duas histórias, a mudança de apresentação acontece num momento de virada. José saindo da prisão para o palácio. Rute saindo do campo para uma nova família. A imagem acompanha a transição de identidade.
+### Antes de virar a página
 
-Talvez você esteja vivendo uma virada assim. Saindo do operacional para a liderança. Mudando de degrau. A pergunta deste capítulo é: a sua apresentação já atravessou essa porta com você?
+Volta na sua página e abre um espaço novo para a sua imagem. Responde com honestidade, sem se julgar.
 
-### Onde as fontes se encontram
+1. Hoje, na sua empresa, você é operador, dono ou líder? E qual papel você quer ocupar daqui a doze meses?
+2. Pensa nas três últimas reuniões importantes que você teve. A forma como você se apresentou comunicava o papel que você escreveu na primeira resposta?
+3. Qual é a próxima "sala do faraó" na sua agenda, aquela reunião que pode mudar o rumo do seu negócio? O que você precisa ajustar antes de entrar nela?
 
-- **Bíblia:** José, depois de treze anos de injustiça e prisão, recebe a chamada do faraó. Em vez de correr, barbeia-se e troca de roupa (Gênesis 41:14). Naquele dia, o prisioneiro se torna governador. Rute, orientada por Noemi, também se prepara antes do encontro que mudaria sua história (Rute 3:3).
-- **Filosofia:** Aristóteles, na *Retórica*, ensinava que a persuasão nasce primeiro do *ethos*, o caráter percebido de quem fala. Epicteto completava: "Diga primeiro a si mesmo quem você quer ser; depois, faça o que precisa fazer."
-- **Psicologia e ciência:** formamos impressões de competência e confiança em cerca de 100 milissegundos (Willis e Todorov, 2006), e o que vestimos também afeta o nosso próprio desempenho (Adam e Galinsky, 2012).
+E o desafio para esta semana é este. Pede para duas pessoas de confiança, uma de dentro e outra de fora da empresa, descreverem em três palavras a impressão que você causa quando entra numa sala. Compara com as três palavras que você gostaria de ouvir. Depois, escolhe um único sinal de imagem que hoje desmente o seu discurso, pode ser a pontualidade, o tom de voz, o jeito de escrever, e corrige esse sinal durante a semana inteira. Se você usa o Refinado, cadastra as ocasiões da próxima semana e compara as sugestões com o que você teria escolhido sozinho. No fim, anota na sua página as três palavras que você quer que a sua presença comunique.
 
-Três caminhos, uma mesma conclusão: a apresentação não substitui a identidade, mas precisa estar à altura dela para que ela seja ouvida.
-
-### Princípio milenar
-
-O homem vê o que está diante dos olhos (1 Samuel 16:7). Por isso, quem sabe quem é ajusta a apresentação para que a identidade possa ser ouvida, como José diante do faraó.
-
-### Caderno de Identidade — Exercício 11: o inventário de coerência
-
-Este exercício acrescenta ao seu **Mapa de Alinhamento Vida e Negócio** a camada da imagem. Responda com honestidade, sem julgamento.
-
-1. Em uma frase, qual é o papel que você ocupa hoje na sua empresa: operador, dono ou líder? E qual é o papel que você quer ocupar daqui a doze meses?
-2. Pense nas três últimas reuniões importantes que você teve. Como você se apresentou em cada uma? Essa apresentação comunicava o papel da pergunta 1?
-3. Peça a duas pessoas de confiança, uma de dentro e outra de fora da empresa, que descrevam em três palavras a impressão que você causa quando entra numa sala. Compare com as três palavras que você gostaria de ouvir.
-4. Liste três sinais de imagem além da roupa que hoje contradizem o seu discurso: pontualidade, tom de voz, organização, comunicação escrita, postura.
-5. Qual é a próxima "sala do faraó" da sua agenda, aquela reunião ou ocasião que pode mudar o rumo do seu negócio? O que você precisa ajustar antes de entrar nela?
-
-**Plano de aplicação de 7 dias:**
-
-- Dia 1: faça o inventário do seu guarda-roupa de trabalho. Separe o que comunica o papel que você quer ocupar e o que não comunica mais.
-- Dia 2: liste as ocasiões profissionais da próxima semana e defina com antecedência como vai se apresentar em cada uma. Se você usa o Refinado, cadastre as peças e as ocasiões e compare as sugestões com o que você teria escolhido sozinho.
-- Dias 3 a 5: escolha um sinal de imagem da pergunta 4 e corrija-o durante três dias seguidos.
-- Dia 6: envie as perguntas da questão 3 às duas pessoas escolhidas.
-- Dia 7: registre no seu Mapa as três palavras que você quer que a sua presença comunique e uma decisão concreta para sustentá-las.
-
-### Degrau subido
-
-- A imagem é a primeira frase que você diz em qualquer sala, antes de abrir a boca.
-- Imagem não é fantasia. É coerência entre quem você é, o papel que ocupa e o que mostra.
-- A apresentação fala com os outros e também com você: ela lembra o papel que você decidiu assumir.
-- Em toda grande transição de identidade, a apresentação precisa atravessar a porta junto.
-
-Você já cuidou do corpo e da apresentação. Agora vem uma pergunta que pode doer um pouco mais: com quem você está caminhando? Porque nenhum CPF cresce sozinho, e o ambiente em que você vive pode estar te elevando ou te segurando sem que você perceba.
+Você já está cuidando do corpo e da forma como se apresenta. Agora vem uma pergunta que pode doer um pouco mais: com quem você está caminhando?
