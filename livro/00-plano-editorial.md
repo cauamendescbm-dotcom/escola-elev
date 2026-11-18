@@ -77,6 +77,9 @@ As quatro opções de título viram as quatro primeiras etapas da jornada. Cada 
 ### O que a ciência confirma
 [Um box curto de 1 a 3 parágrafos, quando o capítulo tiver base científica]
 
+### Onde as fontes se encontram
+[Box de convergência, obrigatório em todo capítulo: 3 a 4 itens curtos, um por fonte, mostrando que chegam à mesma verdade. **Bíblia** (uma história marcante e narrada, não só um versículo solto), **Filosofia** (Sócrates, Platão, Aristóteles, Sêneca, Marco Aurélio, Confúcio, Lao-Tsé, Agostinho, Pascal, Kierkegaard, quando fizer sentido), **Psicologia/Ciência** (estudo verificável). Fechar com uma frase-síntese: "Três caminhos, uma mesma conclusão: ..."]
+
 ### Caderno de Identidade — Exercício N
 [Exercício prático, com perguntas numeradas e uma ação para os próximos 7 dias (padrão ELEV: plano de aplicação de 7 dias). Quando fizer sentido, indique a conexão com a Escola ELEV, o Mastermind ou o Refinado, uma frase, sem tom de venda.]
 
@@ -92,3 +95,23 @@ As quatro opções de título viram as quatro primeiras etapas da jornada. Cada 
 - As frases-âncora reaparecem: "Quando o CPF evolui, o CNPJ encontra um novo nível." e "O CNPJ só alcança o que o CPF permite."
 - Os três degraus (operador, dono, líder) são citados desde o início e aprofundados no capítulo 13.
 - Os quatro pilares ELEV (Espiritualidade, Liderança, Estratégia, Vendas) aparecem como a ordem natural: o espírito vem primeiro e o resultado sobe.
+
+## Convergência: Bíblia, filosofia e ciência (pedido do autor)
+
+Cada capítulo precisa de **pelo menos uma história bíblica marcante, narrada como cena** (com tensão, virada e lição para o empresário), e não só um versículo citado. A tese do capítulo deve aparecer validada por três caminhos que convergem: Bíblia, filosofia e psicologia/ciência.
+
+Banco de histórias sugeridas (use as que servirem ao seu capítulo, sem repetir as que já são de outro capítulo no plano):
+- Identidade: Jacó, que luta e vira Israel (Gn 32); Gideão no lagar (Jz 6); Moisés: "Quem sou eu?" (Êx 3); Davi recusando a armadura de Saul (1Sm 17:38-40); Pedro restaurado à beira do lago (Jo 21); Ester: "para um momento como este" (Et 4:14).
+- Crenças e mente: os dez espias que se viam como gafanhotos, contra Josué e Calebe (Nm 13); Elias escondido debaixo do zimbro (1Rs 19).
+- Perdão: José e os irmãos (Gn 45 e 50); Esaú e Jacó se abraçando (Gn 33); o servo que não perdoou (Mt 18:23-35).
+- Orgulho: Nabucodonosor (Dn 4); Uzias (2Cr 26); Naamã mergulhando sete vezes no Jordão (2Rs 5); Saul poupando o melhor do despojo (1Sm 15).
+- Erro e arrependimento: Davi e Natã (2Sm 12); Pedro negando e chorando (Lc 22).
+- Família: Eli e os filhos (1Sm 2-4); Davi e Absalão (2Sm 15-18); Noé construindo para a casa (Hb 11:7).
+- Corpo e descanso: Elias, que dorme e come antes de ouvir a voz (1Rs 19:5-8); Daniel e a dieta (Dn 1).
+- Imagem: José diante do faraó (Gn 41:14); Rute preparada por Noemi (Rt 3:3).
+- Ecossistema: Davi e os valentes; Jônatas; Rute e Noemi; Paulo e Barnabé.
+- Estrutura e delegação: Jetro e Moisés (Êx 18); Neemias e as famílias na muralha (Ne 3-4).
+- Finanças: José e os sete anos (Gn 41); os talentos (Mt 25); a torre (Lc 14:28).
+- Visão e sociedade: Neemias (Ne 1-2); Abraão: "serás bênção" (Gn 12); Daniel servindo na Babilônia; Jeremias: "procurai a paz da cidade" (Jr 29:7).
+
+Sobre Bíblia e ciência: o autor acredita que a fé bíblica está na base da ciência moderna. Apresente isso como convicção do autor sustentada por fatos históricos verificáveis, e não como verdade absoluta que desqualifica outras visões. Exemplos: Kepler, Newton, Boyle, Pascal e Francis Bacon eram cristãos e viam no estudo da natureza a leitura do "livro da criação". Historiadores da ciência como R. Hooykaas (*A religião e o desenvolvimento da ciência moderna*) e Rodney Stark defendem que a crença num Criador racional e num universo ordenado e inteligível favoreceu o nascimento do método científico. Isso cabe sobretudo no capítulo 1 ("Como usar este livro"), numa explicação de por que o livro une as três fontes. Nos demais capítulos, basta mostrar a convergência.
