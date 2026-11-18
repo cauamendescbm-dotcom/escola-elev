@@ -1,14 +1,14 @@
 ---
 title: "Meu CNPJ precisa de um CPF"
-subtitle: "Por trás de toda empresa existe uma pessoa que precisa se encontrar, liberar perdão, vencer o orgulho e se potencializar"
+subtitle: "Como deixar de ser o teto da sua empresa e se tornar o líder que ela precisa"
 author: "Gustavo Nardi"
 ---
 
 ::: {custom-style="Block Text"}
-*Quando o CPF evolui, o CNPJ encontra um novo nível.*
+*O CNPJ só alcança o que o CPF permite.*
 :::
 
 ::: {custom-style="Block Text"}
-**Manuscrito — versão 2 (miolo em formato de conversa)**
-Introdução, prefácio, dedicatória e agradecimentos entram na próxima etapa.
+**Manuscrito — versão 3**
+Prefácio, dedicatória e agradecimentos entram na próxima etapa.
 :::
