@@ -6,19 +6,19 @@
 
 "Crescer dá muito trabalho."
 
-Ela ouviu essa frase tantas vezes na infância que nem lembrava mais quem tinha dito primeiro. Talvez o pai, chegando cansado do trabalho. Talvez a mãe, ao ver uma vizinha que tinha "subido na vida" e vivia estressada. Talvez os dois.
+Ele ouviu essa frase tantas vezes na infância que nem lembrava mais quem tinha dito primeiro. Talvez o pai, chegando cansado do trabalho. Talvez a mãe, ao ver uma vizinha que tinha "subido na vida" e vivia estressada. Talvez os dois.
 
-O que ela lembrava era do tom. Crescer era sinônimo de sofrer. Ter mais significava se preocupar mais. Quem prosperava pagava um preço alto demais.
+O que ele lembrava era do tom. Crescer era sinônimo de sofrer. Ter mais significava se preocupar mais. Quem prosperava pagava um preço alto demais.
 
-Décadas depois, essa menina era dona de um pet shop. E não um pet shop qualquer: um negócio num dos setores que mais crescem no país, com boa localização, clientela fiel e produto de qualidade.
+Décadas depois, aquele menino era dono de um pet shop. E não um pet shop qualquer: um negócio num dos setores que mais crescem no país, com boa localização, clientela fiel e produto de qualidade.
 
-Mesmo assim, a empresa estava estagnada. E a dona vivia se queixando da crise.
+Mesmo assim, a empresa estava estagnada. E o dono vivia se queixando da crise.
 
 Quando aprofundamos o diagnóstico, os problemas técnicos apareceram: falta de indicadores, equipe sem treinamento, ausência de descrição de atividades. Mas, por baixo de tudo, havia algo que nenhuma planilha mostrava.
 
-Ela acreditava que já tinha resultado demais.
+Ele acreditava que já tinha resultado demais.
 
-Pelo esforço que entregava à própria empresa, achava que não merecia mais do que tinha. Crescer, para ela, significava trabalhar ainda mais, sofrer ainda mais, ter ainda mais dor de cabeça. Então, sem perceber, ela freava. Não tinha visão de expansão. Não investia em pessoas. Não planejava o próximo nível.
+Pelo esforço que entregava à própria empresa, achava que não merecia mais do que tinha. Crescer, para ele, significava trabalhar ainda mais, sofrer ainda mais, ter ainda mais dor de cabeça. Então, sem perceber, ele freava. Não tinha visão de expansão. Não investia em pessoas. Não planejava o próximo nível.
 
 E a equipe sentia isso. Ninguém se sentia parte de algo que estava indo para algum lugar, porque a empresa não estava indo para lugar nenhum. Não havia conexão, não havia limites claros, não havia futuro para se vincular.
 
@@ -53,6 +53,26 @@ Quem acredita que "não é para gente como nós" para de crescer exatamente quan
 
 Nenhuma dessas pessoas é preguiçosa ou incompetente. Elas estão sendo fiéis a uma voz antiga. E essa voz decide por elas sem pedir licença.
 
+### A consultora que tinha vergonha de cobrar
+
+Uma empresária que acompanhei, vou chamá-la de Helena (nome alterado), tinha uma consultoria de recursos humanos. Era excelente no que fazia. Os clientes a recomendavam, renovavam contratos, elogiavam o trabalho.
+
+E ela vivia apertada.
+
+Olhamos os números. A margem era baixíssima. Os preços estavam muito abaixo do mercado, mesmo com uma entrega muito acima da média. Toda vez que ia apresentar uma proposta, Helena reduzia o valor antes que o cliente pedisse. Tinha um "desconto preventivo" para tudo.
+
+Perguntei por que fazia isso. A primeira resposta foi técnica: "O mercado está difícil." A segunda, comercial: "Prefiro garantir o cliente." Só na terceira veio a verdade.
+
+— Na minha casa, quem cobrava caro era aproveitador. Meu pai dizia que gente honesta não fica rica.
+
+Helena era honesta. Profundamente honesta. E, para continuar se sentindo honesta, precisava continuar sem lucro. A empresa dela pagava, todo mês, o preço de uma frase dita décadas antes, numa mesa de jantar.
+
+Quando ela entendeu que preço justo também é uma forma de honestidade, com o cliente, com a equipe e com a própria família, os números mudaram. Não porque ela aprendeu uma técnica nova de precificação. A técnica ela já conhecia. Mudaram porque a voz antiga perdeu o poder de decidir.
+
+Repare: a crença não aparecia no plano de negócios. Aparecia no momento da proposta, no tom de voz, na pressa em oferecer desconto. É sempre assim. As crenças não se anunciam. Elas agem nas pequenas decisões, todos os dias, e o acumulado dessas pequenas decisões vira o resultado do ano.
+
+`[AUTOR: inserir uma crença que você mesmo herdou, como ela apareceu na sua primeira empresa e como você a percebeu.]`
+
 ### Os gafanhotos
 
 Há uma história milenar que mostra como uma crença pode custar uma geração inteira.
@@ -76,6 +96,10 @@ Dois homens viram a mesma terra, os mesmos gigantes, as mesmas muralhas. Josué 
 Mesmos fatos. Crenças diferentes. Conclusões opostas.
 
 O povo escolheu acreditar nos dez. E aquela geração passou quarenta anos andando em círculos no deserto. Só Josué e Calebe, entre os adultos que saíram do Egito, entraram na terra.
+
+E há um epílogo que pouca gente conhece. Quarenta e cinco anos depois, já dentro da terra, Calebe procura Josué. Tem oitenta e cinco anos. E diz: "Ainda hoje estou tão forte como no dia em que Moisés me enviou. Agora, pois, dá-me este monte" (Js 14:10-12). E o monte que ele pede é justamente a região onde viviam os gigantes que tinham assustado os outros dez.
+
+A crença certa não tinha prazo de validade. Aos oitenta e cinco, ele ainda escolhia o desafio que a mente dos outros chamava de impossível.
 
 Quantos empresários estão andando em círculos há anos, diante de uma oportunidade real, porque se veem como gafanhotos?
 
@@ -115,6 +139,8 @@ A boa notícia é que crenças não são sentenças. Elas foram aprendidas e pod
 
 **5. Praticar até virar natural.** Uma crença nova começa como uma trilha no meio do mato. Só vira estrada com repetição.
 
+Nas primeiras semanas, a voz antiga vai falar mais alto. É normal. Ela teve trinta ou quarenta anos de vantagem. Não desanime quando perceber que caiu de novo no velho padrão. Perceber já é sinal de que a trilha nova está sendo aberta. Antes, você nem notava. Agora nota, e cada vez que nota tem a chance de escolher diferente.
+
 ### Onde as fontes se encontram
 
 - **Bíblia.** Dez espias se viram como gafanhotos e uma geração inteira andou em círculos. Dois viram a mesma terra com outra mente e entraram. E a primeira palavra da mensagem de Jesus foi *metanoia*: mudar a forma de pensar.
@@ -131,7 +157,7 @@ Em 1968, os pesquisadores Robert Rosenthal e Lenore Jacobson fizeram um experime
 
 Agora pense no empresário que repete, em toda reunião, que "ninguém hoje em dia quer nada com nada". Que equipe ele está formando?
 
-Lembra da dona do pet shop? A equipe dela não se sentia parte da empresa. Não era coincidência. Uma dona que não acredita que merece crescer não consegue fazer ninguém acreditar que vale a pena crescer junto.
+Lembra do dono do pet shop? A equipe dele não se sentia parte da empresa. Não era coincidência. Um dono que não acredita que merece crescer não consegue fazer ninguém acreditar que vale a pena crescer junto.
 
 O teto do dono vira o teto da equipe. E o teto da equipe vira o teto do CNPJ.
 

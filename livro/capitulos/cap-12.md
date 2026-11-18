@@ -4,19 +4,19 @@
 > "O que anda com os sábios ficará sábio, mas o companheiro dos tolos será afligido."
 > — Provérbios 13:20
 
-Marcelo (nome alterado) tinha uma rotina sagrada às quintas-feiras. Depois do expediente, ia para o mesmo bar, com os mesmos amigos de muitos anos. Todos empresários. Todos do mesmo bairro. Todos donos de negócios parecidos com o dele.
+Fábio (nome alterado) tinha uma rotina sagrada às quintas-feiras. Depois do expediente, ia para o mesmo bar, com os mesmos amigos de muitos anos. Todos empresários. Todos do mesmo bairro. Todos donos de negócios parecidos com o dele.
 
-Durante muito tempo, aquele era o melhor momento da semana. Risadas, histórias, desabafos. Mas, aos poucos, Marcelo começou a perceber um padrão nas conversas.
+Durante muito tempo, aquele era o melhor momento da semana. Risadas, histórias, desabafos. Mas, aos poucos, Fábio começou a perceber um padrão nas conversas.
 
 Toda quinta, o assunto era o mesmo. O governo que atrapalha. O imposto que sufoca. O funcionário que não quer nada com nada. O cliente que não paga. A crise que nunca acaba. Uma sessão semanal de queixas, regada a cerveja e muito bem-humorada.
 
 Ninguém falava de margem. Ninguém falava de processo. Ninguém contava o que tinha aprendido naquela semana. Ninguém perguntava "o que você faria no meu lugar?".
 
-Um dia, Marcelo comentou na mesa que estava pensando em contratar um gerente e sair do balcão. A reação foi imediata. "Tá ficando metido?" "Gerente vai te roubar." "Ninguém cuida do seu negócio como você."
+Um dia, Fábio comentou na mesa que estava pensando em contratar um gerente e sair do balcão. A reação foi imediata. "Tá ficando metido?" "Gerente vai te roubar." "Ninguém cuida do seu negócio como você."
 
 Ele voltou para casa naquela noite com uma sensação estranha. Gostava daqueles amigos. Conhecia as famílias deles. Mas percebeu que, se quisesse crescer, não conseguiria fazer isso ali.
 
-Marcelo não abandonou os amigos. Continuou indo ao bar de vez em quando. Mas começou a procurar outro ambiente. Um grupo de empresários que já tinham passado pelo que ele estava vivendo. Gente que tinha saído do balcão. Gente que falava de indicadores sem constrangimento. Gente que o desafiava em vez de apenas concordar com ele.
+Fábio não abandonou os amigos. Continuou indo ao bar de vez em quando. Mas começou a procurar outro ambiente. Um grupo de empresários que já tinham passado pelo que ele estava vivendo. Gente que tinha saído do balcão. Gente que falava de indicadores sem constrangimento. Gente que o desafiava em vez de apenas concordar com ele.
 
 Dois anos depois, a empresa dele tinha dobrado de tamanho. Mas o que mais mudou, segundo ele, não foi a empresa. "Mudou o tipo de pergunta que eu me faço."
 
@@ -82,7 +82,7 @@ Um ambiente que eleva tem três características.
 
 **Terceiro, há compromisso com a aplicação.** Não é um grupo de conversa. É um grupo de execução. Alguém vai perguntar no mês seguinte se você fez o que disse que ia fazer. Essa pergunta, por si só, muda o seu comportamento.
 
-Se o seu ambiente atual não tem nenhuma das três, ele pode até ser bom para a sua alma, como o bar de quinta-feira do Marcelo. Mas não vai ser suficiente para o seu crescimento.
+Se o seu ambiente atual não tem nenhuma das três, ele pode até ser bom para a sua alma, como o bar de quinta-feira do Fábio. Mas não vai ser suficiente para o seu crescimento.
 
 ### O cordão de três dobras
 
@@ -100,7 +100,7 @@ Um ecossistema certo não elimina a responsabilidade de decidir. Mas tira o peso
 
 Aqui mora um cuidado importante. Trocar de ambiente não é trocar de amigos como quem troca de fornecedor.
 
-Marcelo não abandonou a mesa de quinta-feira. Ele só deixou de esperar dela o que ela não podia oferecer. Aqueles amigos continuaram sendo parte da história dele, da sua comunidade, das suas memórias. O que mudou foi o lugar de cada relação na agenda e no coração dele.
+Fábio não abandonou a mesa de quinta-feira. Ele só deixou de esperar dela o que ela não podia oferecer. Aqueles amigos continuaram sendo parte da história dele, da sua comunidade, das suas memórias. O que mudou foi o lugar de cada relação na agenda e no coração dele.
 
 Há relações que existem para nos acolher. Há relações que existem para nos afiar. As duas têm valor. O problema começa quando você espera crescimento de um ambiente que só sabe acolher, ou quando despreza o acolhimento porque agora só quer quem te desafia.
 
@@ -110,7 +110,7 @@ Na prática, isso significa três atitudes.
 
 **Não se tornar arrogante.** Quem muda de ambiente corre um risco: voltar para o grupo antigo com ar de superioridade, corrigindo todos, falando dos novos conceitos que aprendeu. Isso afasta as pessoas e, pior, alimenta o mesmo orgulho que tratamos na Parte III.
 
-**Levar o que aprendeu como semente, não como sermão.** Se o novo ambiente te fez bem, é provável que alguém do antigo também queira crescer. Quando essa pessoa perguntar, compartilhe. Sem pressão. Foi assim que Marcelo, anos depois, levou dois amigos da mesa de quinta para o grupo de empresários que frequentava.
+**Levar o que aprendeu como semente, não como sermão.** Se o novo ambiente te fez bem, é provável que alguém do antigo também queira crescer. Quando essa pessoa perguntar, compartilhe. Sem pressão. Foi assim que Fábio, anos depois, levou dois amigos da mesa de quinta para o grupo de empresários que frequentava.
 
 O crescimento verdadeiro não deixa um rastro de pessoas desprezadas. Deixa portas abertas.
 

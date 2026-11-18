@@ -8,13 +8,13 @@ Era uma segunda-feira, e a reunião de resultados começou com quinze minutos de
 
 O gerente comercial entrou na sala com uma planilha impressa e o rosto de quem não tinha dormido direito. O mês tinha fechado abaixo da meta. Não era pouco. Era o pior mês do ano.
 
-O dono da empresa, vou chamá-lo de Ricardo (nome alterado), olhou os números por alguns segundos. Depois levantou os olhos e fez a pergunta que todo mundo na sala já esperava:
+O dono da empresa, vou chamá-lo de Otávio (nome alterado), olhou os números por alguns segundos. Depois levantou os olhos e fez a pergunta que todo mundo na sala já esperava:
 
 — De quem é a culpa?
 
 Ninguém respondeu. O silêncio durou o suficiente para todos entenderem a regra do jogo. O gerente culpou o mercado. O financeiro culpou a inadimplência. O marketing disse que os leads tinham chegado fracos. Cada um saiu da sala protegido. A empresa saiu exatamente do mesmo jeito que entrou.
 
-O detalhe que ninguém disse em voz alta: três meses antes, foi o próprio Ricardo quem decidiu cortar a verba de prospecção para cobrir um investimento pessoal. Ele sabia disso. A equipe também sabia. Mas ninguém, nem ele, teve coragem de colocar esse fato em cima da mesa.
+O detalhe que ninguém disse em voz alta: três meses antes, foi o próprio Otávio quem decidiu cortar a verba de prospecção para cobrir um investimento pessoal. Ele sabia disso. A equipe também sabia. Mas ninguém, nem ele, teve coragem de colocar esse fato em cima da mesa.
 
 Aquela reunião não foi uma reunião de resultados. Foi uma reunião de esconderijos.
 
@@ -112,14 +112,14 @@ Repita comigo: **você não é a sua pior decisão.**
 
 Um erro reconhecido custa uma vez. Um erro escondido cobra juros todo mês.
 
-Pense no Ricardo, da reunião do começo do capítulo. O erro original, cortar a verba de prospecção, custou um mês ruim. Mas o encobrimento desse erro gerou uma cadeia de custos muito maiores:
+Pense no Otávio, da reunião do começo do capítulo. O erro original, cortar a verba de prospecção, custou um mês ruim. Mas o encobrimento desse erro gerou uma cadeia de custos muito maiores:
 
 - A equipe gastou energia se defendendo em vez de resolver o problema.
 - A causa real nunca foi tratada, então a prospecção continuou fraca nos meses seguintes.
 - O gerente comercial, que levou a culpa em silêncio, começou a procurar outro emprego.
 - O resto da equipe aprendeu que, naquela empresa, a verdade não sobe.
 
-Seis meses depois, Ricardo me procurou dizendo que a equipe dele "não tinha comprometimento". Que ninguém trazia problemas a tempo. Que ele sempre era o último a saber.
+Seis meses depois, Otávio me procurou dizendo que a equipe dele "não tinha comprometimento". Que ninguém trazia problemas a tempo. Que ele sempre era o último a saber.
 
 Ele estava descrevendo exatamente a cultura que ele mesmo tinha construído.
 
@@ -172,7 +172,7 @@ Para isso, o reconhecimento do erro precisa sair do improviso e virar estrutura.
 
 Esconder o erro não protege o líder. Trava a prosperidade. Reconhecer e mudar abre caminho para a restauração.
 
-### O que a ciência confirma
+### A ciência em uma frase
 
 As equipes que mais aprendem não são as que menos erram, mas as que se sentem seguras para falar dos erros (Amy Edmondson, Harvard, 1999). E essa segurança começa num lugar só: no comportamento do líder quando ele mesmo erra.
 

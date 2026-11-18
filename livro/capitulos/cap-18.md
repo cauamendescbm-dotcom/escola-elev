@@ -90,21 +90,21 @@ Ao longo do livro, cada exercício do Caderno de Identidade foi construindo uma 
 
 | Etapa | Capítulo | O que registrar no mapa |
 |---|---|---|
-| **Se encontrar** | 1. O problema nunca foi o CNPJ | O ponto em que a minha empresa encontrou o meu limite |
-| | 2. Quem é você quando a empresa fecha as portas? | Quem eu sou além do CNPJ, em uma frase |
-| | 3. As vozes que você herdou | A crença que eu abandono e a nova crença que escolho |
-| **Liberar perdão** | 4. O peso que você leva para o escritório | A ofensa que eu entreguei e não carrego mais |
-| | 5. Perdoar pai, mãe e a si mesmo | Quem eu perdoei, incluindo a mim mesmo |
-| **Vencer o orgulho** | 6. O maior da sala | O ambiente onde deixo de ser o maior e volto a aprender |
-| | 7. Errar não é o problema; esconder é | O erro que reconheci e o que mudou depois |
-| **Liderar em casa** | 8. Filho não se demite | As pessoas que não se demitem da minha vida |
-| | 9. Liderar em casa primeiro | O ritual fixo de liderança na minha casa |
-| **Potencializar o CPF** | 10. O ativo que não aparece no balanço | Os meus hábitos inegociáveis de corpo, mente e espírito |
-| | 11. A identidade que entra antes de você na sala | Como a minha imagem passa a expressar quem eu sou |
-| | 12. Diga-me com quem andas | As pessoas do meu ecossistema e da minha mesa de conselho |
-| **Do CPF ao CNPJ** | 13. Operador, dono, líder | O degrau em que estou e o próximo passo para subir |
-| | 14. Sua empresa é o seu reflexo | Os valores da empresa, com comportamento esperado e não tolerado |
-| | 15. Os números contam quem você é | Margem, caixa e a separação entre CPF e CNPJ |
+| **Se encontrar** | 1. O problema nunca foi o CNPJ | "Quem eu sou hoje", em cinco linhas, e as horas da semana gastas no que outro poderia fazer |
+| | 2. Quem é você quando a empresa fecha as portas? | Os três círculos: valores inegociáveis (ser), papéis em ordem e, por último, a empresa |
+| | 3. As vozes que você herdou | "Vozes que eu herdei" e "Verdades que eu escolho" |
+| **Liberar perdão** | 4. O peso que você leva para o escritório | "Peso que eu solto": o nome escolhido e a frase de decisão |
+| | 5. Perdoar pai, mãe e a si mesmo | "Raízes": a frase herdada da família e a frase nova que adoto |
+| **Vencer o orgulho** | 6. O maior da sala | Onde sou o maior da sala hoje e o ambiente em que decido entrar |
+| | 7. Errar não é o problema; esconder é | A frase de como lido com os erros, os meus e os da equipe |
+| **Liderar em casa** | 8. Filho não se demite | Os nomes de quem não se demite e a presença que decido ter com cada um |
+| | 9. Liderar em casa primeiro | A visão da família e os três valores da casa |
+| **Potencializar o CPF** | 10. O ativo que não aparece no balanço | O balanço do CPF: notas de corpo, mente e espírito e os hábitos inegociáveis |
+| | 11. A identidade que entra antes de você na sala | O inventário de coerência: o papel que ocupo, o que quero ocupar e como me apresento |
+| | 12. Diga-me com quem andas | O mapa do ecossistema: quem me eleva, quem me mantém e o novo ambiente |
+| **Do CPF ao CNPJ** | 13. Operador, dono, líder | "Meu degrau atual e meu próximo degrau" |
+| | 14. Sua empresa é o seu reflexo | "Os valores que eu vivo e que minha empresa vai viver", com comportamento esperado e não tolerado |
+| | 15. Os números contam quem você é | "Meus números e minha reserva": os cinco números e a regra de José |
 | **Visão e legado** | 16. Escreve a visão | O porquê, a frase-resumo e as três metas de doze meses |
 | | 17. O papel do seu CNPJ na sociedade | A frase de missão social e o número de vidas sustentadas |
 | | 18. O CPF que você escolheu se tornar | A frase de legado (exercício abaixo) |
