@@ -36,9 +36,9 @@ Talvez você ainda não tenha chegado ao pronto-socorro. Mas vale a pergunta: vo
 
 Existe um personagem que o mercado adora aplaudir. O empresário que chega primeiro e sai por último. Que responde mensagem à uma da manhã. Que não tira férias há sete anos e conta isso com orgulho. Que diz que vai "dormir quando morrer".
 
-Cansaço não é medalha. Exaustão não prova compromisso. Quando você vive esgotado, isso é sinal de que alguma coisa na estrutura está errada. Na estrutura da empresa e na sua.
+Só que exaustão constante não prova compromisso. Quando você vive esgotado, isso é sinal de que alguma coisa na estrutura está errada. Na estrutura da empresa e na sua.
 
-Lembra do primeiro degrau da escada, o do operador? Aquele que diz "eu sou a máquina"? Pois é. Máquina sem manutenção quebra. Não por falta de vontade. Por física.
+Lembra do primeiro degrau da escada, o do operador? Aquele que diz "eu sou a máquina"? Pois é. Máquina sem manutenção quebra, por mais vontade que tenha.
 
 O problema é que, com a gente, a quebra quase nunca é de uma vez. Ela vem em camadas. Primeiro aparece uma irritação por qualquer coisa. Depois fica difícil se concentrar. Você esquece detalhes simples. Dorme, mas acorda cansado. Tudo vira urgente e nada dá prazer. E, sem perceber, as suas decisões vão ficando mais curtas, mais reativas, mais pobres.
 
@@ -56,11 +56,11 @@ E aí vem o detalhe que me pega toda vez. Logo depois dessa vitória, chega um r
 
 — Basta, Senhor. Toma a minha vida.
 
-Repara quando isso acontece. Depois da vitória, não depois da derrota.
+Isso acontece depois da vitória, e não depois da derrota.
 
 Você conhece essa sensação? Bater a meta do ano e, no lugar da alegria, sentir um vazio esquisito. Assinar o contrato que esperou a vida inteira e não conseguir dormir de ansiedade naquela noite. O corpo cobra a conta da subida, e quase sempre cobra lá em cima.
 
-Agora presta atenção na resposta que Elias recebe. Você esperaria uma bronca. "Cadê a sua fé, homem?" Ou, no mínimo, um novo plano estratégico.
+A resposta que Elias recebe surpreende. Você esperaria uma bronca. "Cadê a sua fé, homem?" Ou, no mínimo, um novo plano estratégico.
 
 Nada disso.
 
@@ -70,13 +70,13 @@ Só depois disso, com o corpo de pé, Elias caminha até o monte e ouve a voz qu
 
 Primeiro o pão e o sono. Depois a conversa sobre propósito.
 
-Há quase três mil anos, já estava escrito o que hoje parece descoberta: não existe clareza, nem espiritual nem estratégica, num corpo destruído. Às vezes, antes de perguntar "qual é o meu chamado?", a pergunta certa é muito mais simples: "quando foi a última vez que eu dormi direito?".
+Muito antes de qualquer laboratório, o texto já registrava o que hoje parece descoberta: não existe clareza, nem espiritual nem estratégica, num corpo destruído. Às vezes, antes de perguntar "qual é o meu chamado?", a pergunta certa é muito mais simples: "quando foi a última vez que eu dormi direito?".
 
 * * *
 
 O neurocientista Matthew Walker, professor da Universidade da Califórnia em Berkeley, reuniu décadas de pesquisa sobre o sono no livro *Por que nós dormimos*. A conclusão dele é desconfortável para quem se orgulha de dormir pouco. Um cérebro privado de sono reage com mais força a tudo o que é negativo e tem menos capacidade de frear essa reação. A região que avalia ameaças fica mais acesa. A que pondera, planeja e segura o impulso fica mais fraca.
 
-Traduzindo para o seu dia: aquele e-mail duro que você escreveu às onze e meia da noite não foi escrito pelo seu melhor eu. Foi escrito por um cérebro mais reativo e menos preciso. A conversa em que você perdeu a paciência com o gerente, a compra por impulso, o "não" atravessado para o sócio. Muita coisa que você chama de temperamento é, na verdade, sono.
+Traduzindo para o seu dia: aquele e-mail duro que você escreveu às onze e meia da noite saiu de um cérebro mais reativo e menos preciso. A conversa em que você perdeu a paciência com o gerente, a compra por impulso, o "não" atravessado para o sócio. Muita coisa que você chama de temperamento é, na verdade, sono.
 
 Gosto de pensar no CPF em três partes que se sustentam. O corpo é onde o resultado aparece. A alma é onde a razão e a emoção disputam o volante. E o espírito é o sentido, o "para quê", aquilo que te alimenta quando os números não alimentam. Se uma das três enfraquece, as outras duas entortam.
 
@@ -92,7 +92,7 @@ O espírito também precisa de alimento, e ele não vem por acaso. Vem de pequen
 
 Quem alimenta o espírito decide a partir de algo maior do que o medo do próximo boleto. E isso, curiosamente, costuma fazer o próximo boleto ser pago com mais tranquilidade.
 
-Cuidar de si não é luxo. É gestão de risco.
+Cuidar de si é gestão de risco.
 
 * * *
 
@@ -100,7 +100,7 @@ Talvez a mudança mais útil que eu conheço para um empresário cansado seja es
 
 O dia tem vinte e quatro horas para todo mundo. Mas nem toda hora vale o mesmo. Existe o momento em que você pensa com clareza, enxerga longe e decide bem. Para a maioria das pessoas, é a primeira parte do dia, depois de uma noite bem dormida. E existe o momento em que tudo parece mais grave do que é, em que a paciência acaba e a decisão sai torta. Quase sempre, é o fim do dia.
 
-Agora repara onde a maioria dos empresários coloca as suas decisões mais importantes. A conversa difícil com o sócio fica para depois do expediente. A análise do caixa fica para a noite, "quando tudo se acalmar". A resposta ao cliente que reclamou sai às onze, no sofá. E as primeiras horas da manhã, as melhores, vão embora apagando incêndio, respondendo mensagem e resolvendo o que qualquer outra pessoa poderia resolver.
+Agora observe onde a maioria dos empresários coloca as suas decisões mais importantes. A conversa difícil com o sócio fica para depois do expediente. A análise do caixa fica para a noite, "quando tudo se acalmar". A resposta ao cliente que reclamou sai às onze, no sofá. E as primeiras horas da manhã, as melhores, vão embora apagando incêndio, respondendo mensagem e resolvendo o que qualquer outra pessoa poderia resolver.
 
 O operador gasta a melhor energia do dia no que é urgente. O líder protege essa energia para o que é importante.
 
@@ -108,13 +108,13 @@ Duas regras simples ajudam muito. A primeira: nenhuma decisão grande, e nenhuma
 
 Parece pouco. Mas pensa no que significam cinco horas por semana de dono pensando com a cabeça descansada, em vez de dono reagindo com a cabeça cansada. Em um ano, é outra empresa.
 
-E tem um termômetro que não mente: as férias. Se você não consegue ficar uma semana fora sem que a empresa entre em pânico, não é falta de sorte com a equipe. É um retrato fiel de onde você está na escada. E também de quanto você vai continuar pagando com o próprio corpo enquanto nada mudar.
+E tem um termômetro que não mente: as férias. Se você não consegue ficar uma semana fora sem que a empresa entre em pânico, isso diz menos sobre a sua equipe e mais sobre o degrau em que você está. E também de quanto você vai continuar pagando com o próprio corpo enquanto nada mudar.
 
 * * *
 
 Há um princípio antigo que o mundo moderno trata como opcional, e que eu considero um dos mais revolucionários já escritos: o descanso semanal.
 
-No relato da criação, o próprio Criador descansa no sétimo dia. Não por cansaço, mas para deixar um ritmo: trabalho e pausa, fazer e ser. Mais tarde, esse princípio vira mandamento, e aparece na mesma lista que "não matarás" e "não furtarás". Não foi colocado ali como dica de bem-estar. Foi colocado como fundamento de vida.
+No relato da criação, o próprio Criador descansa no sétimo dia. Não por cansaço, mas para deixar um ritmo: trabalho e pausa, fazer e ser. Mais tarde, esse princípio vira mandamento, e aparece na mesma lista que "não matarás" e "não furtarás". Está ali como fundamento de vida, e não como dica de bem-estar.
 
 Sêneca, que foi conselheiro de um império inteiro, escreveu algo parecido séculos depois: é preciso dar descanso à mente, porque, descansada, ela se levanta melhor e mais aguda. O campo que nunca fica em pousio se esgota.
 
@@ -124,13 +124,13 @@ Para quem empreende, esse dia de pausa tem um efeito prático muito forte. Ele o
 
 Conheço essa frase. E conheço o ciclo em que ela prende a gente. Você não tem tempo para cuidar de si porque a empresa depende demais de você. A empresa depende demais de você porque você nunca parou para estruturar. E você nunca parou para estruturar porque está cansado demais para pensar além da urgência do dia.
 
-Ciclo assim não se quebra com mais esforço. Se quebra com uma decisão.
+Esse ciclo só se quebra com uma decisão.
 
 E a decisão é tratar o seu CPF com o mesmo compromisso com que você trata o caixa. Você coloca na agenda a reunião com o banco, certo? Coloque o exercício. Você protege a margem da empresa. Proteja a margem de energia do seu dia. Quem trabalha com os números sabe: o que não tem horário reservado, não acontece.
 
 * * *
 
-Depois do susto, o Roberto começou a fazer uma coisa simples. Uma vez por mês, ele senta e faz o balanço do próprio CPF, do mesmo jeito que olha o resultado da transportadora.
+Depois do susto, o Roberto começou a fazer uma coisa simples. Uma vez por mês, ele senta e faz o balanço da própria energia, do mesmo jeito que olha o resultado da transportadora.
 
 De um lado, o que soma: horas de sono, dias de atividade física, refeição com calma, tempo de verdade com a família, silêncio, oração, leitura, amizade cultivada. Do outro, o que pesa: noite mal dormida, semana sem pausa, irritação desproporcional, consulta adiada, conversa importante evitada.
 
@@ -140,7 +140,7 @@ Na primeira vez que fez isso, ele levou um susto maior do que com qualquer preju
 
 — Eu estava no vermelho fazia anos e nem sabia.
 
-Hoje o Roberto dorme sete horas. Caminha quatro vezes por semana. Janta com a família às terças e quintas, sem celular na mesa. E a transportadora cresceu. Não porque ele passou a trabalhar mais. Porque passou a decidir melhor.
+Hoje o Roberto dorme sete horas. Caminha quatro vezes por semana. Janta com a família às terças e quintas, sem celular na mesa. E a transportadora cresceu, porque ele passou a decidir melhor.
 
 Quando o CPF evolui, o CNPJ encontra um novo nível. E às vezes a evolução começa num lugar bem pouco glamoroso: no travesseiro.
 
@@ -152,10 +152,10 @@ A pergunta deste capítulo é direta:
 
 O desafio dos próximos sete dias: escolha um horário fixo para dormir e outro para acordar, e cumpra os dois a semana inteira. Só isso. No sétimo dia, repare em como você decidiu, respondeu e reagiu nesta semana, comparado com a anterior.
 
-No **Balanço do CPF**, preencha o campo **Nota de corpo, alma e espírito**: dê uma nota de zero a dez para cada um, com um motivo curto. Ao lado, escreva **um hábito inegociável** que você vai sustentar a partir de agora para a nota mais baixa.
+No seu Balanço do CPF, preencha o campo **Nota de corpo, alma e espírito → 1 hábito inegociável**. Dê uma nota de zero a dez para cada um, com um motivo curto. Ao lado, escreva um hábito que você vai sustentar a partir de agora para melhorar a nota mais baixa.
 
 Um corpo de pé e uma cabeça descansada mudam muita coisa. Mas ninguém sustenta isso sozinho por muito tempo. O ambiente em que você vive puxa você para cima ou para baixo, todos os dias, sem pedir licença. E é sobre as pessoas que caminham do seu lado que a gente vai conversar agora.
 
 ::: {custom-style="Destaque"}
-"Se o seu CNPJ não sobrevive a um dia sem o seu CPF, você não tem uma empresa. Tem um emprego caro."
+"Ele era o caminhão que mais rodava. E o único que nunca entrava na oficina."
 :::

@@ -80,7 +80,7 @@ Agora eu quero te levar para a beira de um rio.
 
 Jesus entra na água, é batizado e, quando sai, o céu se abre. Uma voz diz: "Este é o meu Filho amado, em quem me comprazo" (Mt 3:17).
 
-Repara na ordem das coisas.
+Veja a ordem das coisas.
 
 Antes do primeiro milagre, veio a declaração de amor. Antes de qualquer resultado, veio a identidade. Jesus não trabalhou para ouvir aquela frase. Ele trabalhou a partir dela.
 
@@ -96,9 +96,9 @@ Quando eu falo em perdoar pai e mãe, quase sempre alguém se defende rápido: "
 
 Talvez tenham feito mesmo. E, ainda assim, podem ter ferido você.
 
-As duas coisas cabem na mesma frase. O seu pai pode ter trabalhado dezesseis horas por dia para pôr comida na mesa e nunca ter dito que tinha orgulho de você. A sua mãe pode ter se sacrificado por você e, ao mesmo tempo, ter passado um medo de dinheiro que hoje trava a sua empresa.
+As duas coisas cabem na mesma frase. O seu pai pode ter trabalhado doze horas por dia para pôr comida na mesa e nunca ter dito que tinha orgulho de você. A sua mãe pode ter se sacrificado por você e, ao mesmo tempo, ter passado um medo de dinheiro que hoje trava a sua empresa.
 
-Perdoar não é reescrever a história nem fingir que eles foram perfeitos. A Bíblia manda honrar pai e mãe, e honrar inclui olhar para eles com humanidade, entendendo que eles também só deram o que receberam. Perdoar é olhar para a história inteira, com o que foi bom e o que foi ruim, e decidir que você não vai mais cobrar deles uma dívida que eles não têm como pagar.
+Perdoar não é reescrever a história nem fingir que eles foram perfeitos. Honrar pai e mãe, um dos princípios mais antigos que a humanidade conhece, inclui olhar para eles com humanidade, entendendo que eles também só deram o que receberam. Perdoar é olhar para a história inteira, com o que foi bom e o que foi ruim, e decidir que você não vai mais cobrar deles uma dívida que eles não têm como pagar.
 
 E perdoar não é se expor de novo ao que fere. Se houve abuso, violência ou uma relação que continua destrutiva, o perdão pode acontecer de longe, com limites claros e, muitas vezes, com a ajuda de um profissional. O perdão liberta você. Não te obriga a voltar para o lugar onde você se machucou.
 
@@ -116,7 +116,7 @@ A quarta clínica não foi aberta. Ela fez uma coisa mais difícil: reorganizou 
 
 "Pela primeira vez", ela me disse, "eu estou crescendo porque quero, e não porque preciso provar."
 
-É assim que se dá baixa num sócio oculto. Não brigando com ele. Retirando dele o poder de voto.
+É assim que se dá baixa num sócio oculto: sem precisar brigar com ele, retirando dele o poder de voto.
 
 * * *
 
@@ -124,11 +124,11 @@ Existe ainda uma consequência prática que pouca gente enxerga. Se a sua equipe
 
 Dar direção, numa empresa, é dizer para onde vamos e por quê, com tanta clareza que qualquer pessoa da equipe consiga repetir. É também apontar para alguém o que você vê nele antes que ele mesmo enxergue: "Eu acho que você daria um ótimo líder de equipe. Vamos trabalhar para isso?". Muita gente nunca ouviu uma frase assim de ninguém. Quando ouve do chefe, não esquece.
 
-Dar limites é combinar o que se espera antes de cobrar o que não foi entregue. É corrigir cedo, em particular e com respeito, em vez de acumular irritação até explodir na reunião. Limite dado com clareza não humilha. Organiza. E a equipe, por incrível que pareça, se sente mais segura com um líder que corrige do que com um que finge não ver.
+Dar limites é combinar o que se espera antes de cobrar o que não foi entregue. É corrigir cedo, em particular e com respeito, em vez de acumular irritação até explodir na reunião. Limite dado com clareza organiza. E a equipe, por incrível que pareça, se sente mais segura com um líder que corrige do que com um que finge não ver.
 
 Dar proteção é assumir publicamente a responsabilidade quando algo dá errado e tratar o erro de cada um longe da plateia. É defender a equipe diante do cliente abusivo. É garantir que ninguém seja punido por trazer um problema cedo. Equipes protegidas arriscam, inovam e falam a verdade. Equipes desprotegidas se escondem.
 
-Repara que nenhuma dessas três coisas depende de você ter tido um pai perfeito. Dependem de você decidir ser, para outras pessoas, o líder que gostaria de ter tido.
+Nenhuma dessas três coisas depende de você ter tido um pai perfeito. Dependem de você decidir ser, para outras pessoas, o líder que gostaria de ter tido.
 
 * * *
 
@@ -140,17 +140,17 @@ A boa notícia é que o ciclo pode parar em você. O que você não recebeu, voc
 
 ### Antes de virar a página
 
-Faz este exercício num momento calmo, sem pressa e sem ninguém por perto.
+Faça este exercício num momento calmo, sem pressa e sem ninguém por perto.
 
 Das três coisas que a paternidade imprime, direção, limites e proteção, qual você recebeu de sobra, qual recebeu torta e qual faltou? Agora olhe para a sua empresa: onde essa falta aparece no seu jeito de liderar?
 
-**No Balanço do CPF**, preencha o campo **Sócio oculto nº 2, o padrão de casa → o que recebi / o que passo adiante**. Escreva o padrão que você herdou, o que de bom você recebeu junto com ele e o que decide passar adiante, para a sua equipe e para os seus filhos.
+No seu Balanço do CPF, preencha o campo **Sócio oculto nº 2, o padrão de casa → o que recebi / o que passo adiante**. Escreva o padrão que você herdou, o que de bom você recebeu junto com ele e o que decide passar adiante, para a sua equipe e para os seus filhos.
 
 O desafio dos próximos sete dias: escreva a sua carta. Para o seu pai, a sua mãe ou quem fez esse papel. Conte o que feriu, reconheça o que foi bom e termine liberando a dívida. Não precisa enviar. E, se você tem filhos, diga a eles, num dia comum e sem motivo nenhum, a frase que você precisava ter ouvido. Antes de qualquer boa nota. Do jeito que a voz falou no rio.
 
-Se essa carta mexer em feridas fundas, não carregue isso sozinho. Procure alguém preparado: um terapeuta, um conselheiro, um líder espiritual de confiança. Isso não é fraqueza. É gestão.
+Se essa carta mexer em feridas fundas, não carregue isso sozinho. Procure alguém preparado: um terapeuta, um conselheiro, um líder espiritual de confiança. Pedir ajuda, aqui, é sinal de maturidade.
 
-Nem toda ferida, porém, nasce dentro de casa. Algumas chegam muitos anos depois, de quem a gente mesmo escolheu ter por perto. Às vezes por um e-mail curto e educado, assinado por um advogado, avisando que um sócio foi embora e levou junto o melhor da sua empresa.
+Nem toda ferida, porém, nasce dentro de casa. Algumas chegam muitos anos depois, pela porta da frente da empresa, trazidas por gente que você mesmo escolheu ter por perto.
 
 É dessas que vamos falar agora.
 

@@ -4,11 +4,11 @@
 > "Como o ferro com o ferro se afia, assim o homem afia o rosto do seu amigo."
 > — Provérbios 27:17
 
-Antes de começar, faz uma conta rápida. Pensa nas cinco pessoas com quem você mais conversou nos últimos trinta dias, fora da sua casa. Não precisa escrever ainda. Só traz os rostos para a mente.
+Abra o seu celular e procure a última conversa que você teve com outro empresário. Não a de trabalho com cliente ou fornecedor. A conversa de igual para igual, entre donos.
 
-Agora imagina que, daqui a cinco anos, você vai ter a média dessas cinco pessoas. A média da maneira como elas lidam com dinheiro, com tempo, com gente, com problemas. A média do que elas acham normal.
+Sobre o que vocês falaram? Sobre o que aprenderam, o que estão tentando, o que deu errado e por quê? Ou sobre o governo, o imposto e o funcionário que não quer nada com nada?
 
-Você ficou animado ou preocupado?
+Guarde a resposta. Ela diz mais sobre o seu próximo ano do que qualquer planejamento.
 
 No capítulo anterior, a gente cuidou do motor: do corpo cansado, da cabeça sobrecarregada, da alma que estava só funcionando. Mas tem uma coisa que nenhum hábito resolve sozinho. Você pode dormir bem, treinar, rezar, ler. Se o ambiente onde você passa a maior parte do tempo puxa para o outro lado, ele tende a ganhar.
 
@@ -18,7 +18,7 @@ Não porque você é fraco. Porque é humano.
 
 O Fábio (nome alterado) tem um mercado de bairro. Daqueles em que o dono conhece o cliente pelo nome, sabe quem prefere o pão mais moreno e fia até o fim do mês para a dona Cida, que nunca atrasou um centavo em vinte anos.
 
-Toda quinta-feira, depois de fechar o caixa, ele ia para o mesmo bar encontrar os mesmos amigos. Todos empresários do bairro. Uma oficina, uma loja de materiais de construção, uma farmácia, uma autoescola. Gente boa, gente de trabalho, gente que ele conhecia havia mais de quinze anos.
+Toda quinta-feira, depois de fechar o caixa, ele ia para o mesmo bar encontrar os mesmos amigos. Todos empresários do bairro. Uma oficina, uma loja de materiais de construção, uma farmácia, uma autoescola. Gente boa, gente de trabalho, gente que ele conhecia desde os tempos em que ainda trabalhava no balcão do pai.
 
 Durante muito tempo, aquele era o melhor momento da semana dele.
 
@@ -46,7 +46,7 @@ Dois pesquisadores, Nicholas Christakis, de Harvard, e James Fowler, da Universi
 
 E viram uma coisa impressionante. Hábitos e emoções circulavam por aquela rede quase como se fossem contagiosos. Quando um amigo próximo ganhava muito peso, a chance de a pessoa também ganhar subia de forma significativa. Mais tarde, num estudo publicado em 2008, mostraram que até a felicidade se espalhava assim, com um efeito que chegava ao amigo do amigo do seu amigo. Gente que você nunca viu mexendo, sem saber, no seu humor.
 
-Agora traz isso para a sua vida de empresário. A forma como você lida com o tempo, com o dinheiro, com a equipe e com as próprias emoções está sendo calibrada, neste exato momento, pelo grupo com quem você mais convive. Se ninguém à sua volta sabe a margem da própria empresa, você não vai sentir urgência nenhuma em descobrir a sua. Se todo mundo trata funcionário como problema, você vai tratar também. Se todo mundo acha normal trabalhar dezesseis horas por dia e nunca tirar férias, você vai chamar isso de "vida de empresário".
+Agora traz isso para a sua vida de empresário. A forma como você lida com o tempo, com o dinheiro, com a equipe e com as próprias emoções está sendo calibrada, neste exato momento, pelo grupo com quem você mais convive. Se ninguém à sua volta sabe a margem da própria empresa, você não vai sentir urgência nenhuma em descobrir a sua. Se todo mundo trata funcionário como problema, você vai tratar também. Se todo mundo acha normal almoçar em pé e passar anos sem tirar férias, você vai chamar isso de "vida de empresário".
 
 O ambiente define o seu teto sem pedir licença.
 
@@ -64,9 +64,7 @@ O maior da sala, muitas vezes, é só alguém que nunca saiu da sala.
 
 Se você percebeu que é o mais experiente, o mais rico ou o mais estruturado de todos os grupos que frequenta, isso não é um troféu. É um aviso. Está na hora de trocar de sala. De procurar, de propósito, ambientes onde você não é o maior. Onde você vai ouvir números maiores que os seus, ver soluções em que nunca tinha pensado e perceber erros que repete há anos.
 
-No começo, incomoda. Você vai se sentir pequeno. Vai ter vontade de voltar para a mesa onde todo mundo te escuta.
-
-Esse incômodo é o barulho do crescimento.
+No começo, incomoda. Você vai se sentir pequeno. Vai ter vontade de voltar para a mesa onde todo mundo te escuta. Fique mesmo assim.
 
 E onde ficam essas salas? Mais perto do que parece. Uma associação de empresários do seu setor em que você nunca quis entrar porque "é só gente grande". Um conselho consultivo com duas ou três pessoas mais experientes, que se reúne uma vez por mês para olhar os seus números. Um mentor que já fez o caminho que você quer fazer. Um grupo pequeno de donos de empresa, de setores diferentes, que se encontra com regularidade e com uma regra clara: aqui ninguém vem só para desabafar.
 
@@ -84,9 +82,9 @@ Lê de novo o currículo. Em aperto. Endividados. Amargurados. Se Davi estivesse
 
 Mas alguma coisa aconteceu dentro daquela caverna. Aqueles homens passaram a conviver, dia e noite, com alguém que tinha visão, princípios e coragem. Ouviam como Davi pensava. Viam como ele decidia. E assistiram, mais de uma vez, ao homem que estava sendo caçado ter o perseguidor nas mãos e poupar a vida dele, porque não ia chegar ao trono por atalho.
 
-Anos depois, muitos desses mesmos homens aparecem nas Escrituras com outro nome: os valentes de Davi. Guerreiros cujos feitos são contados até hoje. Os mesmos que tinham chegado à caverna endividados e amargurados.
+Anos depois, quando a Bíblia lista os valentes de Davi, guerreiros cujos feitos são contados até hoje, a caverna de Adulão aparece no meio da lista (2 Samuel 23:13). O lugar onde chegaram os endividados e os amargurados virou parte da história dos valentes.
 
-O que mudou? O ambiente.
+O ambiente que Davi criou ali fez diferença.
 
 E tem um detalhe que eu adoro. Num dos momentos mais escuros da fuga, perseguido e esgotado, Davi também precisou de alguém. Jônatas, o melhor amigo dele, foi até o deserto encontrá-lo e, diz o texto, "fortaleceu a sua mão em Deus" (1 Samuel 23:16). Até o líder dos valentes precisou de alguém para segurar a mão dele.
 
@@ -106,7 +104,7 @@ A primeira é que tem gente à sua frente. Pessoas que já subiram o degrau que 
 
 A segunda é que tem confronto com amor. Gente que se importa o suficiente para te dizer o que você não quer ouvir. "Você está fugindo dessa conversa com o seu sócio." "O seu problema não é o mercado, é o seu custo fixo." "Você está usando a empresa para não ficar em casa." Dói. Mas abre os olhos.
 
-A terceira é que tem compromisso com a aplicação. Não é grupo de conversa, é grupo de execução. No mês seguinte, alguém vai te perguntar: "E aí, você fez o que disse que ia fazer?". Só essa pergunta já muda o seu comportamento durante o mês inteiro.
+A terceira é que tem compromisso com a aplicação. O que se combina ali é cobrado depois, com carinho e sem desconto. Saber que alguém vai perguntar "e aí, você fez?" muda o seu comportamento muito antes de a pergunta chegar.
 
 Aristóteles, falando de amizade, separava três tipos. A amizade por utilidade, que dura enquanto um serve ao outro. A amizade por prazer, que dura enquanto a companhia é agradável. E a amizade pelo bem, rara, em que cada um quer que o outro se torne melhor. Para ele, só essa última era amizade completa.
 
@@ -154,16 +152,16 @@ E é exatamente essa pergunta, que tipo de ambiente você é para quem trabalha 
 
 ### Antes de virar a página
 
-Volta às cinco pessoas do começo do capítulo. Agora, sim, escreve os nomes. E responde, com sinceridade:
+Escreva o nome das cinco pessoas com quem você mais conversou nos últimos trinta dias, fora da sua casa. Depois responda, com sinceridade:
 
 1. Ao lado de cada nome, quem te afia, quem só te acolhe e quem te puxa para baixo?
 2. Em quantos dos ambientes que você frequenta você é o maior da sala?
 
-O desafio para os próximos sete dias é tomar um café. Escolhe alguém que esteja pelo menos um degrau à sua frente, alguém que já fez o que você quer fazer, e convida essa pessoa para um café. Leva três perguntas preparadas e vai disposto a ouvir mais do que falar.
+O desafio para os próximos sete dias é tomar um café. Escolha alguém que esteja pelo menos um degrau à sua frente, alguém que já fez o que você quer fazer, e convide essa pessoa para um café. Leve três perguntas preparadas e vá disposto a ouvir mais do que falar.
 
-No seu **Balanço do CPF**, preenche o campo **"Quem me afia"**: os dois nomes de pessoas que hoje têm liberdade para te confrontar com amor. Se não tiver nenhum, escreve isso mesmo. E, ao lado, o ambiente em que você decide entrar nos próximos noventa dias.
+No seu Balanço do CPF, preencha o campo **Quem me afia (2 nomes) → o ambiente em que vou entrar**. Se hoje não houver ninguém com liberdade para te confrontar com amor, escreva isso mesmo.
 
-Agora você tem um CPF mais inteiro, mais cuidado e mais bem acompanhado. Chegou a hora de atravessar a rua e entrar na sua empresa. Porque é lá que tudo o que a gente conversou até aqui vai virar estrutura. Ou não.
+Com o motor cuidado e as pessoas certas por perto, falta atravessar a rua. É dentro da empresa que tudo o que conversamos até aqui vai virar estrutura. Ou não.
 
 ::: {custom-style="Destaque"}
 "O maior da sala, muitas vezes, é só alguém que nunca saiu da sala."

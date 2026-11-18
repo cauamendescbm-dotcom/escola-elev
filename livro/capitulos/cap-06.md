@@ -5,8 +5,8 @@ Até aqui, a conversa foi para dentro: quem você é e quem ainda decide por voc
 # Capítulo 6
 ## Filho não se demite
 
-> "Prepara lá fora a tua obra, deixa tudo pronto no campo, e depois edifica a tua casa."
-> — Provérbios 24:27
+> "Se alguém não sabe governar a própria casa, como cuidará de algo maior?"
+> — 1 Timóteo 3:5 (paráfrase)
 
 Eram quase onze da noite quando o Marcelo (nome alterado) estacionou o carro na garagem de casa.
 
@@ -20,7 +20,7 @@ O Marcelo me contou essa história quando eu perguntei qual era o maior problema
 
 — Na verdade, o maior problema não está na empresa.
 
-Ele tinha quarenta funcionários, um faturamento que dava orgulho e um nome respeitado na cidade. E tinha um filho que o desenhava de longe.
+Ele tinha trinta e cinco funcionários, um faturamento que dava orgulho e um nome respeitado na cidade. E tinha um filho que o desenhava de longe.
 
 Talvez não exista um desenho em cima da sua mesa. Mas, se as pessoas da sua casa te desenhassem hoje, onde te colocariam? E o que estaria na sua mão?
 
@@ -38,9 +38,9 @@ Em casa, nada funciona assim. Não tem organograma nem desligamento. Os problema
 
 Às vezes é mesmo. Muitas vezes é esconderijo.
 
-É mais fácil fechar um contrato difícil do que ter uma conversa difícil com o filho adolescente. É mais fácil reestruturar um setor inteiro do que reconstruir um casamento que esfriou. É mais fácil liderar quarenta pessoas do que pedir desculpas para uma só, dentro de casa.
+É mais fácil fechar um contrato difícil do que ter uma conversa difícil com o filho adolescente. É mais fácil reestruturar um setor inteiro do que reconstruir um casamento que esfriou. É mais fácil liderar uma equipe inteira do que pedir desculpas para uma só pessoa, dentro de casa.
 
-E repara na diferença entre os dois mundos. O funcionário que não se encaixa, você demite. Faz parte. O amigo que você não procura vai deixando de ser amigo, até que um dia todas as suas relações viraram comerciais. Mas filho não se demite. Cônjuge também não se troca como quem troca de fornecedor. E pai e mãe você não escolheu, não substitui e vai carregar até o fim, com a relação resolvida ou não.
+Há uma diferença essencial entre os dois mundos. O funcionário que não se encaixa, você demite. Faz parte. O amigo que você não procura vai deixando de ser amigo, até que um dia todas as suas relações viraram comerciais. Mas filho não se demite. Cônjuge também não se troca como quem troca de fornecedor. E pai e mãe você não escolheu, não substitui e vai carregar até o fim, com a relação resolvida ou não.
 
 Na empresa, quando uma relação não funciona, você pode trocar a pessoa. Em casa, a única pessoa que você pode mudar é você.
 
@@ -48,9 +48,9 @@ Por isso a casa é o único lugar em que o dono precisa ser aprendiz.
 
 * * *
 
-Tem uma história de três mil anos que mostra isso com uma clareza que chega a doer.
+A história de Eli mostra isso com uma clareza que chega a doer.
 
-Eli era o sumo sacerdote de Israel. Durante quarenta anos, julgou o povo. Era a maior autoridade da nação. Gente viajava dias para chegar até Siló, onde ele servia. Respeitado, experiente, ocupado com coisas importantes.
+Ele era o sumo sacerdote de Israel. Durante quarenta anos, julgou o povo. Era a maior autoridade da nação. Gente viajava dias para chegar até Siló, onde ele servia. Respeitado, experiente, ocupado com coisas importantes.
 
 Eli tinha dois filhos, Hofni e Fineias. Os dois trabalhavam no mesmo lugar que o pai. E usavam o cargo para se servir. Quando alguém chegava para oferecer um sacrifício, eles mandavam um servo enfiar um garfo de três dentes na panela e pegar a melhor parte da carne antes da hora. Se o homem reclamava, levavam à força. Abusavam das mulheres que serviam na entrada do santuário.
 
@@ -60,7 +60,7 @@ E o que ele fez? Chamou os filhos e disse: "Por que vocês fazem essas coisas? N
 
 O fim é trágico. Numa guerra contra os filisteus, os dois filhos levam a arca para o campo de batalha como se fosse um amuleto. O exército é derrotado, a arca é capturada, os dois morrem. Eli, já com noventa e oito anos, está sentado numa cadeira à beira do caminho, esperando notícias. Quando o mensageiro conta o que aconteceu, ele cai para trás e morre.
 
-Agora relê essa história com olhos de empresário. Um líder respeitado, competente na função pública, dedicado ao trabalho por décadas. Que sabia exatamente o que acontecia dentro da própria casa. Que falou, mas não liderou. Que tratou o problema da família como quem resolve uma pendência entre duas reuniões. E que viu desmoronar tudo o que construiu justamente pelo lado que não quis enfrentar.
+Leia de novo essa história com olhos de empresário. Um líder respeitado, competente na função pública, dedicado ao trabalho por décadas. Que sabia exatamente o que acontecia dentro da própria casa. Que falou, mas não liderou. Que tratou o problema da família como quem resolve uma pendência entre duas reuniões. E que viu desmoronar tudo o que construiu justamente pelo lado que não quis enfrentar.
 
 Eli não era um homem mau. Era um homem ocupado.
 
@@ -78,7 +78,7 @@ E tem uma armadilha mais sutil, que pega até quem está sempre em casa.
 
 Muita gente está presente fisicamente, mas leva para dentro de casa o comportamento da empresa. Trata o cônjuge como gerente. Cobra o filho como cobra o vendedor. Quer resolver as emoções da família com a mesma lógica com que resolve um problema de caixa: rápido, objetivo, definitivo. E se frustra quando não funciona.
 
-A Cláudia (nome alterado), dona de uma imobiliária, descobriu isso de um jeito inesquecível. A filha de quinze anos chegou em casa chorando por causa de uma briga com as amigas. A Cláudia ouviu uns dois minutos, interrompeu e apresentou um plano em três etapas: conversar com uma amiga, ignorar a outra e mudar de grupo no recreio. Prático, lógico, bem estruturado. Do jeito que ela fazia todo dia no escritório.
+A Cláudia (nome alterado), dona de uma imobiliária, descobriu isso de um jeito inesquecível. A filha de catorze anos chegou em casa chorando por causa de uma briga com as amigas. A Cláudia ouviu uns dois minutos, interrompeu e apresentou um plano em três etapas: conversar com uma amiga, ignorar a outra e mudar de grupo no recreio. Prático, lógico, bem estruturado. Do jeito que ela fazia todo dia no escritório.
 
 A filha se levantou da mesa e disse:
 
@@ -86,13 +86,13 @@ A filha se levantou da mesa e disse:
 
 Na empresa, a pergunta é "qual é a solução?". Em casa, muitas vezes, a pergunta certa é "você quer que eu resolva ou quer que eu só escute?". No trabalho, eficiência é virtude. Em casa, pode ser ofensa. Ninguém quer um jantar eficiente com o pai. Ninguém quer uma conversa objetiva sobre um coração partido.
 
-Isso não significa virar duas pessoas. Significa ser a mesma pessoa, com os mesmos valores, mudando a forma conforme o lugar. Firmeza com quem você lidera, ternura com quem você ama. As duas vindo do mesmo CPF.
+A saída é ser a mesma pessoa, com os mesmos valores, mudando a forma conforme o lugar. Firmeza com quem você lidera, ternura com quem você ama. As duas vindo do mesmo CPF.
 
 * * *
 
 Agora, cuidado com o outro extremo. Quando se fala em liderar a casa, muita gente ouve "mandar na casa". É o contrário.
 
-Liderar a casa não é dar ordens, é dar o exemplo. Não é cobrar mais, é servir primeiro. Não é ganhar todas as discussões, é ter coragem de pedir desculpas antes. É saber para onde a família está indo e conversar sobre isso. É estar inteiro onde está. E é colocar limite com amor, a coisa que Eli não teve coragem de fazer.
+Liderar a casa é dar o exemplo, servir primeiro e ter a coragem de pedir desculpas antes. É saber para onde a família está indo e conversar sobre isso. É estar inteiro onde está. E é colocar limite com amor, a coisa que Eli não teve coragem de fazer.
 
 Isso vale para homem e para mulher. Para quem é casado e para quem cria os filhos sozinho. Para quem tem filho pequeno e para quem cuida dos pais idosos. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você chegou até aqui, provavelmente essa pessoa é você, ou você divide essa função com alguém.
 
@@ -114,15 +114,11 @@ A conta precisa fechar. Em casa, como no caixa.
 
 E, por falar em caixa, deixa eu te fazer uma pergunta provocativa. Você deixaria a sua empresa sem reunião, sem visão, sem valores e sem acompanhamento? Claro que não. Então por que deixa a sua casa assim?
 
-Não estou propondo transformar a família numa empresa. Estou propondo levar para dentro de casa a mesma intenção que você já tem no trabalho.
+A proposta não é transformar a família numa empresa, e sim levar para dentro de casa a mesma intenção que você já tem no trabalho.
 
 Em muitas famílias de empresários, a mudança começou com uma conversa de trinta minutos por semana, sem telas. O casal e, quando os filhos têm idade, os filhos também. Três perguntas: o que foi bom nesta semana, o que foi difícil e o que a gente vai fazer junto na próxima. Nas primeiras vezes parece formal demais. Depois de algumas semanas, vira o momento mais esperado da casa.
 
-Também ajuda muito definir uma retirada fixa e fazer a casa viver dela. A estabilidade da sua família não pode subir e descer junto com o faturamento do mês. Mais à frente, quando a gente falar de números, esse assunto volta.
-
-Ajuda também a família ter uma visão, do mesmo jeito que a empresa tem. Onde vocês querem estar daqui a cinco anos? Que tipo de família querem ser? O que querem que os filhos lembrem da infância deles? E ter poucos valores, com comportamento. Porque valor sem comportamento é só frase bonita na parede, em casa também. Se um valor da família é respeito, o que isso significa na prática? Que ninguém grita? Que ninguém fica no celular durante o jantar? Que ninguém sai de casa brigado?
-
-Eu sei que tudo isso pode parecer distante do assunto da empresa. Não é. O empresário com a casa em ordem decide melhor. Não leva a briga da manhã para a reunião das dez. Não desconta na equipe a tensão que não resolveu com o cônjuge. Não usa a empresa como esconderijo, então consegue sair do operacional na hora certa. Tem alguém em casa com quem pensar as grandes decisões. E tem um motivo maior do que o próprio ego para crescer.
+Tudo isso está mais perto da empresa do que parece. O empresário com a casa em ordem decide melhor. Não leva a briga da manhã para a reunião das dez. Não desconta na equipe a tensão que não resolveu com o cônjuge. Não usa a empresa como esconderijo, então consegue sair do operacional na hora certa. Tem alguém em casa com quem pensar as grandes decisões. E tem um motivo maior do que o próprio ego para crescer.
 
 E faça o teste da agenda. Abra a última semana inteira. Com uma cor, marque tudo o que foi da empresa. Com outra, marque o que foi de propósito para a família. Não vale contar o tempo em que você estava em casa respondendo mensagem. Só vale presença de verdade, com atenção inteira.
 
@@ -144,7 +140,7 @@ Faça esta pergunta a si mesmo, com honestidade, num momento em que a casa estej
 
 O desafio dos próximos sete dias é simples e difícil ao mesmo tempo: na primeira hora depois de chegar em casa, o celular fica no carro ou em outro cômodo. Todos os dias. Sem exceção para "só uma mensagem rápida".
 
-No **Balanço do CPF**, preencha o campo **Quem não se demite**: escreva o nome das pessoas que não saem da sua vida (filhos, cônjuge, pai, mãe, irmãos). Ao lado, escreva **a frase da minha casa**, aquela que resume a família que vocês decidiram ser.
+No seu Balanço do CPF, preencha o campo **Quem não se demite → a frase da minha casa**. Escreva o nome das pessoas que não saem da sua vida (filhos, cônjuge, pai, mãe, irmãos). Ao lado, escreva uma frase que resuma a família que vocês decidiram ser.
 
 Liderar a casa exige uma coisa que pouca gente admite que está faltando: energia. É difícil estar inteiro para alguém quando você chega sem nada sobrando. E é sobre isso que a gente vai conversar agora.
 

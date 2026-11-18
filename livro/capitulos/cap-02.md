@@ -36,7 +36,7 @@ Todo empresário carrega frases assim. Elas foram instaladas cedo, quando você 
 
 Talvez você reconheça algumas. "Dinheiro é sujo." "Rico é tudo desonesto." "Se quer bem feito, faça você mesmo." "Não dá para confiar em ninguém." "Isso não é para gente como nós."
 
-Agora repara no que cada uma delas vira dentro de uma empresa.
+Agora veja no que cada uma delas se transforma dentro de uma empresa.
 
 Quem cresceu ouvindo que dinheiro é sujo sabota o próprio preço. Dá desconto antes de o cliente pedir e fica sem graça quando o assunto é lucro. Quem aprendeu que "se quer bem feito, faça você mesmo" nunca delega de verdade e vai morrer no operacional chamando aquilo de zelo. Quem acredita que não dá para confiar em ninguém monta uma empresa cheia de aprovações e depois reclama que ninguém tem iniciativa. E quem ouviu a vida inteira que "isso não é para gente como nós" para de crescer justamente quando começaria a se destacar, porque, lá no fundo, sucesso demais parece uma traição à própria origem.
 
@@ -50,7 +50,7 @@ E ela vivia apertada.
 
 Os números contavam a história. A entrega estava muito acima da média, e o preço, muito abaixo do mercado. Havia um padrão curioso: em toda proposta, a Helena baixava o valor antes que o cliente pedisse. Ela tinha um desconto preventivo para tudo.
 
-Num desses encontros, enquanto revisávamos uma proposta que ela estava prestes a mandar com quinze por cento de desconto, ela parou, olhou para o número e disse, quase para si mesma:
+Num desses encontros, enquanto revisávamos uma proposta que ela estava prestes a mandar com doze por cento de desconto, ela parou, olhou para o número e disse, quase para si mesma:
 
 — Na minha casa, quem cobrava caro era aproveitador. Meu pai dizia que gente honesta não fica rica.
 
@@ -66,7 +66,7 @@ Quando ela entendeu que preço justo também é honestidade, com o cliente, com 
 
 * * *
 
-Existe uma história antiga que mostra o que uma crença pode custar. Não a uma empresa. A uma geração inteira.
+Uma crença pode custar mais do que uma empresa. Pode custar uma geração inteira.
 
 O povo de Israel tinha saído do Egito. Depois de séculos de escravidão, estava finalmente na porta da terra prometida. Moisés escolhe doze homens, um líder de cada tribo, e manda todos numa missão de reconhecimento. Hoje a gente chamaria isso de pesquisa de mercado.
 
@@ -74,7 +74,7 @@ Quarenta dias depois, eles voltam. Trazem um cacho de uvas tão grande que dois 
 
 Mas dez dos doze tinham outra coisa para contar. As cidades eram muradas, o povo era forte, havia gigantes. E então vem a frase que, para mim, resume este capítulo inteiro: "Éramos aos nossos olhos como gafanhotos, e assim também éramos aos olhos deles" (Nm 13:33).
 
-Lê com calma. Eles não disseram que os gigantes os acharam pequenos. Disseram que, primeiro, eles mesmos se viram como gafanhotos. A opinião dos outros veio depois, e era só um espelho da opinião que tinham de si.
+Eles não disseram que os gigantes os acharam pequenos. Disseram que, primeiro, eles mesmos se viram como gafanhotos. A opinião dos outros veio depois, e era só um espelho da opinião que tinham de si.
 
 Dois homens viram a mesma terra, os mesmos gigantes, as mesmas muralhas. Josué e Calebe. E disseram o contrário: "Vamos subir, porque certamente venceremos."
 
@@ -90,17 +90,17 @@ Quantos empresários estão andando em círculos há anos, diante de uma oportun
 
 * * *
 
-No primeiro século, um homem que tinha nascido escravo e se tornou um dos filósofos mais influentes de Roma escreveu uma frase que atravessou dois mil anos. Epicteto disse que não são as coisas que nos perturbam, mas a opinião que temos sobre elas.
+No primeiro século, um homem que tinha nascido escravo e se tornou um dos filósofos mais influentes do Império Romano ensinava, na cidade grega de Nicópolis, uma ideia que atravessou dois mil anos. Epicteto dizia que não são as coisas que nos perturbam, mas a opinião que temos sobre elas.
 
 O cacho de uvas era o mesmo para os doze. A diferença estava na opinião.
 
 E aqui vem a boa notícia: opinião aprendida pode ser reaprendida.
 
-Em 1949, o psicólogo canadense Donald Hebb descreveu um princípio que a neurociência confirmaria ao longo das décadas seguintes. De forma simplificada: neurônios que disparam juntos se conectam. Cada vez que você pensa de um jeito, reforça um caminho no cérebro.
+Em 1949, o psicólogo canadense Donald Hebb descreveu um princípio que a neurociência confirmaria nas décadas seguintes. Anos depois, a neurocientista Carla Shatz resumiu a ideia dele numa frase que ficou famosa: neurônios que disparam juntos se conectam. Cada vez que você pensa de um jeito, reforça um caminho no cérebro.
 
 Eu gosto de explicar isso com a imagem de um mato alto. Na primeira vez que você atravessa, é difícil, e o capim se levanta logo depois que você passa. Mas, se você passa pelo mesmo lugar todos os dias, abre uma trilha. Com o tempo, a trilha vira estrada, e você nem precisa pensar para ir por ali.
 
-A sua voz herdada é uma estrada. Foi aberta por anos de repetição, muitas vezes por outra pessoa, e você só continuou passando. Para mudar, não adianta brigar com a estrada. É preciso abrir uma trilha nova e passar por ela tantas vezes que a velha comece a ficar coberta de mato.
+A sua voz herdada é uma estrada. Foi aberta por anos de repetição, muitas vezes por outra pessoa, e você só continuou passando. Brigar com a estrada não muda nada. O que muda é abrir uma trilha nova e passar por ela tantas vezes que a velha comece a ficar coberta de mato.
 
 * * *
 
@@ -120,15 +120,15 @@ Se é o seu caso, ouve isto: honrar a sua origem não é ficar nela. Às vezes a
 
 * * *
 
-E como se abre uma trilha nova? Na prática, são quatro movimentos. Nenhum é mágico. Todos funcionam.
+E como se abre uma trilha nova? Sem mágica nenhuma.
 
-O primeiro é enxergar. Preste atenção nas frases que você repete quando algo dá errado. "Eu sabia." "Sempre acontece comigo." "Ninguém aqui tem compromisso." Essas frases são a ponta de crenças muito mais fundas.
+Começa quando você passa a ouvir as frases que repete quando algo dá errado. "Eu sabia." "Sempre acontece comigo." "Ninguém aqui tem compromisso." Elas são a ponta de crenças muito mais fundas.
 
-O segundo é rastrear. De quem é essa voz? Quando você a ouviu pela primeira vez? Muitas vezes você vai descobrir que ela era verdadeira para alguém, num contexto específico. Talvez o seu pai tenha mesmo sofrido para crescer, porque cresceu sem estrutura, sem ajuda, num país em crise. Isso explica a frase dele. Não a torna verdadeira para você.
+Depois, vale perguntar de quem é essa voz e quando você a ouviu pela primeira vez. Muitas vezes você vai descobrir que ela era verdadeira para alguém, num contexto específico. Talvez o seu pai tenha mesmo sofrido para crescer, porque cresceu sem estrutura, sem ajuda, num país em crise. Isso explica a frase dele, mas não a torna verdadeira para você.
 
-O terceiro é confrontar. Coloque a crença diante dos fatos. "Não dá para confiar em ninguém" não resiste ao fato de que você confia no piloto do avião e no médico que te opera. "Dinheiro é sujo" não resiste a uma leitura honesta de Provérbios, que trata a prosperidade fruto de trabalho e sabedoria como bênção.
+Aí chega a hora de colocar a crença diante dos fatos. "Não dá para confiar em ninguém" fica difícil de sustentar quando você lembra que confia no piloto do avião e no médico que te opera.
 
-O quarto é substituir. Não basta arrancar a frase velha. É preciso plantar outra no lugar, curta, no presente, verdadeira. "Crescer dá muito trabalho" pode virar "crescer com estrutura dá menos trabalho do que continuar pequeno sem ela". "Gente honesta não fica rica" pode virar "preço justo é honestidade com todo mundo, inclusive comigo".
+E, por fim, arrancar a frase velha só deixa um buraco. Plante outra no lugar, curta, no presente, verdadeira. "Crescer dá muito trabalho" pode virar "crescer com estrutura dá menos trabalho do que continuar pequeno sem ela". "Gente honesta não fica rica" pode virar "preço justo é honestidade com todo mundo, inclusive comigo".
 
 Nas primeiras semanas, a voz antiga vai falar mais alto. É natural. Ela teve trinta, quarenta anos de vantagem. Não desanime quando perceber que caiu no padrão de sempre. Perceber já é sinal de que a trilha nova está sendo aberta. Antes, você nem notava. Agora nota. E cada vez que nota, ganha a chance de escolher diferente.
 
@@ -146,13 +146,13 @@ Por isso, dar baixa em uma voz herdada não é um exercício de autoajuda. É um
 
 ### Antes de virar a página
 
-Pega um papel e volta, por alguns minutos, para a mesa de jantar da sua infância.
+Pegue um papel e volte, por alguns minutos, para a mesa de jantar da sua infância.
 
 Quais eram as frases sobre dinheiro, trabalho, sucesso e pessoas que você mais ouvia ali? Escreva do jeito que eram ditas. Depois, para cada uma, responda: onde ela aparece hoje na minha empresa? Seja concreto. "Não dá para confiar em ninguém" pode estar escondida em "eu aprovo todas as compras acima de duzentos reais".
 
 Escolha a frase que mais trava o seu crescimento. Essa é a sua voz herdada.
 
-**No Balanço do CPF**, preencha o campo **Sócio oculto nº 1, a voz herdada → a verdade que escolho**: à esquerda, a frase antiga; à direita, a nova, curta e no presente.
+No seu Balanço do CPF, preencha o campo **Sócio oculto nº 1, a voz herdada → a verdade que escolho**. À esquerda, a frase antiga; à direita, a nova, curta e no presente.
 
 O desafio dos próximos sete dias: escreva a verdade nova num cartão e deixe onde você vai vê-la todas as manhãs. Leia em voz alta uma vez por dia. E, sempre que perceber a voz antiga falando, anote em que situação foi. No sétimo dia, releia as anotações. Você vai descobrir onde ela fala mais alto. Ali estão os seus gigantes.
 

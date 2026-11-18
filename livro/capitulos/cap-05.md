@@ -34,7 +34,7 @@ Ele aparece no "eu já tentei isso e não funciona". No "no meu segmento é dife
 
 O orgulho do empresário experiente tem uma característica traiçoeira: ele é construído com acertos de verdade. Você não inventou a sua competência. Você realmente fez a empresa crescer. Realmente atravessou crises que derrubaram concorrentes. Realmente sabe muita coisa.
 
-O problema não é o que você sabe. É o que você deixa de aprender porque acha que já sabe.
+O risco está no que você deixa de aprender porque acha que já sabe.
 
 Os psicólogos David Dunning e Justin Kruger, da Universidade Cornell, mostraram em experimentos que as pessoas com menos domínio de um assunto são justamente as que mais superestimam o próprio desempenho, porque falta a elas o conhecimento necessário para enxergar o próprio erro. Na empresa, o efeito tem uma versão particular: quanto mais tempo você passa numa sala em que ninguém te contraria, menos instrumentos você tem para perceber onde está errando.
 
@@ -44,13 +44,11 @@ Todo empresário tem o seu terraço. Sentir gratidão pelo que construiu é just
 
 ### O minuto seguinte ao erro
 
-Errar é humano. O problema nunca foi o erro. O problema é o que você faz no minuto seguinte a ele.
+Errar é humano. O que decide a história é o minuto seguinte ao erro.
 
 E nesse minuto só existem dois caminhos. Ou você esconde, justifica, terceiriza a culpa e finge que a decisão estava certa e o resultado é que veio torto. Ou você olha para as pessoas e diz: "Eu errei. Essa foi minha. Vamos consertar".
 
-Parece simples. Não é.
-
-O segundo caminho exige um CPF inteiro. Só consegue reconhecer um erro com tranquilidade quem não confunde o erro com quem é. A pessoa insegura defende cada decisão como se defendesse a própria vida, porque, para ela, admitir que errou é admitir que não vale nada. Então ela esconde.
+Parece simples. Mas o segundo caminho exige um CPF inteiro. Só consegue reconhecer um erro com tranquilidade quem não confunde o erro com quem é. A pessoa insegura defende cada decisão como se defendesse a própria vida, porque, para ela, admitir que errou é admitir que não vale nada. Então ela esconde.
 
 E, quando o dono esconde, ensina a empresa inteira a esconder.
 
@@ -60,15 +58,13 @@ A sua equipe nunca vai ser mais honesta com você do que você é com ela.
 
 * * *
 
-Existe uma cena de três mil anos que poderia ter acontecido ontem, em qualquer empresa.
-
 Davi era o rei mais admirado de Israel. Guerreiro, poeta, estrategista. Numa primavera, época em que os reis saíam para a guerra, ele mandou o exército e ficou no palácio. Guarde esse detalhe: o líder fora do lugar dele.
 
 Numa tarde, do terraço, ele viu uma mulher se banhando. Era Bate-Seba, esposa de Urias, um dos soldados mais leais do rei, que naquele momento lutava por ele. Davi mandou buscá-la. Quando soube que ela estava grávida, começou o pior capítulo da sua vida. Chamou Urias da guerra e tentou fazê-lo ir para casa, para que a criança parecesse dele. Urias, por lealdade aos companheiros no campo, se recusou. Então Davi escreveu ao comandante: coloquem Urias na frente da batalha, onde o combate é mais duro, e depois recuem.
 
 E mandou a carta pelas mãos do próprio Urias.
 
-Repara na sequência, porque ela se repete na vida de todo líder que se perde. Primeiro vem a ausência. Depois o erro. E depois o encobrimento, que é sempre pior do que o erro original. Um adultério virou assassinato só para que ninguém ficasse sabendo.
+Essa sequência se repete na vida de todo líder que se perde. Primeiro vem a ausência. Depois o erro. E depois o encobrimento, que é sempre pior do que o erro original. Um adultério virou assassinato só para que ninguém ficasse sabendo.
 
 Meses se passaram. O rei seguiu a vida como se nada tivesse acontecido. Até que o profeta Natã pediu para falar com ele e contou um caso. Numa cidade havia dois homens, um rico e um pobre. O rico tinha muitas ovelhas e bois. O pobre só tinha uma ovelhinha, criada dentro de casa, que comia do prato dele e dormia no colo dele, como uma filha. Um dia chegou uma visita à casa do rico. E o rico, para não mexer no próprio rebanho, pegou a ovelhinha do pobre e serviu ao hóspede.
 
@@ -84,9 +80,9 @@ Davi tinha todas as opções. Era o rei. Podia mandar prender o profeta, podia n
 
 Sem rodeio. Sem "mas". Sem explicação comprida.
 
-O erro teve consequências, e Davi enfrentou cada uma delas. A Bíblia não esconde isso. Mas ele entrou para a história como o homem segundo o coração de Deus. Não porque errou pouco. Errou feio. E sim porque, quando foi confrontado, não se escondeu atrás do trono.
+O erro teve consequências, e Davi enfrentou cada uma delas. A Bíblia não esconde isso. Mesmo assim, ele entrou para a história como o homem segundo o coração de Deus. Errou feio. Só que, quando foi confrontado, não se escondeu atrás do trono.
 
-O filho dele, Salomão, escreveria mais tarde: "O que encobre as suas transgressões nunca prosperará". Repara no verbo. Ele não disse que o líder que esconde vai se sentir mal. Disse que ele não vai prosperar.
+O filho dele, Salomão, escreveria mais tarde: "O que encobre as suas transgressões nunca prosperará". Quem esconde não perde só a paz. Perde a prosperidade.
 
 * * *
 
@@ -96,7 +92,7 @@ Ela encontrou o contrário. As equipes com melhor desempenho eram as que registr
 
 Foi investigar de perto e entendeu. Essas equipes não erravam mais. Elas falavam mais sobre os erros. As pessoas se sentiam seguras para contar quando algo dava errado, e por isso corrigiam mais rápido e evitavam que a falha se repetisse. Nas outras equipes, os erros aconteciam do mesmo jeito. Só ficavam escondidos. Edmondson chamou esse clima de segurança psicológica: a certeza de que ninguém vai ser humilhado ou punido por levantar a mão e dizer "deu problema aqui".
 
-E sabe quem define se esse clima existe? Não é o RH. Não é o manual. É o comportamento do dono no dia em que ele mesmo erra.
+E quem define se esse clima existe? Nem o RH, nem o manual. Quem define é o comportamento do dono no dia em que ele mesmo erra.
 
 Muitos líderes acreditam que, se admitirem o erro, vão perder autoridade. É o contrário. A equipe já sabe que você errou. Ela só está esperando para descobrir se você também sabe. Quando você reconhece, ganha uma coisa que nenhum cargo dá: credibilidade.
 
@@ -118,7 +114,7 @@ Para dar baixa nele, o Otávio não fez discurso. Na reunião seguinte, antes de
 
 — Em março eu cortei a verba de captação para cobrir uma despesa minha. Isso derrubou o nosso resultado de junho. A decisão foi minha, não de vocês. Daqui para frente, nenhuma verba comercial é cortada sem a gente olhar junto o impacto em noventa dias. E eu preciso da ajuda de vocês para recuperar o que perdemos.
 
-Repara no que ele fez. Disse exatamente qual foi o erro, sem rodeio. Assumiu a parte dele sem dividir a culpa com ninguém; se outras pessoas também erraram, isso é conversa para outro momento, em particular. Mostrou o que tinha aprendido. E pediu ajuda.
+Ele disse exatamente qual foi o erro, sem rodeio. Assumiu a parte dele sem dividir a culpa com ninguém; se outras pessoas também erraram, isso é conversa para outro momento, em particular. Mostrou o que tinha aprendido. E pediu ajuda.
 
 Esse último passo transforma uma equipe. Quando o dono diz "eu errei e preciso de vocês", deixa de ser o dono que sabe tudo e vira o líder que constrói junto.
 
@@ -136,15 +132,15 @@ Mais uma: nas próximas reuniões, fale por último. Enquanto o maior da sala fa
 
 Talvez você esteja pensando: "Tudo bem, mas como eu sei se já virei o maior da sala dentro da minha própria empresa?".
 
-Faz um teste honesto com a última reunião importante que você conduziu. Quanto tempo você falou e quanto tempo ouviu? Alguém trouxe uma má notícia antes de você descobrir sozinho? Alguma ideia que não era sua foi aprovada? E, quando você deu a sua opinião, alguém ainda tinha coragem de acrescentar um "mas"?
+Faça um teste honesto com a última reunião importante que você conduziu. Quanto tempo você falou e quanto tempo ouviu? Alguém trouxe uma má notícia antes de você descobrir sozinho? Alguma ideia que não era sua foi aprovada? E, quando você deu a sua opinião, alguém ainda tinha coragem de acrescentar um "mas"?
 
-Se as respostas incomodaram, a solução não é se humilhar. É criar, de propósito, espaço para a verdade entrar. Escolha uma pessoa da sua liderança e dê a ela uma permissão explícita, dita em voz alta e na frente dos outros: "Quando você achar que eu estou errado, eu quero ouvir. Aqui, discordar de mim não é falta de respeito. É lealdade à empresa". E depois cumpra. Na primeira vez que essa pessoa te contrariar, agradeça antes de responder. Toda a equipe vai estar olhando para esse momento, porque é nele que se descobre se a permissão era de verdade ou só um discurso bonito.
+Se as respostas incomodaram, crie, de propósito, espaço para a verdade entrar. Escolha uma pessoa da sua liderança e dê a ela uma permissão explícita, dita em voz alta e na frente dos outros: "Quando você achar que eu estou errado, eu quero ouvir. Aqui, discordar de mim não é falta de respeito. É lealdade à empresa". E depois cumpra. Na primeira vez que essa pessoa te contrariar, agradeça antes de responder. Toda a equipe vai estar olhando para esse momento, porque é nele que se descobre se a permissão era de verdade ou só um discurso bonito.
 
-Os líderes que crescem por muito tempo não são os que nunca erram. São os que mantêm por perto gente com liberdade para dizer que eles erraram.
+Os líderes que crescem por muito tempo mantêm por perto gente com liberdade para dizer que eles erraram.
 
 ### Antes de virar a página
 
-Responde com a honestidade de quem não precisa provar nada para ninguém.
+Responda com a honestidade de quem não precisa provar nada para ninguém.
 
 1. Qual foi a última decisão errada que você tomou e ainda não reconheceu em voz alta? Alguém levou a culpa no seu lugar, mesmo calado?
 2. Complete: "Eu tenho medo de admitir meus erros porque, se eu fizer isso, as pessoas vão…". Depois releia e pergunte: isso é verdade, ou é o orgulho falando?
@@ -158,5 +154,5 @@ Até aqui, a gente olhou para quem decide por você dentro da empresa. Agora eu 
 A sua casa.
 
 ::: {custom-style="Destaque"}
-"O erro não destrói o líder. O que destrói é esconder."
+"Um erro reconhecido custa uma vez. Um erro escondido cobra juros todo mês."
 :::

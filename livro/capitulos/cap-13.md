@@ -26,7 +26,7 @@ Se a sua empresa fechasse amanhã, quem sentiria falta?
 
 Não pergunto quem ficaria sem fornecedor. Isso se resolve numa semana: o cliente acha outro, o funcionário procura outro emprego, o mercado ocupa o espaço. Pergunto quem perderia alguma coisa que não encontraria em nenhum outro lugar.
 
-Se a sua resposta honesta for "ninguém além de mim", não se assuste. Não é condenação, é diagnóstico. Só quer dizer que, por enquanto, a empresa está sendo vivida como o meio de sobrevivência do dono, e não como presença na vida das pessoas.
+Se a sua resposta honesta for "ninguém além de mim", não se assuste. É um diagnóstico, e diagnóstico se trata. Só quer dizer que, por enquanto, a empresa está sendo vivida como o meio de sobrevivência do dono, e ainda não como presença na vida das pessoas.
 
 Agora imagine o contrário. Um cliente dizendo: "Ninguém atende como eles". Um colaborador dizendo: "Foi ali que eu aprendi a ser quem eu sou". Um fornecedor dizendo: "Foi a única empresa que nunca me deixou na mão". Alguém da sua cidade dizendo: "Eles estiveram com a gente quando ninguém estava".
 
@@ -50,27 +50,13 @@ Sim. E a carta ainda avisa: não vão ser dois anos. Vão ser setenta.
 
 Com uma carta, Jeremias tira aquele povo da posição de vítima que espera e o coloca na posição de quem constrói. O lugar onde estavam, por pior que fosse, era exatamente onde deveriam servir.
 
-Muito empresário vive de mala pronta. "Quando o mercado melhorar." "Quando o governo mudar." "Quando eu achar uma equipe boa." E, enquanto isso, não constrói nada que dure. A carta continua valendo: a sua rua, a sua cidade e o seu setor são o lugar onde o seu CNPJ deve buscar a paz. E, na paz deles, você também vai ter paz.
+Muito empresário vive de mala pronta. "Quando o mercado melhorar." "Quando o governo mudar." "Quando eu achar uma equipe boa." E, enquanto isso, não constrói nada que dure. A carta continua valendo: a sua rua, a sua cidade e o seu setor são o lugar onde o seu CNPJ deve buscar a paz.
 
-Na prática, buscar a paz da cidade não exige uma fundação nem um departamento de responsabilidade social. Exige olhar ao redor com outros olhos. Começa com o comerciante que conhece pelo nome os vizinhos de porta. Passa pela empresa que contrata gente do próprio bairro e forma essas pessoas, em vez de reclamar que "não tem mão de obra". Inclui o empresário que aceita ensinar o que sabe para quem está começando no mesmo setor, mesmo que um dia aquele iniciante vire concorrente.
+Na prática, isso não exige uma fundação nem um departamento de responsabilidade social. Exige olhar ao redor com outros olhos. Começa com o comerciante que conhece pelo nome os vizinhos de porta. Passa pela empresa que contrata gente do próprio bairro e forma essas pessoas, em vez de reclamar que "não tem mão de obra". Inclui o empresário que paga o fornecedor pequeno em dia, sabendo que atrasar para aliviar o próprio caixa é só empurrar o problema para a família de outro empresário.
 
-E é também uma questão de interesse bem entendido. A empresa não vive numa ilha. Se o bairro empobrece, o cliente some. Se a escola da região é fraca, falta gente preparada para contratar. Se o comércio ao redor fecha, a rua fica escura e o seu movimento cai junto. A frase de Jeremias tem uma lógica que qualquer economista entenderia: "na paz dela vocês terão paz". O seu CNPJ prospera de verdade quando o lugar onde ele está prospera também.
+E a frase de Jeremias tem uma lógica que qualquer economista entenderia: "na paz dela vocês terão paz". A empresa não vive numa ilha. Se o bairro empobrece, o cliente some. Se a rua fica escura, o movimento cai junto. O seu CNPJ prospera de verdade quando o lugar onde ele está prospera também.
 
-Há empresários que tratam a cidade como um lugar de onde extraem resultado. E há os que tratam a cidade como um lugar onde plantam. Os dois podem faturar o mesmo por um tempo. Só os segundos constroem algo que alguém sentiria falta.
-
-* * *
-
-Sabe quando você joga uma pedra no lago e as ondas se espalham? É um bom jeito de enxergar o alcance de uma empresa.
-
-A primeira onda bate na sua própria casa. A empresa sustenta a sua família, mas também pode roubar dela presença, paz e saúde. Um CNPJ que destrói o lar do dono falhou na primeira onda, por maior que seja o faturamento.
-
-A segunda onda chega à equipe e à família de cada um. Cada pessoa que você contrata costuma ter outras duas ou três que dependem daquele salário. Uma empresa de vinte funcionários pode estar sustentando, de um jeito ou de outro, sessenta pessoas. Pense na funcionária da Marta com o contrato da casa na mão.
-
-A terceira onda alcança os clientes. Toda empresa existe para resolver o problema de alguém. Quando você vende com honestidade e entrega com excelência, a vida de quem compra melhora. Venda boa é consequência de servir bem, não a arte de empurrar o que a pessoa não precisa.
-
-A quarta onda chega aos fornecedores. E aqui vale ser direto: pagar em dia é uma forma de justiça. Quando você atrasa um fornecedor pequeno para aliviar o seu caixa, só transfere o seu problema para a família de outro empresário.
-
-A quinta onda alcança a cidade. Impostos que viram escola e hospital. Carteira assinada, que abre a porta do crédito, da aposentadoria e da dignidade. O exemplo que você dá para outros empresários. Os pequenos negócios estão entre os que mais geram emprego formal no Brasil. Este país é sustentado, em boa parte, por gente que acorda cedo, assume risco e mantém uma empresa de pé.
+Pense na funcionária da Marta. Um salário não sustenta só uma pessoa. Sustenta uma casa, e às vezes compra a primeira. Multiplique isso pelo número de pessoas que trabalham com você, some os clientes cujo problema você resolve e os fornecedores que dependem do seu pagamento, e o seu CNPJ fica bem maior do que o seu faturamento.
 
 Quando o CPF evolui, o CNPJ encontra um novo nível. E, quando o CNPJ encontra um novo nível, a cidade inteira sente.
 
@@ -82,55 +68,41 @@ Empresa sem lucro não abençoa ninguém. Ela fecha. E, quando fecha, demite, de
 
 Pense no lucro como oxigênio. Você não vive para respirar. Mas, sem respirar, você não vive.
 
-O propósito não muda a importância do lucro. Muda o lugar dele. O lucro deixa de ser o fim e vira o meio, o combustível que permite à empresa cumprir a missão por mais tempo, para mais gente e com mais qualidade. É por isso que a conversa sobre os cinco números, dois capítulos atrás, não foi um desvio para a planilha. Foi o mesmo assunto. Quem não conhece os próprios números pode ter um coração enorme, mas vai fazer o bem por pouco tempo.
+O propósito muda o lugar do lucro. Ele deixa de ser o fim e vira o meio, o combustível que permite à empresa cumprir a missão por mais tempo, para mais gente e com mais qualidade. Por isso a conversa sobre os cinco números, dois capítulos atrás, não foi um desvio para a planilha. Foi o mesmo assunto. Quem não conhece os próprios números pode ter um coração enorme, mas vai fazer o bem por pouco tempo.
 
-E tem outra coisa que anda junto. Em algum momento, a sua empresa vai encontrar um atalho. Uma nota que "não precisa" ser emitida. Um fornecedor oferecendo comissão por fora. Um cliente pedindo um jeitinho. Uma informação que poderia derrubar um concorrente.
+E tem outra coisa que anda junto. Em algum momento, a sua empresa vai encontrar um atalho. Uma nota que "não precisa" ser emitida. Um fornecedor oferecendo comissão por fora. Um cliente grande propondo um acerto com o argumento de sempre: "Todo mundo faz assim. Se você não fizer, o seu concorrente faz."
 
-O atalho sempre promete crescimento rápido. E quase sempre entrega duas coisas: um risco que cresce em silêncio e uma identidade corroída por dentro, sem você perceber.
+O atalho promete crescimento rápido. E quase sempre entrega duas coisas: um risco que cresce em silêncio e uma identidade corroída por dentro.
 
-Imagine o dono de uma loja de materiais de construção, numa cidade do interior. O maior cliente dele, uma incorporadora da região, propõe um acerto: a nota sai com um valor, a entrega com outro, e a diferença fica "entre os dois". O pedido daquele mês pagaria o décimo terceiro da equipe inteira. E o argumento vem embalado com cuidado: "Todo mundo faz assim. Se você não fizer, o seu concorrente faz."
+Seria fácil dizer que a integridade sempre é recompensada rápido. Ela não é. Às vezes o preço chega antes da colheita, e a colheita demora. Mas existe uma conta que quase ninguém faz: quanto custa ser uma pessoa na frente da equipe e outra na frente do cliente grande? Esse custo não aparece no resultado da empresa. Aparece em você, em forma de insônia, de medo de auditoria e de vergonha de olhar o filho nos olhos.
 
-Ele passa a noite sem dormir. Faz as contas do que perde. Pensa nos funcionários, no caixa, no banco. E, de manhã, liga e recusa.
-
-Perdeu o cliente naquele ano. Dois anos depois, a incorporadora foi investigada, e várias empresas da região que tinham entrado no acerto foram arrastadas junto. A loja dele não.
-
-Seria fácil contar essa história como se a integridade sempre fosse recompensada rápido. Não é. Às vezes o preço chega antes da colheita, e a colheita demora. Mas existe uma conta que quase ninguém faz: quanto custa, por dentro, ser uma pessoa na frente da equipe e outra na frente do cliente grande? Esse custo não aparece no balanço do CNPJ. Aparece no balanço do CPF, em forma de insônia, de medo de auditoria e de vergonha de olhar o filho nos olhos.
-
-Integridade não é só ficar longe do crime. É ser a mesma pessoa quando ninguém está olhando. É aquilo que vimos lá no começo: identidade é o que permanece quando o cenário muda. Quando o seu "sim" é sim e o seu "não" é não, o mercado demora a perceber. Mas, quando percebe, não esquece.
+Integridade é ser a mesma pessoa quando ninguém está olhando. É aquilo que vimos lá no começo: identidade é o que permanece quando o cenário muda. Quando o seu "sim" é sim e o seu "não" é não, o mercado demora a perceber. Mas, quando percebe, não esquece.
 
 * * *
 
-Pense na sua empresa como uma plataforma: um lugar alto, de onde dá para alcançar mais gente.
+Quase quatro mil anos atrás, Abraão ouviu uma promessa que terminava assim: "e tu serás uma bênção". A bênção que ele recebe existe para virar bênção entregue. É o ciclo de um CNPJ maduro.
 
-O seu CNPJ te dá acesso a pessoas, recursos, influência e conversas que o seu CPF sozinho nunca teria. A pergunta é o que você faz lá de cima.
-
-Talvez o maior impacto de uma empresa nem seja o produto. Talvez seja quem as pessoas se tornam enquanto trabalham nela. O rapaz que aprendeu disciplina, responsabilidade e palavra na sua empresa leva isso para dentro de casa, para os filhos dele. Isso não aparece no balanço, mas é a coisa mais duradoura que você vai construir.
-
-Às vezes, usar a plataforma é dar o primeiro emprego para quem ninguém quis contratar, ou a segunda chance para quem errou. Às vezes é elevar o padrão do seu setor: pagar em dia, cumprir o combinado, tratar bem até o concorrente. Quando uma empresa faz isso por anos, vira referência e puxa as outras para cima.
-
-Quase quatro mil anos atrás, Abraão ouviu uma promessa que terminava com quatro palavras: "e tu serás uma bênção". Repare na ordem. A bênção que ele recebe existe para virar bênção entregue. É o ciclo de um CNPJ maduro.
-
-E esse ciclo não é só bonito. Ele funciona.
+E esse ciclo funciona, inclusive dentro da empresa.
 
 O professor Adam Grant, da Wharton, estudou uma equipe de telemarketing que ligava para ex-alunos de uma universidade pedindo doações para bolsas de estudo. Trabalho repetitivo, muita recusa, pouca motivação. Num dos experimentos, parte dos operadores teve uma conversa rápida, de poucos minutos, com um estudante que só estava na faculdade por causa daquelas bolsas. Só isso. Nas semanas seguintes, esse grupo passou a ficar bem mais tempo ao telefone e a arrecadar bem mais do que os colegas que não tinham conhecido ninguém.
 
-Nada no trabalho mudou: o mesmo roteiro, o mesmo salário, a mesma cadeira. A diferença é que eles tinham visto o rosto de quem o trabalho deles ajudava.
+O roteiro era o mesmo, o salário era o mesmo, a cadeira era a mesma. A diferença é que eles tinham visto o rosto de quem o trabalho deles ajudava.
 
-Agora pense na sua equipe. Quantas pessoas trabalham com você sem nunca ter visto o rosto de quem a empresa ajuda? Quantas acham que estão só embalando, vendendo, atendendo, quando na verdade estão sustentando a casa de alguém? Mostrar isso a elas não é discurso motivacional. É dar ao trabalho o sentido que ele já tem.
+Quantas pessoas trabalham com você sem nunca ter visto esse rosto? Quantas acham que estão só embalando, vendendo, atendendo, quando na verdade estão sustentando a casa de alguém?
 
-E não precisa de nada sofisticado. Uma indústria pode levar a equipe de produção para ver o produto funcionando na casa de um cliente. Uma clínica pode abrir a reunião de segunda-feira com o recado de um paciente que voltou a andar. Uma escola pode convidar um ex-aluno para contar, para quem cuida da limpeza e da portaria, o que aquela escola significou na vida dele. Um atacadista pode mostrar ao motorista a foto da prateleira que ele abasteceu numa cidade onde não chegava quase nada.
+E não precisa de nada sofisticado. Uma indústria pode levar a equipe de produção para ver o produto funcionando na casa de um cliente. Uma clínica pode abrir a reunião de segunda-feira com o recado de um paciente que voltou a andar. Um atacadista pode mostrar ao motorista a foto da prateleira que ele abasteceu numa cidade onde quase nada chegava. Em nenhum desses casos o dono precisa fazer discurso de propósito. O rosto fala sozinho, e o cuidado deixa de ser uma regra cobrada pelo chefe para virar uma escolha de quem sabe para quem está fazendo.
 
-Repare que, em nenhum desses casos, o dono precisa falar de propósito. O rosto fala sozinho. E, quando a equipe vê o rosto, uma coisa muda no jeito de trabalhar: o cuidado deixa de ser uma regra cobrada pelo chefe e vira uma escolha de quem sabe para quem está fazendo.
+Talvez o maior impacto de uma empresa nem seja o produto. Talvez seja quem as pessoas se tornam enquanto trabalham nela. O rapaz que aprendeu disciplina, responsabilidade e palavra na sua empresa leva isso para casa, para os filhos dele. Às vezes, usar o seu CNPJ como plataforma é dar o primeiro emprego para quem ninguém quis contratar, ou a segunda chance para quem errou. Às vezes é elevar o padrão do seu setor: pagar em dia, cumprir o combinado, tratar bem até o concorrente. Quando uma empresa faz isso por anos, vira referência e puxa as outras para cima. Nada disso aparece no balanço, e é a coisa mais duradoura que você vai construir.
 
-Isso também muda você. O dono que vê de perto a vida que a empresa toca aguenta melhor o mês ruim, decide com mais calma e tem menos vontade de pegar atalho. O sentido não serve só para motivar a equipe. Serve para sustentar o CPF que sustenta todo o resto.
+Isso também muda você. O dono que vê de perto a vida que a empresa toca aguenta melhor o mês ruim, decide com mais calma e tem menos vontade de pegar atalho. O sentido sustenta o CPF que sustenta todo o resto.
 
 * * *
 
 Volte à pergunta do começo. Se a sua empresa fechasse amanhã, quem sentiria falta?
 
-Talvez hoje a lista seja curta. Não tem problema. Toda lista longa começou com um nome. Talvez seja um cliente que você atendeu além do combinado. Uma funcionária com a chave de casa na mão. Um fornecedor que você pagou em dia quando ninguém pagava.
+Talvez hoje a lista seja curta. Toda lista longa começou com um nome. Um cliente que você atendeu além do combinado. Uma funcionária com o contrato da casa na mão. Um fornecedor que você pagou em dia quando ninguém pagava.
 
-E, cá entre nós, empresas assim raramente precisam brigar por preço. Elas foram além do produto. Viraram parte da vida de alguém.
+Empresas assim raramente precisam brigar por preço. Viraram parte da vida de alguém.
 
 ### Antes de virar a página
 
@@ -142,9 +114,9 @@ A pergunta-chave é esta: **complete a frase "O meu CNPJ existe para que _______
 
 **O desafio dos próximos sete dias:** conte a história dessa pessoa na próxima reunião com a sua equipe. Se der, chame a própria pessoa para contar. Deixe a sua equipe ver o rosto de quem o trabalho dela ajuda.
 
-**No seu Balanço do CPF:** preencha o campo **"Quem sentiria falta → a missão do meu CNPJ"**.
+No seu Balanço do CPF, preencha o campo **Quem sentiria falta → a missão do meu CNPJ**.
 
-Você já sabe quem é, para onde vai e para quem vai. Resta uma pergunta, a mais pessoal de todas, e ela ficou guardada para o fim. Quando os anos passarem, quando o envelope for aberto e a empresa já não precisar de você, quem você vai ter se tornado?
+Resta uma pergunta, a mais pessoal de todas, e ela ficou guardada para o fim. Quando os anos passarem, quando o envelope for aberto e a empresa já não precisar de você, quem você vai ter se tornado?
 
 ::: {custom-style="Destaque"}
 "Você não vive para respirar. Mas, sem respirar, você não vive. O lucro é o oxigênio; a missão é a vida."

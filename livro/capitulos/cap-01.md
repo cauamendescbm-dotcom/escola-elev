@@ -12,11 +12,11 @@ Imagina um jantar. Você não conhece quase ninguém à mesa. A pessoa ao seu la
 
 — E você, quem é?
 
-Repara no que a sua boca faz antes mesmo de você pensar. Quase sempre a resposta sai assim: "Sou dono de uma distribuidora." "Tenho uma clínica." "Trabalho com construção, tenho uma empresa de reformas."
+Observe o que a sua boca faz antes mesmo de você pensar. Quase sempre a resposta sai assim: "Sou dono de uma distribuidora." "Tenho uma clínica." "Trabalho com construção, tenho uma empresa de reformas."
 
 A pergunta era quem você é. A resposta foi o que você tem, ou o que você faz.
 
-Parece só um jeito de falar. Mas não é. Essa resposta automática revela onde mora a sua identidade. E, se ela mora inteira dentro do CNPJ, você tem um problema que nenhuma consultoria de gestão vai resolver.
+Parece só um jeito de falar. Só que essa resposta automática revela onde mora a sua identidade. E, se ela mora inteira dentro do CNPJ, você tem um problema que nenhuma consultoria de gestão vai resolver.
 
 * * *
 
@@ -38,7 +38,7 @@ E da empresa, porque um dono que precisa dela para se sentir alguém não conseg
 
 Por isso eu te digo, com toda a calma do mundo: a sua empresa precisa que você exista independentemente dela.
 
-Pode soar como contradição. Não é. O dono que não depende da empresa para saber quem é consegue fazer por ela o que o dono fundido nunca faz: decidir pelo bem dela, e não para proteger o próprio ego.
+Pode soar como contradição, mas o dono que não depende da empresa para saber quem é consegue fazer por ela o que o dono fundido nunca faz: decidir pelo bem dela, e não para proteger o próprio ego.
 
 * * *
 
@@ -64,7 +64,7 @@ Ele ficou um tempo calado, olhando para a mesa. Depois respondeu, com a voz baix
 
 Ali estava o verdadeiro gargalo. Não faltavam bons gerentes no mercado. Faltava ao Ricardo saber quem ele era além de ser necessário. Cada problema resolvido por outra pessoa era uma ameaça à única definição que ele tinha de si mesmo. Os gerentes não eram demitidos por serem ruins. Eram demitidos por serem bons.
 
-O que mudou não foi o processo de contratação. O Ricardo começou a construir uma vida fora da fábrica. Voltou a ter tempo para a família, retomou coisas que tinha abandonado, passou a se ver como alguém que forma gente, e não como o único que sabe consertar a máquina. O terceiro gerente ficou. E a empresa voltou a crescer.
+O Ricardo começou a construir uma vida fora da fábrica. Voltou a ter tempo para a família, retomou coisas que tinha abandonado, passou a se ver como alguém que forma gente, e não como o único que sabe consertar a máquina. O terceiro gerente ficou. E a empresa voltou a crescer.
 
 O processo de contratação foi o mesmo nas três vezes. O que mudou foi o CPF.
 
@@ -96,11 +96,7 @@ E Jacó responde com o nome que sempre carregou. O que passa a perna.
 
 Só depois de admitir quem tinha sido, ele recebe um nome novo: Israel.
 
-Repara em três detalhes, porque eles valem para qualquer empresário.
-
-A identidade nova só chegou quando o patrimônio estava do outro lado do rio. Enquanto Jacó estava cercado do que tinha, não conseguia enxergar quem era.
-
-Antes de receber o nome novo, ele precisou dizer o nome velho. Não existe transformação sem honestidade sobre quem você tem sido.
+A identidade nova só chegou quando o patrimônio estava do outro lado do rio. Enquanto Jacó estava cercado do que tinha, não conseguia enxergar quem era. E, antes de receber o nome novo, ele precisou dizer em voz alta o nome velho. Ninguém se transforma sem antes ser honesto sobre quem tem sido.
 
 E ele saiu dali mancando. A nova identidade custou alguma coisa. Ele ia andar diferente pelo resto da vida, e cada passo ia lembrar a noite em que deixou de fugir.
 
@@ -124,7 +120,7 @@ James Clear, no livro *Hábitos atômicos*, mostra que as mudanças que duram n�
 
 Na empresa é igualzinho. O dono que diz "preciso delegar mais" tenta por duas semanas e volta a fazer tudo, porque no fundo ainda se vê como o melhor executor da casa. O dono que diz "eu sou alguém que forma pessoas" começa a enxergar cada tarefa como uma chance de ensinar. Ele não delega porque está cansado. Delega porque é isso que gente como ele faz.
 
-É por isso que nenhum método de gestão se sustenta em cima de uma identidade que o contradiz. Você pode instalar todos os processos do mundo. Se continuar acreditando que "ninguém faz como eu", vai desmontar um por um, sem nem perceber. Lembra do sócio oculto mais teimoso de todos? É ele votando.
+É por isso que nenhum método de gestão se sustenta em cima de uma identidade que o contradiz. Você pode instalar todos os processos do mundo. Se continuar acreditando que "ninguém faz como eu", vai desmontar um por um, sem nem perceber. Lembra daquele sócio oculto que repete toda manhã "ninguém faz como eu"? É ele votando.
 
 * * *
 
@@ -144,13 +140,13 @@ E aqui vai uma dica prática, porque a gente é péssimo em se enxergar sozinho.
 
 Você provavelmente vai ouvir palavras como "ocupado", "acelerado", "ausente", "estressado". Talvez ouça "dedicado" e "responsável" também. Repare em quantas delas falam do que você faz e em quantas falam de quem você é.
 
-Esse é o seu nome velho. Não é uma condenação. É só o ponto de partida.
+Esse é o seu nome velho. E ele serve apenas como ponto de partida.
 
 * * *
 
 Talvez você esteja pensando que isso é coisa para quando a empresa estiver mais estável. Para depois da próxima meta, da próxima contratação, do próximo ano.
 
-Eu entendo. Mas repara no risco que você está correndo.
+Eu entendo. Mas pense no risco que você está correndo.
 
 Toda empresa, um dia, deixa de precisar do dono do jeito que precisa hoje. Às vezes por uma venda, às vezes por uma crise, às vezes porque ela simplesmente cresce. E o dono que construiu a identidade inteira dentro do CNPJ vive esse dia como um luto, mesmo quando tudo deu certo. Eu já vi empresário receber o maior cheque da vida e afundar na semana seguinte. Não por falta de dinheiro. Por falta de nome.
 
@@ -166,7 +162,7 @@ Depois, responda à pergunta-chave deste capítulo:
 
 **Se as pessoas mais próximas de você fossem totalmente honestas, qual seria o seu "nome velho", o jeito como você tem vivido nos últimos dois anos?**
 
-**No seu Balanço do CPF, preencha o campo "Ativo principal: quem eu sou além do CNPJ".** Escreva os três valores que você não negocia e, abaixo, os seus papéis na ordem real de prioridade. Não na ordem que soaria bonita, mas na que a sua agenda confirma.
+No seu Balanço do CPF, preencha o campo **Ativo principal: quem eu sou além do CNPJ**. Escreva os três valores que você não negocia e, abaixo, os seus papéis na ordem real de prioridade: a ordem que a sua agenda confirma, e não a que soaria bonita.
 
 O desafio para os próximos sete dias é um pouco desconfortável: toda vez que alguém te perguntar "o que você faz?" ou "quem é você?", responda primeiro com algo do centro ou dos papéis, e só depois fale da empresa. Repare como você se sente. Talvez estranho. Talvez livre. Provavelmente os dois.
 

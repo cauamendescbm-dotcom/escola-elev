@@ -2,87 +2,38 @@
 
 ## O Balanço do CPF
 
-Esta é a folha que você vai preencher ao longo do livro, um campo por capítulo. Copie à mão no seu caderno, tire uma cópia ou fotografe, e mantenha-a num lugar onde você a veja toda semana.
+Esta é a folha que você vai preencher ao longo do livro, um campo por capítulo. Copie-a no seu caderno ou tire uma cópia, e mantenha-a num lugar onde você a veja toda semana.
 
 **Nome:** ______________________________ **Data de início:** ____/____/______
 
-**Placar da escada, medição inicial (Introdução)**
-O ______ D ______ L ______
+| Cap. | Campo | O que escrever | Minha resposta |
+|---|---|---|---|
+| Intro | Placar da escada (O-D-L) | Quantos O, D e L nas dez últimas coisas que fiz na empresa | O ___ D ___ L ___ |
+| 1 | Ativo principal: quem eu sou além do CNPJ | Três valores que não negocio e os meus papéis, em ordem | |
+| 2 | Sócio oculto nº 1, a voz herdada → a verdade que escolho | A frase antiga e a nova, no presente | |
+| 3 | Sócio oculto nº 2, o padrão de casa → o que recebi / o que passo adiante | O padrão herdado, o que guardo e o que decido mudar | |
+| 4 | Sócio oculto nº 3, a mágoa → baixa (frase de decisão) | O nome do sócio oculto e a frase com que dei baixa nele | |
+| 5 | Sócio oculto nº 4, o orgulho → onde sou o maior da sala e a minha regra para o erro | Onde ninguém mais me contraria e como trato um erro, meu ou da equipe | |
+| 6 | Quem não se demite → a frase da minha casa | Os nomes de quem não sai da minha vida e uma frase que guia a casa | |
+| 7 | Nota de corpo, alma e espírito → 1 hábito inegociável | Uma nota de 0 a 10 para cada um e o hábito que vou sustentar | Corpo ___ Alma ___ Espírito ___ |
+| 8 | Quem me afia (2 nomes) → o ambiente em que vou entrar | Duas pessoas que podem me confrontar e o ambiente novo | |
+| 9 | Sócio oculto nº 5, ninguém faz como eu → degrau atual, próximo degrau e a tarefa que vou delegar | Onde estou na escada, aonde vou e o que solto primeiro | |
+| 10 | 3 valores com comportamento esperado e inadmissível | Para cada valor: o que espero ver / o que não tolero mais | 1. ___ / ___ / ___  2. ___ / ___ / ___  3. ___ / ___ / ___ |
+| 11 | Os 5 números e a minha regra de José | Quanto sobra de cada venda, custo fixo, faturamento para empatar, meses de caixa, lucro real e o percentual que vou guardar | |
+| 12 | A visão de 3 anos em uma frase | A frase que alguém da equipe entenderia passando correndo | |
+| 13 | Quem sentiria falta → a missão do meu CNPJ | "O meu CNPJ existe para que…" | |
+| 14 | "Eu escolho me tornar alguém que…", o novo placar O-D-L e o nome do meu Salomão | A frase, o placar de hoje e quem estou preparando | O ___ D ___ L ___ |
 
-**1. Ativo principal: quem eu sou além do CNPJ**
-Três valores que eu não negocio: ______________________________________________
-Meus papéis, em ordem: ______________________________________________________
-
-**2. Sócio oculto nº 1, a voz herdada**
-A voz: ______________________________________________________________________
-A verdade que eu escolho: ____________________________________________________
-
-**3. Sócio oculto nº 2, o padrão de casa**
-O que eu recebi: _____________________________________________________________
-O que eu passo adiante: ______________________________________________________
-
-**4. Sócio oculto nº 3, a mágoa**
-Baixa (minha frase de decisão): ______________________________________________
-
-**5. Sócio oculto nº 4, o orgulho**
-Onde eu sou o maior da sala: _________________________________________________
-Minha regra para o erro: _____________________________________________________
-
-**6. Quem não se demite**
-Nomes: ______________________________________________________________________
-A frase da minha casa: _______________________________________________________
-
-**7. Corpo, alma e espírito**
-Notas (0 a 10): corpo ______ alma ______ espírito ______
-Hábito inegociável: __________________________________________________________
-
-**8. Quem me afia**
-Dois nomes: _________________________________________________________________
-O ambiente em que vou entrar: ________________________________________________
-
-**9. Sócio oculto nº 5, "eu sou a máquina"**
-Degrau atual: ______________ Próximo degrau: ______________
-A tarefa que vou delegar: ____________________________________________________
-
-**10. Três valores da empresa**
-
-| Valor | Comportamento esperado | Comportamento inadmissível |
-|---|---|---|
-| | | |
-| | | |
-| | | |
-
-**11. Os 5 números**
-Quanto sobra de cada venda: __________ Custo fixo: __________
-Faturamento para empatar: __________ Caixa (meses sem receita): __________
-Lucro real, depois do meu pró-labore: __________
-Minha regra de José: _________________________________________________________
-
-**12. A visão de 3 anos, em uma frase**
-____________________________________________________________________________
-
-**13. Quem sentiria falta**
-A missão do meu CNPJ: ______________________________________________________
-
-**14. Quem eu escolho me tornar**
-"Eu escolho me tornar alguém que _____________________________________________."
-Novo placar da escada: O ______ D ______ L ______ **Data:** ____/____/______
-O nome do meu Salomão: ______________________________________________________
-
-*Releitura a cada três meses:* ____/____/______ · ____/____/______ · ____/____/______ · ____/____/______
+*Releituras a cada três meses:* ____/____/______ · ____/____/______ · ____/____/______ · ____/____/______
 
 ## Convite
 
-Este livro pode ser lido sozinho. A mudança que ele propõe, quase nunca se faz sozinho.
+Este livro pode ser lido sozinho. A mudança que ele propõe raramente acontece sozinha.
 
-Se você quiser continuar essa caminhada acompanhado, existe um lugar pensado para isso. A ELEV nasceu para desenvolver pessoas que lideram empresas, sobre quatro pilares: espiritualidade, liderança, estratégia e vendas.
+Para quem quiser continuar a caminhada acompanhado, existe a ELEV, criada para desenvolver pessoas que lideram empresas.
 
-Na **Escola ELEV**, são doze encontros semanais ao vivo para subir, degrau por degrau, de operador a líder. Os encontros passam por clareza, liderança, finanças, cultura, organização e direção, sempre com um plano de aplicação de sete dias entre um encontro e outro. É o Balanço do CPF levado para dentro da sua empresa, com método e acompanhamento.
+A **Escola ELEV** reúne empresários em doze encontros semanais ao vivo, que passam por clareza, liderança, finanças, cultura, organização e direção, com um plano de aplicação de sete dias entre um encontro e outro.
 
-No **Mastermind ELEV**, um grupo reservado de empresários caminha junto ao longo de um ano. É um ambiente feito para afiar: gente que já passou por onde você está passando, conversas francas sobre números, pessoas e decisões, e a disciplina de voltar todo mês com o que foi feito.
-
-Nada disso substitui o que você já começou a fazer nestas páginas. Oferece estrutura, método e gente do lado, para que a subida não seja solitária.
+O **Mastermind ELEV** é um grupo reservado de empresários que caminham juntos ao longo de um ano, com conversas francas sobre números, pessoas e decisões.
 
 Se fizer sentido para você, será uma honra caminhar junto. Se não for agora, siga em frente com o seu Balanço. O mais importante já está nas suas mãos.
-
-*Espiritualidade · Liderança · Estratégia · Vendas*

@@ -50,7 +50,7 @@ Sem vender mais. Só organizando.
 
 Agora a pergunta que dói: quantos anos você já deixou na mesa?
 
-Vender mais com uma estrutura que vaza é encher balde furado com mais força. Você trabalha mais, cansa mais e, no fim do mês, sobra o mesmo. Às vezes, menos. Se você já sentiu que está vendendo mais e sobrando menos, o seu problema não é comercial. É estrutural. E, como tudo o que é estrutural neste livro, começa em quem senta na cadeira de dono.
+Vender mais com uma estrutura que vaza só aumenta o volume do vazamento. Você trabalha mais, cansa mais e, no fim do mês, sobra o mesmo. Às vezes, menos. Se você já sentiu que está vendendo mais e sobrando menos, o seu problema não é comercial. É estrutural. E, como tudo o que é estrutural neste livro, começa em quem senta na cadeira de dono.
 
 * * *
 
@@ -66,13 +66,13 @@ O quarto é a sua reserva: se a receita parasse hoje, por quantos meses a empres
 
 E o quinto é o que sobra de verdade no final, depois de tudo, inclusive depois de pagar a você um pró-labore justo. Porque, se você só tem lucro porque não se paga, você não tem lucro. Tem um subsídio pessoal disfarçado.
 
-Quem não sabe esses cinco números está dirigindo de noite com o farol apagado. Por mais habilidoso que seja, é só questão de tempo até a próxima curva.
+Quem não sabe esses cinco números toma decisões grandes com informação pequena. Contrata, investe e dá desconto no escuro, e só descobre o resultado quando já não dá para voltar atrás.
 
 * * *
 
-Lembra de José, lá no capítulo 4? O irmão vendido, esquecido numa prisão, que chegou diante do faraó sem amargura?
+Volte por um momento ao irmão vendido que encontramos quando falamos de mágoa, aquele que saiu da prisão sem amargura para se apresentar ao faraó.
 
-Ele também é o maior gestor financeiro da Antiguidade. E a regra que salvou o Egito cabe numa frase: nos sete anos de fartura, separar a quinta parte de tudo o que a terra produzisse.
+José também é o maior gestor financeiro da Antiguidade. E a regra que salvou o Egito cabe numa frase: nos sete anos de fartura, separar a quinta parte de tudo o que a terra produzisse.
 
 Vinte por cento. José não disse "guardem um pouquinho quando der". Estabeleceu uma regra, com número, antes de a tentação chegar. E a tentação dos anos bons é enorme. Quando o celeiro está cheio, todo mundo quer gastar, expandir, trocar de carro, abrir mais uma unidade.
 
@@ -80,7 +80,7 @@ Quando a fome veio, e veio pesada, o Egito tinha pão. As terras vizinhas vinham
 
 José não impediu a crise. Ele se preparou para ela. E a disciplina mais difícil não foi a dos anos ruins. Foi a dos anos bons. Economizar na crise é obrigação. Economizar na fartura é sabedoria.
 
-Repare também no detalhe que liga esta conversa a tudo o que veio antes: um homem amargurado não teria enxergado com aquela clareza. O perdão que José liberou aos irmãos não foi só um assunto do coração. Foi o que deixou a mente dele livre para fazer a conta certa. Quem carrega mágoa decide no impulso. Quem soltou o peso consegue planejar sete anos à frente.
+Repare também no detalhe que liga esta conversa a tudo o que veio antes: um homem amargurado não teria enxergado com aquela clareza. Anos antes de reencontrar os irmãos, José já tinha se recusado a viver amargurado. Isso não foi só um assunto do coração. Foi o que deixou a mente dele livre para fazer a conta certa. Quem carrega mágoa decide no impulso. Quem soltou o peso consegue planejar sete anos à frente.
 
 * * *
 
@@ -90,13 +90,13 @@ A conta da empresa é da empresa. A conta pessoal é pessoal. Você recebe um pr
 
 Se hoje está tudo misturado, não tente desfazer anos de mistura num fim de semana. Faça em três movimentos. Primeiro, liste tudo o que é pessoal e passa pela empresa, sem julgamento, só para enxergar. Segundo, defina a data a partir da qual cada item para de passar. Terceiro, ajuste o seu pró-labore para cobrir o que é seu de verdade. Se o novo pró-labore não couber no caixa, você acabou de encontrar a informação mais valiosa do ano.
 
-Parece burocracia. É cura de identidade. E, como toda cura, costuma doer nos primeiros meses, porque revela quanto a empresa estava pagando por você sem ninguém anotar. Só que, quando você separa as contas, separa também os papéis. Você deixa de ser a empresa e passa a ser o líder dela. E, curiosamente, começa a respeitar mais o próprio dinheiro, porque ele finalmente tem limite e destino.
+Parece burocracia, mas mexe com identidade. E, como toda mudança de identidade, costuma doer nos primeiros meses, porque revela quanto a empresa estava pagando por você sem ninguém anotar. Só que, quando você separa as contas, separa também os papéis. Você deixa de ser a empresa e passa a ser o líder dela. E, curiosamente, começa a respeitar mais o próprio dinheiro, porque ele finalmente tem limite e destino.
 
 Jesus contou uma pequena história sobre isso. Quem de vocês, querendo construir uma torre, não se senta primeiro para calcular o custo? Senão, lança o alicerce, não consegue terminar, e todos que passam começam a zombar: esse homem começou a construir e não foi capaz de acabar.
 
 Quantos empresários começam torres que não conseguem terminar? Abrem filial sem caixa, contratam sem margem, compram estoque sem saber se vai girar. Não por falta de inteligência. Por falta de conta. E, por trás da falta de conta, quase sempre existe uma emoção: a pressa, o orgulho, o medo de parecer pequeno.
 
-Eu conheço essa sensação por dentro. Na pandemia, a empresa que eu dirigia estava no prejuízo, e eu tentava resolver com mais horas de trabalho. O que virou o jogo foi ter coragem de olhar para os números como eles eram, e não como eu queria que fossem.
+Eu conheço essa sensação por dentro. Contei na introdução que, na pandemia, tentei vencer o prejuízo pelo cansaço. O que virou o jogo foi ter coragem de olhar para os números como eles eram, e não como eu queria que fossem.
 
 [AUTOR: em duas ou três frases, a primeira vez que você abriu os números reais da empresa na pandemia e o que sentiu ao ver o tamanho do vazamento.]
 
@@ -110,7 +110,7 @@ A segunda: "Com que frequência eu preciso olhar tudo isso?" Uma vez por mês, n
 
 Eu sei que muita gente evita esse encontro. E quase nunca é por falta de tempo. É por medo do que vai aparecer. Só que o número que você não olha não deixa de existir. Ele só cresce no escuro. O empresário que olha os números todo mês ainda vai ter meses ruins, mas nunca mais vai ser pego de surpresa. E, depois de alguns meses, acontece uma coisa curiosa: aquele encontro que dava medo vira o momento mais tranquilo do mês, porque a ansiedade quase sempre mora no que a gente não sabe.
 
-Conhecer os números não é só técnica. É coragem praticada com regularidade.
+Conhecer os números exige técnica, mas exige ainda mais coragem praticada com regularidade.
 
 * * *
 
@@ -122,19 +122,19 @@ A psicologia deu nome a isso. O psicólogo americano Brad Klontz e seus colegas 
 
 Por isso nenhum curso de finanças resolve sozinho o problema de quem não resolveu a própria relação com o dinheiro. A pessoa aprende a planilha e continua repetindo o padrão. Os números da sua empresa não mostram só a sua gestão. Mostram as suas crenças.
 
-Salomão escreveu, há três mil anos, a frase que abre este capítulo: procure conhecer o estado das suas ovelhas e ponha o coração nos seus rebanhos. Repare que ele não fala só em conhecer. Fala em pôr o coração. Organizar os números é, no fundo, organizar a alma. É olhar para o extrato com coragem, sem a mentira confortável do "mais ou menos".
+Salomão escreveu, há três mil anos, a frase que abre este capítulo: procure conhecer o estado das suas ovelhas e ponha o coração nos seus rebanhos. Repare que ele não fala só em conhecer. Fala em pôr o coração. Pôr o coração nos números é olhar para o extrato com coragem, sem a mentira confortável do "mais ou menos".
 
 ### Antes de virar a página
 
-Sem consultar nada, escreve num papel quanto você acha que a sua empresa lucrou no mês passado. Guarda esse número. Durante a semana, levante o número real, depois de tirar todas as despesas pessoais que passaram pela empresa. A pergunta-chave é uma só:
+Sem consultar nada, escreva num papel quanto você acha que a sua empresa lucrou no mês passado. Guarde esse número. Durante a semana, levante o número real, depois de tirar todas as despesas pessoais que passaram pela empresa. A pergunta-chave é uma só:
 
 Qual é a distância entre o lucro que eu achava e o lucro que eu tenho, e o que essa distância diz sobre mim?
 
 O desafio dos próximos sete dias é dar o primeiro passo de José. Se você ainda não tem, abra contas separadas e defina o seu pró-labore. E decida a sua regra: qual percentual do lucro vai para a reserva, todo mês, sem renegociar a cada colheita.
 
-No seu **Balanço do CPF**, preencha o campo **Os 5 números e a minha regra de José**: quanto sobra de cada venda, o custo fixo, o faturamento para empatar, os meses de reserva, o lucro real e o percentual que você vai separar.
+No seu Balanço do CPF, preencha o campo **Os 5 números e a minha regra de José**. Anote quanto sobra de cada venda, o custo fixo, o faturamento para empatar, os meses de reserva, o lucro real e o percentual que você vai separar.
 
-Agora a sua empresa tem um dono que sabe quem é, uma cultura com rosto e números que contam a verdade. Ela já sabe funcionar. Mas ainda falta a pergunta que separa as empresas que só sobrevivem das que deixam marca: para onde ela está indo?
+Números honestos mostram onde a empresa está. Mas ainda falta a pergunta que separa as empresas que só sobrevivem das que deixam marca: para onde ela está indo?
 
 ::: {custom-style="Destaque"}
 "Eu achava que tinha uma empresa lucrativa. Na verdade, eu tinha uma empresa que sustentava a minha desorganização."

@@ -18,7 +18,7 @@ Ele me olhou sem entender. Eu expliquei:
 
 — O seu ex-sócio ainda bate ponto aqui. Senta na sua cadeira, participa de todas as reuniões e vota contra cada proposta de crescimento.
 
-O Marcos (nome alterado) tinha uma distribuidora com quarenta funcionários e um sócio. Um dia, esse sócio saiu levando a carteira de clientes mais rentável da empresa. Não houve briga nem gritaria. Houve um e-mail curto, educado, assinado por um advogado.
+O Marcos (nome alterado) tinha uma distribuidora com quarenta funcionários e um sócio. Numa segunda-feira de manhã, antes do primeiro café, ele abriu a caixa de entrada e encontrou quatro parágrafos educados, assinados por um advogado. O sócio estava saindo. E levava junto a carteira de clientes mais rentável da empresa. Não houve briga, nem gritaria, nem conversa olho no olho.
 
 Quando a gente se conheceu, aquilo tinha acontecido seis anos antes. A empresa já tinha se recuperado. O faturamento estava maior do que no tempo da sociedade. Ele tinha comprado uma casa nova. A vida, aparentemente, tinha seguido.
 
@@ -32,9 +32,9 @@ No capítulo anterior, a gente olhou para as marcas que nasceram dentro de casa.
 
 * * *
 
-Repara na frase que abre este capítulo. Jesus não disse que talvez você seja ofendido. Disse que é impossível não ser.
+A frase que abre este capítulo não deixa margem. Jesus não disse que talvez você seja ofendido. Disse que é impossível não ser.
 
-Para quem empreende, a ofensa não é uma possibilidade. É uma certeza com data marcada.
+Para quem empreende, a ofensa é uma certeza com data marcada.
 
 Vai ser o sócio que sai. O funcionário que você formou e que abre um concorrente na esquina. O cliente a quem você deu prazo e que some sem pagar. O fornecedor que falha justo na semana mais importante do ano. O parente que, no almoço de domingo, solta um "isso aí não vai dar certo" e volta a comer como se nada tivesse acontecido.
 
@@ -54,7 +54,7 @@ Eu penso o contrário. Poucas coisas mexem tanto nas decisões de um dono quanto
 
 Ela vira centralização. "Da última vez que eu confiei, me passaram a perna." Então o dono assina tudo, aprova tudo, confere tudo, e acha que está sendo cuidadoso. Não está. Está sendo governado por uma lembrança.
 
-Ela vira desconfiança da equipe inteira. Um funcionário traiu, então agora todo funcionário é suspeito. Câmera em todo canto, relatório de tudo, nenhuma margem para decisão. E depois o mesmo dono reclama que ninguém veste a camisa. Mas quem é que veste a camisa de alguém que trata todo mundo como réu?
+Ela vira desconfiança da equipe inteira. Um funcionário traiu, então agora todo funcionário é suspeito. Câmera em todo canto, relatório de tudo, nenhuma margem para decisão. E depois o mesmo dono reclama que ninguém se compromete. Mas quem se compromete com alguém que trata todo mundo como réu?
 
 Ela vira teto. Uma sociedade deu errado, então nunca mais vai ter sócio, investidor ou parceiro. E a empresa fica do tamanho exato do que um homem sozinho consegue carregar.
 
@@ -62,7 +62,7 @@ E, no fim do dia, ela vai para casa junto com você. A reunião da tarde ainda q
 
 A ofensa não fica quietinha num canto da memória. Ela trabalha. Dá opinião. Decide. E decide em seu nome, com a sua assinatura.
 
-Quer saber se esse sócio está no seu quadro? Repara em três sinais. O primeiro é a história que você conta demais. Todo empresário magoado tem um caso que repete em jantar, em reunião, em conversa de corredor, sempre com os mesmos detalhes, como quem confere se a ferida ainda está lá. O segundo é a regra exagerada: aquela norma da empresa que ninguém entende direito, mas que existe "por causa do que aconteceu da outra vez". E o terceiro é a reação desproporcional. Um funcionário pede para ver um relatório e você sente o sangue subir. Não é o pedido que te irrita. É a lembrança que ele acorda.
+Há três sinais de que esse sócio está no seu quadro. O primeiro é a história que você conta demais. Todo empresário magoado tem um caso que repete em jantar, em reunião, em conversa de corredor, sempre com os mesmos detalhes, como quem confere se a ferida ainda está lá. O segundo é a regra exagerada: aquela norma da empresa que ninguém entende direito, mas que existe "por causa do que aconteceu da outra vez". E o terceiro é a reação desproporcional. Um funcionário pede para ver um relatório e você sente o sangue subir. Não é o pedido que te irrita. É a lembrança que ele acorda.
 
 Se você reconheceu um desses sinais, não se culpe. Só acende a luz. Quem não enxerga o sócio oculto não tem como tirá-lo da mesa.
 
@@ -110,7 +110,7 @@ Perdão é você dizendo a si mesmo: "A partir de hoje, essa história não vota
 
 Isso não é só bonito no papel. O psicólogo americano Everett Worthington dedicou a carreira a estudar o perdão. Na virada de 1995 para 1996, a mãe dele foi assassinada durante um assalto. O homem que ensinava o perdão teve de aplicá-lo na dor mais funda que alguém pode sentir. Do que estudou e viveu, ele tirou um caminho simples. Primeiro, você olha a ferida de frente, sem se fazer de vítima e sem transformar o outro num monstro. Depois, tenta enxergar que aquela pessoa também tinha medos, pressões e feridas. Não para justificar, só para ver. Aí se lembra das vezes em que você errou e foi perdoado, e oferece o perdão como quem dá um presente. Torna a decisão concreta: escreve, fala em voz alta, conta a alguém de confiança. E, quando a lembrança voltar, porque ela vai voltar, você não começa do zero. Só lembra que já decidiu.
 
-Não é mágica. É método. E método, empresário entende.
+Funciona como método. E método, empresário entende.
 
 * * *
 
@@ -130,7 +130,7 @@ Ele ficou olhando as duas folhas, lado a lado, até que disse baixinho:
 
 — Ele me levou uma carteira de clientes. Eu dei pra ele seis anos da minha vida.
 
-Naquele dia, o Marcos decidiu perdoar. Repara: ele não *sentiu* perdão. Ele *decidiu*. Escreveu uma frase curta no verso da folha e me pediu que eu fosse testemunha.
+Naquele dia, o Marcos decidiu perdoar. Ele não *sentiu* perdão. Ele *decidiu*. Escreveu uma frase curta no verso da folha e me pediu que eu fosse testemunha.
 
 Nos meses seguintes, contratou um gerente comercial e, pela primeira vez, deu a ele meta, carteira e autonomia de verdade. Abriu conversa com um parceiro de distribuição em outro estado. Começou a sair da empresa às sete da noite.
 
@@ -152,20 +152,20 @@ Nenhum dos dois é estratégia. Os dois são culpa vestida de gestão. E a equip
 
 Jesus contou a história de um filho que pediu a herança adiantada, foi embora e gastou tudo. Faliu longe de casa e foi cuidar de porcos. E aí vem uma expressão curta, que eu considero uma das mais importantes da Bíblia para quem errou feio: "caindo em si". Ele não se chicoteou até a morte nem fingiu que nada tinha acontecido. Olhou para a própria situação com honestidade, levantou e voltou para casa.
 
-Perdoar a si mesmo é isso. Não é passar a mão na cabeça. É cair em si, assumir o que fez, reparar o que der para reparar e voltar a decidir com a cabeça limpa. Quem não se perdoa fica para sempre no chiqueiro, explicando para si mesmo por que não merece sair dali.
+Perdoar a si mesmo é isso: cair em si, assumir o que fez, reparar o que der para reparar e voltar a decidir com a cabeça limpa. Quem não se perdoa fica para sempre no chiqueiro, explicando para si mesmo por que não merece sair dali.
 
 ### Antes de virar a página
 
-Separa trinta minutos, sem celular, e responde com calma.
+Separe trinta minutos, sem celular, e responda com calma.
 
 1. Quem, ligado ao seu trabalho, você ainda não consegue mencionar sem sentir o estômago apertar? E o que essa mágoa está custando hoje, nas suas decisões, na sua equipe e na sua casa?
 2. Qual regra da sua empresa nasceu de uma ferida, e não de uma estratégia?
 
-O desafio dos próximos sete dias é fazer as duas listas do Marcos: o que aquilo custou, e o que ainda está custando. No fim, escreve a sua frase de decisão: "Eu decido perdoar ______ por ______. Essa história não vota mais nas minhas decisões." Se a pessoa que você precisa perdoar for você mesmo, vale igual. E, toda vez que a lembrança voltar durante a semana, não discute com ela. Só diz, por dentro: "já decidi".
+O desafio dos próximos sete dias é fazer as duas listas do Marcos: o que aquilo custou, e o que ainda está custando. No fim, escreva a sua frase de decisão: "Eu decido perdoar ______ por ______. Essa história não vota mais nas minhas decisões." Se a pessoa que você precisa perdoar for você mesmo, vale igual. E, toda vez que a lembrança voltar durante a semana, não discuta com ela. Diga apenas, por dentro: "já decidi".
 
-No seu Balanço do CPF, preencha o campo **Sócio oculto nº 3, a mágoa → baixa (frase de decisão)**. Escreve o nome do sócio oculto e, ao lado, a frase com que você deu baixa nele.
+No seu Balanço do CPF, preencha o campo **Sócio oculto nº 3, a mágoa → baixa (frase de decisão)**. Escreva o nome do sócio oculto e, ao lado, a frase com que você deu baixa nele.
 
-Mas atenção. Tem um sócio oculto mais difícil de encontrar do que a mágoa, porque ele não veio de ninguém. Ele nasceu do seu próprio sucesso, foi alimentado por cada acerto e hoje se senta à cabeceira de todas as suas reuniões. Ele tem um jeito muito educado de nunca estar errado.
+Existe, porém, outro sócio oculto. E esse não veio de ninguém. Ele nasceu do seu próprio sucesso, foi alimentado por cada acerto e hoje se senta à cabeceira de todas as suas reuniões. Ele tem um jeito muito educado de nunca estar errado.
 
 ::: {custom-style="Destaque"}
 "A armadilha da ofensa não pega só quem está errado. Pega, principalmente, quem tem razão."

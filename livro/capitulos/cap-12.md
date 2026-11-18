@@ -12,17 +12,17 @@ Responde rápido, sem pensar muito: onde a sua empresa vai estar daqui a três a
 
 Se veio um número, ótimo. Se veio uma frase genérica, do tipo "maior e mais organizada", tudo bem também. Mas, se veio um branco, presta atenção, porque você não está sozinho.
 
-Imagine uma sala com doze empresários. Diante de cada um, uma folha em branco e uma caneta. A instrução é simples: escrever, à mão, como a empresa vai estar dali a três anos. Não a empresa que você tem medo de ter. A que você tem coragem de construir.
+Já vi esta cena muitas vezes. Uma sala com doze empresários. Diante de cada um, uma folha em branco e uma caneta. A instrução é simples: escrever, à mão, como a empresa vai estar dali a três anos. Não a empresa que eles têm medo de ter. A que têm coragem de construir.
 
-Alguns começam na hora. Outros ficam olhando para o papel.
+Alguns começaram na hora. Outros ficaram olhando para o papel.
 
-Um deles é dono de uma construtora. Ergueu prédio, sobreviveu a crise de crédito e a obra parada, sabe o custo do metro quadrado de cabeça e negocia como poucos. Depois de uns minutos, ele levanta a mão:
+Um deles era dono de uma construtora (os detalhes estão alterados). Tinha erguido prédio, sobrevivido a crise de crédito e a obra parada, sabia o custo do metro quadrado de cabeça e negociava como poucos. Depois de uns minutos, levantou a mão:
 
 — Eu não sei o que escrever.
 
-Não é falta de capacidade. É que, quando a pergunta sai do "como eu resolvo isso hoje" e vai para o "onde eu quero chegar", a caneta trava.
+Faltava capacidade? Nenhuma. Acontece que, quando a pergunta sai do "como eu resolvo isso hoje" e vai para o "onde eu quero chegar", a caneta trava.
 
-— Faz quinze anos que eu só apago incêndio — ele diz, meio sem graça. — Nunca parei para pensar onde essa estrada termina.
+— Faz doze anos que eu só apago incêndio — ele disse, meio sem graça. — Nunca parei para pensar onde essa estrada termina.
 
 A maioria das empresas que eu conheço cabe nessa frase. Elas não estão sem rumo por incompetência. Estão sem rumo porque o dono passou anos olhando para o chão, desviando de buraco, e esqueceu de levantar a cabeça.
 
@@ -38,7 +38,7 @@ Visão é uma imagem clara de um futuro concreto, tão nítida que muda o que vo
 
 Repara nesse último pedaço. Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração.
 
-O profeta Habacuque recebeu a ordem de escrever a visão "para que a possa ler até quem passa correndo". Quem passa correndo é a sua equipe no meio do expediente. É quem divide a casa com você, no fim do dia. É você mesmo numa segunda-feira caótica, com quinze mensagens não lidas. Se a sua visão precisa de meia hora de explicação, ela ainda não está pronta.
+O profeta Habacuque recebeu a ordem de escrever a visão "para que a possa ler até quem passa correndo". Quem passa correndo é a sua equipe no meio do expediente. É quem divide a casa com você, no fim do dia. É você mesmo numa segunda-feira caótica, com vinte mensagens não lidas. Se a sua visão precisa de meia hora de explicação, ela ainda não está pronta.
 
 E aqui a tese deste livro volta com força. O CNPJ só alcança o que o CPF permite, e isso vale para o horizonte também. Nenhuma empresa enxerga mais longe do que quem a lidera. Se o dono só enxerga o mês, a empresa vive de mês em mês. Se só enxerga o próximo boleto, vive de boleto em boleto.
 
@@ -78,11 +78,11 @@ O muro ficou pronto em cinquenta e dois dias.
 
 Relê essa história pensando na sua empresa. Um incômodo que não foi ignorado. Um preparo feito antes de a oportunidade aparecer. Um pedido claro. Um diagnóstico feito pessoalmente, de noite, sem plateia. Uma visão dita de um jeito que qualquer família entendia. E a coragem de dizer não para o que distraía.
 
-Não tem truque nenhum aí. Tem clareza, preparo e foco.
+Clareza, preparo e foco. Só isso.
 
 * * *
 
-Séculos depois, um psiquiatra austríaco chamado Viktor Frankl descobriu o poder de um porquê num lugar onde nenhum laboratório entraria: os campos de concentração nazistas. Ele sobreviveu e contou o que viu em *Em busca de sentido*. Os prisioneiros que mantinham um motivo para seguir, fosse reencontrar alguém que amavam, terminar uma obra ou cumprir uma missão, encontravam forças para suportar o que parecia insuportável. Frankl gostava de repetir uma frase de Nietzsche: quem tem um porquê para viver suporta quase qualquer como.
+Uns vinte e quatro séculos depois, um psiquiatra austríaco chamado Viktor Frankl descobriu o poder de um porquê num lugar onde nenhum laboratório entraria: os campos de concentração nazistas. Ele sobreviveu e contou o que viu em *Em busca de sentido*. Os prisioneiros que mantinham um motivo para seguir, fosse reencontrar alguém que amavam, terminar uma obra ou cumprir uma missão, encontravam forças para suportar o que parecia insuportável. Frankl gostava de repetir uma frase de Nietzsche: quem tem um porquê para viver suporta quase qualquer como.
 
 Na sua empresa, o "como" vai ser duro em muitos meses. Vai ter cliente grande que some, funcionário-chave que pede para sair, juro que sobe. O que te mantém de pé nesses meses não é a planilha. É saber por que você está fazendo tudo isso.
 
@@ -90,17 +90,17 @@ Na sua empresa, o "como" vai ser duro em muitos meses. Vai ter cliente grande qu
 
 Então, na prática, como se escreve uma visão que funciona?
 
-Pense num prédio de três andares.
+Pense em três camadas, uma dentro da outra, como os anéis de um tronco.
 
-O térreo é o porquê. Por que essa empresa existe, além de pagar as suas contas? Que problema ela resolve, que famílias sustenta, que vida torna possível para você e para quem trabalha com você? Esse andar quase não muda de um ano para o outro. É o alicerce. É o que te tira da cama quando o mês aperta.
+A camada de dentro é o porquê. Por que essa empresa existe, além de pagar as suas contas? Que problema ela resolve, que famílias sustenta, que vida torna possível para você e para quem trabalha com você? Essa camada quase não muda de um ano para o outro. É o que te tira da cama quando o mês aperta.
 
-O andar do meio é a imagem de três anos. E aqui vai um pedido: escreve como se já tivesse acontecido, no presente. Quanto a empresa fatura e quanto sobra. Quantas pessoas trabalham com você e quem são os líderes abaixo de você. Que cliente você atende e qual deixou de atender. Em que degrau da escada você está, quantas horas trabalha e o que você não faz mais de jeito nenhum.
+A camada do meio é a imagem de três anos. E aqui vai um pedido: escreve como se já tivesse acontecido, no presente. Quanto a empresa fatura e quanto sobra. Quantas pessoas trabalham com você e quem são os líderes abaixo de você. Que cliente você atende e qual deixou de atender. Em que degrau da escada você está, quantas horas trabalha e o que você não faz mais de jeito nenhum.
 
 E, na mesma folha, como estão a sua casa, a sua saúde e a sua fé.
 
 Isso não é detalhe. Já vi muita visão empresarial bonita que custava um casamento. Lembra do capítulo 6? Filho não se demite. Se a sua visão de três anos exige que você perca a família no caminho, ela está errada. Não é visão. É ambição desgovernada.
 
-O último andar é o plano de doze meses. Do alto da imagem de três anos, você desce um degrau e pergunta: o que precisa estar pronto daqui a um ano para que essa imagem continue de pé? Daí saem poucas metas, com número, prazo e um responsável para cada uma.
+A camada de fora é o plano de doze meses. Olhando para a imagem de três anos, você pergunta: o que precisa estar pronto daqui a um ano para que essa imagem continue de pé? Daí saem poucas metas, com número, prazo e um responsável para cada uma.
 
 O porquê te dá energia. A imagem te dá direção. O plano te dá os passos. Sem o porquê, você desiste no primeiro mês ruim. Sem a imagem, você se perde em oportunidades que não são suas. Sem o plano, você só sonha.
 
@@ -118,7 +118,7 @@ Depois, ele dobrou a folha, colocou num envelope e escreveu na frente a data em 
 
 Agora, cuidado com uma armadilha. Uma visão que só existe na cabeça do dono não é a visão da empresa. É um segredo. E segredo não mobiliza ninguém.
 
-Muito empresário reclama que a equipe "não veste a camisa". Quando você pergunta se a equipe sabe para onde a empresa vai nos próximos três anos, vem um silêncio desconfortável. Ninguém veste a camisa de um time que não sabe que campeonato está jogando.
+Muito empresário reclama que a equipe "não se compromete". Quando você pergunta se a equipe sabe para onde a empresa vai nos próximos três anos, vem um silêncio desconfortável. Ninguém se compromete com um time que não sabe que campeonato está jogando.
 
 Neemias não levantou aquele muro sozinho. Ele contou a visão de um jeito tão simples que cada família entendeu qual era o seu pedaço.
 
@@ -150,7 +150,7 @@ Três anos viram um ano. O ano vira o trimestre. O trimestre vira o mês, e o m�
 
 Reserve uma hora. Uma hora sem celular, num lugar tranquilo, com papel e caneta. Escreva à mão.
 
-Primeiro, o térreo: por que a sua empresa existe, além de dar lucro? Até cinco linhas. Depois, o andar do meio: uma página no presente, como se já tivesse acontecido, contando como estão daqui a três anos a sua empresa, a sua casa, a sua saúde e a sua fé.
+Primeiro, a camada de dentro: por que a sua empresa existe, além de dar lucro? Até cinco linhas. Depois, a camada do meio: uma página no presente, como se já tivesse acontecido, contando como estão daqui a três anos a sua empresa, a sua casa, a sua saúde e a sua fé.
 
 A pergunta-chave é esta: **que frase resume tudo isso de um jeito que alguém da sua equipe entenderia passando correndo?**
 
@@ -158,9 +158,9 @@ Coloque a página num envelope, escreva na frente a data em que vai abri-lo e gu
 
 **O desafio dos próximos sete dias:** conte a frase para três pessoas. Primeiro, para quem divide a vida com você em casa, e escute de verdade o que ela tem a dizer. Depois, para alguém da sua liderança. Por último, para alguém da equipe que você nunca imaginaria chamando para essa conversa. E bloqueie na agenda duas horas fixas por semana para pensar no futuro.
 
-**No seu Balanço do CPF:** preencha o campo **"A visão de 3 anos em uma frase"**.
+No seu Balanço do CPF, preencha o campo **A visão de 3 anos em uma frase**.
 
-Agora você sabe para onde está indo. Falta uma pergunta que talvez seja a mais bonita de todas: para quem você está indo? Nenhuma empresa existe só para o próprio dono. E existe um jeito simples, e um pouco assustador, de descobrir qual é o lugar da sua no mundo.
+Para onde você vai, já está no papel. Falta uma pergunta que talvez seja a mais bonita de todas: para quem você está indo? Nenhuma empresa existe só para o próprio dono. E existe um jeito simples, e um pouco assustador, de descobrir qual é o lugar da sua no mundo.
 
 ::: {custom-style="Destaque"}
 "Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração."

@@ -58,7 +58,7 @@ Agora inverte. O dono seguro delega. O dono humilde aprende. O dono livre constr
 
 Quando o CPF evolui, o CNPJ encontra um novo nível.
 
-Talvez você esteja pensando: "Mas e a economia? E os juros? E os impostos?" Eles pesam, e muito. Todo ano, centenas de milhares de empresas fecham as portas no Brasil. Mas em mais de vinte anos de vida empresarial eu vi uma coisa se repetir: empresa quebrando no setor que mais cresce no país e empresa crescendo no meio da pior crise. Quando você coloca esses casos lado a lado, a diferença raramente está no mercado. Quase sempre está em quem decide.
+Talvez você esteja pensando: "Mas e a economia? E os juros? E os impostos?" Eles pesam, e muito. Todo ano, mais de um milhão de CNPJs são fechados no Brasil, contando os microempreendedores individuais, segundo o Mapa de Empresas do governo federal. Mas em mais de vinte anos de vida empresarial eu vi uma coisa se repetir: empresa quebrando no setor que mais cresce no país e empresa crescendo no meio da pior crise. Quando você coloca esses casos lado a lado, a diferença raramente está no mercado. Quase sempre está em quem decide.
 
 Não existe produto, ponto comercial ou promoção que salve uma empresa de uma gestão que não amadureceu. E não existe gestão que amadureça enquanto quem a exerce continua do mesmo tamanho.
 
@@ -90,7 +90,7 @@ Agora eu vou te contar o que esse documento não mostra.
 
 Toda empresa tem um segundo quadro de sócios. Oculto. Eles não assinaram o contrato social, não aportaram capital e nunca apareceram numa reunião. Mas votam em todas as decisões.
 
-Um deles é aquela frase que você ouviu na infância: "dinheiro não cresce em árvore". Ela vota toda vez que você precisa investir e trava. Outro é o ex-sócio que saiu levando os melhores clientes. Ele não trabalha mais com você há anos, mas vota toda vez que um parceiro novo aparece. Tem o orgulho, que vota contra qualquer conselho que não tenha partido de você. E tem o mais antigo e mais teimoso de todos, aquele que repete baixinho, todos os dias: "ninguém faz como eu".
+Um deles é aquela frase que você ouviu na infância: "dinheiro não cresce em árvore". Ela vota toda vez que você precisa investir e trava. Outro é o ex-sócio que saiu levando os melhores clientes. Ele não trabalha mais com você há anos, mas vota toda vez que um parceiro novo aparece. Tem o orgulho, que vota contra qualquer conselho que não tenha partido de você. E tem um que está no contrato desde o primeiro dia e repete baixinho, toda manhã: "ninguém faz como eu".
 
 Você não enxerga esses sócios. Mas a sua equipe sente cada um deles. E os seus números também.
 
@@ -98,11 +98,11 @@ Por isso eu quero te deixar uma pergunta que vai atravessar este livro inteiro:
 
 **Quem está no quadro de sócios oculto da sua empresa?**
 
-Nos próximos capítulos, a gente vai identificar esses sócios um por um, pelo nome. E vai fazer com eles o que se faz com sócio que já não deveria estar no contrato: dar baixa. Não com força de vontade, que dura até a próxima segunda-feira. Com consciência, decisão e prática.
+Nos próximos capítulos, a gente vai identificar esses sócios um por um, pelo nome. E vai fazer com eles o que se faz com sócio que já não deveria estar no contrato: dar baixa. Força de vontade dura até a próxima segunda-feira. Baixa se dá com consciência, decisão e prática.
 
 ### A escada
 
-Existe um segundo instrumento que vai te acompanhar até o fim. É uma escada de três degraus.
+O segundo instrumento é uma escada de três degraus. Esta é a única vez que vou desenhá-la inteira, então guarde bem.
 
 No primeiro degrau está o **operador**. A frase dele é "eu sou a máquina". Tudo depende da força dele. É o melhor vendedor, o melhor técnico, o melhor apagador de incêndio da empresa, e é exatamente por isso que está preso.
 
@@ -110,23 +110,23 @@ No segundo degrau está o **dono**. A frase dele é "eu tenho a máquina". Ele o
 
 No terceiro degrau está o **líder**. A frase dele é "eu formo quem conduz". Ele deixou de ser a resposta para tudo e passou a formar quem responde.
 
-Repara numa coisa. Para subir do primeiro para o segundo degrau, você precisa de ferramenta: processo, indicador, organograma. Isso se aprende. Mas para subir do segundo para o terceiro, ferramenta não basta. Você precisa abrir mão do controle, aceitar que os outros façam diferente de você, ouvir crítica sem se defender, perdoar um erro sem abrir mão da exigência.
+Para subir do primeiro para o segundo degrau, você precisa de ferramenta: processo, indicador, organograma. Isso se aprende em qualquer curso. Mas para subir do segundo para o terceiro, ferramenta não basta. Você precisa abrir mão do controle, aceitar que os outros façam diferente de você, ouvir crítica sem se defender, perdoar um erro sem abrir mão da exigência.
 
-Isso não é técnica. É identidade.
+Isso tem outro nome: identidade.
 
 E é por isso que tanta empresa com processo impecável continua presa. A estrutura sobe até o segundo degrau. O terceiro, só o CPF sobe.
 
-Daqui a pouco você vai medir em que degrau está. Não pelo que acha de si mesmo, mas pelo que fez na última semana.
+Daqui a pouco você vai medir em que degrau está, olhando para o que fez nos últimos dias, e não para o que acha de si mesmo.
 
 * * *
 
 O terceiro instrumento é o mais simples. Eu o chamo de **Balanço do CPF**.
 
-Você conhece o balanço da sua empresa: ativos de um lado, passivos do outro, e uma fotografia honesta de onde ela está. O Balanço do CPF é a mesma coisa, só que de você. Uma única folha, com um campo para cada capítulo. Você encontra o modelo no fim do livro. Pode copiar à mão num caderno ou imprimir.
+Você conhece o balanço da sua empresa: uma fotografia honesta do que ela tem e do que ela deve. O Balanço do CPF é a mesma fotografia, só que de você. Uma única folha, com quinze linhas, uma para esta introdução e uma para cada capítulo. O modelo está no fim do livro, e cabe numa página de caderno.
 
-A cada capítulo, você preenche um campo. Só um. Quem você é além do CNPJ. Os sócios ocultos a que você deu baixa. A frase da sua casa. Os números que você precisa saber de cor. A visão para os próximos três anos.
+A cada capítulo, você preenche uma linha. Só uma. Quem você é além do CNPJ. Os sócios ocultos a que você deu baixa. A frase da sua casa. Os números que você precisa saber de cor. A visão para os próximos três anos. No fim, a folha inteira vai caber na sua mão, e vai dizer mais sobre a sua empresa do que muito relatório.
 
-Então, deixa eu ser bem claro sobre o que este livro promete. Se você fizer a jornada, e não apenas ler, vai chegar à última página com três coisas na mão. A primeira é uma folha que mostra quem você é, quem ainda decide por você e para onde você vai. A segunda é a baixa de pelo menos cinco sócios ocultos que hoje votam nas suas decisões. A terceira é um placar, medido no começo e no fim, mostrando que você subiu pelo menos meio degrau na escada.
+Então, deixa eu ser bem claro sobre o que este livro promete. Se você fizer a jornada, e não apenas ler, vai chegar à última página com três coisas na mão. A primeira é uma folha que mostra quem você é, quem ainda decide por você e para onde você vai. A segunda é a baixa de pelo menos cinco sócios ocultos que hoje votam nas suas decisões. A terceira é um placar, medido no começo e no fim, mostrando que você subiu pelo menos meio degrau na escada. E meio degrau tem número: são duas ou três letras O que viraram D ou L.
 
 E, se o seu CPF subir meio degrau, você vai ver o seu CNPJ subir junto.
 
@@ -136,7 +136,7 @@ Um aviso sobre o caminho.
 
 Vamos começar por dentro: quem você é, que vozes você herdou, quem foi o primeiro líder que você conheceu. Depois, vamos olhar para quem ainda decide por você: a mágoa e o orgulho. Em seguida, para quem depende de você: a sua casa, o seu corpo, as pessoas com quem você anda. Só então vamos entrar na empresa: delegação, cultura e números. E vamos terminar olhando para longe: visão, o papel do seu CNPJ na sociedade e o legado.
 
-Pode parecer uma volta longa para quem quer resultado. Não é. É o caminho mais curto que eu conheço. Empresa que muda só por fora volta ao que era em seis meses.
+Pode parecer uma volta longa para quem quer resultado. Na prática, é o caminho mais curto que eu conheço. Empresa que muda só por fora volta ao que era em seis meses.
 
 Ao longo da conversa, você vai encontrar histórias de um livro escrito há milhares de anos, ideias de pensadores antigos e resultados de pesquisas recentes. Eu escrevo assim por convicção. A Bíblia é, para mim, o maior manual de liderança já escrito, e eu sempre me impressiono quando uma pesquisa feita em laboratório confirma algo que já estava escrito ali há três mil anos. Você não precisa compartilhar a minha fé para aproveitar este livro. Precisa só estar disposto a se olhar com honestidade.
 
@@ -146,15 +146,15 @@ Separe um caderno, de papel, se puder. Escrever à mão desacelera o pensamento 
 
 Vamos começar medindo.
 
-Pega o caderno e escreve as dez últimas coisas que você fez na empresa. Não as mais importantes: as últimas. A ligação para o cliente, a aprovação da compra, a conversa com o gerente, o boleto que você mesmo foi conferir.
+Pegue o caderno e escreva as dez últimas coisas que você fez na empresa. As últimas, e não as mais importantes. A ligação para o cliente, a aprovação da compra, a conversa com o gerente, o boleto que você mesmo foi conferir.
 
-Agora marca cada uma com uma letra. **O**, se você operou: fez com as próprias mãos algo que alguém poderia fazer. **D**, se você organizou: criou ou ajustou um processo, uma rotina ou um indicador para que aquilo deixe de depender de você. **L**, se você formou: ensinou, corrigiu, desenvolveu alguém para conduzir.
+Agora marque cada uma com a letra do degrau a que ela pertence: O de operador, D de dono, L de líder. Marque **O** se você mesmo executou uma tarefa da operação. Marque **D** se você organizou ou pensou a empresa: criou um processo, um indicador ou uma rotina, olhou os números, decidiu a estratégia. Marque **L** se você desenvolveu alguém: ensinou, delegou e acompanhou, deu um retorno franco, preparou quem vai te suceder.
 
 Some as letras. O seu placar vai sair parecido com isto: "7 O, 2 D, 1 L". Não se assuste com ele. Ninguém começa este livro no terceiro degrau, nem eu.
 
-**No seu Balanço do CPF, preencha o campo "Placar da escada" com a medição inicial.** Você vai refazer este teste no último capítulo.
+No seu Balanço do CPF, preencha o campo **Placar da escada (O-D-L)**. Você vai refazer este teste no último capítulo.
 
-O desafio para os próximos sete dias é este: toda vez que você resolver alguma coisa que outra pessoa poderia ter resolvido, anote o que era e quanto tempo levou. No sétimo dia, some as horas. Esse número é o tamanho da sua prisão. E saber o tamanho dela já é o começo da saída.
+O desafio para os próximos sete dias é este: toda vez que resolver alguma coisa que outra pessoa poderia ter resolvido, anote o que era e quanto tempo levou. No sétimo dia, some as horas. Esse número é o tamanho da sua prisão. E saber o tamanho dela já é o começo da saída.
 
 Mas, antes de subir qualquer degrau, existe uma pergunta mais básica. Tão básica que quase nenhum empresário consegue responder sem falar da empresa.
 

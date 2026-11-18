@@ -5,7 +5,7 @@ Até aqui, a conversa foi para dentro: quem você é, quem ainda decide por voc�
 # Capítulo 9
 ## Ele não delegou. Ele largou.
 
-> "Não é bom o que fazes. Tu só não o podes fazer."
+> "Não é bom o que fazes. [...] Sozinho não o podes fazer."
 > — Êxodo 18:17-18
 
 Este é o capítulo em que o livro vira.
@@ -18,13 +18,9 @@ E o primeiro andar tem um nome que você já conhece desde a introdução: a esc
 
 Lembra do pet shop?
 
-Lá no capítulo 2, você conheceu o dono dele e a voz que ele carregava desde a infância: "crescer dá muito trabalho". Agora eu quero te mostrar o que essa voz fez quando ele finalmente decidiu crescer.
+Lá no capítulo 2, você conheceu o dono dele e a voz que ele carregava desde a infância: "crescer dá muito trabalho". Agora eu quero te mostrar o que aconteceu quando ele finalmente tentou sair da operação.
 
-Era um negócio que tinha tudo para dar certo. O mercado pet é dos que mais crescem no país: a família corta o cinema, adia a viagem, mas não corta a ração, o banho e a vacina do cachorro. Loja bem localizada, clientela fiel, produto bom.
-
-E, mesmo assim, o dono vivia reclamando da crise.
-
-O movimento caía. Cliente antigo sumia sem explicação. A equipe trocava a cada poucos meses. E a frase que eu mais ouvia dele era a mesma que eu ouço de empresários do Brasil inteiro: "Hoje em dia ninguém quer nada com nada".
+A equipe trocava a cada poucos meses, cliente antigo sumia sem explicação, e a frase que eu mais ouvia dele era a mesma que eu ouço de empresários do Brasil inteiro: "Hoje em dia ninguém quer nada com nada".
 
 Quando fomos olhar de perto, apareceu uma coisa curiosa. O dono já não ficava na loja. E eu preciso ser justo com ele: essa decisão estava corretíssima. O empresário que passa o dia dando banho em cachorro, atendendo balcão e contando saco de ração nunca vai ter cabeça para pensar o negócio. Sair da operação era o movimento certo.
 
@@ -42,19 +38,13 @@ Ele não delegou. Ele largou.
 
 * * *
 
-Volta comigo para a escada da introdução, porque agora ela vai fazer todo o sentido.
-
-No primeiro degrau, o operador diz: "eu sou a máquina". Se ele trabalha, a empresa anda. Se ele para, a empresa para.
-
-No segundo, o dono diz: "eu tenho a máquina". Construiu rotinas, escreveu como as coisas são feitas, criou números para acompanhar. A empresa depende do sistema que ele desenhou, não do braço dele.
-
-No terceiro, o líder diz: "eu formo quem conduz". Existe gente capaz de melhorar o processo, decidir e formar outras pessoas. A empresa cresce além dele porque ele se multiplicou.
+Lembra da escada da introdução? Operador, dono, líder. "Eu sou a máquina", "eu tenho a máquina", "eu formo quem conduz".
 
 O dono do pet shop tentou pular do primeiro degrau direto para fora da escada. Saiu da operação sem construir o segundo degrau. Não havia processo para segurar a loja sem ele. E, sem processo, não havia como formar ninguém para o terceiro.
 
 Ninguém pula degrau sem pagar a conta.
 
-E agora eu te pergunto: lembra do placar que você anotou na introdução? Quantos "O" apareceram na sua lista? Guarda esse número. A gente vai mexer nele antes do fim deste capítulo.
+E agora eu te pergunto: lembra do placar que você anotou na introdução? Quantos "O" apareceram na sua lista? Guarde esse número. A gente vai mexer nele antes do fim deste capítulo.
 
 * * *
 
@@ -94,15 +84,13 @@ Agora, preciso fazer uma pausa, porque sei o que muita gente sente neste ponto. 
 
 Calma.
 
-Centralização não é falha de caráter. É falta de estrutura. A maioria das empresas que trava não trava por falta de esforço. Trava porque cresceu além da estrutura que a sustentava. Você não errou ao construir a sua empresa com as próprias mãos. Foi justamente essa força que trouxe o negócio até aqui.
-
-Só que o que te trouxe até aqui não vai te levar adiante.
+Centralização não é falha de caráter. É falta de estrutura. A maioria das empresas que trava não trava por falta de esforço. Trava porque cresceu além da estrutura que a sustentava. Você não errou ao construir a sua empresa com as próprias mãos. Foi justamente essa força que trouxe o negócio até aqui. Só que a força que ergue uma empresa raramente é a mesma que a faz crescer.
 
 Faz um teste. Se você sumisse por trinta dias, sem celular e sem e-mail, a sua empresa cresceria ou travaria?
 
-Se a resposta foi "travaria", tem um sócio oculto sentado na sua cadeira. Talvez o mais difícil de todos de reconhecer, porque ele se parece muito com uma virtude. O nome dele é "eu sou a máquina".
+Se a resposta foi "travaria", tem um sócio oculto sentado na sua cadeira. Você já ouviu o nome dele na introdução, e ele é difícil de reconhecer porque se parece muito com uma virtude. Ele se chama "ninguém faz como eu".
 
-Ele vota em todas as reuniões. É ele quem diz "deixa que eu resolvo", "é mais rápido eu mesmo fazer", "ninguém faz como eu". E ele tem um argumento difícil de rebater: na maioria das vezes, é verdade. Você faz mais rápido. Você faz melhor.
+Ele vota em todas as reuniões. É ele quem diz "deixa que eu resolvo", "é mais rápido eu mesmo fazer". E ele tem um argumento difícil de rebater: na maioria das vezes, é verdade. Você faz mais rápido. Você faz melhor.
 
 E é exatamente por isso que você continua preso.
 
@@ -116,7 +104,7 @@ Lembra da conversa do capítulo 1, sobre a identidade fundida com a empresa? É 
 
 E é aqui que tudo o que você trabalhou até agora se encontra. Quem sabe quem é, soltou as mágoas, desceu do posto de maior da sala e tem a casa em ordem não precisa ser imprescindível para se sentir valioso. Consegue formar pessoas melhores do que ele em várias funções sem se sentir ameaçado. Encontrou valor em outro lugar: em quem ele forma.
 
-Por isso este livro passou oito capítulos olhando para dentro antes de entrar na empresa. Não era desvio. Era o caminho. Ninguém sobe para o terceiro degrau carregando um CPF que precisa ser a máquina.
+Por isso este livro passou oito capítulos olhando para dentro antes de entrar na empresa. Não era desvio. Era o caminho. Ninguém sobe para o terceiro degrau carregando um CPF que precisa ser insubstituível.
 
 [AUTOR: contar, em poucas linhas, a primeira delegação difícil que você fez e o que sentiu ao soltar.]
 
@@ -156,30 +144,30 @@ Mesmo assim, reclamava de uma coisa que não sabia explicar: "Eu entro na reuni�
 
 Perguntei como ela tinha ido à última reunião importante. Ela riu: "Do jeito que eu estava. Saí correndo do consultório, de jaleco ainda".
 
-Não tem nada de errado com o jaleco. É o uniforme de quem atende, de quem executa. E era exatamente essa a mensagem que a Carla levava para cada sala: "eu sou a máquina". A imagem dela estava atrasada em relação à identidade.
+Não tem nada de errado com o jaleco. É o uniforme de quem atende, de quem executa. E era exatamente essa a mensagem que a Carla levava para cada negociação: a de que ela ainda estava no primeiro degrau. A imagem dela estava atrasada em relação ao lugar que ela já ocupava na empresa.
 
-Isso não é vaidade. É coerência. A sua apresentação, a roupa, a pontualidade, o tom com que você fala, o jeito de escrever uma mensagem, é a primeira frase que você diz em qualquer sala. E, se ela contradiz o papel que você ocupa, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
+Isso é coerência, e tem pouco a ver com vaidade. A sua apresentação, a roupa, a pontualidade, o tom com que você fala, o jeito de escrever uma mensagem, é a primeira frase que você diz em qualquer sala. E, se ela contradiz o papel que você ocupa, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
 
-Lembra de José, lá do capítulo 4? Quando finalmente foi chamado da prisão para falar com o faraó, a oportunidade da vida dele, o texto registra um detalhe que quase todo mundo pula: antes de entrar, ele "barbeou-se e mudou as suas roupas" (Gênesis 41:14). Não mudou quem era. Ajustou a apresentação para que quem ele era pudesse ser ouvido.
+José, o mesmo que você viu perdoar os irmãos, viveu isso. Quando finalmente foi chamado da prisão para falar com o faraó, a oportunidade da vida dele, o texto registra um detalhe que quase todo mundo pula: antes de entrar, ele "barbeou-se e mudou as suas roupas" (Gênesis 41:14). Não mudou quem era. Ajustou a apresentação para que quem ele era pudesse ser ouvido.
 
-E tem um detalhe que me interessa ainda mais: a imagem não fala só com os outros. Fala com você. Em 2012, os pesquisadores Hajo Adam e Adam Galinsky pediram a um grupo de voluntários que vestisse um jaleco branco. Para uma parte, disseram que era jaleco de médico. Para a outra, que era jaleco de pintor. Era a mesma peça. Mas quem achava que vestia o jaleco de médico se saiu melhor nas tarefas de atenção. Eles deram a isso o nome de "cognição vestida": a roupa muda o comportamento de quem a veste, de acordo com o que ela significa para a pessoa.
+E a imagem não fala só com os outros. Fala também com você. Em 2012, os pesquisadores Hajo Adam e Adam Galinsky publicaram um experimento curioso: voluntários que achavam estar vestindo um jaleco de médico se saíram melhor em tarefas de atenção do que os que achavam vestir um jaleco de pintor, embora a peça fosse a mesma. Chamaram isso de "cognição vestida". Uma tentativa de repetir o estudo, anos depois, não encontrou o mesmo efeito, então vale tomar o número com cautela. A intuição, porém, qualquer empresário reconhece: o modo como você se apresenta lembra a você mesmo que papel está ocupando.
 
 Não se trata de parecer mais do que você é. Trata-se de parar de se apresentar como menos.
 
-Se você já não é a máquina, mas continua se vestindo, falando e se portando como a máquina, as pessoas vão continuar te tratando como a máquina. Inclusive a sua equipe.
+Se você já não opera tudo, mas continua se vestindo, falando e se portando como quem opera tudo, as pessoas vão continuar te tratando assim. Inclusive a sua equipe.
 
 Apresente-se no degrau que você ocupa.
 
 ### Antes de virar a página
 
-Pega o placar O-D-L da introdução e olha para as atividades marcadas com O.
+Pegue o placar O-D-L da introdução e olhe para as atividades marcadas com O.
 
 1. Se eu parar de fazer qual delas, a minha empresa vai crescer?
 2. O que eu ganho, por dentro, continuando a fazer isso?
 
-O desafio para os próximos sete dias é dar o primeiro passo de Jetro. Escolhe uma única atividade marcada com O e uma pessoa com capacidade e caráter para assumi-la. Nesta semana, faz com ela olhando, depois faz junto com ela, e escreve o passo a passo numa página só. Combina qual número vocês vão olhar juntos quando ela estiver dirigindo sozinha.
+O desafio para os próximos sete dias é dar o primeiro passo de Jetro. Escolha uma única atividade marcada com O e uma pessoa com capacidade e caráter para assumi-la. Nesta semana, faça com ela olhando, depois faça junto com ela, e escreva o passo a passo numa página só. Combine qual número vocês vão olhar juntos quando ela estiver dirigindo sozinha.
 
-No seu **Balanço do CPF**, preenche o campo **"Sócio oculto nº 5: eu sou a máquina"**: o degrau em que você está, o próximo degrau que decidiu subir e a tarefa que vai delegar.
+No seu Balanço do CPF, preencha o campo **Sócio oculto nº 5, "ninguém faz como eu" → degrau atual, próximo degrau e a tarefa que vou delegar**.
 
 Delegar resolve a tarefa. Mas existe uma coisa que nenhuma delegação resolve sozinha: o jeito como as coisas são feitas na sua empresa quando você não está olhando. No próximo capítulo, a gente vai falar da identidade da sua empresa. E eu já te adianto: ela se parece muito com você.
 
