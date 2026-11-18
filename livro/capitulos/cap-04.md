@@ -8,9 +8,7 @@ Até aqui, a gente conversou sobre quem você é e sobre as vozes que você trou
 > "É impossível que não venham escândalos."
 > — Lucas 17:1
 
-No capítulo anterior, eu te pedi para escutar as frases que você ouviu na infância e descobrir de onde elas vieram. Talvez, nesse exercício, você tenha esbarrado em algo mais pesado do que uma frase. Talvez tenha esbarrado em um nome. Em um rosto.
-
-Então deixa eu te contar a história do Marcos (nome alterado).
+Eu terminei o capítulo anterior falando de um nome e de um rosto. Talvez, enquanto lia, já tenha vindo alguém à sua cabeça. Guarda essa pessoa por um instante, porque antes eu quero te contar a história do Marcos (nome alterado).
 
 O Marcos tinha uma distribuidora com quarenta funcionários e um sócio. Um dia, esse sócio foi embora levando junto a carteira de clientes mais rentável da empresa. Não teve briga nem gritaria. Teve um e-mail, curto, educado, assinado por um advogado.
 

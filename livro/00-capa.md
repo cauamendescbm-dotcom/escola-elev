@@ -9,6 +9,6 @@ author: "Gustavo Nardi"
 :::
 
 ::: {custom-style="Block Text"}
-**Manuscrito — versão 1 (rascunho do miolo)**
+**Manuscrito — versão 2 (miolo em formato de conversa)**
 Introdução, prefácio, dedicatória e agradecimentos entram na próxima etapa.
 :::
