@@ -136,6 +136,10 @@ Na sua página, faça duas colunas. Na da esquerda, escreva "Vozes que eu herdei
 
 O desafio desta semana: escolha a crença que mais trava a sua empresa, reescreva-a como uma verdade nova, curta, no presente, e coloque num cartão onde você vai ver todas as manhãs. Na carteira, no espelho, na tela do computador. Leia em voz alta uma vez por dia. E, toda vez que perceber a voz antiga falando, anote o momento. No sétimo dia, releia as anotações. Você vai descobrir em que situações ela fala mais alto. Ali estão os seus gigantes.
 
-Mas talvez, ao rastrear a origem dessas vozes, você tenha esbarrado em algo mais pesado do que uma frase. Talvez tenha esbarrado num nome. Num rosto. Em alguém que te machucou de verdade.
+Mas talvez, ao rastrear a origem dessas vozes, você tenha notado que quase todas vieram do mesmo lugar. Da mesma casa. Da mesma mesa. De duas pessoas que, muito antes de qualquer CNPJ, te ensinaram o que é liderar.
 
-Esse peso você leva para o escritório todos os dias, mesmo sem perceber. E é dele que a gente vai falar agora.
+É sobre elas que a gente vai conversar agora.
+
+::: {custom-style="Destaque"}
+"O milagre não começou na conta de Filipe. Começou na disposição de André de colocar nas mãos certas o pouco que havia."
+:::

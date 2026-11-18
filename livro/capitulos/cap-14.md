@@ -1,137 +1,153 @@
+# Parte VI — Do CPF ao CNPJ
+
+Até aqui, a nossa conversa foi para dentro de você. Agora quero te convidar a atravessar a rua e entrar comigo na sua empresa. Mas presta atenção: a gente não muda de assunto. Estrutura, cultura e números parecem temas técnicos, e são. Só que, olhando de perto, cada um deles é um espelho. A empresa que você tem hoje é a sua identidade transformada em sistema.
+
 # Capítulo 14
-## Sua empresa é o seu reflexo
+## Operador, dono, líder
 
-> "Pelos seus frutos os conhecereis."
-> — Mateus 7:16
+> "Não é bom o que fazes. Tu só não o podes fazer."
+> — Êxodo 18:17-18
 
-No capítulo anterior, a gente terminou com uma provocação: dá para escrever cada processo, criar cada número e delegar cada tarefa, e mesmo assim ver a equipe trabalhando cada um do seu jeito. Eu prometi que ia te mostrar por quê. Então deixa eu te contar uma reunião que eu nunca esqueci.
+No capítulo anterior, eu te contei do Fábio, que trocou a mesa de bar das quintas-feiras por um ambiente que o puxava para cima. Um dia ele me disse uma coisa que eu nunca esqueci: "Gustavo, o problema é que agora eu enxergo. E, quando você enxerga, não dá mais para fingir que não viu."
 
-Era o terceiro encontro com aquele empresário, e ele chegou bufando.
+É exatamente isso que acontece quando um CPF começa a evoluir. Ele volta para a empresa na segunda-feira e enxerga coisas que estavam ali o tempo todo. A fila na porta da sala dele. O WhatsApp que não para. A decisão de dez reais que ninguém toma sem perguntar. E aí vem a pergunta inevitável: por que tudo aqui depende de mim?
 
-"Gustavo, eu não aguento mais. Ninguém aqui cumpre horário. Marco reunião às oito e ela começa oito e vinte. Peço um relatório para sexta e ele chega na terça. Parece que ninguém leva a empresa a sério."
+Para responder, quero te contar a história de um pet shop.
 
-Ele tinha uma distribuidora de porte médio, uns quarenta colaboradores e, na recepção, uma placa enorme e bonita com os valores da empresa: Compromisso. Excelência. Respeito.
+Você sabe que o mercado pet é um dos que mais crescem no país. A família corta o cinema, corta o restaurante, adia a viagem, mas não corta a ração, o banho e a vacina do cachorro. Era um negócio bem localizado, com clientela fiel e produto bom. Tinha tudo para dar certo.
 
-Eu perguntei, com calma: "A que horas você chegou hoje?"
+E, mesmo assim, o dono vivia reclamando da crise.
 
-Ele deu uma risadinha sem graça. "Ah, hoje eu me atrasei um pouco. O trânsito..."
+O movimento caía. Cliente antigo sumia sem explicação. A equipe trocava a cada poucos meses. E a frase que eu mais ouvia dele era aquela que eu ouço de empresários do Brasil inteiro: "Hoje em dia ninguém quer nada com nada. Não existe mais gente comprometida."
 
-"E ontem?"
+Quando fomos olhar de perto, descobrimos uma coisa curiosa. O dono não ficava mais na loja. E, olha, eu preciso ser justo com ele: essa decisão estava corretíssima. O empresário que passa o dia dando banho em cachorro, atendendo balcão e contando saco de ração nunca vai ter cabeça para pensar o negócio. Sair da operação era o movimento certo.
 
-Silêncio.
+O problema não foi a decisão.
 
-"E quando alguém te entrega um relatório atrasado, o que acontece?"
+Foi o jeito.
 
-"Eu reclamo. Mas acabo aceitando, porque não tenho tempo de ficar cobrando."
+Ele saiu e deixou tudo na mão da equipe. Sem dizer para onde a empresa ia. Sem descrever o que cada um tinha de fazer. Sem nenhum número para saber quem estava indo bem, quem precisava de ajuda e onde as coisas estavam vazando. Treinamento, nem pensar. Ele não participava nem da contratação.
 
-Pronto. A resposta estava ali, na mesa, entre nós dois. Não era preguiça da equipe. Não era culpa da geração nova. Não era o mercado. A empresa estava fazendo exatamente o que ele ensinava. Não com a placa da recepção, mas com o jeito dele de viver. A placa dizia "compromisso". O dono dizia, com a vida, "mais ou menos". E a equipe, que não é boba, escutou o dono e ignorou a placa.
+Agora me responde, com sinceridade: que futuro você espera para uma empresa assim?
 
-Eu mudei o nome e o segmento dele, mas essa cena se repete em empresas de todos os tamanhos. Talvez na sua também.
+Não existe produto, ponto comercial ou promoção que salve uma empresa de uma gestão ausente. E repara na ironia. O dono dizia que as pessoas não tinham compromisso. Mas, sem perceber, ele fazia exatamente a mesma coisa. Não estava comprometido com a própria responsabilidade de liderar.
 
-* * *
+Ele não tinha saído da operação.
 
-Sabe, se o CPF tem identidade, o CNPJ também tem. E o nome dela é cultura.
-
-Eu gosto de definir cultura de um jeito bem simples: é como as coisas são feitas quando ninguém está olhando. É o que fica quando todo o resto muda. Troca o gerente, muda o produto, a empresa cresce, atravessa uma crise, e aquele jeito continua lá. Por isso, quando escrevemos o Manual de Cultura da ELEV, colocamos logo no começo que a cultura é a alma da empresa.
-
-E agora você vai entender por que este capítulo só aparece aqui, depois de tudo o que a gente conversou sobre identidade, perdão, orgulho e família. A cultura da empresa é a identidade do dono, multiplicada.
-
-Se o dono não sabe quem é, a empresa também não sabe. Se ele tolera pequenas mentiras em si mesmo, a empresa vai tolerá-las nos relatórios. Se ele vive com mágoa, o ambiente vai ser de desconfiança. Se ele é orgulhoso, ninguém vai trazer a notícia ruim a tempo. Se ele não tem limite em casa, também não vai ter no escritório.
-
-Não dá para escrever a cultura da empresa sem antes ter olhado para a sua.
+Ele tinha saído da liderança.
 
 * * *
 
-Quero te levar a Jerusalém, uns dois mil e quinhentos anos atrás.
+Na ELEV, a gente costuma explicar essa história com uma imagem simples: uma escada de três degraus. E eu quero que você se encontre nela enquanto lê, porque cada degrau tem uma frase, e você vai reconhecer a sua em segundos.
 
-A cidade estava em ruínas. Os muros tinham sido derrubados, as portas queimadas, e o povo que voltou do exílio vivia exposto, humilhado, sem proteção nenhuma. E isso não era recente. Fazia décadas que estava assim. Todo mundo reclamava. Ninguém reconstruía.
+No primeiro degrau está o operador. A frase dele é "eu sou a máquina". Se ele trabalha, a empresa anda. Se ele para, a empresa para. Normalmente é o melhor vendedor da casa, o melhor técnico, aquele que resolve qualquer pepino. E é justamente por ser tão bom que ele fica preso.
 
-Até que chegou um homem chamado Neemias.
+No segundo degrau está o dono. A frase dele é "eu tenho a máquina". Ele construiu rotinas, escreveu como as coisas são feitas, criou alguns números para acompanhar. A empresa já não depende do braço dele para cada tarefa. Depende do sistema que ele desenhou.
 
-A gente vai conversar mais sobre ele lá na frente, quando falarmos de visão. Mas agora eu quero que você repare numa coisa específica: o jeito como ele organizou a obra.
+No terceiro degrau está o líder. A frase dele é "eu formo quem conduz". Aqui não existe só processo. Existe gente capaz de melhorar o processo, decidir e formar outras pessoas. A empresa cresce além dele porque ele se multiplicou.
 
-Neemias não contratou uma construtora. Ele dividiu o muro em trechos e entregou cada trecho a um grupo. Os ourives ficaram com um pedaço, os perfumistas com outro, os sacerdotes com outro. E tem um detalhe que se repete várias vezes no capítulo 3 do livro dele, quase como um refrão: muitos reconstruíram "em frente à sua própria casa".
+Percebe que a pergunta não é quanto a sua empresa fatura? Eu conheço operador faturando milhões e líder com empresa pequena, saudável e livre. A pergunta certa é: de onde vem o seu resultado? Da sua força, do seu processo ou das pessoas que você formou?
 
-Percebe a genialidade disso? Cada família cuidava do pedaço de muro que protegia os próprios filhos. A responsabilidade tinha nome, endereço e sentido. Ninguém conseguia se esconder no coletivo, e ninguém precisava ser convencido de que aquilo importava.
+O dono do pet shop tentou pular do primeiro degrau direto para fora da escada. Saiu da operação sem construir o segundo degrau. Não havia processo para segurar a loja sem ele. E, sem processo, não havia como formar ninguém para o terceiro.
 
-Aí veio a oposição. Dois líderes da região, Sambalate e Tobias, começaram a zombar: "O que esses judeus fracos pensam que estão fazendo? Se uma raposa subir nesse muro, ele desaba." Depois da zombaria vieram as ameaças de ataque. O povo cansou. O entulho era muito. O medo cresceu. Até gente da própria cidade começou a dizer que não ia dar.
-
-Um líder fraco teria parado a obra. Neemias fez outra coisa. Ele reuniu o povo, colocou as famílias lado a lado e disse: "Não tenham medo. Lembrem-se do Senhor e lutem pelos seus irmãos, pelos seus filhos, pelas suas filhas, pelas suas mulheres e pelas suas casas."
-
-A partir daí, metade trabalhava e metade vigiava. Quem carregava material fazia isso com uma mão e segurava a arma com a outra. E tem uma frase dele que eu já li dezenas de vezes e que sempre me pega. Ele conta que nem ele, nem os irmãos, nem os homens da guarda tiravam a roupa nem para dormir. Ficavam prontos, como os vigias.
-
-Sabe quanto tempo levou para terminar o muro que estava no chão havia décadas? Cinquenta e dois dias.
-
-Se você olhar com calma, vai ver que a cultura de Neemias tinha um propósito que tocava o coração das pessoas, porque não era "levantar um muro", era proteger a própria família. Tinha responsabilidade com nome, porque cada trecho tinha dono. E tinha um líder que vivia o padrão antes de exigir, porque Neemias não pediu vigilância que ele mesmo não praticasse.
-
-O empresário da distribuidora tinha uma placa. Neemias tinha um exemplo.
+Ninguém pula degrau sem pagar a conta.
 
 * * *
 
-Quase toda empresa tem valores escritos. Pouquíssimas têm valores vividos. E a diferença está num passo que quase todo mundo pula: transformar o valor em comportamento que dá para ver.
+Quero te contar uma das cenas de gestão mais antigas que eu conheço. Tem mais de três mil anos e parece que aconteceu ontem, numa empresa qualquer do seu bairro.
 
-Pensa comigo. "Excelência" não quer dizer nada até você dizer o que é excelência na sua empresa. É responder o cliente em até duas horas? É conferir o pedido duas vezes antes de despachar? É não mandar nada com erro de português? E "respeito"? Palavra linda. Mas o que, exatamente, é desrespeito aí dentro? Chegar atrasado na reunião? Falar mal do colega pelas costas? Levantar a voz?
+Moisés tinha tirado um povo inteiro do Egito. Milhares de pessoas atravessando o deserto, com tudo o que isso envolve: briga por água, discussão por espaço de barraca, herança, gado que sumiu, vizinho que invadiu. E quem resolvia tudo isso? Ele. Sozinho.
 
-Na Escola ELEV, a gente faz um exercício que os alunos chamam, meio brincando, de "a hora da verdade". Para cada valor da empresa, o empresário tem que escrever quatro coisas: o valor, o comportamento que se espera de quem vive esse valor, o comportamento que não se tolera de jeito nenhum e um jeito prático de perceber se isso está acontecendo. Por exemplo, se o valor é verdade, o esperado pode ser contar o problema assim que ele aparece, o inaceitável pode ser esconder erro ou maquiar número, e um bom sinal é quantos problemas chegam até você antes de virar crise.
+O texto de Êxodo 18 conta que Moisés se sentava de manhã e só levantava no fim da tarde. Uma fila enorme na frente dele, o dia inteiro. Gente esperando horas para resolver uma questão que, muitas vezes, era pequena.
 
-E sabe qual é a coluna em que todo mundo trava? A do que não se tolera. Toda empresa sabe dizer o que quer. Poucas têm coragem de escrever o que não aceita.
+Um dia, chega para visitar o sogro dele, Jetro. Um homem mais velho, sacerdote em Midiã, que tinha cuidado de gente a vida toda. Jetro passa o dia observando. Não fala nada. Só observa. E, no fim da tarde, faz a pergunta que todo bom mentor faria:
 
-Eu vou te dizer uma frase que costuma deixar a sala em silêncio: a cultura da sua empresa não é definida pelo que você diz que valoriza. É definida pelo pior comportamento que você tolera.
+"Que é isso que você está fazendo com o povo? Por que você fica sentado sozinho, e todo mundo em pé na sua frente, da manhã até a noite?"
 
-Quando o dono da distribuidora aceitava o relatório atrasado "porque não tinha tempo de cobrar", ele estava ensinando, com uma clareza absoluta, que atrasar era permitido. Tolerar também é ensinar. Talvez seja a forma mais eficiente de ensino que existe.
+E Moisés responde do jeito que todo operador responde: "É que o povo vem a mim. Eles precisam de mim para resolver."
 
-Lá atrás, Aristóteles já dizia que a gente não se torna justo falando sobre justiça, mas praticando atos justos. A virtude nasce do hábito repetido. E, no século vinte, Edgar Schein, professor do MIT e um dos maiores estudiosos de cultura organizacional do mundo, chegou à mesma conclusão por outro caminho. Depois de anos observando empresas, ele mostrou que a cultura não se forma pelo que está escrito na parede, mas por aquilo a que o líder presta atenção, pelo que ele mede, pelo que ele cobra e por como ele reage quando a coisa aperta. Jesus resumiu tudo isso numa frase só, que está lá no alto deste capítulo: pelos frutos vocês vão conhecer a árvore. Você não muda o fruto pintando a casca. Muda cuidando da raiz.
+Eu adoro a resposta de Jetro, porque ela é ao mesmo tempo dura e carinhosa: "Não é bom o que você está fazendo. Você vai se esgotar, você e esse povo que está com você. Isso é pesado demais. Você não consegue fazer sozinho."
+
+Repara que Jetro não chama Moisés de centralizador, nem de vaidoso, nem de controlador. Ele simplesmente diz: do jeito que está, não vai aguentar. E, logo em seguida, em vez de só criticar, entrega um caminho.
+
+Primeiro, ensine a eles as regras, mostre o caminho em que devem andar e o trabalho que devem fazer. Ou seja: antes de passar qualquer coisa adiante, deixe claro o que é certo, como se faz e o que se espera de cada um.
+
+Depois, escolha no meio do povo homens capazes, que temam a Deus, que amem a verdade e odeiem o ganho desonesto. Repara na ordem: competência e caráter, juntos. Não é só o currículo.
+
+Então, coloque essas pessoas como responsáveis por grupos de mil, de cem, de cinquenta e de dez. Hoje a gente chamaria isso de organograma.
+
+E, por fim, o mais libertador: as questões grandes eles trazem a você, as pequenas eles mesmos resolvem.
+
+Sabe qual é a promessa no final? "Assim será mais leve para você, e eles levarão a carga com você. E todo esse povo vai voltar para casa em paz."
+
+Eu fico pensando nesse "em paz". Quando o dono centraliza tudo, quem sofre não é só ele. A equipe também sofre. Sofre na fila, na espera, na insegurança de não poder decidir nada, no medo de errar porque nunca foi ensinada. Centralizar parece generosidade. Na verdade, é gargalo.
 
 * * *
 
-Deixa eu abrir para você um pedaço da nossa casa.
+Agora eu preciso fazer uma pausa, porque eu sei o que muita gente sente quando chega neste ponto do livro. Culpa. "Então o problema da minha empresa sou eu?"
 
-Quando escrevemos os valores do Grupo ELEV, não foi numa sala com post-its coloridos. Cada um deles nasceu de uma ferida, de um aprendizado ou de uma convicção. A verdade virou valor, aquele "sim é sim, não é não", porque eu já tinha visto quanto a mentira custa caro. A humildade virou valor porque eu já tinha visto o orgulho cegar gente boa, inclusive eu. E colocamos entre as atitudes inadmissíveis coisas como a soberba disfarçada de conhecimento e o imediatismo que atropela processos, porque sabemos o estrago que elas fazem.
+Calma. Não é bem assim.
 
-Eu não te conto isso para você copiar. Cultura não se copia, nem do concorrente, nem do mentor. Conto para você mudar a pergunta. Em vez de "quais valores a minha empresa deveria ter?", pergunte: "quais valores eu já vivo a ponto de poder exigir dos outros?"
+Centralização não é falha de caráter. É falta de estrutura. A maioria das empresas que trava não trava por falta de esforço. Trava porque cresceu além da estrutura que a sustentava. Você não errou ao construir a sua empresa com as próprias mãos. Foi justamente essa força que trouxe o negócio até aqui.
 
-Só lidere com um valor que você esteja disposto a praticar primeiro. Como Neemias, que dormia vestido.
+Só que o que te trouxe até aqui não vai te levar adiante.
+
+Faz um teste comigo, rapidinho. Se você sumisse por trinta dias, sem celular, sem e-mail, a sua empresa cresceria ou travaria?
+
+Se a resposta foi "travaria", eu não vou te acusar. Vou te dizer o que eu digo, com todo o respeito, para os empresários que eu acompanho: se só você resolve tudo, você não construiu uma empresa. Construiu um emprego com CNPJ. E é o emprego mais caro que existe, porque o funcionário mais caro da sua empresa é você, preso no fazer, sem tempo para liderar.
+
+Quando um empresário entra na Escola ELEV, a primeira coisa que a gente faz não é ensinar ferramenta. É fazer um raio-X da empresa inteira, área por área, para descobrir onde ela está de verdade e qual é o gargalo dominante: aquele ponto que, se destravar, libera todo o resto. E sabe o que acontece quase sempre? O empresário chega certo de que o problema é venda. "Eu só preciso vender mais." E descobre que vender mais, com a estrutura que ele tem hoje, só ia aumentar a bagunça. Mais clientes numa operação desorganizada significam mais reclamação, mais retrabalho e mais noites do dono apagando incêndio.
+
+Por isso, logo depois do raio-X, a gente não vai para a planilha. Vai para a liderança. E faz uma pergunta que eu quero deixar com você agora: qual comportamento seu, se mudar, muda a empresa?
+
+Guarda essa pergunta. Ela vai voltar no fim do capítulo.
 
 * * *
 
-Tem mais uma coisa que eu aprendi sobre cultura: ela não se constrói só com o que se escreve. Constrói-se, principalmente, com o que se reforça.
+Volta comigo para o pet shop. Sabe o que o dono fez? Ele não delegou. Ele largou.
 
-Lá na ELEV, a gente tem uma regra simples: elogio é em público, correção é em particular. E não fomos nós que inventamos. Jesus ensinou que, se alguém errar com você, o primeiro passo é ir conversar a sós com a pessoa. Expor alguém na frente de todo mundo humilha e cria medo. Corrigir em particular preserva a dignidade e gera mudança. Com o elogio é o contrário: quando você reconhece na frente de todos um comportamento alinhado aos valores, ensina a empresa inteira, de uma vez, o que é valorizado ali. É uma aula de cultura de graça.
+Parece a mesma coisa, mas não é. Delegar é passar a responsabilidade com clareza, preparo e acompanhamento. Largar é passar o problema adiante e torcer para dar certo.
 
-Por isso a gente criou pequenos rituais. Um momento mensal para celebrar quem mais viveu os valores. Mensagens de apoio entre os colaboradores. Um jantar no fim do ano para comemorar as metas que foram de todos. Ritual parece detalhe. Não é. Ritual é cultura repetida até virar identidade.
+Eu gosto de explicar a delegação como quem ensina um filho a dirigir. Você não entrega a chave e diz "boa sorte". No começo, você dirige e ele observa, enquanto você vai explicando o que faz e por quê. Aliás, é aqui que nasce o processo escrito: se você não consegue explicar, ainda não está pronto para delegar. Depois, ele dirige com você do lado, e você corrige na hora, com paciência. Esse é o momento mais difícil para o operador, porque ele sente que "faria mais rápido sozinho". E faria mesmo. E continuaria preso para sempre. Depois, ele dirige e você só observa, sem pegar no volante a cada errinho, porque agora você está formando o julgamento dele, não só a mão. E, por fim, ele dirige sozinho e vocês combinam como ele vai te contar como foi: uma conversa semanal, um relatório, um número que os dois acompanham juntos.
 
-E, se a cultura é a identidade da empresa, cada contratação é uma decisão de identidade.
+O pet shop pulou direto para a última etapa. Sem as três primeiras e sem nenhum número para acompanhar. O resultado era previsível.
 
-O erro mais comum que eu vejo é contratar pelo currículo e demitir pelo comportamento. O empresário se encanta com a experiência, contrata, e seis meses depois descobre que a pessoa mente, fofoca ou trata mal os colegas. E aí demite, com custo financeiro e emocional para todo mundo. Lembra do conselho de Jetro? Gente capaz e de caráter. As duas coisas juntas, nunca só uma delas.
+E tem uma coisa linda, pouco falada, sobre delegar bem: a pessoa cresce. Quem recebe responsabilidade com preparo se sente digno de confiança. E quem se sente digno de confiança se compromete. Grande parte daquela "falta de comprometimento" de que os empresários reclamam é, na verdade, falta de pertencimento. Ninguém se compromete com o que não entende, não ajudou a construir e não sabe medir.
 
-O mesmo vale para promover. Se você promove alguém que bate a meta mas atropela a cultura, está dizendo para a empresa inteira que os valores são negociáveis. E valor negociável não é valor. É preço.
+Há muitas décadas, dois psicólogos americanos, Edward Deci e Richard Ryan, vêm estudando o que realmente move as pessoas. E chegaram a uma conclusão que Jetro já sabia: a gente se engaja quando sente que tem autonomia, que é capaz e que pertence a alguma coisa. Quando você delega do jeito certo, entrega as três de uma vez. Muito antes deles, lá na China antiga, Lao-Tsé escreveu que o melhor governante é aquele de quem o povo mal percebe a existência, porque, quando a obra termina, todos dizem: "fomos nós que fizemos". O livro de Êxodo, a filosofia oriental e a psicologia moderna, cada um na sua língua, dizendo a mesma coisa.
 
-Eu sei que um dos momentos mais difíceis da liderança é desligar alguém que vende muito, mas destrói o ambiente. Quase todo empresário adia. E quase todo empresário, quando finalmente decide, me diz a mesma frase: "Eu devia ter feito isso muito antes."
+* * *
 
-[AUTOR: contar uma decisão difícil de desligamento ou de contratação por cultura e o que ela te ensinou sobre o líder que você queria ser.]
+Agora eu quero voltar ao que faz deste livro algo diferente de um manual de gestão. Se o caminho é tão claro, por que o operador não sobe de degrau?
 
-E o dono da distribuidora, você deve estar se perguntando, o que aconteceu com ele?
+Vou te dar a minha resposta, depois de muitos anos olhando para empresários, a começar pelo espelho: porque o primeiro degrau alimenta uma identidade.
 
-Ele não trocou a placa. Trocou o despertador. Na semana seguinte àquela conversa, chegou às sete e quarenta e cinco e abriu a reunião das oito em ponto, com quem estava na sala. Não deu bronca em ninguém. Só começou. Na segunda semana, fez a mesma coisa. Na terceira, quando um gerente entregou um relatório atrasado, ele chamou a pessoa na sala dele, a sós, e disse com calma: "A partir de hoje, quando o prazo não der, você me avisa antes. Atrasar sem avisar aqui não existe mais."
+Ser imprescindível dá sentido. Ser o único que sabe resolver dá importância. Ouvir "sem você isso aqui não anda" é música para um coração que, lá no fundo, ainda não sabe bem quem é. Muitos donos não saem da operação porque têm medo de descobrir quem são quando não estão apagando incêndio.
 
-Sabe o que ele me contou dois meses depois? Que a equipe não tinha mudado porque ele cobrou mais. Tinha mudado porque, pela primeira vez, a placa da recepção e o dono estavam dizendo a mesma coisa.
+Lembra da nossa conversa lá no capítulo 2, sobre a identidade fundida com a empresa? É aqui que ela cobra a conta. Se você é o que você faz, delegar parece perder um pedaço de si.
 
-Foi aí que ele entendeu, e eu espero que você entenda também: as pessoas não seguem o que você escreve. Seguem o que você é.
+E é aqui que tudo o que a gente conversou até agora se encontra. O empresário que sabe quem é, que soltou as mágoas, que desceu do posto de maior da sala e que tem a casa em ordem não precisa ser imprescindível para se sentir valioso. Ele consegue formar pessoas melhores do que ele em várias funções sem se sentir ameaçado. Ele encontrou valor em outro lugar: em quem ele forma.
 
-No fim das contas, o líder não é o dono da cultura. É o primeiro guardião dela. Vive antes de cobrar, protege quando ela é atacada, corrige quando ela desvia e celebra quando ela floresce. Processos organizam, pessoas multiplicam, mas princípios sustentam tudo.
+[AUTOR: contar o momento em que você percebeu que era o gargalo da própria empresa, ou a primeira delegação difícil que fez na reestruturação durante a pandemia.]
 
 ### Antes de virar a página
 
-Agora eu quero que você faça um exercício que exige coragem. Pega o papel.
+Pega um papel agora. Sério, agora, antes de seguir. Quero que você faça uma coisa simples e reveladora.
 
-Escreve os três comportamentos da sua equipe que mais te incomodam hoje. Escreve sem medo, pode desabafar. Agora, do lado de cada um, responde a pergunta que eu fiz ao dono da distribuidora: em que medida eu pratico ou tolero isso?
+Anota as dez atividades que mais tomaram o seu tempo na última semana. Do lado de cada uma, coloca uma letra: O, se só você faz e você é a máquina; D, se existe um jeito definido e outra pessoa poderia fazer; L, se alguém já conduz e você só acompanha. Depois, conta as letras. Não é para se culpar. É para saber de onde você está partindo.
 
-Depois, responde:
+Em seguida, responde três perguntas com toda a honestidade que você tiver:
 
-1. Quais são os três valores que eu já vivo a ponto de poder exigir dos outros?
-2. Para cada um deles, o que eu espero ver no dia a dia, e o que eu não vou tolerar de jeito nenhum?
-3. Qual é a tolerância que eu vou encerrar esta semana?
+1. Em que degrau eu estou hoje: operador, dono ou líder?
+2. Complete a frase: "Se eu parar de ______, a minha empresa vai crescer."
+3. O que eu ganho, por dentro, continuando a fazer isso? Sentir-me útil? Ter o controle? Fugir de uma conversa difícil?
 
-O desafio dos próximos sete dias tem duas partes. A primeira é fazer um elogio público, com nome e com o motivo, para alguém que viveu um desses valores. A segunda é ter aquela conversa particular que você vem adiando, com respeito e com clareza. Na sua página, anota os três valores que você vive e que a sua empresa vai viver.
+E aqui vai o desafio para os próximos sete dias. Escolhe uma única atividade marcada com O. Escolhe a pessoa, e lembra de Jetro: capacidade e caráter. Nesta semana, faz com ela olhando e depois faz junto com ela. Escreve o passo a passo numa página só. E define qual número vocês vão olhar juntos quando ela estiver dirigindo sozinha.
 
-Agora você já sabe quem é, como a sua empresa deve se comportar e quem deve fazer o quê. Mas existe um lugar onde a identidade do dono aparece sem disfarce, sem placa e sem discurso. Um lugar onde não dá para fingir. No próximo capítulo, a gente vai abrir o caixa. E você vai ver que os números da sua empresa contam, com uma precisão quase constrangedora, quem você é.
+Na sua página, aquela folha que vem te acompanhando desde o começo do livro, escreve o degrau em que você está e o próximo degrau que decidiu subir.
+
+Só tem uma coisa que nenhum processo resolve sozinho. Você pode escrever cada atividade, criar cada número e delegar cada tarefa. Se as pessoas não souberem como as coisas são feitas na sua empresa, e por quê, cada um vai continuar trabalhando do próprio jeito. No próximo capítulo, a gente vai falar da identidade da sua empresa. E eu já te adianto: ela se parece muito com você.
+
+::: {custom-style="Destaque"}
+"Ele não delegou. Ele largou."
+:::

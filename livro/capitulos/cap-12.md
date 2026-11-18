@@ -1,137 +1,141 @@
 # Capítulo 12
-## Diga-me com quem andas
+## A identidade que entra antes de você na sala
 
-> "O que anda com os sábios ficará sábio, mas o companheiro dos tolos será afligido."
-> — Provérbios 13:20
+> "Viste o homem perito na sua obra? Perante reis será posto."
+> — Provérbios 22:29
 
-Terminei o capítulo anterior com uma pergunta: com quem você está caminhando? Ela pode parecer menor depois de tudo o que a gente já conversou sobre perdão, orgulho e família. Mas eu te garanto que não é. Às vezes, a gente faz todo o trabalho interno e continua travado porque o ambiente em volta puxa para trás.
+No capítulo anterior, a gente cuidou de quem está aí dentro: do corpo, da mente e do espírito. Agora quero dar um passo para fora. E já te aviso que esse assunto costuma gerar um pouco de resistência. Fica comigo até o fim, porque ele é muito mais profundo do que parece.
 
-Deixa eu te contar do Fábio (nome alterado).
+Depois de uma palestra, uma empresária veio falar comigo. Vou chamá-la de Carla (nome alterado). Ela era dona de uma clínica de estética bem estabelecida, com doze pessoas na equipe e agenda cheia. E estava incomodada com uma coisa que não sabia explicar.
 
-O Fábio tinha uma rotina sagrada às quintas-feiras. Saía do expediente e ia para o mesmo bar, encontrar os mesmos amigos de muitos anos. Todos empresários. Todos do mesmo bairro. Todos donos de negócios parecidos com o dele.
+"Gustavo, eu entro na reunião com o fornecedor e ele fala com o meu gerente. Vou negociar o aluguel e o corretor se dirige ao meu marido, que só foi me fazer companhia. Eu sou a dona. Por que ninguém percebe?"
 
-Durante muito tempo, aquele era o melhor momento da semana. Risada, história, desabafo. Mas, aos poucos, o Fábio começou a perceber um padrão.
+Eu perguntei como ela tinha ido à última reunião importante.
 
-Toda quinta, o assunto era o mesmo. O governo que atrapalha. O imposto que sufoca. O funcionário que não quer nada com nada. O cliente que não paga. A crise que nunca acaba. Uma sessão semanal de reclamação, muito bem-humorada e regada a cerveja.
+Ela pensou um pouco e respondeu meio rindo: "Do jeito que eu estava. Saí correndo da clínica, de jaleco ainda, cabelo preso de qualquer jeito. Não deu tempo".
 
-Ninguém falava de margem. Ninguém contava o que tinha aprendido naquela semana. Ninguém perguntava "o que você faria no meu lugar?".
+Olha, não tem nada de errado com o jaleco. É o uniforme de quem atende, de quem executa, de quem está com a mão na massa. E era exatamente essa a mensagem que a Carla levava para cada sala: "eu sou a máquina".
 
-Um dia, o Fábio comentou na mesa que estava pensando em contratar um gerente e sair do balcão. A reação veio na hora. "Tá ficando metido, é?" "Gerente vai te roubar." "Ninguém cuida do seu negócio como você."
+O curioso é que ela já tinha dado vários passos para sair do operacional. Tinha contratado gerente, organizado processos, começado a pensar em abrir a segunda unidade. Por dentro, estava subindo de degrau. Por fora, continuava se apresentando como a profissional que faz o procedimento, não como a empresária que conduz o negócio.
 
-Ele voltou para casa naquela noite com uma sensação esquisita. Gostava daqueles caras. Conhecia as famílias deles, tinha ido ao casamento de vários. Mas percebeu uma coisa que doeu: se quisesse crescer, não ia conseguir fazer isso ali.
+A imagem dela estava atrasada em relação à identidade.
 
-Ele não largou os amigos. Continuou aparecendo no bar de vez em quando. Mas começou a procurar outro tipo de convivência. Um grupo de empresários que já tinham passado pelo que ele estava vivendo. Gente que tinha saído do balcão, que falava de indicador sem vergonha nenhuma, que desafiava em vez de só concordar.
+E isso acontece muito mais do que a gente imagina. Com homem e com mulher, em empresa pequena e em empresa grande. A pessoa evolui por dentro e esquece de atualizar o que mostra por fora. E o mundo, que não tem acesso ao seu coração, responde ao que vê.
 
-Dois anos depois, a empresa do Fábio tinha dobrado de tamanho. Mas, quando eu perguntei o que tinha mudado, ele não falou da empresa. Falou disto: "Mudou o tipo de pergunta que eu me faço".
-
-* * *
-
-Você pode ter as melhores intenções do mundo. Pode ler todos os livros, fazer todos os cursos, encher um caderno de metas. Se o ambiente onde você passa a maior parte do tempo puxa na direção contrária, ele tende a ganhar.
-
-Não porque você é fraco. Porque é humano.
-
-A gente aprende por imitação. A gente calibra o que é normal pelo que vê em volta. Se todo mundo à sua volta acha normal trabalhar dezesseis horas por dia, você vai achar normal. Se ninguém do seu grupo sabe a margem líquida da própria empresa, você não vai sentir urgência nenhuma em descobrir a sua. Se todo mundo trata funcionário como problema, você vai tratar também, sem nem perceber.
-
-O ambiente define o seu teto sem pedir licença.
-
-É por isso que o ditado "diga-me com quem andas e te direi quem és" atravessou tantas gerações. Ele não é um julgamento moral. É uma constatação. As pessoas com quem você mais convive estão ajudando a escrever quem você está se tornando.
-
-E a ciência foi medir isso. Dois pesquisadores, Nicholas Christakis, de Harvard, e James Fowler, da Universidade da Califórnia, debruçaram-se sobre os dados de um estudo que acompanha os moradores de uma cidade americana chamada Framingham desde 1948. Eles mapearam quem era amigo de quem, quem era vizinho de quem, quem era parente de quem. E descobriram que hábitos e emoções circulam por essas redes quase como se fossem contagiosos. Quando um amigo próximo engordava, a chance de a pessoa engordar também subia bastante. E num outro estudo, publicado em 2008, mostraram que até a felicidade se espalha, com efeito que chega ao amigo do amigo do seu amigo.
-
-Pensa no que isso significa para você, empresário. A forma como você lida com o tempo, com o dinheiro, com as pessoas e com as próprias emoções está sendo influenciada, agora mesmo, pelo grupo com quem você mais convive. A pergunta não é se o ambiente está te influenciando. É em qual direção.
+Por isso eu quero deixar claro desde já: este capítulo não é sobre vaidade. É sobre coerência.
 
 * * *
 
-Quero te contar uma história que, para mim, é uma das maiores aulas sobre ambiente que existem.
+Eu sei que muita gente torce o nariz quando o assunto é imagem. "Sou homem de resultado, não de aparência." "O que importa é o conteúdo." "Quem gosta de mim gosta do jeito que eu sou."
 
-Davi já tinha sido ungido como futuro rei de Israel. Mas naquele momento estava longe, muito longe, de qualquer trono. O rei Saul queria matá-lo, e ele vivia fugindo. Numa dessas fugas, foi se esconder numa caverna chamada Adulão.
+E eu concordo com o espírito dessas frases. Conteúdo vale mais do que embalagem. Caráter vale mais do que roupa. A própria Bíblia diz que "o homem vê o que está diante dos olhos, porém o Senhor olha para o coração" (1 Samuel 16:7).
 
-E aí acontece uma coisa inesperada. Começa a chegar gente. E o texto descreve quem era essa gente com uma franqueza que me faz sorrir: "Ajuntou-se a ele todo homem que se achava em aperto, e todo homem endividado, e todo homem amargurado de espírito, e ele se fez chefe deles; e eram com ele uns quatrocentos homens" (1 Samuel 22:2).
+Mas repara num detalhe desse versículo. Ele não diz que a aparência não comunica. Diz que o homem olha para ela. E o seu cliente é homem. O seu fornecedor, o gerente do banco, o candidato à vaga, o investidor, o futuro sócio. Todos eles olham para o que está diante dos olhos muito antes de ter qualquer acesso ao seu coração.
 
-Lê de novo o currículo. Em aperto. Endividados. Amargurados. Se Davi estivesse montando uma equipe pela entrevista, não contratava ninguém dali.
+Você não precisa gostar disso. Mas precisa liderar sabendo disso.
 
-Mas alguma coisa aconteceu naquela caverna. Aqueles homens passaram a conviver com alguém que tinha visão, princípios e coragem. Ouviam como Davi pensava. Viam como ele decidia. E viram, por duas vezes, o homem que estava sendo caçado ter o rei Saul nas mãos e poupar a vida dele, porque não ia tomar o trono por atalho.
-
-Anos depois, muitos desses mesmos homens aparecem na Bíblia com outro nome: os valentes de Davi. Guerreiros lendários, com feitos contados até hoje. Os mesmos que tinham chegado à caverna endividados e amargurados.
-
-O que mudou? O ambiente.
-
-Mas tem um detalhe que eu adoro nessa história. O próprio Davi também precisou de alguém. Num dos momentos mais escuros dele, perseguido e esgotado no deserto, Jônatas, filho do próprio Saul, foi até lá encontrá-lo. E o texto diz que ele "fortaleceu a sua mão em Deus" (1 Samuel 23:16). Até o líder dos valentes precisou de alguém para segurar a mão dele.
-
-São duas lições numa só. Você precisa de um ambiente que te eleve. E você precisa ser, para quem está do seu lado, um ambiente que eleva.
+A sua imagem é a primeira frase que você diz em qualquer sala. Ela é dita antes do aperto de mão, antes do bom-dia, antes da apresentação da empresa. E se essa primeira frase contradiz tudo o que você vai falar depois, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
 
 * * *
 
-Tem um provérbio que descreve com uma precisão incrível o tipo de relação que faz um empresário crescer: "Como o ferro com o ferro se afia, assim o homem afia o rosto do seu amigo" (Provérbios 27:17).
+Quer ver uma coisa bonita? Tem uma cena na história de José que eu considero uma das mais estratégicas de toda a literatura antiga. E quase todo mundo passa por ela sem perceber.
 
-Você já viu alguém afiando uma faca? Sai faísca. Faz barulho. Tem atrito. Não é confortável.
+Você conhece a trajetória dele. Vendido pelos próprios irmãos, levado ao Egito como escravo, acusado injustamente pela mulher do patrão, jogado na prisão e, para completar, esquecido lá dentro por um homem a quem ele tinha ajudado. Foram anos de cela. Anos de espera. Anos sendo tratado como ninguém.
 
-Muito empresário se cerca de gente que só concorda. Funcionário com medo de discordar. Amigo que prefere não se meter. Família que não entende do negócio. É um ambiente gostoso, mas não afia nada. É algodão contra ferro.
+Até que um dia o faraó tem dois sonhos que nenhum sábio do Egito consegue explicar. E finalmente alguém lembra do jovem hebreu que interpretava sonhos na prisão. O faraó manda buscá-lo às pressas.
 
-Ao longo dos anos, olhando para os grupos que realmente fizeram empresários crescerem, eu percebi que eles tinham três coisas em comum.
+Agora se coloca no lugar dele. O homem mais poderoso do mundo conhecido quer te ver agora. É a oportunidade da sua vida. A porta que você esperou durante treze anos acabou de abrir. Qual seria a reação natural? Correr. Sair do jeito que estava, antes que mudassem de ideia.
 
-A primeira é que tem gente na sua frente. Pessoas que já subiram o degrau que você está tentando subir. Que já saíram do operacional, que já montaram uma liderança, que já atravessaram a crise que você teme. Elas nem precisam te dizer o que fazer. Só de ouvir como elas pensam, o seu repertório cresce.
+Mas olha o que o texto diz: "Então mandou Faraó chamar a José, e o fizeram sair logo da cova; e barbeou-se e mudou as suas roupas, e apresentou-se a Faraó" (Gênesis 41:14).
 
-A segunda é que tem confronto com amor. Gente que se importa o suficiente para te dizer o que você não quer ouvir. "Você está fugindo dessa conversa com o seu sócio." "O seu problema não é o mercado, é o seu custo fixo." "Você está usando a empresa para não ficar em casa." Dói. Mas abre os olhos.
+Barbeou-se. Trocou de roupa. Só então entrou.
 
-E a terceira é que tem compromisso com a aplicação. Não é um grupo de conversa, é um grupo de execução. No mês seguinte, alguém vai te perguntar se você fez o que disse que ia fazer. E só essa pergunta já muda o seu comportamento.
+Não foi vaidade. Foi leitura de contexto. Na corte egípcia, os homens andavam barbeados. Um hebreu barbudo, saindo direto do cárcere, seria visto como estrangeiro, como prisioneiro, como alguém de fora. José sabia quem ele era. Sabia o dom que carregava. E entendeu que, para o faraó ouvir a sabedoria que ele tinha, a aparência não podia ser um obstáculo.
 
-O bar de quinta do Fábio era bom para a alma dele. Mas não tinha nenhuma dessas três coisas. E ele precisava das duas: do acolhimento e do ferro.
+Ele não mudou a identidade para agradar o faraó. Ajustou a apresentação para que a identidade pudesse ser ouvida.
 
-* * *
-
-Existe um outro motivo pelo qual eu falo tanto disso. A solidão do empresário.
-
-Pouca gente fala dela, mas quem empreende conhece bem. Você não pode desabafar com a equipe sobre o caixa apertado, porque isso gera insegurança. Não quer contar tudo para a família, para não preocupar ninguém. E fica sozinho com o peso das decisões que só você pode tomar.
-
-Salomão, que conhecia bem o peso de governar, escreveu no Eclesiastes: "Melhor é serem dois do que um... Porque se caírem, um levantará o seu companheiro; mas ai do que estiver só; pois, caindo, não haverá outro que o levante". E fecha com uma imagem linda: "o cordão de três dobras não se quebra tão depressa" (Eclesiastes 4:9-12).
-
-Quando essa solidão dura muito tempo, ela distorce tudo. Os problemas ficam maiores do que são. As oportunidades passam sem você ver. E as decisões são tomadas no escuro, sem ninguém do lado para perguntar: "você já pensou nisso?".
-
-O ambiente certo não decide por você. Mas tira de você o peso de decidir sozinho.
-
-`[AUTOR: inserir uma história sua de solidão como empresário e da pessoa ou do grupo que fez diferença naquele período.]`
+E você sabe o final. Naquele mesmo dia, o prisioneiro virou governador do Egito. Mas tudo começou com uma decisão de poucos minutos: não entrar naquela sala do jeito que estava.
 
 * * *
 
-Agora, preciso fazer um alerta, porque já vi muita gente errar a mão aqui. Mudar de ambiente não é trocar de amigos como quem troca de fornecedor.
+Agora, preciso fazer uma diferença importante aqui, porque é nela que muita gente se perde.
 
-O Fábio não abandonou a mesa de quinta. Ele só parou de esperar dela o que ela não podia oferecer. Aqueles amigos continuaram fazendo parte da história dele. O que mudou foi o lugar de cada relação na agenda e no coração.
+Existe a imagem como fantasia. É quando a pessoa se veste para parecer o que não é. O terno caro para esconder a empresa endividada. O carro importado para disfarçar o caixa vazio. A foto no Instagram mostrando uma vida que não existe. Isso não é imagem. É máscara. E máscara pesa, porque quem vive de máscara vive com medo de ser descoberto.
 
-Tem relação que existe para nos acolher. Tem relação que existe para nos afiar. As duas têm valor. O problema começa quando você espera crescimento de quem só sabe acolher, ou quando passa a desprezar o acolhimento porque agora só quer quem te desafia.
+E existe a imagem como coerência. É quando aquilo que você mostra por fora corresponde ao que você é e ao lugar que você ocupa. Não é sobre parecer mais do que você é. É sobre parar de se apresentar como menos.
 
-E tem um risco bem sutil nisso. Quem muda de ambiente às vezes volta para o grupo antigo com ar de superioridade, corrigindo todo mundo, despejando os conceitos novos que aprendeu. Lembra do capítulo sobre o orgulho? Pois é. É o mesmo orgulho com roupa nova. O caminho bom é outro: levar o que você aprendeu como semente, não como sermão. Quando alguém do grupo antigo perguntar o que mudou, você conta. Sem pressão. Foi assim que o Fábio, alguns anos depois, levou dois amigos do bar para o grupo de empresários que frequentava.
+A primeira é fuga. A segunda é responsabilidade.
 
-Crescimento verdadeiro não deixa um rastro de gente desprezada. Deixa portas abertas.
+Pensa nos três degraus de que eu falei lá no começo. O operador se apresenta como quem executa. O dono, como quem organiza. O líder, como quem conduz pessoas e dá direção. Não existe um uniforme certo para cada degrau. Mas existe uma pergunta que vale para todos eles: a forma como eu me apresento hoje comunica o papel que eu realmente ocupo?
 
-* * *
-
-Em 1937, Napoleon Hill publicou *Quem pensa enriquece*, um dos livros de negócios mais lidos do século passado. Ali ele usou uma palavra que ficou famosa: *mastermind*. Ele tinha observado que muitos dos empresários bem-sucedidos que estudou tinham, por perto, um pequeno grupo de pessoas com quem pensavam juntos, em harmonia, rumo a um objetivo definido.
-
-A ideia não era nova. Era só um nome novo para o que aconteceu na caverna de Adulão. Muito antes, Aristóteles já tinha chamado o verdadeiro amigo de "outro eu", e Sêneca, escrevendo ao amigo Lucílio, aconselhava: conviva com quem pode te tornar melhor e acolha aqueles que você pode tornar melhores.
-
-O Mastermind ELEV nasceu dessa convicção. Ele reúne empresários que já passaram da fase de sobreviver e entenderam que o próximo degrau pede outro tipo de convivência. Tem imersões, conversas estratégicas, confronto respeitoso e celebração. Tem confidencialidade, porque ninguém se abre de verdade onde não se sente seguro. E tem princípios no centro, porque um grupo só eleva quando caminha na mesma direção.
-
-Eu não estou te contando isso para te convencer a entrar. Estou contando porque é ali que eu vejo, todos os meses, este capítulo acontecer na prática. Com a gente ou com outro grupo, procure um lugar que tenha as três coisas: gente na sua frente, confronto com amor e compromisso com a aplicação. O seu CPF precisa disso.
+Porque, se você já deixou de ser a máquina, mas continua se vestindo, falando e se portando como a máquina, as pessoas vão continuar te tratando como a máquina. Inclusive a sua equipe.
 
 * * *
 
-E, antes de virar a página, eu quero virar o espelho para você.
+E a ciência tem coisas muito interessantes a dizer sobre isso.
 
-Você está procurando um ambiente que te eleve. Mas, para a sua equipe, o ambiente é você. Para os seus filhos, o ambiente é você. Para o seu cônjuge, para os seus amigos, para aquele empresário mais novo que te olha como referência.
+Em 2006, dois pesquisadores de Princeton, Janine Willis e Alexander Todorov, mostraram fotos de rostos para algumas pessoas por apenas um décimo de segundo e pediram que elas avaliassem o quanto aquele rosto parecia confiável e competente. Depois compararam com as avaliações feitas sem limite de tempo. E sabe o que descobriram? Eram praticamente iguais. Mais tempo deixava as pessoas mais seguras do julgamento, mas quase não mudava o julgamento em si. Cem milissegundos. É o tempo que você tem.
 
-Que clima você cria? As pessoas saem de perto de você mais animadas ou mais pesadas? Mais claras ou mais confusas? Mais corajosas ou mais medrosas?
+Só que tem um outro estudo que me interessa ainda mais, porque vai na direção contrária, de fora para dentro. Em 2012, Hajo Adam e Adam Galinsky, da Universidade Northwestern, pediram que alguns voluntários vestissem um jaleco branco. Para uma parte deles, disseram que era um jaleco de médico. Para outra, que era um jaleco de pintor. Era o mesmíssimo jaleco. Mas quem achava que vestia o de médico se saiu melhor nas tarefas de atenção. Eles chamaram isso de "cognição vestida": a roupa mexe com o comportamento de quem a veste, de acordo com o que ela significa para a pessoa.
 
-Davi transformou endividados em valentes porque ele mesmo era um ambiente que elevava. Os dois movimentos são necessários: subir com quem está acima e estender a mão para quem vem atrás.
+Percebe? A imagem não fala só com os outros. Fala com você.
+
+E os antigos já sabiam. Aristóteles ensinava que a persuasão começa no *ethos*, no caráter que os outros percebem em quem fala, antes mesmo dos argumentos. E Epicteto, aquele filósofo que tinha sido escravo, dizia algo que eu acho lindo: primeiro diga a si mesmo quem você quer ser; depois faça o que precisa ser feito.
+
+José diante do faraó, os filósofos gregos e os laboratórios de Princeton e Northwestern. Caminhos bem diferentes, a mesma conclusão. A apresentação não substitui a identidade. Mas precisa estar à altura dela para que ela seja ouvida.
+
+* * *
+
+Essa ideia de que a imagem também fala para dentro é a que mais me toca num livro sobre identidade.
+
+Quando você se veste para o papel que ocupa, você se lembra desse papel. Conheço empresários que trabalham de casa e só conseguiram mudar a qualidade das próprias manhãs quando passaram a se arrumar para trabalhar, mesmo sem sair do escritório improvisado no quarto. Nada de terno. Só o gesto de dizer para si mesmo: "agora eu estou exercendo o meu papel".
+
+A imagem é um lembrete visível de uma decisão invisível.
+
+`[AUTOR: inserir uma história sua em que mudar a própria apresentação mudou a forma como você se percebeu ou foi percebido.]`
+
+E quando eu falo de imagem, não estou falando só de roupa. Roupa é a parte mais visível, mas está longe de ser a única. Imagem é como você cumprimenta as pessoas. É chegar no horário ou viver chegando cinco minutos atrasado com uma desculpa pronta. É o tom com que você fala com o garçom na frente do cliente. É o estado do carro quando você dá carona ao fornecedor. É aquele áudio de quatro minutos mandado no trânsito, no lugar de uma mensagem pensada.
+
+Tudo isso comunica. E tudo isso, no fundo, revela quem você é.
+
+Se você cobra pontualidade e chega atrasado, a sua imagem desmente o seu discurso. Se fala de excelência e aparece desleixado na reunião com o maior cliente, desmente de novo. A sua equipe aprende muito mais com o jeito como você se porta do que com o quadro de valores pendurado na parede. Coerência é quando as duas coisas dizem a mesma frase.
+
+* * *
+
+Foi pensando exatamente nessa coerência que nós criamos o Refinado.
+
+Ele nasceu de uma dor que eu via o tempo todo nos empresários que acompanho. A maioria não tem problema de gosto. Tem problema de tempo e de clareza. Decide a roupa no susto, cinco minutos antes de sair, e acaba se apresentando de um jeito que não tem nada a ver com o momento que está vivendo.
+
+Então pensamos num consultor de imagem virtual, que cabe no celular. O homem fotografa as roupas que já tem no armário e conta as ocasiões da semana: reunião com investidor na segunda, visita à obra na quarta, jantar com a esposa na sexta. E o Refinado devolve um look para cada ocasião, usando o que ele já tem, explicando o porquê de cada escolha. Leva em conta o tom de pele, o formato do rosto, a proporção do corpo, as cores que combinam e o ambiente profissional. Ajuda até no corte de cabelo e na barba. E, quando vale a pena comprar alguma coisa, ele diz o quê, em vez de empurrar compras.
+
+Não é para transformar o empresário em outra pessoa. É para que a apresentação acompanhe a pessoa que ele está se tornando. O mesmo princípio de José: ajustar o que se mostra para que a identidade possa ser ouvida.
+
+E você, leitora que empreende: tudo o que eu disse neste capítulo vale integralmente para você. A história da Carla está aqui justamente por isso. O Refinado hoje é focado no público masculino, mas o princípio é para todos. Faça o mesmo exercício de coerência, com uma consultora de confiança ou com o seu próprio olhar, treinado pelas perguntas que vêm a seguir.
+
+* * *
+
+Antes de fechar, quero te contar mais uma cena, porque ela completa a de José.
+
+Rute era uma estrangeira, viúva, que sustentava a si e à sogra recolhendo as espigas que sobravam no campo de um homem chamado Boaz. Trabalho duro, de sol a sol. Quando chega a hora de ela se apresentar a Boaz em busca de proteção e de um futuro, a sogra, Noemi, dá uma orientação bem precisa: "Lava-te, pois, e unge-te, e veste os teus vestidos" (Rute 3:3).
+
+Rute não virou outra mulher. Continuou sendo a mesma pessoa leal e trabalhadora que tinha conquistado o respeito de toda a cidade. Mas deixou de se apresentar como quem recolhe sobras e passou a se apresentar como quem estava pronta para um novo capítulo da vida.
+
+Percebe que, nas duas histórias, a mudança de apresentação acontece num momento de virada? José saindo da prisão para o palácio. Rute saindo do campo para uma nova família. A imagem acompanha a transição da identidade.
+
+Talvez você esteja vivendo uma virada assim agora. Saindo do operacional para a liderança. Subindo de degrau. E a pergunta que eu te deixo é simples: a sua apresentação já atravessou essa porta com você?
 
 ### Antes de virar a página
 
-Pega a sua página de novo. Hoje ela ganha os nomes das pessoas que caminham com você.
+Volta na sua página e abre um espaço novo para a sua imagem. Responde com honestidade, sem se julgar.
 
-1. Escreve os nomes das cinco pessoas com quem você mais convive fora de casa. Ao lado de cada nome, marca com sinceridade se aquela pessoa te eleva, te mantém onde você está ou te puxa para baixo.
-2. Quem, na sua vida hoje, já está no degrau que você quer alcançar? E com que frequência você conversa com essa pessoa?
-3. Quem tem liberdade para te confrontar com amor? Se ninguém tem, por que será?
+1. Hoje, na sua empresa, você é operador, dono ou líder? E qual papel você quer ocupar daqui a doze meses?
+2. Pensa nas três últimas reuniões importantes que você teve. A forma como você se apresentou comunicava o papel que você escreveu na primeira resposta?
+3. Qual é a próxima "sala do faraó" na sua agenda, aquela reunião que pode mudar o rumo do seu negócio? O que você precisa ajustar antes de entrar nela?
 
-O desafio desta semana é tomar um café. Escolhe alguém que esteja um degrau à sua frente e convida essa pessoa para um café. Leva três perguntas preparadas e, principalmente, vai disposto a ouvir mais do que falar. E, nos outros dias, presta atenção nas suas conversas: anota quantas vezes o assunto foi reclamação e quantas vezes foi aprendizado. O resultado vai te dizer muito sobre o ambiente em que você vive. No fim da semana, escreve na sua página qual ambiente você decide buscar nos próximos noventa dias.
+E o desafio para esta semana é este. Pede para duas pessoas de confiança, uma de dentro e outra de fora da empresa, descreverem em três palavras a impressão que você causa quando entra numa sala. Compara com as três palavras que você gostaria de ouvir. Depois, escolhe um único sinal de imagem que hoje desmente o seu discurso, pode ser a pontualidade, o tom de voz, o jeito de escrever, e corrige esse sinal durante a semana inteira. Se você usa o Refinado, cadastra as ocasiões da próxima semana e compara as sugestões com o que você teria escolhido sozinho. No fim, anota na sua página as três palavras que você quer que a sua presença comunique.
 
-Agora você tem um CPF mais cuidado, mais coerente e mais bem acompanhado. Chegou a hora de levar tudo isso para dentro da empresa. Porque é lá que a gente vai ver, degrau por degrau, a identidade do dono virar a estrutura do CNPJ.
+Você já está cuidando do corpo e da forma como se apresenta. Agora vem uma pergunta que pode doer um pouco mais: com quem você está caminhando?
+
+::: {custom-style="Destaque"}
+"Ele não mudou a identidade para agradar o faraó. Ajustou a apresentação para que a identidade pudesse ser ouvida."
+:::

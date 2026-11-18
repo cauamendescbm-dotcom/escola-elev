@@ -1,149 +1,141 @@
-# Parte VI — Do CPF ao CNPJ
-
-Até aqui, a nossa conversa foi para dentro de você. Agora quero te convidar a atravessar a rua e entrar comigo na sua empresa. Mas presta atenção: a gente não muda de assunto. Estrutura, cultura e números parecem temas técnicos, e são. Só que, olhando de perto, cada um deles é um espelho. A empresa que você tem hoje é a sua identidade transformada em sistema.
-
 # Capítulo 13
-## Operador, dono, líder
+## Diga-me com quem andas
 
-> "Não é bom o que fazes. Tu só não o podes fazer."
-> — Êxodo 18:17-18
+> "O que anda com os sábios ficará sábio, mas o companheiro dos tolos será afligido."
+> — Provérbios 13:20
 
-No capítulo anterior, eu te contei do Fábio, que trocou a mesa de bar das quintas-feiras por um ambiente que o puxava para cima. Um dia ele me disse uma coisa que eu nunca esqueci: "Gustavo, o problema é que agora eu enxergo. E, quando você enxerga, não dá mais para fingir que não viu."
+Terminei o capítulo anterior com uma pergunta: com quem você está caminhando? Ela pode parecer menor depois de tudo o que a gente já conversou sobre perdão, orgulho e família. Mas eu te garanto que não é. Às vezes, a gente faz todo o trabalho interno e continua travado porque o ambiente em volta puxa para trás.
 
-É exatamente isso que acontece quando um CPF começa a evoluir. Ele volta para a empresa na segunda-feira e enxerga coisas que estavam ali o tempo todo. A fila na porta da sala dele. O WhatsApp que não para. A decisão de dez reais que ninguém toma sem perguntar. E aí vem a pergunta inevitável: por que tudo aqui depende de mim?
+Deixa eu te contar do Fábio (nome alterado).
 
-Para responder, quero te contar a história de um pet shop.
+O Fábio tinha uma rotina sagrada às quintas-feiras. Saía do expediente e ia para o mesmo bar, encontrar os mesmos amigos de muitos anos. Todos empresários. Todos do mesmo bairro. Todos donos de negócios parecidos com o dele.
 
-Você sabe que o mercado pet é um dos que mais crescem no país. A família corta o cinema, corta o restaurante, adia a viagem, mas não corta a ração, o banho e a vacina do cachorro. Era um negócio bem localizado, com clientela fiel e produto bom. Tinha tudo para dar certo.
+Durante muito tempo, aquele era o melhor momento da semana. Risada, história, desabafo. Mas, aos poucos, o Fábio começou a perceber um padrão.
 
-E, mesmo assim, o dono vivia reclamando da crise.
+Toda quinta, o assunto era o mesmo. O governo que atrapalha. O imposto que sufoca. O funcionário que não quer nada com nada. O cliente que não paga. A crise que nunca acaba. Uma sessão semanal de reclamação, muito bem-humorada e regada a cerveja.
 
-O movimento caía. Cliente antigo sumia sem explicação. A equipe trocava a cada poucos meses. E a frase que eu mais ouvia dele era aquela que eu ouço de empresários do Brasil inteiro: "Hoje em dia ninguém quer nada com nada. Não existe mais gente comprometida."
+Ninguém falava de margem. Ninguém contava o que tinha aprendido naquela semana. Ninguém perguntava "o que você faria no meu lugar?".
 
-Quando fomos olhar de perto, descobrimos uma coisa curiosa. O dono não ficava mais na loja. E, olha, eu preciso ser justo com ele: essa decisão estava corretíssima. O empresário que passa o dia dando banho em cachorro, atendendo balcão e contando saco de ração nunca vai ter cabeça para pensar o negócio. Sair da operação era o movimento certo.
+Um dia, o Fábio comentou na mesa que estava pensando em contratar um gerente e sair do balcão. A reação veio na hora. "Tá ficando metido, é?" "Gerente vai te roubar." "Ninguém cuida do seu negócio como você."
 
-O problema não foi a decisão.
+Ele voltou para casa naquela noite com uma sensação esquisita. Gostava daqueles caras. Conhecia as famílias deles, tinha ido ao casamento de vários. Mas percebeu uma coisa que doeu: se quisesse crescer, não ia conseguir fazer isso ali.
 
-Foi o jeito.
+Ele não largou os amigos. Continuou aparecendo no bar de vez em quando. Mas começou a procurar outro tipo de convivência. Um grupo de empresários que já tinham passado pelo que ele estava vivendo. Gente que tinha saído do balcão, que falava de indicador sem vergonha nenhuma, que desafiava em vez de só concordar.
 
-Ele saiu e deixou tudo na mão da equipe. Sem dizer para onde a empresa ia. Sem descrever o que cada um tinha de fazer. Sem nenhum número para saber quem estava indo bem, quem precisava de ajuda e onde as coisas estavam vazando. Treinamento, nem pensar. Ele não participava nem da contratação.
-
-Agora me responde, com sinceridade: que futuro você espera para uma empresa assim?
-
-Não existe produto, ponto comercial ou promoção que salve uma empresa de uma gestão ausente. E repara na ironia. O dono dizia que as pessoas não tinham compromisso. Mas, sem perceber, ele fazia exatamente a mesma coisa. Não estava comprometido com a própria responsabilidade de liderar.
-
-Ele não tinha saído da operação.
-
-Ele tinha saído da liderança.
+Dois anos depois, a empresa do Fábio tinha dobrado de tamanho. Mas, quando eu perguntei o que tinha mudado, ele não falou da empresa. Falou disto: "Mudou o tipo de pergunta que eu me faço".
 
 * * *
 
-Na ELEV, a gente costuma explicar essa história com uma imagem simples: uma escada de três degraus. E eu quero que você se encontre nela enquanto lê, porque cada degrau tem uma frase, e você vai reconhecer a sua em segundos.
+Você pode ter as melhores intenções do mundo. Pode ler todos os livros, fazer todos os cursos, encher um caderno de metas. Se o ambiente onde você passa a maior parte do tempo puxa na direção contrária, ele tende a ganhar.
 
-No primeiro degrau está o operador. A frase dele é "eu sou a máquina". Se ele trabalha, a empresa anda. Se ele para, a empresa para. Normalmente é o melhor vendedor da casa, o melhor técnico, aquele que resolve qualquer pepino. E é justamente por ser tão bom que ele fica preso.
+Não porque você é fraco. Porque é humano.
 
-No segundo degrau está o dono. A frase dele é "eu tenho a máquina". Ele construiu rotinas, escreveu como as coisas são feitas, criou alguns números para acompanhar. A empresa já não depende do braço dele para cada tarefa. Depende do sistema que ele desenhou.
+A gente aprende por imitação. A gente calibra o que é normal pelo que vê em volta. Se todo mundo à sua volta acha normal trabalhar dezesseis horas por dia, você vai achar normal. Se ninguém do seu grupo sabe a margem líquida da própria empresa, você não vai sentir urgência nenhuma em descobrir a sua. Se todo mundo trata funcionário como problema, você vai tratar também, sem nem perceber.
 
-No terceiro degrau está o líder. A frase dele é "eu formo quem conduz". Aqui não existe só processo. Existe gente capaz de melhorar o processo, decidir e formar outras pessoas. A empresa cresce além dele porque ele se multiplicou.
+O ambiente define o seu teto sem pedir licença.
 
-Percebe que a pergunta não é quanto a sua empresa fatura? Eu conheço operador faturando milhões e líder com empresa pequena, saudável e livre. A pergunta certa é: de onde vem o seu resultado? Da sua força, do seu processo ou das pessoas que você formou?
+É por isso que o ditado "diga-me com quem andas e te direi quem és" atravessou tantas gerações. Ele não é um julgamento moral. É uma constatação. As pessoas com quem você mais convive estão ajudando a escrever quem você está se tornando.
 
-O dono do pet shop tentou pular do primeiro degrau direto para fora da escada. Saiu da operação sem construir o segundo degrau. Não havia processo para segurar a loja sem ele. E, sem processo, não havia como formar ninguém para o terceiro.
+E a ciência foi medir isso. Dois pesquisadores, Nicholas Christakis, de Harvard, e James Fowler, da Universidade da Califórnia, debruçaram-se sobre os dados de um estudo que acompanha os moradores de uma cidade americana chamada Framingham desde 1948. Eles mapearam quem era amigo de quem, quem era vizinho de quem, quem era parente de quem. E descobriram que hábitos e emoções circulam por essas redes quase como se fossem contagiosos. Quando um amigo próximo engordava, a chance de a pessoa engordar também subia bastante. E num outro estudo, publicado em 2008, mostraram que até a felicidade se espalha, com efeito que chega ao amigo do amigo do seu amigo.
 
-Ninguém pula degrau sem pagar a conta.
-
-* * *
-
-Quero te contar uma das cenas de gestão mais antigas que eu conheço. Tem mais de três mil anos e parece que aconteceu ontem, numa empresa qualquer do seu bairro.
-
-Moisés tinha tirado um povo inteiro do Egito. Milhares de pessoas atravessando o deserto, com tudo o que isso envolve: briga por água, discussão por espaço de barraca, herança, gado que sumiu, vizinho que invadiu. E quem resolvia tudo isso? Ele. Sozinho.
-
-O texto de Êxodo 18 conta que Moisés se sentava de manhã e só levantava no fim da tarde. Uma fila enorme na frente dele, o dia inteiro. Gente esperando horas para resolver uma questão que, muitas vezes, era pequena.
-
-Um dia, chega para visitar o sogro dele, Jetro. Um homem mais velho, sacerdote em Midiã, que tinha cuidado de gente a vida toda. Jetro passa o dia observando. Não fala nada. Só observa. E, no fim da tarde, faz a pergunta que todo bom mentor faria:
-
-"Que é isso que você está fazendo com o povo? Por que você fica sentado sozinho, e todo mundo em pé na sua frente, da manhã até a noite?"
-
-E Moisés responde do jeito que todo operador responde: "É que o povo vem a mim. Eles precisam de mim para resolver."
-
-Eu adoro a resposta de Jetro, porque ela é ao mesmo tempo dura e carinhosa: "Não é bom o que você está fazendo. Você vai se esgotar, você e esse povo que está com você. Isso é pesado demais. Você não consegue fazer sozinho."
-
-Repara que Jetro não chama Moisés de centralizador, nem de vaidoso, nem de controlador. Ele simplesmente diz: do jeito que está, não vai aguentar. E, logo em seguida, em vez de só criticar, entrega um caminho.
-
-Primeiro, ensine a eles as regras, mostre o caminho em que devem andar e o trabalho que devem fazer. Ou seja: antes de passar qualquer coisa adiante, deixe claro o que é certo, como se faz e o que se espera de cada um.
-
-Depois, escolha no meio do povo homens capazes, que temam a Deus, que amem a verdade e odeiem o ganho desonesto. Repara na ordem: competência e caráter, juntos. Não é só o currículo.
-
-Então, coloque essas pessoas como responsáveis por grupos de mil, de cem, de cinquenta e de dez. Hoje a gente chamaria isso de organograma.
-
-E, por fim, o mais libertador: as questões grandes eles trazem a você, as pequenas eles mesmos resolvem.
-
-Sabe qual é a promessa no final? "Assim será mais leve para você, e eles levarão a carga com você. E todo esse povo vai voltar para casa em paz."
-
-Eu fico pensando nesse "em paz". Quando o dono centraliza tudo, quem sofre não é só ele. A equipe também sofre. Sofre na fila, na espera, na insegurança de não poder decidir nada, no medo de errar porque nunca foi ensinada. Centralizar parece generosidade. Na verdade, é gargalo.
+Pensa no que isso significa para você, empresário. A forma como você lida com o tempo, com o dinheiro, com as pessoas e com as próprias emoções está sendo influenciada, agora mesmo, pelo grupo com quem você mais convive. A pergunta não é se o ambiente está te influenciando. É em qual direção.
 
 * * *
 
-Agora eu preciso fazer uma pausa, porque eu sei o que muita gente sente quando chega neste ponto do livro. Culpa. "Então o problema da minha empresa sou eu?"
+Quero te contar uma história que, para mim, é uma das maiores aulas sobre ambiente que existem.
 
-Calma. Não é bem assim.
+Davi já tinha sido ungido como futuro rei de Israel. Mas naquele momento estava longe, muito longe, de qualquer trono. O rei Saul queria matá-lo, e ele vivia fugindo. Numa dessas fugas, foi se esconder numa caverna chamada Adulão.
 
-Centralização não é falha de caráter. É falta de estrutura. A maioria das empresas que trava não trava por falta de esforço. Trava porque cresceu além da estrutura que a sustentava. Você não errou ao construir a sua empresa com as próprias mãos. Foi justamente essa força que trouxe o negócio até aqui.
+E aí acontece uma coisa inesperada. Começa a chegar gente. E o texto descreve quem era essa gente com uma franqueza que me faz sorrir: "Ajuntou-se a ele todo homem que se achava em aperto, e todo homem endividado, e todo homem amargurado de espírito, e ele se fez chefe deles; e eram com ele uns quatrocentos homens" (1 Samuel 22:2).
 
-Só que o que te trouxe até aqui não vai te levar adiante.
+Lê de novo o currículo. Em aperto. Endividados. Amargurados. Se Davi estivesse montando uma equipe pela entrevista, não contratava ninguém dali.
 
-Faz um teste comigo, rapidinho. Se você sumisse por trinta dias, sem celular, sem e-mail, a sua empresa cresceria ou travaria?
+Mas alguma coisa aconteceu naquela caverna. Aqueles homens passaram a conviver com alguém que tinha visão, princípios e coragem. Ouviam como Davi pensava. Viam como ele decidia. E viram, por duas vezes, o homem que estava sendo caçado ter o rei Saul nas mãos e poupar a vida dele, porque não ia tomar o trono por atalho.
 
-Se a resposta foi "travaria", eu não vou te acusar. Vou te dizer o que eu digo, com todo o respeito, para os empresários que eu acompanho: se só você resolve tudo, você não construiu uma empresa. Construiu um emprego com CNPJ. E é o emprego mais caro que existe, porque o funcionário mais caro da sua empresa é você, preso no fazer, sem tempo para liderar.
+Anos depois, muitos desses mesmos homens aparecem na Bíblia com outro nome: os valentes de Davi. Guerreiros lendários, com feitos contados até hoje. Os mesmos que tinham chegado à caverna endividados e amargurados.
 
-Quando um empresário entra na Escola ELEV, a primeira coisa que a gente faz não é ensinar ferramenta. É fazer um raio-X da empresa inteira, área por área, para descobrir onde ela está de verdade e qual é o gargalo dominante: aquele ponto que, se destravar, libera todo o resto. E sabe o que acontece quase sempre? O empresário chega certo de que o problema é venda. "Eu só preciso vender mais." E descobre que vender mais, com a estrutura que ele tem hoje, só ia aumentar a bagunça. Mais clientes numa operação desorganizada significam mais reclamação, mais retrabalho e mais noites do dono apagando incêndio.
+O que mudou? O ambiente.
 
-Por isso, logo depois do raio-X, a gente não vai para a planilha. Vai para a liderança. E faz uma pergunta que eu quero deixar com você agora: qual comportamento seu, se mudar, muda a empresa?
+Mas tem um detalhe que eu adoro nessa história. O próprio Davi também precisou de alguém. Num dos momentos mais escuros dele, perseguido e esgotado no deserto, Jônatas, filho do próprio Saul, foi até lá encontrá-lo. E o texto diz que ele "fortaleceu a sua mão em Deus" (1 Samuel 23:16). Até o líder dos valentes precisou de alguém para segurar a mão dele.
 
-Guarda essa pergunta. Ela vai voltar no fim do capítulo.
-
-* * *
-
-Volta comigo para o pet shop. Sabe o que o dono fez? Ele não delegou. Ele largou.
-
-Parece a mesma coisa, mas não é. Delegar é passar a responsabilidade com clareza, preparo e acompanhamento. Largar é passar o problema adiante e torcer para dar certo.
-
-Eu gosto de explicar a delegação como quem ensina um filho a dirigir. Você não entrega a chave e diz "boa sorte". No começo, você dirige e ele observa, enquanto você vai explicando o que faz e por quê. Aliás, é aqui que nasce o processo escrito: se você não consegue explicar, ainda não está pronto para delegar. Depois, ele dirige com você do lado, e você corrige na hora, com paciência. Esse é o momento mais difícil para o operador, porque ele sente que "faria mais rápido sozinho". E faria mesmo. E continuaria preso para sempre. Depois, ele dirige e você só observa, sem pegar no volante a cada errinho, porque agora você está formando o julgamento dele, não só a mão. E, por fim, ele dirige sozinho e vocês combinam como ele vai te contar como foi: uma conversa semanal, um relatório, um número que os dois acompanham juntos.
-
-O pet shop pulou direto para a última etapa. Sem as três primeiras e sem nenhum número para acompanhar. O resultado era previsível.
-
-E tem uma coisa linda, pouco falada, sobre delegar bem: a pessoa cresce. Quem recebe responsabilidade com preparo se sente digno de confiança. E quem se sente digno de confiança se compromete. Grande parte daquela "falta de comprometimento" de que os empresários reclamam é, na verdade, falta de pertencimento. Ninguém se compromete com o que não entende, não ajudou a construir e não sabe medir.
-
-Há muitas décadas, dois psicólogos americanos, Edward Deci e Richard Ryan, vêm estudando o que realmente move as pessoas. E chegaram a uma conclusão que Jetro já sabia: a gente se engaja quando sente que tem autonomia, que é capaz e que pertence a alguma coisa. Quando você delega do jeito certo, entrega as três de uma vez. Muito antes deles, lá na China antiga, Lao-Tsé escreveu que o melhor governante é aquele de quem o povo mal percebe a existência, porque, quando a obra termina, todos dizem: "fomos nós que fizemos". O livro de Êxodo, a filosofia oriental e a psicologia moderna, cada um na sua língua, dizendo a mesma coisa.
+São duas lições numa só. Você precisa de um ambiente que te eleve. E você precisa ser, para quem está do seu lado, um ambiente que eleva.
 
 * * *
 
-Agora eu quero voltar ao que faz deste livro algo diferente de um manual de gestão. Se o caminho é tão claro, por que o operador não sobe de degrau?
+Tem um provérbio que descreve com uma precisão incrível o tipo de relação que faz um empresário crescer: "Como o ferro com o ferro se afia, assim o homem afia o rosto do seu amigo" (Provérbios 27:17).
 
-Vou te dar a minha resposta, depois de muitos anos olhando para empresários, a começar pelo espelho: porque o primeiro degrau alimenta uma identidade.
+Você já viu alguém afiando uma faca? Sai faísca. Faz barulho. Tem atrito. Não é confortável.
 
-Ser imprescindível dá sentido. Ser o único que sabe resolver dá importância. Ouvir "sem você isso aqui não anda" é música para um coração que, lá no fundo, ainda não sabe bem quem é. Muitos donos não saem da operação porque têm medo de descobrir quem são quando não estão apagando incêndio.
+Muito empresário se cerca de gente que só concorda. Funcionário com medo de discordar. Amigo que prefere não se meter. Família que não entende do negócio. É um ambiente gostoso, mas não afia nada. É algodão contra ferro.
 
-Lembra da nossa conversa lá no capítulo 2, sobre a identidade fundida com a empresa? É aqui que ela cobra a conta. Se você é o que você faz, delegar parece perder um pedaço de si.
+Ao longo dos anos, olhando para os grupos que realmente fizeram empresários crescerem, eu percebi que eles tinham três coisas em comum.
 
-E é aqui que tudo o que a gente conversou até agora se encontra. O empresário que sabe quem é, que soltou as mágoas, que desceu do posto de maior da sala e que tem a casa em ordem não precisa ser imprescindível para se sentir valioso. Ele consegue formar pessoas melhores do que ele em várias funções sem se sentir ameaçado. Ele encontrou valor em outro lugar: em quem ele forma.
+A primeira é que tem gente na sua frente. Pessoas que já subiram o degrau que você está tentando subir. Que já saíram do operacional, que já montaram uma liderança, que já atravessaram a crise que você teme. Elas nem precisam te dizer o que fazer. Só de ouvir como elas pensam, o seu repertório cresce.
 
-[AUTOR: contar o momento em que você percebeu que era o gargalo da própria empresa, ou a primeira delegação difícil que fez na reestruturação durante a pandemia.]
+A segunda é que tem confronto com amor. Gente que se importa o suficiente para te dizer o que você não quer ouvir. "Você está fugindo dessa conversa com o seu sócio." "O seu problema não é o mercado, é o seu custo fixo." "Você está usando a empresa para não ficar em casa." Dói. Mas abre os olhos.
+
+E a terceira é que tem compromisso com a aplicação. Não é um grupo de conversa, é um grupo de execução. No mês seguinte, alguém vai te perguntar se você fez o que disse que ia fazer. E só essa pergunta já muda o seu comportamento.
+
+O bar de quinta do Fábio era bom para a alma dele. Mas não tinha nenhuma dessas três coisas. E ele precisava das duas: do acolhimento e do ferro.
+
+* * *
+
+Existe um outro motivo pelo qual eu falo tanto disso. A solidão do empresário.
+
+Pouca gente fala dela, mas quem empreende conhece bem. Você não pode desabafar com a equipe sobre o caixa apertado, porque isso gera insegurança. Não quer contar tudo para a família, para não preocupar ninguém. E fica sozinho com o peso das decisões que só você pode tomar.
+
+Salomão, que conhecia bem o peso de governar, escreveu no Eclesiastes: "Melhor é serem dois do que um... Porque se caírem, um levantará o seu companheiro; mas ai do que estiver só; pois, caindo, não haverá outro que o levante". E fecha com uma imagem linda: "o cordão de três dobras não se quebra tão depressa" (Eclesiastes 4:9-12).
+
+Quando essa solidão dura muito tempo, ela distorce tudo. Os problemas ficam maiores do que são. As oportunidades passam sem você ver. E as decisões são tomadas no escuro, sem ninguém do lado para perguntar: "você já pensou nisso?".
+
+O ambiente certo não decide por você. Mas tira de você o peso de decidir sozinho.
+
+`[AUTOR: inserir uma história sua de solidão como empresário e da pessoa ou do grupo que fez diferença naquele período.]`
+
+* * *
+
+Agora, preciso fazer um alerta, porque já vi muita gente errar a mão aqui. Mudar de ambiente não é trocar de amigos como quem troca de fornecedor.
+
+O Fábio não abandonou a mesa de quinta. Ele só parou de esperar dela o que ela não podia oferecer. Aqueles amigos continuaram fazendo parte da história dele. O que mudou foi o lugar de cada relação na agenda e no coração.
+
+Tem relação que existe para nos acolher. Tem relação que existe para nos afiar. As duas têm valor. O problema começa quando você espera crescimento de quem só sabe acolher, ou quando passa a desprezar o acolhimento porque agora só quer quem te desafia.
+
+E tem um risco bem sutil nisso. Quem muda de ambiente às vezes volta para o grupo antigo com ar de superioridade, corrigindo todo mundo, despejando os conceitos novos que aprendeu. Lembra do capítulo sobre o orgulho? Pois é. É o mesmo orgulho com roupa nova. O caminho bom é outro: levar o que você aprendeu como semente, não como sermão. Quando alguém do grupo antigo perguntar o que mudou, você conta. Sem pressão. Foi assim que o Fábio, alguns anos depois, levou dois amigos do bar para o grupo de empresários que frequentava.
+
+Crescimento verdadeiro não deixa um rastro de gente desprezada. Deixa portas abertas.
+
+* * *
+
+Em 1937, Napoleon Hill publicou *Quem pensa enriquece*, um dos livros de negócios mais lidos do século passado. Ali ele usou uma palavra que ficou famosa: *mastermind*. Ele tinha observado que muitos dos empresários bem-sucedidos que estudou tinham, por perto, um pequeno grupo de pessoas com quem pensavam juntos, em harmonia, rumo a um objetivo definido.
+
+A ideia não era nova. Era só um nome novo para o que aconteceu na caverna de Adulão. Muito antes, Aristóteles já tinha chamado o verdadeiro amigo de "outro eu", e Sêneca, escrevendo ao amigo Lucílio, aconselhava: conviva com quem pode te tornar melhor e acolha aqueles que você pode tornar melhores.
+
+O Mastermind ELEV nasceu dessa convicção. Ele reúne empresários que já passaram da fase de sobreviver e entenderam que o próximo degrau pede outro tipo de convivência. Tem imersões, conversas estratégicas, confronto respeitoso e celebração. Tem confidencialidade, porque ninguém se abre de verdade onde não se sente seguro. E tem princípios no centro, porque um grupo só eleva quando caminha na mesma direção.
+
+Eu não estou te contando isso para te convencer a entrar. Estou contando porque é ali que eu vejo, todos os meses, este capítulo acontecer na prática. Com a gente ou com outro grupo, procure um lugar que tenha as três coisas: gente na sua frente, confronto com amor e compromisso com a aplicação. O seu CPF precisa disso.
+
+* * *
+
+E, antes de virar a página, eu quero virar o espelho para você.
+
+Você está procurando um ambiente que te eleve. Mas, para a sua equipe, o ambiente é você. Para os seus filhos, o ambiente é você. Para o seu cônjuge, para os seus amigos, para aquele empresário mais novo que te olha como referência.
+
+Que clima você cria? As pessoas saem de perto de você mais animadas ou mais pesadas? Mais claras ou mais confusas? Mais corajosas ou mais medrosas?
+
+Davi transformou endividados em valentes porque ele mesmo era um ambiente que elevava. Os dois movimentos são necessários: subir com quem está acima e estender a mão para quem vem atrás.
 
 ### Antes de virar a página
 
-Pega um papel agora. Sério, agora, antes de seguir. Quero que você faça uma coisa simples e reveladora.
+Pega a sua página de novo. Hoje ela ganha os nomes das pessoas que caminham com você.
 
-Anota as dez atividades que mais tomaram o seu tempo na última semana. Do lado de cada uma, coloca uma letra: O, se só você faz e você é a máquina; D, se existe um jeito definido e outra pessoa poderia fazer; L, se alguém já conduz e você só acompanha. Depois, conta as letras. Não é para se culpar. É para saber de onde você está partindo.
+1. Escreve os nomes das cinco pessoas com quem você mais convive fora de casa. Ao lado de cada nome, marca com sinceridade se aquela pessoa te eleva, te mantém onde você está ou te puxa para baixo.
+2. Quem, na sua vida hoje, já está no degrau que você quer alcançar? E com que frequência você conversa com essa pessoa?
+3. Quem tem liberdade para te confrontar com amor? Se ninguém tem, por que será?
 
-Em seguida, responde três perguntas com toda a honestidade que você tiver:
+O desafio desta semana é tomar um café. Escolhe alguém que esteja um degrau à sua frente e convida essa pessoa para um café. Leva três perguntas preparadas e, principalmente, vai disposto a ouvir mais do que falar. E, nos outros dias, presta atenção nas suas conversas: anota quantas vezes o assunto foi reclamação e quantas vezes foi aprendizado. O resultado vai te dizer muito sobre o ambiente em que você vive. No fim da semana, escreve na sua página qual ambiente você decide buscar nos próximos noventa dias.
 
-1. Em que degrau eu estou hoje: operador, dono ou líder?
-2. Complete a frase: "Se eu parar de ______, a minha empresa vai crescer."
-3. O que eu ganho, por dentro, continuando a fazer isso? Sentir-me útil? Ter o controle? Fugir de uma conversa difícil?
+Agora você tem um CPF mais cuidado, mais coerente e mais bem acompanhado. Chegou a hora de levar tudo isso para dentro da empresa. Porque é lá que a gente vai ver, degrau por degrau, a identidade do dono virar a estrutura do CNPJ.
 
-E aqui vai o desafio para os próximos sete dias. Escolhe uma única atividade marcada com O. Escolhe a pessoa, e lembra de Jetro: capacidade e caráter. Nesta semana, faz com ela olhando e depois faz junto com ela. Escreve o passo a passo numa página só. E define qual número vocês vão olhar juntos quando ela estiver dirigindo sozinha.
-
-Na sua página, aquela folha que vem te acompanhando desde o começo do livro, escreve o degrau em que você está e o próximo degrau que decidiu subir.
-
-Só tem uma coisa que nenhum processo resolve sozinho. Você pode escrever cada atividade, criar cada número e delegar cada tarefa. Se as pessoas não souberem como as coisas são feitas na sua empresa, e por quê, cada um vai continuar trabalhando do próprio jeito. No próximo capítulo, a gente vai falar da identidade da sua empresa. E eu já te adianto: ela se parece muito com você.
+::: {custom-style="Destaque"}
+"O ambiente certo não decide por você. Mas tira de você o peso de decidir sozinho."
+:::

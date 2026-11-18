@@ -45,6 +45,17 @@ fmt("Heading 2", "Times New Roman", 16, MARINHO, True, 6, 14, WD_ALIGN_PARAGRAPH
 fmt("Heading 3", "Times New Roman", 12, MARINHO, True, 14, 6)
 fmt("Block Text", "Times New Roman", 10.5, MARINHO, False, 6, 12, WD_ALIGN_PARAGRAPH.CENTER)
 next(x for x in st if x.name == "Heading 1").paragraph_format.page_break_before = True
+from docx.enum.style import WD_STYLE_TYPE
+if "Destaque" not in [x.name for x in st]:
+    d = st.add_style("Destaque", WD_STYLE_TYPE.PARAGRAPH)
+    d.base_style = next(x for x in st if x.name == "Normal")
+    d.font.name, d.font.size, d.font.bold, d.font.color.rgb = "Times New Roman", Pt(18), True, MARINHO
+    pf = d.paragraph_format
+    pf.page_break_before = True
+    pf.space_before = Pt(220)
+    pf.alignment = WD_ALIGN_PARAGRAPH.LEFT
+    pf.line_spacing = 1.2
+    pf.left_indent = Cm(0.8)
 ref.save(os.path.join(AQUI, "reference.docx"))
 
 partes = [os.path.join(LIVRO, "00-capa.md")] + sorted(glob.glob(os.path.join(LIVRO, "capitulos", "cap-*.md")))

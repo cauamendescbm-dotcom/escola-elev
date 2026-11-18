@@ -1,151 +1,181 @@
+# Parte VII — Visão e legado
+
+A gente já andou bastante juntos. Você olhou para dentro, soltou pesos antigos, desceu do pedestal, voltou para casa, cuidou de si e arrumou a empresa. Agora eu quero te levar para o alto do morro, para aquele lugar de onde dá para ver a estrada inteira. Porque tudo o que você construiu até aqui precisa de uma direção, e de um motivo que seja maior do que você.
+
 # Capítulo 17
-## O papel do seu CNPJ na sociedade
+## Escreve a visão
 
-> "Procurai a paz da cidade para onde vos fiz transportar e orai por ela ao Senhor; porque na sua paz vós tereis paz."
-> — Jeremias 29:7
+> "Escreve a visão, grava-a sobre tábuas, para que a possa ler até quem passa correndo."
+> — Habacuque 2:2
 
-No capítulo anterior, você escreveu para onde está indo. Agora eu quero te contar uma história que mudou a forma como eu olho para qualquer empresa, por menor que ela seja.
+Na nossa última conversa, a gente abriu os números da sua empresa. Talvez tenha doído um pouco. Talvez você tenha descoberto que vendia bem e sobrava pouco, ou que o seu CPF vinha pagando contas do CNPJ havia anos. Mas uma coisa eu tenho certeza: depois de olhar para os números de verdade, você ficou com uma pergunta que nenhuma planilha responde.
 
-Era fim de tarde numa padaria de bairro. A dona, que eu vou chamar de Marta (nome alterado), estava fechando o caixa quando uma das funcionárias mais antigas pediu para falar com ela. Marta já se preparou para o pior. Andava cansada, a margem estava apertada, e fazia meses que ela se perguntava se aquilo tudo valia a pena. Ela tinha certeza de que ia ouvir um pedido de demissão.
+Tá bom. E agora, para onde eu vou com isso tudo?
 
-A funcionária abriu a bolsa e tirou um papel dobrado. Era o contrato da primeira casa própria dela.
+Deixa eu te contar uma cena que eu vi acontecer.
 
-— Eu queria que a senhora fosse a primeira a ver. Foram oito anos de carteira assinada aqui. Sem isso, o banco nunca teria aprovado.
+Era uma sexta-feira de manhã, numa das imersões da mentoria. A sala estava em silêncio. Diante de cada empresário havia uma folha em branco, uma caneta e um envelope fechado com o selo da ELEV. A instrução era simples: escrever, à mão, como seria a empresa dali a três anos. Não a empresa que ele tinha medo de ter. A empresa que ele tinha coragem de construir.
 
-Marta me contou essa história com a voz embargada.
+Alguns começaram a escrever na hora. Outros ficaram olhando para o papel.
 
-— Eu passei anos achando que a padaria era só a minha luta para pagar as contas. Naquele dia, eu entendi que tinha uma casa de pé por causa dela.
+Um deles, dono de uma distribuidora com mais de quinze anos de estrada, levantou a mão depois de uns minutos.
 
-Esse é o assunto da nossa conversa de hoje.
+— Gustavo, eu não sei o que escrever.
 
-Durante quase todo o livro, a gente olhou para dentro. Identidade, perdão, orgulho, família, corpo, imagem, as pessoas com quem você anda, estrutura, números, visão. Agora eu quero te convidar a olhar para fora. Porque o seu CNPJ não termina na porta da sua empresa.
+E olha, não era falta de capacidade. Aquele homem sabia o faturamento de cabeça, conhecia cada cliente grande pelo nome, negociava como poucos que eu conheço. Mas, quando a pergunta saiu do "como eu resolvo isso hoje" e foi para o "onde eu quero estar", a caneta travou.
 
-* * *
+— Faz quinze anos que eu só apago incêndio — ele disse, meio sem graça. — Nunca parei para pensar onde essa estrada termina.
 
-Existe uma palavra antiga que o mundo dos negócios esqueceu: mordomia.
+Eu guardei essa frase. Porque ela descreve a maioria das empresas que eu conheço.
 
-Na Antiguidade, o mordomo era quem administrava os bens de um senhor. Não era o dono, mas tinha autoridade sobre tudo, era responsável por tudo e, um dia, ia prestar contas. Jesus contou uma parábola inteira sobre isso, a dos talentos. Um senhor viaja e confia recursos a três servos. Dois multiplicam o que receberam. O terceiro, com medo, enterra o dinheiro no chão e devolve exatamente o que recebeu. E é esse terceiro que leva a bronca.
+Elas não estão sem rumo por incompetência. Estão sem rumo porque o dono passou anos olhando para o chão, desviando de buraco, e esqueceu de levantar a cabeça para ver o horizonte.
 
-Repara que o problema dele não foi perder dinheiro. Foi não fazer nada com o que tinha nas mãos.
-
-Quando você começa a olhar para a sua empresa como mordomia, três coisas mudam por dentro.
-
-A primeira é o peso. Você deixa de carregar a empresa como um fardo solitário e passa a carregar como uma missão. E fardo esmaga, mas missão sustenta. Eu sei a diferença porque já carreguei dos dois jeitos.
-
-A segunda é o olhar sobre as pessoas. Quem trabalha com você deixa de ser "custo de folha" e passa a ser uma vida confiada à sua liderança, com uma família inteira atrás.
-
-A terceira é o critério das decisões. Você continua perguntando "isso dá lucro?", porque precisa. Mas passa a perguntar também "isso é certo diante de quem me confiou este lugar?".
-
-No Manual de Cultura da ELEV, a gente escreveu uma frase curtinha que eu leio quase como uma oração: o Grupo Elev existe para abençoar. Não é romantismo. É clareza sobre o porquê.
+Este capítulo é um convite para você levantar a cabeça.
 
 * * *
 
-Deixa eu te levar para um dos momentos mais tristes da história de Israel.
+Antes de tudo, deixa eu tirar um peso das suas costas. Visão não é aquela frase bonita pendurada na recepção. Você sabe qual. "Ser referência no mercado com excelência e inovação." Ninguém da sua equipe acorda de manhã pensando nisso. Você também não.
 
-Por volta de 597 antes de Cristo, milhares de judeus foram arrancados de Jerusalém e levados à força para a Babilônia. Artesãos, líderes, famílias inteiras. Jogados numa cidade estrangeira, com outra língua, outros deuses e outros costumes. Imagina o clima. Raiva, saudade e aquela sensação de que a vida tinha parado.
+Visão também não é desejo. "Quero crescer", "quero ganhar mais", "quero ter mais tempo". São vontades legítimas, e eu tenho todas elas. Mas vontade sem forma não dá direção. É como entrar no carro e dizer "quero ir para um lugar melhor". O GPS não aceita.
 
-E tinha uns profetas que alimentavam isso. "Não desfaçam as malas", diziam. "Em dois anos, a gente volta para casa." Então muita gente vivia de mala pronta. Não construía nada, não plantava nada, só esperava a vida de verdade recomeçar.
+Visão é uma imagem clara de um futuro concreto, tão nítida que muda o que você decide hoje.
 
-Aí chega uma carta. Quem escreve é Jeremias, que tinha ficado em Jerusalém.
+Repara nesse último pedaço. Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração.
 
-O povo se reúne para ouvir. Talvez esperassem consolo. Talvez um plano de fuga. E o que eles ouvem é desconcertante:
+Quando Deus manda o profeta Habacuque escrever a visão, vem junto um detalhe que eu acho genial: "para que a possa ler até quem passa correndo". A visão precisa ser tão clara que até alguém apressado entende. E sabe quem é essa pessoa apressada? É a sua equipe no meio da correria. É a sua esposa ou o seu marido no fim do dia. É você mesmo numa segunda-feira caótica, com quinze mensagens não lidas.
 
-— Construam casas e morem nelas. Plantem pomares e comam do que plantaram. Casem, tenham filhos e filhas. Multipliquem-se aí. E procurem a paz da cidade para onde eu deixei vocês serem levados. Orem por ela. Porque na paz dela vocês terão paz.
+Se a sua visão precisa de meia hora de explicação, ela ainda não está pronta.
 
-Silêncio na sala, imagino.
+E aqui entra uma coisa que a gente vem conversando desde o primeiro capítulo. O CNPJ só alcança o que o CPF permite. Isso vale para a visão também. Nenhuma empresa enxerga mais longe do que quem a lidera. Se o dono só enxerga o mês, a empresa vive de mês em mês. Se o dono só enxerga o próximo boleto, a empresa vive de boleto em boleto.
 
-Orar pela Babilônia? Pela cidade dos inimigos? Trabalhar para que prosperasse justamente quem tinha destruído a casa deles?
+É por isso que esta conversa só podia acontecer agora, quase no fim do livro. Você precisou se encontrar, perdoar, vencer o orgulho, arrumar a casa, cuidar do corpo e organizar a empresa. Agora tem espaço. Agora tem silêncio suficiente para ouvir a pergunta.
 
-Sim. E a carta ainda acrescenta: não vão ser dois anos. Vão ser setenta.
-
-Jeremias tira aquele povo da posição de vítima que espera e coloca na posição de quem constrói. O lugar onde eles estavam, por pior que fosse, era exatamente o lugar onde deveriam servir e abençoar.
-
-Eu conheço muito empresário vivendo de mala pronta. "Quando o mercado melhorar." "Quando o governo mudar." "Quando eu achar uma equipe boa." E, enquanto isso, não constrói nada que dure. A carta de Jeremias continua valendo para nós: a sua cidade, a sua rua e o seu setor são o lugar onde o seu CNPJ deve buscar a paz. E, na paz deles, você também vai ter paz.
-
-Décadas depois, um daqueles exilados chegou ao topo do governo babilônico. O nome dele era Daniel. Os rivais ficaram com tanta inveja que vasculharam a vida dele atrás de qualquer deslize. Uma conta mal prestada, um favor suspeito, qualquer coisa. E o texto diz que não encontraram nada, porque ele era fiel. Um estrangeiro, servindo com excelência num reino que não era o dele. Esse é o padrão que eu queria para mim e para você.
+Para onde?
 
 * * *
 
-Sabe aquela brincadeira de jogar uma pedra no lago e ver as ondas se espalhando? É assim que eu gosto de enxergar o impacto de uma empresa.
+Eu quero te contar a história de um homem que tinha tudo para não se incomodar com nada.
 
-A primeira onda bate na sua própria casa. A empresa sustenta a sua família, mas também pode roubar presença, paz e saúde. A gente conversou muito sobre isso. Um CNPJ que destrói o lar do dono falhou logo na primeira onda, por maior que seja o faturamento.
+Pérsia, uns 445 anos antes de Cristo. No palácio de Susã, um judeu chamado Neemias trabalhava como copeiro do rei. Parece cargo pequeno, mas não era. Ele provava o vinho antes do rei beber, para garantir que ninguém o envenenasse. Era o homem de confiança do soberano mais poderoso da época. Salário garantido, vida confortável, crachá de acesso ao palácio.
 
-A segunda onda chega na equipe e nas famílias de cada um. Pensa comigo: cada pessoa que você contrata costuma ter outras duas ou três que dependem daquele salário. Então uma empresa de vinte funcionários pode estar sustentando, de um jeito ou de outro, sessenta ou setenta pessoas. Pensa na funcionária da Marta com a chave da casa na mão.
+Um dia, chegam uns viajantes de Jerusalém, a terra dos pais dele. Neemias pergunta, por educação, como andam as coisas por lá. E a resposta vem como um soco no estômago: os muros da cidade estão no chão, as portas foram queimadas, e o povo vive humilhado.
 
-A terceira onda alcança os seus clientes. Toda empresa existe para resolver o problema de alguém. Quando você vende com honestidade e entrega com excelência, a vida de quem compra fica melhor. É isso que o V da ELEV significa para nós: venda como consequência natural de servir bem, e não como a arte de empurrar o que a pessoa não precisa.
+Neemias se senta e chora. Fica dias assim, em jejum e oração.
 
-A quarta onda chega aos fornecedores. E aqui eu vou ser bem direto. Pagar em dia é uma forma de justiça. Quando você atrasa um fornecedor pequeno para aliviar o seu caixa, você só transfere o seu problema para a família de outro empresário.
+Neemias podia ter dito "que pena" e voltado ao trabalho. Mas aquele incômodo não foi embora. E toda visão de verdade começa exatamente aí: num incômodo que a gente decide não ignorar.
 
-E a quinta onda alcança a cidade e o país. Impostos que viram escola e hospital. Carteira assinada, que dá acesso a crédito, aposentadoria e dignidade. O seu exemplo para outros empresários. Os projetos que você apoia.
+Meses depois, servindo o vinho, o rei olha para o rosto dele.
 
-Os levantamentos do Sebrae mostram, ano após ano, que as micro e pequenas empresas estão entre as maiores geradoras de emprego formal do Brasil. Não é exagero dizer que este país é sustentado por gente como você, que acorda cedo, assume risco e mantém uma empresa de pé.
+— Por que essa cara triste? Você não está doente. Isso é tristeza do coração.
 
-Quando o CPF evolui, o CNPJ encontra um novo nível. E, quando o CNPJ encontra um novo nível, a cidade inteira sente.
+Agora imagina o frio na barriga. Na corte persa, aparecer abatido diante do rei podia custar o emprego. Às vezes a cabeça. O texto diz que Neemias teve muito medo. Mas sabe o que me impressiona? Ele não improvisou. A visão já estava pronta dentro dele. Ele faz uma oração rápida, em silêncio, e pede ao rei exatamente o que precisa: quanto tempo vai ficar fora, cartas de autorização para passar pelos governadores do caminho e uma ordem para o guarda das florestas do rei liberar madeira para as vigas das portas.
 
-* * *
+Ele já sabia até de onde viria a madeira.
 
-Agora, eu preciso esclarecer uma coisa, porque sempre aparece alguém que me entende errado. Quando eu falo de propósito, não estou dizendo que lucro virou palavrão.
+O rei dá tudo.
 
-Uma empresa sem lucro não abençoa ninguém. Ela fecha. E, quando fecha, demite, deixa fornecedor sem receber e joga a família do dono numa crise.
+Chegando em Jerusalém, Neemias não sobe num palanque. Sai de noite, quase sozinho, montado num animal, e vai olhar os muros caídos com os próprios olhos. Só depois disso ele reúne o povo e fala uma coisa simples:
 
-Eu gosto de pensar no lucro como oxigênio. Você não vive para respirar. Mas, sem respirar, você não vive.
+— Vocês estão vendo a situação em que a gente está. Vamos reconstruir esse muro.
 
-O que a mordomia muda não é a importância do lucro. É o lugar dele. O lucro deixa de ser o fim e vira o meio, o combustível que permite à empresa cumprir a sua missão por mais tempo, para mais gente e com mais qualidade. Peter Drucker, um dos pais da administração moderna, pensava parecido. Para ele, o lucro não era a razão de ser de uma empresa, e sim a condição para que ela continuasse existindo.
+Cada família pega o trecho em frente à própria casa. Aí vem a zombaria. Depois, as ameaças. Por fim, os inimigos inventam uma reunião fora da cidade, só para tirá-lo da obra. E Neemias responde uma frase que eu queria que todo empresário pendurasse na parede:
 
-Por isso, a conversa sobre margem, caixa e custo fixo que a gente teve há pouco não foi um desvio para a planilha. Foi parte do mesmo assunto. Cuidar dos números é cuidar da sua capacidade de servir. Um empresário que não conhece os próprios números pode ter um coração enorme, mas vai abençoar por pouco tempo.
+— Estou fazendo uma grande obra. Não posso descer.
 
-E tem outra coisa que anda junto com isso. Em algum momento, a sua empresa vai encontrar um atalho. Uma nota que "não precisa" ser emitida. Um fornecedor oferecendo uma comissão por fora. Um cliente pedindo um jeitinho. Uma informação que poderia prejudicar um concorrente.
+O muro ficou pronto em 52 dias.
 
-O atalho sempre promete crescimento rápido. E quase sempre entrega duas coisas: um risco que cresce em silêncio e uma identidade que vai sendo corroída por dentro, sem você perceber.
+Agora relê essa história pensando na sua empresa. Um incômodo que não foi ignorado. Um preparo feito antes da oportunidade aparecer. Um pedido claro. Um diagnóstico feito pessoalmente, de noite, sem plateia. Uma comunicação que qualquer um entendia. Uma responsabilidade para cada família. E a coragem de dizer não para o que distraía.
 
-O primeiro valor da ELEV é a verdade. Sim é sim, não é não. Integridade não é só ficar longe do crime. É ser a mesma pessoa quando ninguém está olhando. É aquilo que a gente conversou lá no capítulo 2: identidade é o que permanece quando o cenário muda.
-
-Daniel cresceu na Babilônia sem se corromper. A integridade não impediu que ele prosperasse. Foi ela que fez a prosperidade dele durar.
+Quando eu olho para a jornada da Escola ELEV, com clareza, liderança, financeiro, cultura, organização e direção, eu percebo que a gente não inventou nada. Só traduziu um caminho muito antigo para a língua do empresário de hoje.
 
 * * *
 
-Eu gosto de pensar na empresa como uma plataforma. Um lugar alto de onde dá para alcançar mais gente.
+E o mais curioso é que a ciência, milênios depois, chegou ao mesmo lugar.
 
-O seu CNPJ te dá acesso a pessoas, recursos, influência e conversas que o seu CPF sozinho nunca teria. A pergunta é o que você faz lá de cima.
+Em 1990, dois psicólogos americanos, Edwin Locke e Gary Latham, juntaram mais de vinte anos de pesquisa sobre metas e desempenho. E a conclusão se repetia estudo após estudo: quem trabalha com metas específicas e desafiadoras rende mais do que quem trabalha com o famoso "faça o seu melhor". O "faça o seu melhor" parece motivador, mas não aponta para lugar nenhum. A meta clara, não. Ela direciona a atenção, mobiliza o esforço e faz a pessoa insistir mais e procurar caminhos novos.
 
-Para mim, o maior impacto de uma empresa não é o produto. É quem as pessoas se tornam enquanto trabalham nela. Um rapaz que aprendeu disciplina, responsabilidade e caráter na sua empresa vai levar isso para dentro da casa dele, para os filhos dele. Isso não aparece no balanço, mas é a coisa mais duradoura que você vai construir.
+Mas tem um detalhe na pesquisa deles que pouca gente comenta. A meta só funciona quando existe compromisso com ela e quando a pessoa recebe retorno sobre o progresso. Meta escrita e esquecida na gaveta não muda nada. Meta acompanhada muda.
 
-Às vezes, usar a plataforma é dar o primeiro emprego para quem ninguém quis contratar. Ou a segunda chance para quem errou. Sabe aquele menino dos cinco pães e dois peixes? Ele nem foi contado entre os cinco mil, porque contavam só os homens. E, mesmo assim, estava no centro do milagre. Tem muita gente esquecida esperando que alguém olhe para ela.
+Muito antes deles, um psiquiatra austríaco chamado Viktor Frankl observou a mesma verdade num lugar onde nenhum laboratório entraria: os campos de concentração nazistas. Ele sobreviveu e escreveu sobre isso em *Em busca de sentido*. Frankl percebeu que os prisioneiros que mantinham um porquê, fosse reencontrar alguém que amavam, terminar uma obra ou cumprir uma missão, encontravam forças para suportar o insuportável. Ele gostava de repetir uma frase de Nietzsche: quem tem um porquê para viver suporta quase qualquer como.
 
-Às vezes é elevar o padrão do seu setor. Pagar em dia, cumprir o combinado, tratar bem até o concorrente. Quando uma empresa faz isso por anos, vira referência e puxa as outras para cima. Na ELEV, todo ano, o Projeto ELEV apoia instituições sociais escolhidas pelos próprios mentorados. Não é marketing. É a escolha de transformar parte do resultado em bênção que dá para ver.
+E dois mil anos antes de todos eles, Sêneca escreveu ao amigo Lucílio uma frase que vale para qualquer empresa: nenhum vento é favorável para quem não sabe a que porto se dirige.
 
-Abraão ouviu de Deus, quase quatro mil anos atrás: "Farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome; e tu serás uma bênção". Repara na ordem. A bênção que ele recebe existe para virar bênção entregue. Esse é o ciclo de um CNPJ maduro.
-
-E, olha que interessante, a ciência anda confirmando isso de um jeito bem concreto. Em 2008, três pesquisadores, Elizabeth Dunn, Lara Aknin e Michael Norton, deram dinheiro a algumas pessoas e pediram que metade gastasse consigo mesma e metade gastasse com outros. No fim do dia, quem gastou com os outros estava mais feliz. Anos depois, o professor Adam Grant, da Wharton, fez um experimento com operadores de telemarketing que arrecadavam dinheiro para bolsas de estudo. Bastou uma conversa rápida com um aluno que tinha sido beneficiado por aquelas bolsas, e os operadores passaram a trabalhar com outro ânimo e a arrecadar bem mais nas semanas seguintes. Eles tinham visto o rosto de quem o trabalho deles ajudava.
-
-Aristóteles já dizia que o ser humano é um animal político, que só se realiza de verdade em comunidade, e que o bem da cidade é maior do que o bem de um só. Jeremias escreveu a mesma coisa numa carta para exilados. E os pesquisadores encontraram isso em laboratório. Ninguém prospera de verdade sozinho.
+O profeta, o filósofo, o psiquiatra e os pesquisadores chegaram ao mesmo ponto. Quem enxerga o destino com clareza suporta o caminho e consegue levar outros junto.
 
 * * *
 
-Antes de terminar, eu quero te fazer uma pergunta meio incômoda. Respira fundo.
+Então, na prática, como se escreve uma visão que funciona?
 
-Se a sua empresa fechasse amanhã, quem ia sentir falta?
+Eu costumo explicar aos empresários que a visão tem três andares, como um prédio.
 
-Não estou perguntando quem ia ficar sem fornecedor. Isso se resolve numa semana. Estou perguntando quem ia perder alguma coisa que não encontraria em outro lugar.
+O térreo é o porquê. Por que essa empresa existe, além de pagar as suas contas? Que problema ela resolve? Que famílias ela sustenta? Que vida ela torna possível para você e para quem trabalha com você? Esse andar quase não muda de um ano para o outro. É o alicerce. É o que te faz levantar da cama quando o mês aperta.
 
-Se a sua resposta for "ninguém além de mim", não se assuste. Não é condenação, é diagnóstico. Só quer dizer que a empresa ainda está sendo vivida como o meio de sobrevivência do dono, e não como presença na vida das pessoas.
+O andar do meio é a imagem de três anos. E aqui eu peço uma coisa: escreve como se já tivesse acontecido. No presente. Quanto a empresa fatura e quanto sobra. Quantas pessoas trabalham com você e quem são os líderes abaixo de você. Que tipo de cliente você atende e qual você deixou de atender. Qual é o seu papel, quantas horas você trabalha e o que você não faz mais de jeito nenhum.
 
-Agora imagina o contrário. Um cliente dizendo: "Ninguém atende como eles". Um colaborador dizendo: "Foi ali que eu aprendi a ser quem eu sou". Um fornecedor dizendo: "Foi a única empresa que nunca me deixou na mão". Uma instituição da cidade dizendo: "Eles estiveram com a gente quando ninguém estava".
+E, na mesma folha, como estão a sua casa, a sua saúde e a sua fé.
 
-Isso não se constrói com campanha de marketing. Se constrói com escolhas pequenas, repetidas por anos, por um CPF que decidiu que o seu CNPJ seria lembrado pelo bem que fez, e não só pelo que faturou.
+Eu insisto nisso porque já vi muita visão empresarial linda que custava um casamento. Lembra do que a gente conversou no capítulo 9? Filho não se demite. Se a sua visão de três anos exige que você perca a sua família no caminho, ela está errada. Não é visão. É ambição desgovernada.
 
-E, cá entre nós, empresas assim raramente precisam brigar por preço. Elas foram além do produto. Viraram parte da vida de alguém.
+O último andar é o plano de doze meses. Lá do alto da imagem de três anos, você desce um degrau e pergunta: o que precisa estar pronto daqui a um ano para que essa visão continue de pé? Daí saem poucas metas, com número, prazo e alguém responsável por cada uma.
+
+O porquê te dá energia. A imagem te dá direção. O plano te dá os passos. Sem o porquê, você desiste no primeiro mês ruim. Sem a imagem, você se perde nas oportunidades. Sem o plano, você só sonha.
+
+Lembra do empresário da distribuidora, aquele que travou diante da folha em branco? Ele levou quase quarenta minutos. Escreveu uma única página. E não falava só de faturamento. Falava de ter um gerente comercial formado dentro de casa, de buscar o filho na escola às quintas-feiras e de voltar a ir à igreja com a esposa.
+
+Quando terminou, ele dobrou a folha, colocou no envelope e me disse:
+
+— É a primeira vez que eu escrevo a minha empresa e a minha vida no mesmo papel.
+
+Pois é. É isso.
+
+O envelope fica selado até o fim do ciclo da mentoria. Pode parecer só um ritual, mas não é. Quando você escreve à mão, desacelera. Quando sela, assume um compromisso. E, quando sabe que um dia vai abrir, marca um encontro com o seu próprio futuro.
+
+[AUTOR: inserir a história da primeira vez que você escreveu uma visão pessoal ou empresarial e o que aconteceu depois.]
+
+* * *
+
+Agora, tem uma armadilha aqui que eu preciso te mostrar.
+
+Uma visão que só existe na cabeça do dono não é a visão da empresa. É um segredo. E segredo não mobiliza ninguém.
+
+Eu escuto muito empresário reclamar que a equipe "não veste a camisa". E quando eu pergunto se a equipe sabe para onde a empresa vai nos próximos três anos, vem aquele silêncio desconfortável. Pois é. Ninguém veste a camisa de um time que não sabe que campeonato está jogando.
+
+Lembra do dono do pet shop, que a gente acompanhou ao longo do livro? A decisão de sair da operação estava certíssima. O erro foi sair sem deixar a visão clara, sem descrever as atividades e sem nenhum indicador. A equipe ficou com a responsabilidade nas mãos e nenhuma direção na cabeça. Não tinha como dar certo.
+
+Neemias não levantou aquele muro sozinho. Ele contou a visão de um jeito tão simples que cada família entendeu exatamente qual era o seu pedaço.
+
+Faz o mesmo. Conta a visão pessoalmente, olho no olho, primeiro para a sua liderança e depois para todo mundo. Por mensagem não vale. Traduz para cada área o que aquela imagem de três anos significa no dia a dia delas. Liga a visão aos indicadores, para que cada pessoa saiba responder como o trabalho de hoje aproxima a empresa daquela imagem. E repete. Nas reuniões, nas contratações, nas comemorações. A rotina apaga a visão, por isso ela precisa ser repetida o tempo todo.
+
+Quer um teste simples? Pergunta para três pessoas da sua equipe, separadamente, para onde a empresa está indo. Se você ouvir três respostas diferentes, você ainda não comunicou a visão. Você só anunciou.
+
+* * *
+
+E não se assuste se, depois de escrever, tudo parecer conspirar contra a sua visão. Vai ser assim mesmo. Neemias que o diga.
+
+A urgência vai gritar mais alto. Sempre vai ter um problema mais barulhento do que o futuro. Por isso, se você não proteger na agenda um tempo para pensar o futuro, o presente come tudo.
+
+Vão aparecer oportunidades ótimas que não são suas. Visão clara também serve para dizer não. "Estou fazendo uma grande obra. Não posso descer."
+
+E, às vezes, o inimigo vai ser você mesmo. Muita gente escreve uma visão pequena porque ainda carrega aquela voz herdada que a gente desmontou no capítulo 3: "crescer dá muito trabalho". Se a sua visão não te assusta nem um pouquinho, talvez ela tenha sido escrita pelo medo.
+
+No fim das contas, uma visão só começa a existir de verdade quando aparece na sua agenda. Pergunta para si mesmo: se essa visão já fosse verdade, o que eu faria esta semana? Que conversa eu teria? Que pessoa eu começaria a formar? Que processo eu escreveria? As respostas viram compromissos com dia e hora.
+
+Os três anos viram um ano. O ano vira o trimestre. O trimestre vira o mês. O mês vira a semana. E a semana vira a próxima ação. Visão grande, passo pequeno e constância. É assim que muro caído fica de pé.
 
 ### Antes de virar a página
 
-Pega aquela sua página de novo. Hoje o exercício é curto, mas eu te garanto que vai mexer com você.
+Eu sei que dá vontade de seguir lendo. Mas eu te peço uma hora. Uma hora sem celular, num lugar tranquilo, com papel e caneta. Escreve à mão. Depois você passa a limpo, se quiser.
 
-1. Quantas pessoas trabalham com você hoje? Multiplica esse número por três e escreve o resultado. Esse é, mais ou menos, o número de vidas que o seu CNPJ sustenta. Fica um minuto olhando para ele.
-2. Pensa numa pessoa concreta cuja vida melhorou por causa da sua empresa. Um cliente, um colaborador, um fornecedor. Escreve a história dela em cinco linhas.
-3. Completa a frase: "O meu CNPJ existe para que ________."
+1. Por que a sua empresa existe, além de dar lucro? Responde em até cinco linhas, pensando nas vidas que ela toca.
+2. Como estão, daqui a três anos, a sua empresa, a sua casa, a sua saúde e a sua fé? Escreve uma página no presente, como se já tivesse acontecido.
+3. Que frase resume tudo isso de um jeito que alguém da sua equipe entenderia correndo?
 
-Nos próximos sete dias, eu te desafio a três coisas. Conta a história da pergunta 2 na próxima reunião com a sua equipe e, se der, leva a própria pessoa para contar. Confere se tem algum fornecedor pequeno com pagamento atrasado e acerta. E, se existir na sua empresa algum atalho que fere a sua integridade, daqueles que "todo mundo faz", escolhe a data em que ele acaba.
+Coloca essa folha num envelope, escreve na frente a data em que você vai abrir e guarda num lugar seguro. A frase-resumo vai para a sua página, aquela que você vem montando desde o começo do livro.
 
-A frase da pergunta 3 vai para a sua página, logo abaixo da visão.
+E nos próximos sete dias, eu te desafio a contar essa frase para três pessoas. Primeiro para quem divide a vida com você em casa, e ouve de verdade o que ela tem a dizer. Depois para alguém da sua liderança. Por último, para alguém da equipe que você nunca imaginaria chamando para essa conversa. Repara no brilho no olho de cada um. E, se puder, bloqueia na sua agenda duas horas por semana, fixas, para pensar no futuro. Pode chamar de "hora do Neemias".
 
-Você já sabe quem é, para onde vai e para quem vai. Falta só uma pergunta, a mais pessoal de todas, e eu guardei para o nosso último encontro. Quando os anos passarem, quando o envelope for aberto e a empresa já não precisar de você, quem você vai ter se tornado?
+Agora você sabe para onde está indo. Mas falta uma pergunta, e talvez seja a mais bonita de todas. Para quem você está indo? Porque nenhuma empresa existe só para o próprio dono. O seu CNPJ tem um papel no mundo que talvez você ainda não tenha enxergado.
+
+::: {custom-style="Destaque"}
+"Se a sua visão não muda nada no que você vai fazer amanhã de manhã, ela é decoração."
+:::

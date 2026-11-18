@@ -1,129 +1,150 @@
-# Parte IV — Liderar em casa
-
-Até aqui, a nossa conversa foi para dentro de você: identidade, mágoas, orgulho. Agora eu quero olhar com você para as pessoas que estão mais perto e que, muitas vezes, ficam com o que sobra do seu dia. Isso não é um desvio do assunto empresarial. É o centro dele. A casa é o primeiro lugar onde a sua liderança é testada, e o único onde ninguém te segue por causa do salário.
-
 # Capítulo 8
-## Filho não se demite
+## Errar não é o problema; esconder é
 
-> "Pois que aproveita ao homem ganhar o mundo inteiro e perder a sua alma?"
-> — Marcos 8:36
+> "O segredo da vida não está em não errar, mas em superar o orgulho e reconhecer o erro."
 
-Eram quase onze da noite quando o Marcelo estacionou o carro na garagem de casa.
+Deixa eu te levar para uma sala de reunião numa segunda-feira de manhã.
 
-Ele não desceu. Ficou ali dentro, motor desligado, respondendo mensagens no celular. Um fornecedor. Um cliente. O gerente avisando que um funcionário ia faltar no dia seguinte. Passaram-se vinte minutos. Lá dentro, a luz do quarto do filho ainda estava acesa.
+A reunião de resultados começou com quinze minutos de atraso. O gerente comercial entrou com uma planilha impressa e a cara de quem não tinha dormido direito. O mês tinha fechado abaixo da meta. E não era pouco abaixo, não. Era o pior mês do ano.
 
-Quando ele finalmente entrou, a casa já estava em silêncio. A esposa tinha ido dormir. E, em cima da mesa da cozinha, tinha um desenho feito pelo filho de oito anos. Uma casa, uma mulher, um menino e, um pouco afastado dos outros, um homem segurando um retângulo preto.
+O dono da empresa, que eu vou chamar de Otávio, olhou os números por alguns segundos. Depois levantou os olhos e fez a pergunta que todo mundo ali já esperava ouvir:
 
-O retângulo era o celular.
+— De quem é a culpa?
 
-O Marcelo me contou essa história no primeiro encontro da mentoria. E o curioso é que não foi quando a gente falou de família. Foi quando eu perguntei qual era o maior problema da empresa dele. Ele começou a falar de margem, de equipe, de concorrência. No meio da frase, parou. Ficou olhando para a mesa por um tempo e disse:
+Silêncio. Aquele silêncio pesado, que dura só uns segundos, mas que ensina a regra do jogo para todo mundo na sala. E aí começou o desfile. O gerente culpou o mercado. O financeiro culpou a inadimplência. O marketing disse que os contatos tinham chegado fracos. Cada um saiu da sala protegido. E a empresa saiu exatamente do mesmo jeito que entrou.
 
-— Na verdade, o maior problema não está na empresa.
+Agora, presta atenção no detalhe que ninguém disse em voz alta. Três meses antes, tinha sido o próprio Otávio quem decidiu cortar a verba de prospecção para cobrir um gasto pessoal. Ele sabia disso. A equipe sabia disso. Mas ninguém, nem ele, teve coragem de colocar esse fato em cima da mesa.
 
-Ele tinha uma empresa que faturava bem, quarenta funcionários e um nome respeitado na cidade. E tinha um filho que o desenhava de longe.
+Aquilo não foi uma reunião de resultados. Foi uma reunião de esconderijos.
 
-Talvez você não tenha um desenho em cima da mesa da cozinha. Mas deixa eu te perguntar uma coisa: se o seu filho, a sua esposa, o seu marido ou os seus pais fossem te desenhar hoje, onde eles te colocariam? E o que estaria na sua mão?
-
-* * *
-
-Muito antes de existir ELEV, mentoria ou livro, eu tinha o hábito de anotar o que eu ia percebendo nas empresas e na minha própria vida. Num desses cadernos antigos tem uma frase que me incomoda até hoje. Eu escrevi assim: ser CNPJ antes de ser CPF é uma fuga.
-
-Deixa eu te explicar o que eu quis dizer com isso.
-
-Na empresa, quase tudo se resolve com uma decisão. O cliente está insatisfeito? Você oferece uma solução. O fornecedor atrasou? Troca de fornecedor. O funcionário não entrega? Você dá retorno, treina, acompanha e, se nada mudar, desliga. Na empresa você tem controle. Tem cargo, hierarquia, contrato. Você é bom naquilo.
-
-E é exatamente por isso que tanto empresário se esconde lá dentro.
-
-Porque em casa as coisas não funcionam desse jeito. Não tem organograma, não tem contrato, não tem desligamento. Os problemas de casa não se resolvem com uma decisão. Se resolvem com presença, paciência, escuta e, principalmente, com mudança da sua parte. Então o empresário faz o que parece mais fácil: fica mais tempo onde se sente competente. Chega mais cedo, sai mais tarde, responde mensagem no jantar, leva o notebook para a praia. E chama isso de responsabilidade.
-
-Às vezes é mesmo. Mas muitas vezes é fuga.
-
-É mais fácil fechar um contrato difícil do que ter uma conversa difícil com o filho adolescente. É mais fácil reestruturar um setor inteiro do que reconstruir um casamento que esfriou. É mais fácil liderar quarenta funcionários do que pedir desculpas para uma pessoa só, dentro de casa.
-
-Logo abaixo daquela frase, no mesmo caderno, eu fiz uma pequena lista. Ela é simples, mas mudou o jeito como eu enxergo a vida de quem empreende. Quando você vive como CNPJ antes de viver como CPF, os amigos deixam de ser amigos, porque você não liga, não aparece, esquece os aniversários, e um dia percebe que todas as suas relações viraram comerciais. Funcionário que não se encaixa, você demite, e isso é natural numa empresa. Mas filho não se demite. E você também não pode demiti-lo. Quem precisa se moldar é você. Com a esposa ou o marido é a mesma coisa: não existe troca de fornecedor dentro de um casamento saudável. E pai e mãe, idem. Você não escolheu, não pode substituir e vai carregar essa relação até o fim, resolvida ou não.
-
-Percebe a diferença? Na empresa, quando a relação não funciona, você pode trocar a pessoa. Em casa, quando a relação não funciona, a única pessoa que você pode mudar é você mesmo.
-
-E é justamente isso que a maioria de nós evita. Porque na empresa a gente é o dono. Em casa, a gente precisa ser aprendiz.
+E eu preciso te fazer uma pergunta, com todo o carinho, antes de a gente seguir: quantas reuniões assim já aconteceram na sua empresa?
 
 * * *
 
-Tem uma história antiga que mostra isso com uma clareza que chega a doer.
+No capítulo anterior, a gente conversou sobre o orgulho do maior da sala. Aquele empresário que parou de aprender porque se acostumou a ser a referência de todo mundo. Mas eu te disse que reconhecer que você não sabe tudo era só metade do caminho. A outra metade é mais difícil, porque não acontece em silêncio, dentro da sua cabeça. Acontece na frente dos outros.
 
-Eli era o sumo sacerdote de Israel. Durante quarenta anos ele julgou o povo. Era a maior autoridade espiritual da nação inteira. Gente viajava dias para oferecer sacrifícios em Siló, onde ele servia. Foi Eli quem acolheu o menino Samuel e ensinou o garoto a reconhecer a voz de Deus. Um homem respeitado, experiente, ocupado com coisas importantes.
+Acontece quando você erra e todo mundo vê.
 
-Eli tinha dois filhos, Hofni e Fineias. Os dois também eram sacerdotes, trabalhavam no mesmo lugar que o pai. E a Bíblia descreve os dois de um jeito seco: eram homens que não conheciam a Deus. Quando alguém chegava para oferecer um sacrifício, eles mandavam um servo com um garfo de três dentes, enfiavam na panela e pegavam para eles a melhor parte da carne, antes mesmo da oferta ser feita. Se o homem reclamava, levavam à força. E ainda se deitavam com as mulheres que serviam na porta do santuário. Usavam o cargo para se servir, e não para servir.
+Errar é humano. Isso está em para-choque de caminhão, ninguém discute. O problema nunca foi o erro. O problema é o que você faz no minuto seguinte a ele. E, nesse minuto, só existem dois caminhos. Ou você esconde, justifica, terceiriza a culpa, muda de assunto e finge que a decisão estava certa e o resultado é que veio torto. Ou você olha para as pessoas e diz: "Eu errei. Essa foi minha. Vamos consertar."
 
-Todo mundo sabia. As notícias chegavam aos ouvidos de Eli.
+Parece simples. Mas você sabe, e eu sei, que não é.
 
-E o que ele fez? Chamou os filhos e falou: "Por que vocês fazem essas coisas? Não é boa a fama que eu ouço a respeito de vocês." Foi isso. Uma bronca. Nenhum limite, nenhuma consequência, nenhuma mudança real. Os filhos não ouviram. E Eli voltou para o santuário, para as suas funções, para o povo que precisava dele.
+Sabe por quê? Porque o segundo caminho exige que o seu CPF esteja inteiro. Só consegue reconhecer um erro com tranquilidade quem não confunde o erro com quem é. A pessoa insegura defende cada decisão como se estivesse defendendo a própria vida, porque, para ela, admitir que errou é admitir que não vale nada. Então ela esconde. E, quando o dono esconde, ele ensina a empresa inteira a esconder também.
 
-O recado que Deus mandou para Eli é duro de ler: "Você honra os seus filhos mais do que a mim." E, mais tarde, a palavra que veio ao jovem Samuel foi ainda mais direta: Eli sabia o que os filhos estavam fazendo e não os repreendeu.
+Isso eu aprendi observando muitas empresas, e hoje eu repito para todo empresário que senta comigo: a sua equipe nunca vai ser mais honesta com você do que você é com ela.
 
-O fim é trágico. Israel vai à guerra contra os filisteus, e Hofni e Fineias levam a arca da aliança para o campo de batalha como se fosse um amuleto da sorte. O exército é derrotado, a arca é capturada, os dois filhos morrem. Eli, já com noventa e oito anos, está sentado numa cadeira à beira do caminho esperando notícias. Quando o mensageiro conta o que aconteceu, ele cai para trás, quebra o pescoço e morre.
-
-Agora relê essa história com olhos de empresário. Um líder respeitado, competente na sua função pública, dedicado ao trabalho por décadas. Que sabia exatamente o que acontecia dentro da própria casa. Que falou, mas não liderou. Que tratou o problema da família com uma conversa rápida, como quem resolve uma pendência entre duas reuniões. E que viu tudo o que tinha construído publicamente desmoronar justamente pelo lado que ele não quis enfrentar.
-
-Eli não era um homem mau. Era um homem ocupado.
-
-E é essa a parte que mais deveria nos assustar.
+Se o dono esconde os próprios erros, o gerente aprende a esconder os dele. O vendedor também. E o estagiário, que chegou na segunda-feira cheio de vontade, descobre na primeira semana que errar ali é perigoso. Uma empresa onde errar é perigoso é uma empresa onde ninguém conta a verdade. E, sem verdade, não existe gestão. Existe teatro.
 
 * * *
 
-Eu conheço muitos empresários que começaram a empreender por causa da família. Para dar uma vida melhor aos filhos. Para que a esposa não passasse pelo aperto que a mãe dele passou. Para ter liberdade de tempo. E, sem perceber, em algum momento, o motivo virou obstáculo. A empresa que existia para sustentar a família passou a competir com ela.
+Eu quero te contar uma história que tem uns três mil anos, mas que poderia ter acontecido ontem em qualquer empresa.
 
-E aí vem o argumento que todo mundo usa, e que eu também já usei: "eu estou fazendo isso por eles".
+Davi era o rei mais admirado de Israel. Guerreiro, poeta, estrategista, homem de fé. O sujeito que, ainda menino, tinha derrubado um gigante com uma pedra. E, numa primavera, na época em que os reis saíam para a guerra, ele resolveu ficar em casa. Mandou o exército e ficou no palácio.
 
-Eu acredito que, na maioria das vezes, isso é sincero. Prover é uma forma real de amor, e a própria Bíblia é dura com quem não cuida dos seus. O problema não é trabalhar muito numa fase específica da vida. Toda empresa tem a sua fase de arrancada. O problema é transformar a ausência em estilo de vida e continuar chamando isso de amor.
+Guarde isso: o líder fora do lugar dele.
 
-Uma enfermeira australiana chamada Bronnie Ware passou anos cuidando de pacientes nas últimas semanas de vida. Ela começou a anotar os arrependimentos que mais ouvia e depois reuniu tudo num livro. Não é uma pesquisa científica, é o relato de quem segurou a mão de muita gente na hora da partida. E talvez por isso pese tanto. Segundo ela, um dos arrependimentos aparecia em praticamente todos os homens que ela acompanhou: "eu queria não ter trabalhado tanto". Eles sentiam falta da infância dos filhos que passou sem eles e da companhia da esposa.
+Numa tarde, caminhando pelo terraço, ele viu uma mulher se banhando. Perguntou quem era. Era Bate-Seba, esposa de Urias, um dos seus soldados mais leais, que naquele momento estava lutando pelo rei. Davi mandou buscá-la. E, quando soube que ela estava grávida, começou o pior capítulo da vida dele. Mandou chamar Urias da guerra, tentou fazer com que ele fosse para casa, para que a criança parecesse dele. Urias, por lealdade aos companheiros que estavam no campo, se recusou. Então Davi escreveu uma carta ao comandante do exército: coloquem Urias na frente da batalha, onde o combate é mais duro, e depois recuem.
 
-Nenhum deles disse que se arrependia de não ter respondido mais mensagens.
+E mandou a carta pelas mãos do próprio Urias.
 
-E a ciência tem olhado para isso com cuidado. Lá em 1985, dois pesquisadores americanos, Jeffrey Greenhaus e Nicholas Beutell, deram nome a uma coisa que todo empresário conhece na pele: o conflito entre trabalho e família. É quando as exigências de um lado tornam difícil cumprir as do outro. Desde então, uma montanha de estudos associa esse conflito a mais exaustão, mais estresse e menos satisfação no casamento. E tem um detalhe que eu acho importantíssimo: o caminho é de mão dupla. Quem vive em guerra em casa leva essa guerra para o escritório. Decide pior, tem menos paciência com a equipe, enxerga menos longe.
+Repare na sequência, porque ela é a mesma na vida de todo líder que se perde. Primeiro vem a ausência. Depois vem o erro. E depois vem o encobrimento, que é sempre pior que o erro original. Um adultério virou um assassinato só para que ninguém ficasse sabendo.
 
-Séculos antes, Sêneca já tinha percebido o mesmo absurdo. Ele escreveu que as pessoas guardam o dinheiro com unhas e dentes, mas desperdiçam o tempo, a única coisa com a qual valeria a pena ser avarento.
+Passaram-se meses. O rei seguiu a vida como se nada tivesse acontecido. Até que um dia o profeta Natã pediu para falar com ele e contou um caso. Numa cidade havia dois homens, um rico e um pobre. O rico tinha muitas ovelhas e bois. O pobre só tinha uma ovelhinha, que ele mesmo tinha criado, que comia do prato dele, que dormia no colo dele, que era como uma filha. Um dia chegou uma visita na casa do rico. E o rico, para não mexer no próprio rebanho, pegou a ovelhinha do pobre e serviu ao hóspede.
 
-A conclusão é sempre a mesma. O CPF não se divide em gavetas. O homem ou a mulher que entra na empresa às oito da manhã é o mesmo que saiu de casa às sete e meia. Se a casa está em ruínas, a empresa recebe um líder em ruínas.
+Davi ficou vermelho de raiva. Levantou do trono e disse que aquele homem merecia morrer.
+
+E Natã olhou nos olhos do rei e respondeu:
+
+— Tu és esse homem.
+
+Imagina o tamanho daquele silêncio.
+
+Davi tinha todas as opções na mão. Era o rei. Podia mandar prender o profeta. Podia negar. Podia dizer "você não entende o contexto". Tinha poder de sobra para isso. Mas ele disse uma palavra só:
+
+— Pequei.
+
+Sem rodeio. Sem "mas". Sem explicação comprida.
+
+O erro teve consequências, e Davi enfrentou cada uma delas. A Bíblia não esconde isso. Mas sabe o que me impressiona nessa história? A comparação com o rei anterior, Saul. Saul também foi confrontado por um profeta, Samuel, por ter desobedecido uma ordem clara. E a resposta dele foi o oposto da de Davi. Primeiro ele disse que tinha obedecido. Depois culpou o povo. E, quando finalmente admitiu, a primeira preocupação dele foi pedir que Samuel o honrasse diante dos anciãos, para ele não ficar mal na frente de todo mundo.
+
+Saul perdeu o reino. Davi ficou conhecido como o homem segundo o coração de Deus.
+
+E olha que interessante: a diferença entre os dois não estava em quem errou menos. Os dois erraram, e muito. Davi, inclusive, errou de um jeito bem mais grave. A diferença estava em quem teve coragem de reconhecer.
+
+Salomão, o filho que nasceu depois de toda essa história, escreveu anos mais tarde um provérbio que parece ter saído da própria experiência do pai: "O que encobre as suas transgressões nunca prosperará, mas o que as confessa e deixa alcançará misericórdia." Nunca prosperará. Ele não disse que o líder que esconde vai se sentir mal. Disse que ele vai travar.
 
 * * *
 
-Agora, tem uma armadilha mais sutil aqui, e eu quero te mostrar antes que você pense "ah, mas eu estou sempre em casa".
+E agora vem a parte que eu acho fascinante.
 
-Muito empresário está presente em casa, sim. Fisicamente. Mas leva para dentro de casa o comportamento da empresa. Trata a esposa como gerente. Cobra o filho como cobra o vendedor. Fala com o pai como fala com o fornecedor que atrasou a entrega. Quer resolver as emoções da família com a mesma lógica com que resolve um problema de caixa: rápido, objetivo e definitivo.
+Em 1999, uma professora de Harvard chamada Amy Edmondson estava estudando equipes de enfermagem em hospitais. A hipótese dela era simples e parecia óbvia: as melhores equipes deviam cometer menos erros de medicação. Ela foi atrás dos números esperando confirmar isso.
 
-E se frustra quando não funciona.
+E encontrou o contrário. As equipes com melhor desempenho eram as que registravam mais erros.
 
-Uma empresária que eu acompanhei, a Cláudia, descobriu isso de um jeito que ela nunca mais esqueceu. A filha de quinze anos chegou em casa chorando por causa de uma briga com as amigas da escola. A Cláudia ouviu uns dois minutos, interrompeu e apresentou um plano em três etapas: conversar com uma amiga, ignorar a outra e mudar de grupo no recreio. Prático, lógico, bem estruturado. Do jeito que ela fazia todo dia na empresa.
+Ela estranhou, claro. Foi investigar de perto e entendeu o que estava acontecendo. Essas equipes não erravam mais. Elas falavam mais sobre os erros. Sentiam-se seguras para contar quando algo dava errado, e por isso corrigiam mais rápido e evitavam que a mesma falha se repetisse. Nas outras equipes, os erros aconteciam do mesmo jeito. Só que ficavam escondidos. Edmondson deu um nome para esse clima de confiança: segurança psicológica. É a certeza de que ninguém vai ser humilhado ou punido por levantar a mão e dizer "deu problema aqui".
 
-A filha se levantou da mesa e disse:
+Anos depois, o Google resolveu descobrir por que algumas equipes rendiam muito mais do que outras. Esperavam que a resposta fosse talento, experiência, a combinação certa de perfis. Divulgaram os resultados em 2015, e o fator que mais pesou foi justamente esse: segurança psicológica.
 
-— Mãe, eu não sou a sua equipe.
+Olha que coisa. Três mil anos depois de Natã entrar no palácio, a ciência chegou ao mesmo lugar que Salomão. E, no meio do caminho, Confúcio já tinha dito que ter um defeito e não corrigir é que é o verdadeiro erro. Os romanos repetiam uma frase que até hoje a gente usa: errar é humano, persistir no erro é diabólico.
 
-A Cláudia me contou isso rindo, mas com os olhos cheios d'água. Ela tinha feito com a filha exatamente aquilo que fazia de melhor no trabalho. E, justamente por isso, tinha errado.
+Fontes tão diferentes, uma mesma conclusão. O erro não destrói o líder. O que destrói é esconder.
 
-Na empresa, a pergunta é "qual é a solução?". Em casa, muitas vezes, a pergunta certa é "você quer que eu resolva ou quer que eu só escute?". Na empresa a eficiência é uma virtude. Em casa, ela pode ser uma ofensa. Ninguém quer um jantar eficiente com o pai. Ninguém quer uma conversa objetiva sobre um coração partido.
+* * *
 
-Isso não quer dizer que você precisa virar duas pessoas diferentes. Pelo contrário. O caminho é ser a mesma pessoa, com os mesmos valores, mudando a forma conforme o lugar. Firmeza com quem você lidera, ternura com quem você ama. E as duas vindo do mesmo CPF.
+Então, se todo mundo sabe que reconhecer é o certo, por que é tão difícil?
 
-[AUTOR: contar um momento em que você percebeu que estava levando o comportamento da empresa para dentro de casa e o que mudou.]
+Eu acho que é porque, lá no fundo, a gente acredita em umas mentiras. A primeira é a de que, se admitir o erro, vai perder autoridade. E é exatamente o contrário. A equipe já sabe que você errou, pode acreditar. Ela só está esperando para descobrir se você também sabe. Quando você reconhece, ganha uma coisa que nenhum cargo te dá, que é credibilidade. Quando você nega, perde o pouco de respeito que ainda tinha naquela situação.
 
-Eu costumo propor um exercício para os empresários que acompanho, e ele quase sempre incomoda. Abre a sua agenda da última semana. Toda ela. Com uma cor, marca tudo o que foi da empresa. Com outra, marca o que foi de propósito para a família. Mas presta atenção: não vale contar o tempo em que você estava em casa respondendo mensagem, nem o almoço de domingo em que você passou no celular. Só vale presença de verdade, com atenção inteira.
+A segunda mentira é a de que o dono não pode demonstrar fraqueza. Mas reconhecer um erro não é fraqueza. É força sob controle. A pesquisadora Brené Brown passou mais de vinte anos estudando vulnerabilidade e mostra que a coragem de se expor anda junto com confiança, criatividade e inovação. Quem nunca se expõe nunca é corrigido. E quem nunca é corrigido para de crescer.
 
-A maioria descobre a mesma coisa. A empresa tem compromisso marcado. A família fica com o que sobra.
+E a terceira mentira é a mais profunda, a que tem tudo a ver com este livro: "eu sou as minhas decisões". Quando o seu CPF está colado no seu CNPJ, cada decisão da empresa vira uma medida do seu valor como pessoa. Uma decisão errada passa a significar "eu sou errado". Um mês ruim passa a significar "eu sou um fracasso". É por isso que todo aquele trabalho de identidade que a gente fez lá nos primeiros capítulos não é teoria bonita. É ele que te dá liberdade para errar com dignidade. Quem sabe quem é consegue separar "eu tomei uma decisão ruim" de "eu sou ruim".
 
-Agora pensa no que aconteceria com a sua empresa se você a tratasse desse jeito. Se você só atendesse cliente no tempo que sobra. Se só olhasse o caixa quando não tivesse nada mais importante para fazer. Ela quebraria, e com toda razão. A família funciona igualzinho. O que não entra na agenda não acontece. O que não é prioridade se perde. O que não é cuidado esfria.
+Você não é a sua pior decisão. Repete isso em voz alta, se ninguém estiver olhando.
+
+* * *
+
+Lembra do Otávio, lá da reunião do começo? Seis meses depois, ele me procurou. Veio reclamar da equipe. Disse que ninguém tinha comprometimento, que ninguém trazia os problemas a tempo, que ele era sempre o último a saber das coisas.
+
+Eu ouvi tudo com calma. E fiquei pensando que ele estava descrevendo, com uma precisão impressionante, a cultura que ele mesmo tinha construído naquela segunda-feira.
+
+Porque um erro reconhecido custa uma vez. Um erro escondido cobra juros todo mês. O corte da verba derrubou um mês de resultado. Mas o encobrimento fez a equipe gastar energia se defendendo em vez de resolver. A causa nunca foi tratada, então a prospecção continuou fraca. O gerente comercial, que levou a culpa calado, começou a procurar outro emprego. E todo o resto aprendeu que, naquela empresa, a verdade não sobe.
+
+Jesus tem uma imagem que eu acho perfeita para isso. Ele fala da pessoa que enxerga o cisco no olho do irmão e não percebe a trave no próprio olho. Uma trave. Uma viga de madeira inteira atravessada no olho, e mesmo assim invisível para quem carrega. O orgulho funciona assim, como um espelho invertido: mostra o erro dos outros com nitidez e esconde o nosso.
+
+O Otávio mudou, e eu quero te contar como, porque não foi com discurso. Na reunião seguinte, ele entrou na sala e, antes de qualquer número, disse: "Em março eu cortei a verba de prospecção para cobrir uma despesa minha. Isso derrubou o nosso resultado de junho. A decisão foi minha, não de vocês. Daqui para frente, nenhuma verba comercial vai ser cortada sem a gente olhar junto o impacto em noventa dias. E eu preciso da ajuda de vocês para recuperar o que perdemos."
+
+Repara no que ele fez. Ele disse exatamente qual foi o erro, sem rodeio. Assumiu a parte dele sem dividir a culpa com ninguém, porque, se outras pessoas também erraram, isso é conversa para outro momento, em particular. Mostrou o que tinha aprendido. E pediu ajuda.
+
+Esse último passo é o que transforma uma equipe. Quando o dono diz "eu errei e preciso de vocês", ele deixa de ser o dono que sabe tudo e vira o líder que constrói junto.
+
+Ele me contou que, na semana seguinte, aconteceu uma coisa que nunca tinha acontecido. A coordenadora do financeiro foi até a sala dele e disse: "Eu preciso te contar uma coisa que eu errei no fechamento." Ninguém pediu. Ela simplesmente se sentiu segura para contar.
+
+É assim que a verdade começa a subir numa empresa. De cima para baixo, pelo exemplo.
+
+[AUTOR: contar um erro que você reconheceu diante da equipe ou de um sócio e o que mudou depois.]
+
+Só uma coisa importante, para não ficar nenhum mal-entendido. Reconhecer o erro não significa tolerar tudo. Uma coisa é errar tentando acertar. Outra, bem diferente, é mentir, esconder de propósito ou agir contra os valores da empresa. A primeira a gente resolve com aprendizado. A segunda, com consequência. No manual de cultura da ELEV, a mentira está na lista das atitudes inadmissíveis justamente por isso. O erro a gente conserta junto. A mentira destrói o chão onde todo mundo pisa.
+
+E tem uma troca pequena que muda muita coisa: em vez de abrir a reunião com "de quem é a culpa?", experimenta perguntar "o que aconteceu, o que a gente aprendeu e o que muda a partir de agora?". A primeira pergunta procura um réu. A segunda procura uma saída.
 
 ### Antes de virar a página
 
-Pega a sua página. Desta vez, se tiver coragem, depois mostra o que você escreveu para alguém da sua casa.
+Pega a sua página, aquela que você começou lá no primeiro capítulo. Este exercício pede um pouco de coragem, então faz num lugar tranquilo.
 
-1. Escreva o nome das pessoas da sua vida que não se demitem: filhos, cônjuge, pai, mãe, irmãos. Ao lado de cada nome, dê uma nota de zero a dez para a sua presença real na vida dela nos últimos trinta dias.
-2. Se essas pessoas te desenhassem hoje, o que estaria na sua mão?
-3. Complete com sinceridade: "Eu prefiro ficar trabalhando a ter que enfrentar…".
+Eu quero que você responda três perguntas, com toda a honestidade que conseguir:
 
-Agora o desafio da semana. Faz o exercício das cores na sua agenda logo amanhã. Depois, marque dois momentos com a família nesta semana, com dia e hora, com o mesmo peso de uma reunião com o seu maior cliente. Durante esses sete dias, quando chegar em casa, deixa o celular no carro ou em outro cômodo pela primeira hora. E, em algum momento da semana, pergunta para alguém da sua casa: "Tem alguma coisa que eu faço que te afasta de mim?". Só escuta. Não se defende. Ah, e liga para aquele amigo que você deixou esfriar. Sem pauta, sem negócio.
+1. Qual foi a última decisão errada que você tomou na empresa e ainda não reconheceu em voz alta para ninguém? Alguém levou a culpa no seu lugar, mesmo que calado?
+2. Quando alguém da sua equipe erra, qual é a sua primeira reação? Grito, silêncio, ironia, correção calma, distância?
+3. Complete: "Eu tenho medo de admitir meus erros porque, se eu fizer isso, as pessoas vão…". Depois releia e pergunte a si mesmo: isso é verdade ou é o orgulho falando?
 
-No fim da semana, ao lado de cada nome que você escreveu, coloque uma frase sobre o tipo de presença que você decide ter na vida daquela pessoa.
+Agora o desafio para os próximos sete dias. Escolha um erro seu, aquele da primeira pergunta, e reconheça diante de quem foi afetado. Na reunião da equipe, se foi algo de todos. Numa conversa individual, se foi com uma pessoa só. Faça do jeito que o Otávio fez: diga o erro com precisão, assuma a sua parte, conte o que aprendeu e peça ajuda. E, no resto da semana, troque a pergunta da culpa pela pergunta do aprendizado em toda reunião. No sétimo dia, anote na sua página o que mudou no comportamento das pessoas. Quem trouxe um problema que antes ficaria escondido?
 
-Reconhecer que você anda ausente é o primeiro passo. Mas tem uma coisa que eu ainda não te contei. Estar em casa não é a mesma coisa que liderar a casa. E foi justamente nessa diferença que o maior rei de Israel perdeu a batalha mais dolorosa da vida dele.
+Embaixo, escreva uma frase sobre o jeito como você decide lidar com os erros daqui para frente. Os seus e os da sua equipe.
+
+Até aqui, a gente olhou para dentro da empresa. Agora eu preciso te levar a um lugar mais difícil. Um lugar onde não existe organograma, cargo nem demissão. Um lugar onde muito empresário bem-sucedido está, em silêncio, quebrando.
+
+A sua casa.
+
+::: {custom-style="Destaque"}
+"O erro não destrói o líder. O que destrói é esconder."
+:::

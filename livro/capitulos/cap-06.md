@@ -1,143 +1,165 @@
-# Parte III — Vencer o orgulho
-
-Perdoar os outros liberta. Mas existe uma prisão que não tem carcereiro do lado de fora. Ela é feita de sucesso, de experiência e de elogios, e por isso quase ninguém percebe quando está lá dentro. O orgulho raramente aparece no começo, quando a gente ainda tem medo de errar. Ele chega depois, quando a gente já acertou o bastante para achar que sabe.
-
 # Capítulo 6
-## O maior da sala
+## Perdoar pai, mãe e a si mesmo
 
-> "A soberba precede a ruína, e a altivez do espírito precede a queda."
-> — Provérbios 16:18
+> "Vós bem intentastes mal contra mim; porém Deus o tornou em bem."
+> — Gênesis 50:20
 
-Lembra do pet shop de que eu falei lá atrás?
+No fim do capítulo anterior, eu te disse que talvez tivesse aparecido um nome mais antigo. Alguém de casa. No capítulo 4, a gente já olhou de onde vêm essas marcas. Agora chegou a hora de cuidar delas. E deixa eu começar pela história da Renata (nome alterado), porque ela explica isso melhor do que qualquer teoria.
 
-Um dos setores que mais crescem no país. Famílias que tratam bicho como filho, que gastam com banho, ração especial, veterinário, roupinha e hotel. E, mesmo assim, o dono vivia reclamando da crise.
+A Renata tinha três clínicas de estética, agenda lotada e uma frase que repetia para si mesma desde os dezenove anos: "Eu vou mostrar pra ele".
 
-Quando a gente foi investigar por que aquela empresa não crescia, encontrou mais de uma causa. Uma delas eu te contei no capítulo 3: a crença de que crescer dá trabalho demais. Agora eu quero te contar a outra, porque ela é mais comum do que parece e mais perigosa do que qualquer concorrente.
+"Ele" era o pai.
 
-Aquele empresário convivia com um único grupo de pessoas. Amigos de muitos anos, conhecidos do bairro, alguns comerciantes da região. E, dentro desse grupo, ele era o mais bem-sucedido.
+Um homem duro, que nunca elogiou nada. Quando ela contou que ia abrir o primeiro consultório, ele riu e disse que aquilo era "coisa de quem não quer trabalhar de verdade". Quando ela abriu a segunda unidade, ele perguntou quanto tempo o banco ia levar para tomar tudo.
 
-Era ele quem tinha o carro melhor. Era a ele que os outros pediam conselho. Era ele quem pagava a conta no fim da noite.
+Ela cresceu. Faturou. Ganhou o prêmio de empresária do ano da associação comercial da cidade. E, na noite da premiação, ficou olhando para a plateia procurando um rosto que não estava lá.
 
-No começo, isso fez bem. Ele se sentia reconhecido, e quem não gosta disso? Mas, com o tempo, alguma coisa foi mudando sem que ele percebesse. Se ele era o melhor de todos ali, então ninguém ali tinha nada a ensinar a ele. E, se ninguém tinha nada a ensinar, quando aparecia um problema, a culpa só podia ser dos outros.
+Quando ela chegou à mentoria, o problema que trouxe era técnico: "A margem caiu, a equipe não para, e eu não consigo sair da operação".
 
-"Funcionário hoje não quer nada com nada."
+Fomos olhar os números, e estava tudo ali. Uma terceira unidade aberta cedo demais, com custo fixo alto e sem uma gerente preparada. Uma quarta já em negociação. Expansão acelerada, caixa apertado e a dona atendendo pessoalmente em três endereços diferentes.
 
-"Esse gerente não presta."
+Eu perguntei por que a pressa.
 
-"Cliente não reconhece qualidade."
+Ela me respondeu com dados de mercado, crescimento do setor, oportunidade de ponto comercial. Tudo verdade. Perguntei de novo. Mais dados. Quando eu perguntei pela terceira vez, a voz dela embargou.
 
-Todo mundo em volta dele estava errado. Só ele estava certo.
+"Porque, se eu parar, ele vai ter razão."
 
-O orgulho tinha assumido a gestão.
+Naquele dia, a gente descobriu juntos que a empresa da Renata tinha um sócio oculto. Ele não tinha investido um real, mas tinha poder de veto sobre tudo. Cada decisão de crescimento era, no fundo, uma resposta a um homem que nunca tinha pisado em nenhuma das clínicas.
 
-E aqui vem a parte mais delicada. Ele tinha como sair daquele ambiente. Já tinha sido convidado para grupos de empresários maiores, para associações, para programas de desenvolvimento. Recusava todos. Dizia que não tinha tempo, que aquilo era "conversa de palestrante", que ele aprendia "era na prática".
+Ela não estava construindo um negócio. Estava construindo uma prova.
 
-Mas a verdade era outra. Num grupo mais forte, ele deixaria de ser a referência. Seria só mais um. Talvez um dos menores da mesa.
-
-E isso o orgulho não aguenta.
-
-Eu disse a ele, e digo a você com o mesmo carinho: quando você faz parte de um grupo e não aprende mais nada ali, está na hora de trocar de grupo.
+E prova não tem fim, né? Sempre falta mais uma unidade para, finalmente, ser suficiente.
 
 * * *
 
-Sabe por que é tão difícil enxergar isso? Porque a gente imagina o orgulhoso como aquele sujeito arrogante, que fala alto, humilha os outros e se gaba o tempo todo.
+As ofensas de que a gente falou no capítulo passado doem, mas têm data e endereço. O sócio, o cliente, o funcionário. Você sabe quando aconteceu.
 
-Às vezes é assim, claro. Mas, na maioria das vezes, o orgulho do empresário é silencioso e muito educado.
+Existe outro tipo de ferida, mais antiga e mais silenciosa. Ela nasceu em casa. Foi aberta por quem deveria ter protegido. E justamente por isso quase nunca é reconhecida como ferida. Parece só "o meu jeito".
 
-Ele aparece no "eu já tentei isso e não funciona". No "no meu segmento é diferente". No "eu não preciso de mentoria, preciso de gente boa". Aparece na reunião em que só o dono fala e todo mundo concorda. No livro que ele não lê, no curso que ele não faz, na pergunta que ele não tem coragem de fazer porque ia mostrar que não sabe.
+Eu vejo isso o tempo todo nas empresas que acompanho, e de formas diferentes.
 
-E o orgulho do empresário maduro tem uma característica muito traiçoeira: ele é construído com acertos de verdade. Você não está inventando a sua competência. Você realmente fez a empresa crescer. Você realmente atravessou crises que derrubaram concorrentes. Você realmente sabe muita coisa.
+Tem o empresário que, como a Renata, transformou a empresa numa prova. Ele cresce, mas nunca descansa, porque a plateia que ele quer convencer não está assistindo.
 
-O problema não é o que você sabe. É o que você deixa de aprender porque acha que já sabe.
+Tem o que transformou a empresa num esconderijo. A casa da infância era barulhenta, instável ou fria, e a empresa virou o único lugar onde ele tem controle. Por isso ele fica lá até tarde. Não é por necessidade. É por refúgio.
 
-O que te trouxe até aqui foi a sua força, a sua capacidade de resolver, a sua presença. Mas o próximo nível da sua empresa vai exigir o que você ainda não tem. E ninguém aprende o que não tem enquanto está ocupado defendendo o que já tem.
+E tem o que jurou que seria diferente do pai e, sem perceber, virou uma cópia dele. O pai centralizava tudo, gritava com os funcionários e não deixava ninguém crescer. O filho prometeu que nunca faria isso. Hoje ele centraliza tudo, levanta a voz na reunião e não entende por que os bons vão embora.
 
-### O rei no terraço do palácio
+Às vezes a herança nem é um comportamento. É um medo. A mãe repetia que "dinheiro some", que "rico não presta", que "a gente tem que se contentar". O filho virou empresário, mas não consegue cobrar o preço justo, não investe, não ousa. Fatura com uma mão e sabota com a outra.
 
-Deixa eu te contar a história de um dos maiores construtores da Antiguidade. O nome dele era Nabucodonosor, rei da Babilônia.
+Você não escolheu a casa em que nasceu. Mas é você quem escolhe se ela vai continuar mandando na sua empresa.
 
-Esse homem não era um rei qualquer. Tinha conquistado Jerusalém e levantado uma das cidades mais impressionantes do mundo antigo, com muralhas gigantes, templos e palácios. Era um realizador de verdade.
+### O menino que foi vendido pelos irmãos
 
-Uma noite, ele teve um sonho que o deixou perturbado. Viu uma árvore enorme, que chegava ao céu e dava sombra e alimento para todos os bichos. De repente, um mensageiro descia e mandava cortar a árvore, deixando só o toco preso à terra.
+Poucas histórias falam tão fundo sobre ferida de família quanto a de José. E eu gosto muito dela, porque ela termina dentro de um escritório de governo, administrando uma crise.
 
-Ele chamou Daniel para interpretar. E Daniel ficou um tempo calado, assustado, porque a mensagem era dura. A árvore era o próprio rei. Se ele não mudasse, ia perder o reino e viver como um animal no campo, até reconhecer que acima dele havia um poder maior.
+José era o filho preferido de Jacó, e todo mundo sabia disso. O pai deu a ele uma túnica especial, colorida, que o destacava dos outros onze. Os irmãos odiavam aquilo. E José, novo e meio ingênuo, ainda contava para eles os sonhos em que todos se curvavam diante dele. Imagina o clima naquela casa.
 
-E Daniel terminou como terminaria um bom mentor: "Aceita o meu conselho". Ou seja: ainda dá tempo.
+Um dia, os irmãos estavam longe, cuidando do rebanho, e viram José chegando pelo campo. "Lá vem o sonhador." Arrancaram a túnica dele, jogaram o menino numa cisterna vazia e, enquanto comiam, resolveram vendê-lo para uma caravana que ia para o Egito. Depois, mancharam a túnica com sangue de bode e levaram para o pai. Jacó chorou o filho como morto.
 
-Passaram-se doze meses. E nada aconteceu.
+José tinha dezessete anos.
 
-Repara nessa armadilha, porque ela pega muito empresário. Quando a consequência demora, a gente conclui que o aviso estava errado.
+Pensa no que ele carregou para o Egito. A rejeição dos irmãos. A distância do pai. Depois, uma acusação falsa que o levou para a prisão. E, na prisão, anos esquecido por alguém que tinha prometido se lembrar dele.
 
-Um ano depois, Nabucodonosor estava andando no terraço do palácio. Olhou lá para baixo, para a cidade iluminada, imponente, e disse a frase que o derrubou: "Não é esta a grande Babilônia que eu edifiquei, com a força do meu poder e para a glória da minha majestade?".
+Treze anos depois, José era governador do Egito. O segundo homem mais poderoso do maior império da época, responsável pelos estoques de comida durante uma fome que castigava toda a região.
 
-Eu edifiquei. Com a minha força. Para a minha glória.
+E aí, um dia, os irmãos aparecem na frente dele, pedindo comida. Não o reconhecem. Curvam-se até o chão.
 
-A frase ainda estava na boca dele quando tudo veio abaixo. Ele perdeu a razão, foi tirado do trono e foi viver no campo, comendo capim como boi, com o cabelo crescido e as unhas compridas.
+Tudo estava nas mãos de José. Ele podia prender, humilhar, mandar matar. Ninguém ia questionar.
 
-Mas a história não acaba aí, e é isso que eu mais gosto nela. O texto diz que, no fim daquele tempo, Nabucodonosor levantou os olhos para o céu, e o entendimento voltou. E o reino foi devolvido a ele, com mais grandeza do que antes.
+O texto conta que ele não aguentou. Mandou todos os egípcios saírem da sala e chorou tão alto que o choro foi ouvido no palácio. "Eu sou José, o irmão de vocês, aquele que vocês venderam para o Egito."
 
-Repara no caminho. Ele não perdeu tudo porque construiu. Construir era bom. Ele perdeu porque achou que tinha construído sozinho. E só recuperou quando levantou os olhos.
+Anos mais tarde, quando o pai morreu, os irmãos ficaram com medo. Agora que o velho não estava mais lá, José ia finalmente se vingar. Foram até ele e se jogaram aos pés dele.
 
-Todo empresário tem o seu terraço. Aquele momento em que olha para o que construiu e sente o peito estufar. Sentir gratidão pelo que foi feito é justo. O perigo está no pronome. Quando o "nós" vira "eu", e o "graças a Deus" vira "graças a mim".
+E José disse uma das frases mais maduras que eu já li: "Não tenham medo. Vocês planejaram o mal contra mim, mas Deus o transformou em bem, para salvar a vida de muita gente".
 
-A Bíblia conta a história de outro rei, Uzias, e resume a vida dele numa frase que eu gostaria de ver na mesa de todo dono de empresa. Ele assumiu o trono muito jovem e foi um gestor notável: construiu torres, cavou poços, investiu na agricultura, organizou o exército e até desenvolveu máquinas de defesa inovadoras para a época. A fama dele se espalhou para longe. E aí o cronista escreve que ele "foi maravilhosamente ajudado, até que se fortificou". E completa: depois de fortificado, o coração dele se exaltou.
+Repara no que ele fez. Ele não negou o mal. Disse com todas as letras: vocês planejaram o mal. Mas não deixou que esse mal fosse a última palavra sobre a vida dele.
 
-Enquanto Uzias precisava de ajuda, ele crescia. Quando achou que não precisava mais, começou a cair.
+E tem um detalhe aqui que, para mim, muda tudo para quem lidera empresa. Foi justamente o governador que perdoou que conseguiu administrar a crise e salvar uma nação inteira. Um José ressentido teria sido um gestor perigoso. Com o poder que ele tinha, a mágoa teria virado política de Estado.
 
-O momento mais perigoso para um empresário não é o começo, quando tudo é difícil. É quando ele fica forte o bastante para achar que não precisa de mais ninguém.
+Um CPF ferido com muito poder na mão é um risco para o CNPJ. O mesmo poder na mão de um CPF curado vira bênção para muita gente.
 
 * * *
 
-O mais interessante é que essa história, que tem mais de dois mil e quinhentos anos, foi descrita quase do mesmo jeito por um médico e um psiquiatra no nosso tempo.
+Quando eu falo em perdoar pai e mãe, quase sempre alguém se defende rápido: "Mas os meus pais fizeram o melhor que podiam".
 
-Em 2009, David Owen, que é médico e foi ministro das Relações Exteriores do Reino Unido, e o psiquiatra Jonathan Davidson, da Universidade Duke, publicaram um estudo sobre chefes de governo dos Estados Unidos e do Reino Unido ao longo de cem anos. Eles deram nome a um padrão que aparece em algumas pessoas depois de um longo período de poder e sucesso: a síndrome da húbris. Confiança exagerada no próprio julgamento, desprezo pelo conselho dos outros, perda de contato com a realidade e a mania de confundir a própria pessoa com a instituição que lidera.
+Talvez tenham feito mesmo. E, ainda assim, podem ter ferido você.
 
-E tem um detalhe que me arrepiou quando eu li. Eles descrevem isso como uma coisa adquirida. Não estava lá no começo. Foi se formando com o exercício do poder.
+As duas coisas cabem na mesma frase. O seu pai pode ter trabalhado dezesseis horas por dia para pôr comida na mesa e nunca ter dito que tinha orgulho de você. A sua mãe pode ter se sacrificado por você e, ao mesmo tempo, ter passado um medo de dinheiro que hoje trava a sua empresa.
 
-Você conhece empresários assim. Talvez, com toda a sinceridade, esteja começando a ficar parecido com um deles.
+Perdoar não é reescrever a história nem fingir que eles foram perfeitos. É olhar para a história inteira, com o que foi bom e o que foi ruim, e decidir que você não vai mais cobrar deles uma dívida que eles não têm como pagar.
 
-Os gregos, aliás, já tinham uma palavra para isso: *hýbris*, a arrogância de quem se coloca acima da medida. E eles acreditavam que ela sempre atraía a queda. Tanto que, quando o oráculo de Delfos declarou que Sócrates era o homem mais sábio de Atenas, ele passou um bom tempo intrigado, até concluir que a única vantagem dele sobre os outros era saber que não sabia.
+Agora, presta atenção numa coisa importante. Perdoar não é se expor de novo ao que fere. Se houve abuso, violência ou uma relação que continua destrutiva, o perdão pode acontecer de longe, com limites claros, e muitas vezes com a ajuda de um profissional. O perdão te liberta. Ele não te obriga a voltar para dentro da cisterna.
 
-E tem mais. Em 1999, dois psicólogos da Universidade Cornell, David Dunning e Justin Kruger, aplicaram testes de lógica, gramática e até de senso de humor em estudantes. Depois pediram que cada um estimasse como tinha se saído. Os que foram pior foram justamente os que mais superestimaram o próprio desempenho. Faltava a eles o conhecimento necessário para perceber o próprio erro.
+E, olha, não sou só eu que estou dizendo que essas marcas de infância acompanham a gente. No fim dos anos 1990, nos Estados Unidos, dois pesquisadores, o médico Vincent Felitti e o epidemiologista Robert Anda, acompanharam mais de dezessete mil adultos num estudo que ficou famoso com o nome de ACE, as "experiências adversas na infância". Eles descobriram que situações difíceis vividas na infância, como violência, negligência ou um lar desestruturado, estavam ligadas a mais problemas de saúde física e emocional na vida adulta.
 
-Traduzindo para a nossa realidade: quanto menos você convive com quem sabe mais do que você, mais fácil é acreditar que já sabe tudo. O maior da sala, muitas vezes, é só alguém que nunca saiu da sala.
+Mas repara bem no que o estudo diz e no que ele não diz. Ele não diz que o passado é uma sentença. Diz que ele deixa marcas. E marca ignorada continua agindo.
 
-Agora olha o outro lado da moeda. O pesquisador Jim Collins estudou, no livro *Empresas feitas para vencer*, companhias que saíram de resultados medianos para resultados excepcionais e se mantiveram lá por pelo menos quinze anos. A equipe dele esperava encontrar líderes carismáticos, celebridades de capa de revista. Encontrou outra coisa. Os líderes dessas empresas tinham uma combinação rara de humildade pessoal com uma vontade profissional enorme. Quando as coisas davam certo, olhavam pela janela e davam o crédito aos outros. Quando davam errado, olhavam no espelho e assumiam a responsabilidade.
+### O devedor mais difícil de perdoar
 
-A Bíblia, Sócrates e um pesquisador de Stanford. Cada um no seu século, chegando à mesma conclusão: quem acha que já sabe tudo parou de crescer. E a empresa para junto.
+Tem uma pessoa que o empresário perdoa com ainda mais dificuldade do que o pai, a mãe ou o ex-sócio.
 
-### Como sair do topo para continuar subindo
+Ele mesmo.
 
-Talvez você esteja se perguntando agora: tá, mas como eu sei se virei o maior da sala?
+A expansão que quase quebrou a empresa. A contratação errada que custou dois anos. O sócio que você escolheu contra o conselho de todo mundo. A dívida que você fez por vaidade. As férias de família que você cancelou tantas vezes que as crianças pararam de perguntar. Aquela pessoa que você demitiu de forma injusta e nunca procurou para pedir desculpas.
 
-Eu costumo fazer algumas perguntas para os empresários que acompanho, e vou fazer para você também. Quando foi a última vez que você aprendeu algo que mudou de verdade o jeito como você dirige a sua empresa? Nas reuniões, você fala mais ou ouve mais? Faz quanto tempo que alguém da sua equipe discordou de você em público? Quando algo dá errado, você sabe exatamente de quem é a culpa e quase nunca é sua? E aquele convite para um grupo de empresários maiores que o seu, você foi ou arrumou uma desculpa?
+Muita gente carrega isso como um processo trabalhista interno que nunca termina. E a culpa que não se resolve costuma empurrar a gente para um de dois lados, os dois ruins.
 
-Se algumas dessas perguntas incomodaram, não se culpe. A gente já conversou que culpa não é estratégia. Mas acende a luz amarela. O seu CNPJ pode estar batendo no teto do seu orgulho.
+Um é a paralisia. "Da última vez que eu arrisquei, quase perdi tudo." Então nunca mais arrisca, e toda decisão importante vai parar na gaveta.
 
-E vencer o orgulho não é se humilhar. É se colocar no lugar certo para continuar crescendo.
+O outro é a compensação. "Preciso recuperar o que eu perdi." Então arrisca demais, rápido demais, tentando apagar o erro com um acerto bem grande.
 
-O primeiro passo é trocar de sala. Procurar ambientes onde você não é o maior. Grupos de empresários com empresas mais estruturadas do que a sua, mentores que já passaram por onde você quer chegar. No começo vai incomodar. Você vai ouvir números maiores do que os seus, ver soluções que nunca imaginou, perceber erros que repetiu por anos. Esse incômodo é o barulho do crescimento. A gente vai falar mais disso quando chegar no capítulo sobre ecossistema.
+Nenhum dos dois é estratégia. Os dois são culpa vestida de gestão. E a equipe percebe. Ela não sabe dar nome, mas sente quando o dono decide com medo ou com pressa de se redimir.
 
-O segundo é colocar gente perto de você que tenha liberdade para te contrariar. Um conselho consultivo, um diretor que pode dizer "não" de verdade, uma reunião em que você é o último a falar. Se ninguém nunca discorda de você, não é porque você está sempre certo. É porque as pessoas aprenderam que não vale a pena.
+Quer ver uma coisa que contraria o senso comum de muito empresário? Em 2012, duas pesquisadoras da Universidade da Califórnia em Berkeley, Juliana Breines e Serena Chen, fizeram uma série de experimentos com pessoas que tinham acabado de fracassar numa tarefa. As que foram estimuladas a tratar o próprio erro com compreensão, em vez de se chicotear, ficaram mais motivadas a melhorar. Estudaram mais para a prova seguinte.
 
-E o terceiro é voltar a ser aluno. Ler, estudar, fazer perguntas que mostram que você não sabe. Quem para de aprender começa a envelhecer, não importa a idade.
+Traduzindo para a linguagem do escritório: se bater não melhora o resultado. Assumir o erro sem se destruir, sim.
 
-O dono do pet shop demorou, mas fez esse movimento. Aceitou um convite que tinha recusado várias vezes e entrou num grupo de empresários do comércio com faturamento três vezes maior que o dele. Depois ele me contou que, na primeira reunião, se sentiu "o menor da mesa". Na terceira, percebeu que os problemas dos outros eram muito parecidos com os dele, e que aquelas pessoas já tinham resolvido coisas que ele nem tinha começado a enxergar.
+Isso me lembra uma frase que Jesus colocou no meio de uma das histórias mais conhecidas do mundo. Um filho pediu ao pai a herança adiantada, foi embora de casa e gastou tudo. Faliu longe da família, foi cuidar de porcos e chegou a ter vontade de comer a comida dos animais. E aí vem a frase: "E, caindo em si...".
 
-Foi ali que ele ouviu, pela primeira vez, alguém dizer em voz alta uma frase que mudou o jeito dele de olhar para a equipe: "Quando todo mundo ao seu redor é incompetente, talvez o problema não esteja ao seu redor".
+O rapaz não mudou quando o pai o perdoou. Mudou antes, quando caiu em si. Quando parou de se enganar e olhou para a própria situação. Só depois disso ele levantou e voltou para casa.
 
-[AUTOR: inserir aqui um momento em que você percebeu que tinha virado o maior da sala e precisou mudar de ambiente.]
+E o pai já estava na estrada, olhando o horizonte, esperando.
+
+Muito antes de qualquer pesquisa de Berkeley, Agostinho escreveu as *Confissões* olhando para os erros da própria juventude com uma honestidade que assusta. E o que ele encontrou ali não foi condenação. Foi recomeço.
+
+Perdoar a si mesmo não é passar a mão na cabeça. É cair em si, assumir o que fez, aprender, reparar o que der para reparar e voltar para casa. Quem não se perdoa nunca volta. Fica para sempre no chiqueiro, explicando para si mesmo por que não merece sair dali.
+
+[AUTOR: inserir aqui uma decisão sua de que você se arrependeu e como aprendeu a se perdoar por ela.]
+
+### A Renata, um ano depois
+
+A Renata não abriu a quarta clínica.
+
+Ela fez uma coisa mais difícil: reorganizou a terceira. Contratou e formou uma gerente, cortou custo fixo, saiu do atendimento direto em duas unidades e começou a olhar para a empresa como dona, e não como a melhor funcionária de si mesma.
+
+Mas a virada não começou nos números. Começou numa tarde em que ela escreveu uma carta para o pai. Uma carta que nunca mandou.
+
+Ela contou ali tudo o que tinha sentido cada vez que foi desprezada. E terminou com uma frase que depois me mostrou:
+
+"Eu não preciso mais do seu aplauso. Eu te libero dessa dívida. E me libero também."
+
+Meses depois, ela foi visitar o pai. Ele continuava o mesmo homem duro. Não pediu desculpas, não elogiou nada. Mas ela saiu de lá diferente, porque já não estava esperando coisa nenhuma.
+
+"Pela primeira vez", ela me disse, "eu estou crescendo porque eu quero, e não porque eu preciso provar."
+
+Existe uma liberdade enorme em ter um CNPJ que não precisa provar nada para ninguém. Ele cresce no ritmo certo, com a estrutura certa e pelos motivos certos.
 
 ### Antes de virar a página
 
-Pega a sua página e responde com sinceridade. Ninguém vai ler além de você.
+Este talvez seja o exercício mais corajoso do livro. Faz num lugar tranquilo, com tempo, e com a sua página do lado.
 
-1. Quem são as cinco pessoas com quem você mais conversa sobre negócios? Ao lado de cada nome, marca se ela está um degrau acima, no mesmo degrau ou abaixo de você.
-2. Qual foi a última coisa que você aprendeu e que mudou o jeito como você dirige a empresa? Faz quanto tempo?
-3. Qual é o conselho que você mais tem se recusado a ouvir nos últimos anos?
+1. Complete sem pensar muito: "A minha empresa é, em parte, uma resposta a ______".
+2. Qual comportamento seu, como empresário, é a repetição de algo que você jurou nunca fazer?
+3. Qual é a decisão de que você mais se arrepende, e o que ela ainda está decidindo por você hoje?
 
-Agora o desafio dos próximos sete dias, e ele tem duas partes. A primeira: chama duas pessoas da sua equipe, uma de cada vez, e pergunta: "Em que situação você discordou de mim e não disse?". Escuta sem se defender. Só agradece e anota. A segunda: na próxima reunião, fala por último. Antes de dar a sua opinião, ouve todo mundo. E, até o fim da semana, dá o primeiro passo para entrar num ambiente onde você não seria o maior da sala.
+Depois, escreve duas cartas que você não precisa enviar. A primeira para o seu pai, a sua mãe ou quem fez esse papel: conta o que te feriu, reconhece o que foi bom e termina liberando a dívida. A segunda, mais curta, para você mesmo, terminando com uma frase simples: "Eu caio em mim, eu me levanto e eu volto". Na sua página, anota a frase que você herdou de casa e, ao lado, a frase nova que decide adotar no lugar dela.
 
-É para isso, aliás, que existe o Mastermind ELEV. Não é um lugar para você se destacar. É um lugar onde empresários escolhem, de propósito, sentar ao lado de quem os faça crescer.
+Nos próximos sete dias, pega uma decisão da empresa que está travada pela culpa ou acelerada pela necessidade de provar alguma coisa e olha para ela de novo só com critério técnico: números, estrutura, momento. Se tiver algo para reparar, um pedido de desculpas, uma conversa, dá o primeiro passo.
 
-Mas admitir que você não sabe tudo é só metade do caminho. A outra metade é bem mais difícil, porque não acontece em silêncio, dentro da sua cabeça. Acontece na frente da sua equipe, da sua família e dos seus clientes. Acontece quando você erra e todo mundo vê.
+E, se essas cartas mexerem em feridas fundas, não carrega isso sozinho. Procura alguém preparado: um terapeuta, um conselheiro, um líder espiritual de confiança. Isso não é fraqueza. É gestão.
+
+Agora que você soltou esse peso, eu preciso te apresentar um adversário mais disfarçado. Ele não vem de fora, não tem nome de gente e costuma se vestir de experiência, de competência, às vezes até de sucesso. É o inimigo que mais quebra empresas que já deram certo.
+
+::: {custom-style="Destaque"}
+"Você não escolheu a casa em que nasceu. Mas é você quem escolhe se ela vai continuar mandando na sua empresa."
+:::

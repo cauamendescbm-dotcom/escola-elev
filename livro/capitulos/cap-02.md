@@ -155,3 +155,7 @@ Esse, aliás, é o primeiro trabalho que a gente faz na imersão de abertura do 
 Mas eu preciso te avisar de uma coisa antes de você seguir. Quando fizer o exercício, talvez você perceba que algumas das frases que escreveu nem são suas. Foram ditas a você, anos atrás, por vozes que você nem lembra mais de quem eram.
 
 E essas vozes ainda estão decidindo por você.
+
+::: {custom-style="Destaque"}
+"A sua identidade não é definida pelo lugar onde você está escondido. É definida por aquilo para o qual você foi chamado."
+:::

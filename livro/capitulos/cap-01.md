@@ -161,3 +161,7 @@ Depois, no topo da sua página, escreva "Quem eu sou hoje" e resuma essas respos
 E o desafio para os próximos sete dias é simples, mas revelador. Toda vez que você resolver alguma coisa que outra pessoa poderia ter resolvido, anote: o que era, por que você mesmo fez e quanto tempo levou. No sétimo dia, some as horas. Esse número é o tamanho da sua prisão. E, acredite, saber o tamanho dela já é o começo da saída.
 
 Talvez, na primeira pergunta, você tenha travado. Talvez tenha percebido que não sabe se apresentar sem falar da empresa. Se isso aconteceu, fica tranquilo. Você não está sozinho. E é exatamente por aí que a gente vai começar.
+
+::: {custom-style="Destaque"}
+"Eu estava tentando resolver um problema estrutural com esforço emocional."
+:::

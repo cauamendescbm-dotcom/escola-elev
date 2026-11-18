@@ -1,161 +1,155 @@
 # Capítulo 18
-## O CPF que você escolheu se tornar
+## O papel do seu CNPJ na sociedade
 
-> "Todo aquele que ouve estas minhas palavras e as pratica será comparado a um homem prudente, que edificou a sua casa sobre a rocha."
-> — Mateus 7:24
+> "Procurai a paz da cidade para onde vos fiz transportar e orai por ela ao Senhor; porque na sua paz vós tereis paz."
+> — Jeremias 29:7
 
-Chegamos ao fim da nossa conversa. E eu queria terminar do jeito que a gente termina um bom jantar entre amigos: sem pressa, com um café na mesa, falando do que realmente importa.
+No capítulo anterior, você escreveu para onde está indo. Agora eu quero te contar uma história que mudou a forma como eu olho para qualquer empresa, por menor que ela seja.
 
-No capítulo anterior, eu te deixei uma pergunta no ar. Quando os anos passarem, quem você vai ter se tornado? Para responder, eu quero te contar a história de um rei velho.
+Era fim de tarde numa padaria de bairro. A dona, que eu vou chamar de Marta (nome alterado), estava fechando o caixa quando uma das funcionárias mais antigas pediu para falar com ela. Marta já se preparou para o pior. Andava cansada, a margem estava apertada, e fazia meses que ela se perguntava se aquilo tudo valia a pena. Ela tinha certeza de que ia ouvir um pedido de demissão.
 
-Jerusalém, uns mil anos antes de Cristo. Davi reúne no palácio todos os líderes do reino. Chefes das tribos, comandantes do exército, administradores, os homens mais valentes que lutaram ao lado dele. Davi já não é aquele garoto que derrubou um gigante com uma pedra. Está velho, as mãos tremem. Mas ele faz questão de ficar de pé para falar.
+A funcionária abriu a bolsa e tirou um papel dobrado. Era o contrato da primeira casa própria dela.
 
-— Me escutem, meus irmãos e meu povo.
+— Eu queria que a senhora fosse a primeira a ver. Foram oito anos de carteira assinada aqui. Sem isso, o banco nunca teria aprovado.
 
-E conta para todo mundo o maior sonho da vida dele. Ele quis construir uma casa para Deus. Um templo digno, de pedra e cedro. Juntou recursos, desenhou, planejou cada detalhe. E ouviu um não.
+Marta me contou essa história com a voz embargada.
 
-— Não é você que vai construir. É o seu filho, Salomão.
+— Eu passei anos achando que a padaria era só a minha luta para pagar as contas. Naquele dia, eu entendi que tinha uma casa de pé por causa dela.
 
-Pensa no tamanho dessa frustração para um homem acostumado a vencer. O projeto da vida dele ia ser terminado por outra pessoa, e ele nem estaria vivo para ver.
+Esse é o assunto da nossa conversa de hoje.
 
-Davi podia ter ficado amargo. Podia ter dito "se não for eu, não vai ser ninguém". E eu conheço muito empresário que faz exatamente isso. Segura a empresa até o último dia, centraliza tudo e se recusa a preparar quem vem depois.
-
-Davi fez o contrário. Passou os últimos anos da vida preparando tudo para o filho. Juntou ouro, prata, bronze, ferro, madeira e pedras lavradas. Organizou os trabalhadores, os músicos, os porteiros e os administradores. Entregou a Salomão a planta do templo, cômodo por cômodo. E, diante de todo mundo, ainda tirou do próprio patrimônio pessoal para a obra.
-
-Depois olhou para o filho e disse uma das frases mais bonitas que um pai pode dizer:
-
-— Seja forte, tenha coragem e faça a obra. Não tenha medo nem desanime. Deus não vai te deixar até você terminar.
-
-O templo de Salomão virou uma das construções mais famosas da Antiguidade. Leva o nome do filho. Mas foi levantado em cima da preparação do pai.
-
-O relato termina com uma frase sobre Davi que eu gostaria que um dia escrevessem sobre mim, e sobre você: "Morreu em boa velhice, cheio de dias, de riquezas e de honra".
-
-Cheio de dias. Não só de dinheiro. De dias.
+Durante quase todo o livro, a gente olhou para dentro. Identidade, perdão, orgulho, família, corpo, imagem, as pessoas com quem você anda, estrutura, números, visão. Agora eu quero te convidar a olhar para fora. Porque o seu CNPJ não termina na porta da sua empresa.
 
 * * *
 
-Lembra de como a gente começou? No primeiro capítulo, eu te contei a minha história. Tirei uma empresa do prejuízo, cheguei ao maior resultado da minha vida e vendi com superágio. E dois anos depois, sob outra liderança, ela voltou a quebrar. A estrutura estava lá. Faltou um CPF forte para sustentá-la.
+Existe uma palavra antiga que o mundo dos negócios esqueceu: mordomia.
 
-Aquela empresa não existe mais. Os processos que eu escrevi foram parar numa gaveta. Os números que eu celebrei viraram passado.
+Na Antiguidade, o mordomo era quem administrava os bens de um senhor. Não era o dono, mas tinha autoridade sobre tudo, era responsável por tudo e, um dia, ia prestar contas. Jesus contou uma parábola inteira sobre isso, a dos talentos. Um senhor viaja e confia recursos a três servos. Dois multiplicam o que receberam. O terceiro, com medo, enterra o dinheiro no chão e devolve exatamente o que recebeu. E é esse terceiro que leva a bronca.
 
-O que ficou foi o que aquela travessia fez comigo. O que eu aprendi, quem eu me tornei e o que hoje eu consigo entregar para você nestas páginas.
+Repara que o problema dele não foi perder dinheiro. Foi não fazer nada com o que tinha nas mãos.
 
-No Manifesto da ELEV, tem uma frase que, para mim, resume o livro inteiro: no fim, o maior patrimônio de quem empreende nunca vai ser a empresa. Vai ser a pessoa que escolheu se tornar enquanto a construía.
+Quando você começa a olhar para a sua empresa como mordomia, três coisas mudam por dentro.
 
-Empresas nascem, crescem, são vendidas, se fundem e às vezes fecham. Mercados mudam e produtos envelhecem. Mas o caráter que você forma, a família que você constrói, as pessoas que você desenvolve e a fé que você cultiva atravessam todas as estações.
+A primeira é o peso. Você deixa de carregar a empresa como um fardo solitário e passa a carregar como uma missão. E fardo esmaga, mas missão sustenta. Eu sei a diferença porque já carreguei dos dois jeitos.
 
-É por isso que este livro começou no CPF e termina no CPF. O CNPJ é a obra. O CPF é o construtor. E nenhuma obra dura mais do que o alicerce de quem a levantou.
+A segunda é o olhar sobre as pessoas. Quem trabalha com você deixa de ser "custo de folha" e passa a ser uma vida confiada à sua liderança, com uma família inteira atrás.
 
-* * *
+A terceira é o critério das decisões. Você continua perguntando "isso dá lucro?", porque precisa. Mas passa a perguntar também "isso é certo diante de quem me confiou este lugar?".
 
-Jesus terminou o sermão mais famoso da história com uma imagem muito simples. Dois homens constroem duas casas. Por fora, talvez fossem parecidas. As mesmas paredes, o mesmo telhado, a mesma pintura. A diferença estava escondida embaixo da terra. Uma foi construída sobre a rocha. A outra, sobre a areia.
-
-Aí veio a tempestade. Chuva, enchente e vento batendo nas duas.
-
-Uma ficou de pé. A outra caiu, e o texto faz questão de dizer que foi grande a queda.
-
-Repara que a tempestade veio para as duas. Ter fé não é ter seguro contra crise. A diferença está no que continua de pé depois dela.
-
-Na linguagem da nossa conversa, a rocha é o CPF. É saber quem você é, ter o coração livre de mágoa, ter humildade para aprender, a casa em ordem, o corpo cuidado, princípios que não se negociam e uma visão com sentido. A areia é tudo aquilo que parece sólido enquanto o sol está brilhando: faturamento sem margem, crescimento sem estrutura, sucesso sem família, imagem sem essência.
-
-E tem um detalhe que quase todo mundo deixa passar. Jesus não diz que o prudente é quem ouve. É quem ouve e pratica.
-
-Você leu dezessete capítulos. A diferença entre ter lido este livro e ter sido transformado por ele está no que você fizer com ele a partir de amanhã.
+No Manual de Cultura da ELEV, a gente escreveu uma frase curtinha que eu leio quase como uma oração: o Grupo Elev existe para abençoar. Não é romantismo. É clareza sobre o porquê.
 
 * * *
 
-Tem um psicanalista chamado Erik Erikson, um dos nomes mais importantes do século XX quando o assunto é desenvolvimento humano, que descreveu a vida adulta como uma série de encruzilhadas. E a encruzilhada da maturidade, segundo ele, é entre duas palavras: generatividade e estagnação.
+Deixa eu te levar para um dos momentos mais tristes da história de Israel.
 
-Generatividade é o desejo de formar e guiar a próxima geração. Filhos, equipe, discípulos, comunidade. É querer deixar alguma coisa que continue viva quando a gente não estiver mais aqui. Estagnação é o oposto: a vida que se fecha em si mesma, ocupada só em manter o que já conquistou. O psicólogo Dan McAdams, da Universidade Northwestern, passou décadas pesquisando isso, e os estudos dele associam a generatividade a mais bem-estar e mais sentido de vida.
+Por volta de 597 antes de Cristo, milhares de judeus foram arrancados de Jerusalém e levados à força para a Babilônia. Artesãos, líderes, famílias inteiras. Jogados numa cidade estrangeira, com outra língua, outros deuses e outros costumes. Imagina o clima. Raiva, saudade e aquela sensação de que a vida tinha parado.
 
-E quase dois mil anos antes, um imperador romano já tinha chegado lá. Marco Aurélio governava o maior império do seu tempo. Tinha poder, riqueza e exércitos. E, à noite, escrevia para si mesmo, num diário que nunca pensou em publicar e que hoje a gente conhece como *Meditações*. Numa dessas anotações, ele se adverte: não viva como se tivesse dez mil anos pela frente. Enquanto você vive, enquanto ainda é possível, torne-se bom.
+E tinha uns profetas que alimentavam isso. "Não desfaçam as malas", diziam. "Em dois anos, a gente volta para casa." Então muita gente vivia de mala pronta. Não construía nada, não plantava nada, só esperava a vida de verdade recomeçar.
 
-O homem mais poderoso do mundo não escrevia para si "fique mais rico" ou "conquiste mais territórios". Escrevia "torne-se bom".
+Aí chega uma carta. Quem escreve é Jeremias, que tinha ficado em Jerusalém.
 
-Davi preparando o templo para o filho, Marco Aurélio escrevendo no diário e Erikson estudando o desenvolvimento humano chegaram ao mesmo lugar. O legado não é o que você deixa para trás. É quem você forma enquanto ainda está aqui.
+O povo se reúne para ouvir. Talvez esperassem consolo. Talvez um plano de fuga. E o que eles ouvem é desconcertante:
 
-Se você reparar, é exatamente o terceiro degrau que a gente vem subindo desde o começo. O operador está preso a manter as coisas funcionando: "Eu sou a máquina". O dono organiza: "Eu tenho a máquina". O líder chega à generatividade: "Eu formo quem conduz". Esse degrau não é só uma questão de eficiência. É uma fase da vida. É Davi preparando o templo para Salomão. É você formando o gerente que vai ocupar o seu lugar, o filho que vai herdar os seus valores e o colaborador que vai levar para casa o que aprendeu com você.
+— Construam casas e morem nelas. Plantem pomares e comam do que plantaram. Casem, tenham filhos e filhas. Multipliquem-se aí. E procurem a paz da cidade para onde eu deixei vocês serem levados. Orem por ela. Porque na paz dela vocês terão paz.
+
+Silêncio na sala, imagino.
+
+Orar pela Babilônia? Pela cidade dos inimigos? Trabalhar para que prosperasse justamente quem tinha destruído a casa deles?
+
+Sim. E a carta ainda acrescenta: não vão ser dois anos. Vão ser setenta.
+
+Jeremias tira aquele povo da posição de vítima que espera e coloca na posição de quem constrói. O lugar onde eles estavam, por pior que fosse, era exatamente o lugar onde deveriam servir e abençoar.
+
+Eu conheço muito empresário vivendo de mala pronta. "Quando o mercado melhorar." "Quando o governo mudar." "Quando eu achar uma equipe boa." E, enquanto isso, não constrói nada que dure. A carta de Jeremias continua valendo para nós: a sua cidade, a sua rua e o seu setor são o lugar onde o seu CNPJ deve buscar a paz. E, na paz deles, você também vai ter paz.
+
+Décadas depois, um daqueles exilados chegou ao topo do governo babilônico. O nome dele era Daniel. Os rivais ficaram com tanta inveja que vasculharam a vida dele atrás de qualquer deslize. Uma conta mal prestada, um favor suspeito, qualquer coisa. E o texto diz que não encontraram nada, porque ele era fiel. Um estrangeiro, servindo com excelência num reino que não era o dele. Esse é o padrão que eu queria para mim e para você.
 
 * * *
 
-Agora eu quero te pedir uma coisa. Pega a sua página. Aquela folha que você foi preenchendo, capítulo por capítulo, desde o começo. Pode ser que ela esteja meio rabiscada, com coisas riscadas e reescritas. Ótimo. É sinal de que você estava vivo enquanto lia.
+Sabe aquela brincadeira de jogar uma pedra no lago e ver as ondas se espalhando? É assim que eu gosto de enxergar o impacto de uma empresa.
 
-Relê com calma, como quem relê cartas antigas.
+A primeira onda bate na sua própria casa. A empresa sustenta a sua família, mas também pode roubar presença, paz e saúde. A gente conversou muito sobre isso. Um CNPJ que destrói o lar do dono falhou logo na primeira onda, por maior que seja o faturamento.
 
-Lá no começo, você escreveu quem é hoje sem falar da empresa, e descobriu que isso era mais difícil do que parecia. Depois desenhou os seus círculos: o que você é, os papéis que exerce e, por último, o CNPJ. E separou as vozes que herdou das verdades que escolheu.
+A segunda onda chega na equipe e nas famílias de cada um. Pensa comigo: cada pessoa que você contrata costuma ter outras duas ou três que dependem daquele salário. Então uma empresa de vinte funcionários pode estar sustentando, de um jeito ou de outro, sessenta ou setenta pessoas. Pensa na funcionária da Marta com a chave da casa na mão.
 
-Na parte do perdão, você escreveu o nome de quem decidiu soltar e a frase que te ajudou a soltar. Talvez tenha sido a parte que mais doeu. Talvez tenha sido a que mais libertou.
+A terceira onda alcança os seus clientes. Toda empresa existe para resolver o problema de alguém. Quando você vende com honestidade e entrega com excelência, a vida de quem compra fica melhor. É isso que o V da ELEV significa para nós: venda como consequência natural de servir bem, e não como a arte de empurrar o que a pessoa não precisa.
 
-Depois teve coragem de admitir onde era o maior da sala e escolheu um ambiente novo. Escreveu como quer lidar com os próprios erros.
+A quarta onda chega aos fornecedores. E aqui eu vou ser bem direto. Pagar em dia é uma forma de justiça. Quando você atrasa um fornecedor pequeno para aliviar o seu caixa, você só transfere o seu problema para a família de outro empresário.
 
-Em casa, você escreveu os nomes de quem não se demite da sua vida e a visão da sua família.
+E a quinta onda alcança a cidade e o país. Impostos que viram escola e hospital. Carteira assinada, que dá acesso a crédito, aposentadoria e dignidade. O seu exemplo para outros empresários. Os projetos que você apoia.
 
-Fez o balanço do seu próprio CPF: corpo, mente e espírito. Olhou para a sua imagem e para as pessoas com quem anda.
+Os levantamentos do Sebrae mostram, ano após ano, que as micro e pequenas empresas estão entre as maiores geradoras de emprego formal do Brasil. Não é exagero dizer que este país é sustentado por gente como você, que acorda cedo, assume risco e mantém uma empresa de pé.
 
-Depois levou tudo isso para a empresa. Descobriu em que degrau está, escreveu os valores que você vive e que a empresa vai viver, colocou os números de verdade no papel e definiu a sua reserva. Escreveu a visão de três anos e a frase que resume a missão do seu CNPJ no mundo.
+Quando o CPF evolui, o CNPJ encontra um novo nível. E, quando o CNPJ encontra um novo nível, a cidade inteira sente.
 
-Lê tudo de uma vez. E repara no que acontece. Aquelas respostas soltas começam a conversar entre si. A crença herdada explica o número da empresa. A mágoa explica a dificuldade de delegar. A visão da família corrige a visão da empresa.
+* * *
 
-É isso que eu chamo de alinhamento. Não é uma técnica. É quando o que você é, o que você vive em casa e o que você constrói na empresa passam a apontar para a mesma direção.
+Agora, eu preciso esclarecer uma coisa, porque sempre aparece alguém que me entende errado. Quando eu falo de propósito, não estou dizendo que lucro virou palavrão.
 
-Coloca essa página num lugar onde você vá vê-la toda semana. Não é documento de arquivo. É painel de navegação. E relê a cada três meses. Algumas linhas vão mudar, porque você vai mudar. É sinal de que está funcionando.
+Uma empresa sem lucro não abençoa ninguém. Ela fecha. E, quando fecha, demite, deixa fornecedor sem receber e joga a família do dono numa crise.
 
-[AUTOR: inserir uma história pessoal sobre o momento em que você percebeu o que realmente queria deixar como legado, de preferência ligado à sua família.]
+Eu gosto de pensar no lucro como oxigênio. Você não vive para respirar. Mas, sem respirar, você não vive.
+
+O que a mordomia muda não é a importância do lucro. É o lugar dele. O lucro deixa de ser o fim e vira o meio, o combustível que permite à empresa cumprir a sua missão por mais tempo, para mais gente e com mais qualidade. Peter Drucker, um dos pais da administração moderna, pensava parecido. Para ele, o lucro não era a razão de ser de uma empresa, e sim a condição para que ela continuasse existindo.
+
+Por isso, a conversa sobre margem, caixa e custo fixo que a gente teve há pouco não foi um desvio para a planilha. Foi parte do mesmo assunto. Cuidar dos números é cuidar da sua capacidade de servir. Um empresário que não conhece os próprios números pode ter um coração enorme, mas vai abençoar por pouco tempo.
+
+E tem outra coisa que anda junto com isso. Em algum momento, a sua empresa vai encontrar um atalho. Uma nota que "não precisa" ser emitida. Um fornecedor oferecendo uma comissão por fora. Um cliente pedindo um jeitinho. Uma informação que poderia prejudicar um concorrente.
+
+O atalho sempre promete crescimento rápido. E quase sempre entrega duas coisas: um risco que cresce em silêncio e uma identidade que vai sendo corroída por dentro, sem você perceber.
+
+O primeiro valor da ELEV é a verdade. Sim é sim, não é não. Integridade não é só ficar longe do crime. É ser a mesma pessoa quando ninguém está olhando. É aquilo que a gente conversou lá no capítulo 2: identidade é o que permanece quando o cenário muda.
+
+Daniel cresceu na Babilônia sem se corromper. A integridade não impediu que ele prosperasse. Foi ela que fez a prosperidade dele durar.
+
+* * *
+
+Eu gosto de pensar na empresa como uma plataforma. Um lugar alto de onde dá para alcançar mais gente.
+
+O seu CNPJ te dá acesso a pessoas, recursos, influência e conversas que o seu CPF sozinho nunca teria. A pergunta é o que você faz lá de cima.
+
+Para mim, o maior impacto de uma empresa não é o produto. É quem as pessoas se tornam enquanto trabalham nela. Um rapaz que aprendeu disciplina, responsabilidade e caráter na sua empresa vai levar isso para dentro da casa dele, para os filhos dele. Isso não aparece no balanço, mas é a coisa mais duradoura que você vai construir.
+
+Às vezes, usar a plataforma é dar o primeiro emprego para quem ninguém quis contratar. Ou a segunda chance para quem errou. Sabe aquele menino dos cinco pães e dois peixes? Ele nem foi contado entre os cinco mil, porque contavam só os homens. E, mesmo assim, estava no centro do milagre. Tem muita gente esquecida esperando que alguém olhe para ela.
+
+Às vezes é elevar o padrão do seu setor. Pagar em dia, cumprir o combinado, tratar bem até o concorrente. Quando uma empresa faz isso por anos, vira referência e puxa as outras para cima. Na ELEV, todo ano, o Projeto ELEV apoia instituições sociais escolhidas pelos próprios mentorados. Não é marketing. É a escolha de transformar parte do resultado em bênção que dá para ver.
+
+Abraão ouviu de Deus, quase quatro mil anos atrás: "Farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome; e tu serás uma bênção". Repara na ordem. A bênção que ele recebe existe para virar bênção entregue. Esse é o ciclo de um CNPJ maduro.
+
+E, olha que interessante, a ciência anda confirmando isso de um jeito bem concreto. Em 2008, três pesquisadores, Elizabeth Dunn, Lara Aknin e Michael Norton, deram dinheiro a algumas pessoas e pediram que metade gastasse consigo mesma e metade gastasse com outros. No fim do dia, quem gastou com os outros estava mais feliz. Anos depois, o professor Adam Grant, da Wharton, fez um experimento com operadores de telemarketing que arrecadavam dinheiro para bolsas de estudo. Bastou uma conversa rápida com um aluno que tinha sido beneficiado por aquelas bolsas, e os operadores passaram a trabalhar com outro ânimo e a arrecadar bem mais nas semanas seguintes. Eles tinham visto o rosto de quem o trabalho deles ajudava.
+
+Aristóteles já dizia que o ser humano é um animal político, que só se realiza de verdade em comunidade, e que o bem da cidade é maior do que o bem de um só. Jeremias escreveu a mesma coisa numa carta para exilados. E os pesquisadores encontraram isso em laboratório. Ninguém prospera de verdade sozinho.
+
+* * *
+
+Antes de terminar, eu quero te fazer uma pergunta meio incômoda. Respira fundo.
+
+Se a sua empresa fechasse amanhã, quem ia sentir falta?
+
+Não estou perguntando quem ia ficar sem fornecedor. Isso se resolve numa semana. Estou perguntando quem ia perder alguma coisa que não encontraria em outro lugar.
+
+Se a sua resposta for "ninguém além de mim", não se assuste. Não é condenação, é diagnóstico. Só quer dizer que a empresa ainda está sendo vivida como o meio de sobrevivência do dono, e não como presença na vida das pessoas.
+
+Agora imagina o contrário. Um cliente dizendo: "Ninguém atende como eles". Um colaborador dizendo: "Foi ali que eu aprendi a ser quem eu sou". Um fornecedor dizendo: "Foi a única empresa que nunca me deixou na mão". Uma instituição da cidade dizendo: "Eles estiveram com a gente quando ninguém estava".
+
+Isso não se constrói com campanha de marketing. Se constrói com escolhas pequenas, repetidas por anos, por um CPF que decidiu que o seu CNPJ seria lembrado pelo bem que fez, e não só pelo que faturou.
+
+E, cá entre nós, empresas assim raramente precisam brigar por preço. Elas foram além do produto. Viraram parte da vida de alguém.
 
 ### Antes de virar a página
 
-Essa é a última vez que eu te peço para pegar a caneta. Prometo.
+Pega aquela sua página de novo. Hoje o exercício é curto, mas eu te garanto que vai mexer com você.
 
-1. Escreve o nome das três pessoas mais importantes da sua vida. Ao lado de cada nome, escreve o que você gostaria que ela dissesse sobre você daqui a vinte anos. Depois, com toda a honestidade, escreve o que ela diria hoje.
-2. Quem é o seu Salomão? Quem você está preparando para continuar o que você começou? Pode ser um filho, um líder da empresa, alguém que você mentora. Se ainda não tem ninguém, escreve o nome de quem pode vir a ser.
-3. Completa a frase, e coloca ela no topo da sua página: "Eu escolho me tornar alguém que ________."
+1. Quantas pessoas trabalham com você hoje? Multiplica esse número por três e escreve o resultado. Esse é, mais ou menos, o número de vidas que o seu CNPJ sustenta. Fica um minuto olhando para ele.
+2. Pensa numa pessoa concreta cuja vida melhorou por causa da sua empresa. Um cliente, um colaborador, um fornecedor. Escreve a história dela em cinco linhas.
+3. Completa a frase: "O meu CNPJ existe para que ________."
 
-Nesta semana, lê a sua página em voz alta para a pessoa mais importante da sua casa. Depois, chama o seu Salomão para um café e diz com todas as letras que você está investindo nele. E marca na agenda a data da primeira releitura, daqui a três meses.
+Nos próximos sete dias, eu te desafio a três coisas. Conta a história da pergunta 2 na próxima reunião com a sua equipe e, se der, leva a própria pessoa para contar. Confere se tem algum fornecedor pequeno com pagamento atrasado e acerta. E, se existir na sua empresa algum atalho que fere a sua integridade, daqueles que "todo mundo faz", escolhe a data em que ele acaba.
 
-Se quiser ir além, escreve uma carta para você mesmo e guarda junto com o envelope da visão. Quando abrir os dois, você vai entender o quanto andou.
+A frase da pergunta 3 vai para a sua página, logo abaixo da visão.
 
----
+Você já sabe quem é, para onde vai e para quem vai. Falta só uma pergunta, a mais pessoal de todas, e eu guardei para o nosso último encontro. Quando os anos passarem, quando o envelope for aberto e a empresa já não precisar de você, quem você vai ter se tornado?
 
-## Carta ao leitor
-
-Querido leitor, querida leitora,
-
-Se você chegou até aqui, eu quero te agradecer. Não pelo tempo que você deu a este livro, mas pela coragem de olhar para dentro.
-
-A maioria dos empresários prefere olhar para o mercado, para o concorrente, para o governo, para a equipe. Olhar para si mesmo é mais difícil, porque não dá para terceirizar a culpa. E você olhou.
-
-Talvez tenha encontrado feridas que fingia não ter. Talvez tenha precisado perdoar alguém que nunca te pediu perdão. Talvez tenha percebido que o orgulho estava saindo caro, que a sua casa vinha ficando para depois ou que a empresa tinha virado esconderijo.
-
-Se isso aconteceu, não se envergonhe. Isso tem nome, e a gente falou dele lá no começo: metanoia. Mudança de mente. É o primeiro passo de toda transformação verdadeira.
-
-Eu também passei por isso. Ainda passo. Este livro não foi escrito por alguém que chegou. Foi escrito por alguém que está no caminho e decidiu dividir com você o mapa que encontrou até aqui.
-
-Eu queria te deixar três pedidos.
-
-Não deixa este livro parado na estante. Volta nele. Relê os capítulos que mais doeram, porque é ali que está o seu próximo degrau.
-
-Não caminha sozinho. Tudo o que a gente conversou ganha força quando você vive isso com pessoas que te conhecem, te cobram e te elevam.
-
-E começa pela sua casa. Antes de mudar a empresa, muda o jeito como você vai chegar em casa hoje à noite. É ali que a sua liderança é testada de verdade.
-
-O seu CNPJ precisa de um CPF. Não de um CPF perfeito, mas de um CPF inteiro. Um CPF que sabe quem é, que anda leve, que aprende, que lidera em casa, que cuida de si, que organiza a obra e que enxerga longe.
-
-Quando o CPF evolui, o CNPJ encontra um novo nível.
-
-Com gratidão e fé no seu próximo degrau,
-
-**Gustavo Nardi**
-
----
-
-## Um convite
-
-Este livro nasceu dentro de uma família de projetos que existe por uma única razão: desenvolver pessoas que lideram empresas.
-
-Se você quiser continuar essa caminhada acompanhado, a gente vai gostar de ter você por perto. Na Escola ELEV, são doze encontros semanais ao vivo para sair do operacional e subir, degrau por degrau, de operador a líder, sempre com um plano de sete dias entre um encontro e outro. O Método ELEV é onde a gente organiza a empresa por dentro, nas finanças, no comercial, nas pessoas e nos processos. O Mastermind ELEV é um grupo reservado de empresários que caminham juntos ao longo de um ano, num ambiente onde ninguém é o maior da sala. E o Instituto ELEV é o braço que transforma parte do resultado de todos nós em bênção que dá para ver, apoiando causas escolhidas pela própria comunidade.
-
-Nenhum deles substitui o que você já começou a fazer lendo este livro. Eles só oferecem estrutura, método e gente do lado, para que o caminho não seja solitário.
-
-Se fizer sentido para você, vai ser uma honra caminhar junto. Se não for agora, segue em frente com a sua página. O mais importante já está nas suas mãos.
-
-*Espiritualidade · Liderança · Estratégia · Vendas*
+::: {custom-style="Destaque"}
+"Quando o CPF evolui, o CNPJ encontra um novo nível. E, quando o CNPJ encontra um novo nível, a cidade inteira sente."
+:::

@@ -1,147 +1,123 @@
-# Parte V — Potencializar o CPF
-
-Até aqui a gente olhou para dentro. Você foi atrás da sua identidade, soltou pesos antigos, encarou o orgulho e levou tudo isso para dentro de casa. Agora quero conversar sobre outra coisa. Limpar o terreno é uma etapa. Construir em cima dele é outra. Nas próximas páginas, vamos cuidar do seu CPF como ele merece: do corpo que sustenta as suas decisões, da imagem que chega antes de você e das pessoas que caminham do seu lado.
-
 # Capítulo 10
-## O ativo que não aparece no balanço
+## Liderar em casa primeiro
 
-> "Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida."
-> — Provérbios 4:23
+> "Porque, se alguém não sabe governar a própria casa, como cuidará da igreja de Deus?"
+> — 1 Timóteo 3:5
 
-No capítulo anterior, a gente falou sobre liderar em casa. E talvez, enquanto lia, você tenha pensado: "Gustavo, eu entendo, eu quero, mas eu chego em casa sem energia nenhuma". Eu sei. Já cheguei assim muitas vezes. Então vamos conversar sobre isso agora, com calma, porque é aqui que muita coisa trava.
+O homem mais poderoso de Israel estava sentado entre os dois portões da cidade, esperando notícias de uma batalha.
 
-Deixa eu te fazer uma pergunta meio estranha. Você já reparou que nenhuma empresa coloca o dono no balanço patrimonial?
+E não era uma batalha qualquer. Do outro lado do campo, comandando um exército contra ele, estava o próprio filho.
 
-Está tudo lá. Imóvel, veículo, estoque, máquina, contas a receber. Tudo listado, depreciado, conferido pelo contador. Mas o ativo que faz tudo isso girar não aparece em linha nenhuma.
+Davi já tinha derrubado gigante, unificado tribos, conquistado Jerusalém e construído um reino. E agora estava ali, mais velho, cansado, sentado no portão, esperando saber se o filho que tentava tirar o trono dele tinha saído vivo.
 
-Você.
-
-Vou te contar do Roberto (nome alterado). Ele chegou a um encontro de mentoria com uma planilha que dava gosto de ver. Distribuidora, trinta e poucos funcionários, quinze anos de mercado. Sabia o giro do estoque de cabeça. Sabia o prazo médio de recebimento. Sabia quanto cada caminhão gastava por quilômetro.
-
-Eu olhei para a planilha, olhei para ele e perguntei quantas horas ele tinha dormido na noite anterior.
-
-Ele riu. Depois ficou quieto. "Umas quatro. Mas eu sou assim, funciono bem com pouco sono."
-
-Perguntei quando tinha sido o último exame de rotina. Não lembrava. Perguntei quando tinha tirado férias sem abrir o celular. Também não lembrava. Aí perguntei quando ele tinha jantado com a família numa terça-feira qualquer, sem pressa, sem telefone na mesa.
-
-Ele não respondeu. Baixou os olhos e ficou olhando a planilha.
-
-Sabe o que me impressionava no Roberto? Ele cuidava de cada caminhão da frota com uma disciplina admirável. Troca de óleo no prazo, pneu calibrado, revisão preventiva. Ele sabia, melhor do que ninguém, que caminhão parado custa caro.
-
-Só não tinha percebido que ele mesmo era o caminhão que mais rodava. E o único que nunca entrava na oficina.
-
-Seis meses depois daquela conversa, o Roberto teve uma crise de ansiedade no meio de uma reunião com fornecedor. Achou que estava infartando. Foi parar no pronto-socorro. Não era o coração. Era o corpo apresentando uma conta que ele vinha empurrando com a barriga havia anos.
-
-Quando a gente se encontrou de novo, ele me disse uma frase que eu nunca mais esqueci: "Eu passei quinze anos protegendo a empresa de tudo. Menos de mim."
-
-Talvez você ainda não tenha chegado no pronto-socorro. Graças a Deus. Mas eu te pergunto com carinho: será que você não está protegendo a sua empresa de tudo, menos de você?
+No capítulo anterior, eu te disse que estar em casa não é a mesma coisa que liderar a casa. Pois foi exatamente nessa diferença que Davi tropeçou. E, para entender como ele foi parar naquele portão, a gente precisa voltar alguns anos.
 
 * * *
 
-Existe um personagem que o mercado adora aplaudir. Você conhece. O empresário que chega primeiro e sai por último. Que responde mensagem à uma da manhã. Que não tira férias há sete anos e conta isso com orgulho. Que repete que vai "dormir quando morrer".
+Amnom, o filho mais velho de Davi, violentou a própria meia-irmã, Tamar. Uma tragédia dentro do palácio. E a Bíblia registra a reação do rei numa frase curtíssima: Davi ficou muito irado.
 
-Eu já fui esse personagem. E, confesso, já me orgulhei dele.
+E só.
 
-Mas hoje eu te digo com a tranquilidade de quem já pagou o preço: cansaço não é medalha. Exaustão não prova compromisso. Quando você vive esgotado, isso é um sinal de que alguma coisa na estrutura está errada. Na estrutura da empresa e na sua.
+Nenhuma conversa registrada com Amnom. Nenhuma justiça. Nenhuma consequência. Nenhum cuidado registrado com Tamar, que passou a viver desolada na casa do irmão. O rei que julgava o povo inteiro não julgou a própria casa.
 
-Lembra do primeiro degrau, o do operador? Aquele que diz "eu sou a máquina"? Pois é. Máquina sem manutenção quebra. Não por falta de vontade. Por física.
+Absalão, irmão de Tamar, assistiu a tudo isso calado. E esperou. Dois anos inteiros alimentando o ódio em silêncio. Até que um dia ele organizou uma festa, convidou todos os irmãos e, no meio da comemoração, mandou matar Amnom. Depois fugiu e ficou três anos longe.
 
-O problema é que, com a gente, a quebra quase nunca é de uma vez. Ela vem devagar, em camadas. Primeiro aparece uma irritação por qualquer coisa. Depois fica difícil se concentrar. Você esquece detalhes simples. Dorme, mas acorda cansado. Tudo vira urgente e nada dá prazer. E, sem perceber, as suas decisões vão ficando mais curtas, mais reativas, mais pobres.
+Quando finalmente pôde voltar para Jerusalém, Davi deu uma ordem que, para mim, é uma das frases mais tristes da Bíblia: "Que ele vá para a casa dele e não veja a minha face." Absalão morou dois anos na mesma cidade que o pai, a poucas ruas de distância, sem ser recebido por ele.
 
-E aqui está o ponto que quase ninguém conecta. Quem toma as decisões da sua empresa é o seu cérebro. Se esse cérebro está exausto, a empresa inteira está sendo pilotada por alguém cansado.
+Dá para imaginar o que se passava na cabeça daquele rapaz?
 
-Você entraria num avião sabendo que o piloto não dorme direito há três noites? Claro que não. Mas talvez esteja deixando o seu CNPJ voar assim há anos.
+E aí o filho que não foi ouvido pelo pai começou a ouvir o povo. Ele acordava cedo, ficava na porta da cidade e, quando alguém chegava com uma causa para levar ao rei, Absalão chamava a pessoa, perguntava de onde ela era, ouvia a história inteira e dizia: "Olha, a sua causa é boa. Pena que não tem ninguém do rei para te ouvir. Ah, se eu fosse juiz nesta terra…". Quando alguém se curvava para cumprimentá-lo, ele estendia a mão, abraçava e beijava. A Bíblia diz que assim Absalão roubou o coração dos homens de Israel.
 
-* * *
+Repara no que ele usou para conquistar o povo. Escuta, atenção, presença. Exatamente tudo aquilo que faltou dentro de casa.
 
-Quero te contar uma das histórias mais honestas que eu conheço sobre isso. Ela está lá no livro de Reis, e eu acho que todo empresário deveria ler.
+A conspiração virou guerra. E a guerra terminou com Absalão fugindo no lombo de uma mula, a cabeça presa nos galhos de um carvalho, morto pelos homens do próprio pai. Quando o mensageiro trouxe a notícia ao portão, Davi subiu para o quartinho que ficava em cima da porta e chorou. E enquanto subia, dizia: "Meu filho Absalão, meu filho, meu filho Absalão! Quem me dera ter morrido no seu lugar."
 
-Elias era um dos profetas mais poderosos de Israel. E ele tinha acabado de viver o maior dia da vida dele. No alto do monte Carmelo, enfrentou sozinho quatrocentos e cinquenta adversários diante de uma multidão. Pediu fogo do céu, e o fogo caiu. O povo inteiro se prostrou. Foi o auge. Se fosse hoje, seria aquele dia em que você fecha o maior contrato da história da empresa.
-
-E aí vem o detalhe que me pega toda vez. Logo depois dessa vitória, chega um recado da rainha Jezabel ameaçando a vida dele. E o homem que tinha enfrentado quatrocentos e cinquenta sozinho sai correndo. Anda um dia inteiro deserto adentro, se joga debaixo de um arbusto e pede para morrer. "Basta, Senhor. Toma a minha vida" (1 Reis 19:4).
-
-Repara quando isso acontece. Depois da vitória, não depois da derrota.
-
-Você conhece essa sensação? Bater a meta do ano e, no lugar da alegria, sentir um vazio esquisito. Assinar o contrato que você esperou a vida inteira e não conseguir dormir de ansiedade naquela noite. Eu conheço. Foi exatamente o que eu senti lá no topo, quando vendi a empresa, e te contei no começo do livro.
-
-Agora presta atenção na resposta que Elias recebe. Você esperaria um sermão, não é? Uma bronca. "Cadê a sua fé, homem?" Ou, no mínimo, um novo plano estratégico.
-
-Nada disso.
-
-Ele dorme. Um anjo toca nele, mostra um pão assado sobre pedras quentes e uma botija de água e diz: "Levanta-te e come". Ele come, bebe e dorme de novo. O anjo volta, toca nele outra vez e repete: "Levanta-te e come, porque o caminho te será sobremodo longo" (1 Reis 19:7).
-
-Só depois disso, com o corpo de pé, Elias caminha até o monte e ouve a voz que o devolve à missão. Não no vento forte, não no terremoto, não no fogo. Num murmúrio suave.
-
-Primeiro o pão e o sono. Depois a conversa sobre propósito.
-
-Eu acho isso de uma sabedoria impressionante. Há quase três mil anos, já estava escrito o que a ciência só foi confirmar recentemente: não existe clareza, nem espiritual nem estratégica, num corpo destruído. Às vezes, antes de perguntar "qual é o meu chamado?", a pergunta certa é bem mais simples: "quando foi a última vez que eu dormi direito?".
+O maior líder de Israel venceu todas as batalhas da vida dele, menos a que começou dentro de casa.
 
 * * *
 
-E a ciência confirma mesmo. Em 2019, a Organização Mundial da Saúde incluiu o *burnout* na sua classificação internacional de doenças, a CID-11, como um fenômeno ligado ao trabalho. A definição tem três partes, e a terceira é a que mais me chama a atenção. Além do esgotamento e do distanciamento mental do trabalho, a pessoa perde eficácia profissional. Traduzindo para a nossa conversa: o esgotamento não te deixa só mal. Te deixa pior naquilo que você faz.
+Lembra do Eli, o sacerdote do capítulo anterior? Pelo menos ele deu uma bronca nos filhos. Davi nem isso. Ficou irado e calado. E depois, ferido, fechou a porta.
 
-O neurocientista Matthew Walker, professor da Universidade da Califórnia em Berkeley, juntou décadas de pesquisa no livro *Por que nós dormimos*. E a conclusão dele é bem desconfortável para quem se orgulha de dormir pouco. Um cérebro privado de sono reage com mais força ao que é negativo e tem menos capacidade de controlar essa reação. Ou seja, aquele e-mail duro que você escreveu às onze e meia da noite não foi escrito pelo seu melhor eu. Foi escrito por um cérebro mais reativo e menos preciso.
+Eu vejo muito empresário fazendo exatamente isso, e achando que está sendo neutro. A lógica é mais ou menos esta: "se eu não tomo posição, pelo menos não pioro as coisas". Mas em liderança não existe neutralidade. A ausência também é uma decisão.
 
-Muito antes de tudo isso, Sêneca, que foi conselheiro de um império inteiro, já dizia que é preciso dar descanso à mente, porque, descansada, ela se levanta melhor e mais aguda.
+Na empresa, você sabe disso muito bem. Se o dono não define a cultura, a cultura se define sozinha, e quase nunca do jeito que ele gostaria. Se o dono não estabelece as prioridades, cada um escolhe as suas. Se o dono não corrige um comportamento grave, a equipe inteira entende que aquilo está liberado.
 
-O profeta debaixo do arbusto, o filósofo romano e o neurocientista de Berkeley. Três caminhos completamente diferentes, chegando ao mesmo lugar: quem não cuida de si perde justamente a capacidade de conduzir aquilo que construiu.
+A casa funciona do mesmo jeito. Se você não lidera a sua casa, alguém ou alguma coisa vai liderar no seu lugar. As telas, a pressa, o cansaço, as mágoas que ninguém resolveu, a cultura que vem lá de fora. E um dia você acorda numa casa com valores que você nunca escolheu.
 
-* * *
+Agora, deixa eu fazer um alerta antes de seguir, porque eu sei como essa conversa pode ser mal entendida. Quando eu falo em liderar a casa, muita gente escuta "mandar na casa". E é exatamente o contrário.
 
-Eu gosto de pensar no CPF como um tripé. Corpo, mente e espírito. Se uma perna encurta, tudo fica torto. Não adianta você ter a fé firme se o corpo está em colapso. Não adianta ter a mente afiada se a alma está vazia de sentido.
+Na ELEV, a gente repete uma frase que vale para a empresa e vale mais ainda para a família: liderar é ser escada para que os outros cresçam. Em casa, o líder não é o que dá as ordens, é o que dá o exemplo. Não é o que cobra mais, é o que serve primeiro. Não é o que sempre ganha a discussão, é o que tem coragem de pedir desculpas antes. É quem dá direção, porque sabe para onde a família está indo e conversa sobre isso. É quem dá segurança, quem está inteiro onde está, quem tem coragem de colocar limite com amor, coisa que nem Eli nem Davi tiveram. E é quem vive dentro de casa os valores que prega na empresa.
 
-O corpo é a parte mais óbvia, e justamente por isso é a primeira que o empresário ocupado abandona. Sono, comida, movimento, exame em dia. Parece básico demais para um livro sobre identidade, eu sei. Mas o básico mal feito derruba qualquer estratégia sofisticada.
+Isso vale para homem e para mulher. Para quem é casado e para quem cria os filhos sozinho. Para quem tem filho pequeno e para quem cuida dos pais idosos. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você chegou até aqui neste livro, eu imagino que essa pessoa é você, ou que você divide essa função com alguém.
 
-A mente é onde as emoções passam e as decisões se formam. O Augusto Cury abre o livro *Gestão da emoção* com uma frase que eu gostaria que estivesse pendurada em toda sala de reunião do Brasil: "Antes de uma empresa falir, a mente de seus executivos entra em colapso". Lê de novo, devagar. A falência quase nunca começa no caixa. Começa quando o medo passa a escolher no lugar da estratégia. Quando a raiva responde ao cliente no lugar da razão.
-
-E gestão da emoção não é deixar de sentir. Você vai sentir medo antes de uma decisão grande. Vai sentir raiva quando alguém errar pela terceira vez. É humano. A pergunta é outra: o que você sente está te informando ou te comandando? Entre reagir e responder existe um intervalo. Um respiro. Às vezes, uma noite de sono. Muita parceria boa foi destruída por uma mensagem enviada de madrugada que nunca teria saído se a pessoa tivesse esperado até de manhã.
-
-`[AUTOR: inserir história de uma decisão sua tomada no impulso, num momento de cansaço, e o que ela custou.]`
-
-E o espírito é o sentido. É o "para quê". É o que te segura quando os números não seguram. Não é à toa que, na palavra ELEV, a Espiritualidade vem primeiro. Quando a gente desenhou a marca, fizemos questão de que o E fosse a letra mais forte. Porque é ela que sustenta todo o resto.
-
-Quando um empresário me diz que não tem tempo para cuidar dessas três coisas, eu costumo devolver com outra pergunta, meio provocativa: "E tempo para ficar doente, você tem? Para um divórcio? Para uma decisão errada de meio milhão porque estava exausto?".
-
-Cuidar de si não é luxo. É gestão de risco.
+Josué, no fim de uma vida inteira liderando um povo, reuniu todo mundo e disse uma frase que muita família pendura na parede da sala: "Eu e a minha casa serviremos ao Senhor." Mas repara na ordem. Primeiro "eu". Depois "a minha casa". O líder não pede da família o que ele mesmo não vive.
 
 * * *
 
-Tem um princípio antigo que o mundo moderno trata como opcional, e que eu considero um dos mais revolucionários já escritos. O descanso semanal.
+Uma vez, lendo sobre a sabedoria oriental, eu encontrei um texto da tradição de Confúcio, com mais de dois mil anos, chamado *O Grande Saber*. E ali tem uma sequência que eu considero um dos resumos mais precisos de liderança que eu já li.
 
-No relato da criação, o próprio Criador descansa no sétimo dia. Não porque estava cansado, mas para deixar um ritmo: trabalho e pausa, fazer e ser. Mais tarde, esse princípio vira mandamento. E olha que curioso: ele aparece na mesma lista que "não matarás" e "não furtarás". Não foi colocado ali como dica de bem-estar. Foi colocado como fundamento de vida.
+O texto diz mais ou menos assim: os antigos que queriam trazer ordem ao mundo primeiro governavam bem o seu Estado. Para governar bem o Estado, primeiro colocavam ordem na família. Para colocar ordem na família, primeiro cultivavam a si mesmos. E, para cultivar a si mesmos, primeiro endireitavam o coração.
 
-Para quem empreende, esse dia de pausa tem um efeito prático muito forte. Ele obriga a empresa a funcionar sem você por vinte e quatro horas. E isso, meu amigo, minha amiga, é um teste de estrutura. Se o seu CNPJ não sobrevive a um dia sem o seu CPF, você não tem uma empresa. Tem um emprego caro.
+Lê de trás para a frente: coração, eu, família, Estado, mundo.
 
-"Mas eu não tenho tempo, Gustavo."
+Agora traduz para a vida do empresário: o seu CPF, a sua casa, o seu CNPJ, a sociedade.
 
-Eu sei. Eu já disse essa frase muitas vezes. E deixa eu te mostrar o ciclo em que ela prende a gente. Você não tem tempo para cuidar de si porque a empresa depende demais de você. A empresa depende demais de você porque você nunca parou para estruturar. E você nunca parou para estruturar porque está cansado demais para pensar além da urgência do dia.
+Quando eu percebi isso, levei um susto, porque é exatamente o caminho deste livro. A gente começou pelo coração, com identidade, mágoas e orgulho. Agora está na casa. Depois vai para a empresa e, por fim, para o papel dela no mundo. Não fui eu que inventei essa ordem. Ela está aí há milênios, em fontes que nunca conversaram entre si. Paulo, escrevendo ao jovem Timóteo, usou a casa como critério para escolher líderes: se alguém não sabe governar a própria casa, como vai cuidar de algo maior? E Salomão escreveu: "Prepara lá fora a tua obra, deixa tudo pronto no campo, e depois edifica a tua casa." Primeiro prepare o sustento, sim. Mas não confunda o campo com a casa.
 
-Ciclo assim não se quebra com mais esforço. Se quebra com uma decisão.
+E aí entra a ciência, que eu acho que fecha essa conversa de um jeito lindo.
 
-E a decisão é tratar o seu CPF com o mesmo compromisso com que você trata o caixa. Você coloca na agenda a reunião com o banco, certo? Coloque a academia. Você protege a margem da empresa. Proteja a margem de energia do seu dia. Na Escola ELEV, quando a gente trabalha o pilar da Liderança, essa costuma ser uma das descobertas que mais mexem com os alunos. Eles juravam que o problema era falta de tempo. Era falta de energia para decidir diferente.
+Em 1938, a Universidade Harvard começou a acompanhar um grupo de rapazes. Uns eram estudantes da própria universidade. Outros, pouco depois, eram garotos de bairros pobres de Boston. A ideia era descobrir o que faz uma pessoa viver bem e com saúde ao longo da vida. Os pesquisadores foram acompanhando esses homens por décadas: casamento, carreira, doenças, alegrias, perdas. Hoje o estudo segue com os filhos deles. É um dos estudos mais longos já feitos sobre a vida humana.
+
+O atual diretor, o psiquiatra Robert Waldinger, resumiu mais de oito décadas de dados numa frase simples: o que mais nos mantém felizes e saudáveis ao longo da vida são relacionamentos de qualidade. Não foi a fama. Não foi o dinheiro. Não foi o sucesso profissional. E tem um dado que me impressiona: as pessoas mais satisfeitas com os seus relacionamentos aos cinquenta anos eram as mais saudáveis aos oitenta. A qualidade das relações na meia-idade previa melhor a saúde na velhice do que o nível de colesterol.
+
+Outro pesquisador, o psicólogo John Gottman, passou décadas observando casais em laboratório, filmando discussões, medindo reações. Uma das conclusões mais conhecidas dele é que, nos casamentos que duram, as interações positivas superam as negativas numa proporção de mais ou menos cinco para uma, mesmo durante os conflitos. Para cada crítica, cinco gestos de carinho, interesse, humor, reconhecimento. Nos casais que caminhavam para a separação, essa conta não fechava.
+
+Pensa nisso com olhos de dono. Quantas vezes por dia você corrige, cobra, reclama ou interrompe alguém da sua casa? E quantas vezes você elogia, agradece, escuta ou faz um carinho?
+
+A conta precisa fechar. Em casa, como no caixa da empresa.
 
 * * *
 
-Lembra do Roberto, o dos caminhões? Depois do susto, ele começou a fazer uma coisa simples que eu sugiro para você também. Uma vez por mês, ele senta e faz o balanço do próprio CPF, do mesmo jeito que olha o resultado da empresa.
+E, por falar em caixa, deixa eu te fazer uma pergunta meio provocativa. Você deixaria a sua empresa sem reunião, sem visão, sem valores e sem acompanhamento? Claro que não. Então por que deixa a sua casa?
 
-De um lado, o que soma: horas de sono, dias de atividade física, refeição com calma, tempo de verdade com a família, silêncio, oração, leitura, amizade cultivada. Do outro, o que pesa: noite mal dormida, semana sem pausa, irritação desproporcional, consulta adiada, conversa importante evitada.
+Eu não estou propondo transformar a família numa empresa. Pelo amor de Deus, não. Estou propondo levar para dentro de casa a mesma intenção que você já tem no trabalho.
 
-Não precisa de nada sofisticado. Uma folha de papel resolve.
+Na família de muitos empresários que eu acompanho, a mudança começou com uma conversa simples, uma vez por semana, de uns trinta minutos, sem telas. O casal e, quando os filhos têm idade, os filhos também. Três perguntas: o que foi bom nesta semana, o que foi difícil e o que a gente vai fazer junto na próxima. Parece formal demais nas primeiras vezes. Depois de umas semanas, vira o momento mais esperado da casa.
 
-Ele me contou que, na primeira vez que fez isso, levou um susto maior do que com qualquer prejuízo da empresa. "Eu estava no vermelho fazia anos e nem sabia."
+Também ajuda muito a família ter uma visão, do mesmo jeito que a empresa tem. Onde vocês querem estar daqui a cinco anos? Que tipo de família vocês querem ser? O que vocês querem que os filhos lembrem da infância deles? E ter alguns poucos valores com comportamento, porque valor sem comportamento é só frase bonita na parede, em casa também. Se um valor da família é respeito, o que isso significa na prática? Que ninguém grita? Que ninguém fica no celular durante o jantar?
 
-Hoje o Roberto dorme sete horas. Caminha quatro vezes por semana. Janta com a família às terças e quintas, sem celular na mesa. E a empresa? Cresceu. Não porque ele passou a trabalhar mais. Porque passou a decidir melhor.
+Tem ainda uma questão que gera muita briga em casa de empresário: dinheiro. A casa não sabe quanto pode gastar porque tudo depende de como foi o mês da empresa. Eu sempre recomendo definir uma retirada fixa, mesmo que modesta no começo, e fazer a casa viver dela. A estabilidade da sua família não pode subir e descer junto com o faturamento. Mais à frente, quando a gente falar dos números, eu volto nesse assunto.
 
-Quando o CPF evolui, o CNPJ encontra um novo nível. E às vezes a evolução começa num lugar bem pouco glamoroso: no travesseiro.
+E, se você tiver coragem, separe um dia por semana em que a empresa não entra em casa. Nem por mensagem. Os antigos chamavam isso de sábado, e a gente vai conversar mais sobre ele no próximo capítulo. Se a sua empresa não sobrevive a um dia sem você, o problema não está na sua família. Está na estrutura da empresa. E isso tem solução.
+
+[AUTOR: contar uma prática de liderança em casa que você adotou com a sua família e o efeito que ela teve.]
+
+* * *
+
+Eu poderia te dar só razões espirituais e afetivas para você liderar a sua casa, e elas já bastariam. Mas eu prometi que este é um livro para empresários, então deixa eu ser bem prático.
+
+O empresário com a casa em ordem decide melhor. Ele não leva a briga da manhã para a reunião das dez. Não desconta na equipe a tensão que não resolveu com a esposa ou com o marido. Não usa a empresa como esconderijo, então consegue sair do operacional na hora certa. Tem alguém em casa com quem pensar as grandes decisões. E tem um motivo maior do que o próprio ego para crescer.
+
+O Marcelo, aquele do desenho na mesa da cozinha, começou com uma coisa só: a primeira hora em casa sem celular. Depois vieram as conversas de domingo com a esposa e o filho. Uns seis meses depois, ele me disse uma frase que eu nunca esqueci:
+
+— Eu achava que a empresa ia sofrer porque eu ia trabalhar menos. Ela melhorou. Porque eu parei de levar para lá o homem cansado e culpado que eu era.
+
+Quando o CPF evolui, o CNPJ encontra um novo nível. E poucas coisas fazem o CPF evoluir tanto quanto uma casa em ordem.
 
 ### Antes de virar a página
 
-Pega a sua página, aquela onde você vem juntando as respostas desde o começo do livro. Hoje ela ganha um pedaço novo: a sua energia. Separa uns vinte minutos, num lugar quieto, e responde com sinceridade.
+Pega a sua página de novo. Essas perguntas são para responder com calma, de preferência num momento em que a casa esteja em silêncio.
 
-1. De zero a dez, que nota você dá hoje para o seu corpo, para a sua mente e para o seu espírito? Escreve um motivo curto para cada nota.
-2. Qual emoção mais decidiu por você no último mês: medo, raiva, ansiedade ou culpa? Lembra de uma situação concreta.
-3. Se a sua empresa precisasse funcionar vinte e quatro horas sem você, o que aconteceria? O que precisaria estar pronto para isso dar certo?
+1. Hoje, quem ou o que está liderando a sua casa de verdade? Você, o seu cônjuge, as telas, a pressa, o cansaço?
+2. Existe algum assunto na sua família sobre o qual você está calado, como Davi ficou? Ou alguém para quem você fechou a porta?
+3. Em uma frase, que família vocês querem ser daqui a cinco anos? E quais são os três valores da sua casa?
 
-E agora o desafio para os próximos sete dias. Escolhe um horário fixo para dormir e outro para acordar, e cumpre os dois a semana inteira. Agenda aquele check-up que você vem adiando, porque agendar já conta. E, em algum dia da semana, fica quatro horas seguidas sem celular. Repara no que acontece com a empresa. E, principalmente, repara no que acontece com você. No sétimo dia, refaz as notas da primeira pergunta e anota na sua página a mudança que você quer sustentar.
+O desafio desta semana começa com uma conversa. Senta com o seu cônjuge, ou com quem divide a casa com você, fala sobre este capítulo e pergunta: "Como você enxerga a minha liderança aqui dentro?". Depois, marca a primeira conversa de família, com dia e hora, e faz as três perguntas. Durante a semana, experimenta a regra dos cinco para um: antes de qualquer correção, cinco gestos positivos. E, se existe um assunto calado ou uma porta fechada, dá o primeiro passo. Uma ligação, uma mensagem, uma visita. Não espera dois anos, como Davi esperou.
 
-Agora que você começou a cuidar de quem está aí dentro, quero falar de uma coisa que muita gente acha superficial. Mas ela entra em cada sala antes de você abrir a boca.
+Escreve na sua página a visão da família e os três valores da casa. Mais para a frente, eles vão conversar com a visão e os valores da sua empresa.
+
+Só que tem um detalhe que a gente ainda não enfrentou. Para liderar a casa e a empresa, o líder precisa estar de pé. E muito empresário está tentando liderar tudo com o corpo exausto, a mente sobrecarregada e a alma vazia. Está na hora de a gente falar do ativo que não aparece em nenhum balanço.
+
+::: {custom-style="Destaque"}
+"O maior líder de Israel venceu todas as batalhas da vida dele, menos a que começou dentro de casa."
+:::

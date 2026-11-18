@@ -1,177 +1,143 @@
-# Parte II — Liberar perdão
-
-Até aqui, a gente conversou sobre quem você é e sobre as vozes que você trouxe de casa. Agora eu quero falar de um assunto que quase todo livro de negócios pula. Ele não aparece no balanço nem é citado em reunião, mas decide mais do que muita planilha. Estou falando da mágoa. Não para você esquecer o que aconteceu, mas para que o que aconteceu pare de dirigir a sua empresa.
-
 # Capítulo 4
-## O peso que você leva para o escritório
+## O primeiro líder que você conheceu
 
-> "É impossível que não venham escândalos."
-> — Lucas 17:1
+> "E ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais."
+> — Malaquias 4:6
 
-Eu terminei o capítulo anterior falando de um nome e de um rosto. Talvez, enquanto lia, já tenha vindo alguém à sua cabeça. Guarda essa pessoa por um instante, porque antes eu quero te contar a história do Marcos (nome alterado).
+No capítulo anterior, a gente foi atrás das vozes que você herdou. E, se você fez o exercício com sinceridade, talvez tenha percebido uma coisa curiosa: quase todas elas saíram do mesmo endereço. Da mesma casa, da mesma mesa e, quase sempre, da boca de duas pessoas.
 
-O Marcos tinha uma distribuidora com quarenta funcionários e um sócio. Um dia, esse sócio foi embora levando junto a carteira de clientes mais rentável da empresa. Não teve briga nem gritaria. Teve um e-mail, curto, educado, assinado por um advogado.
+Seu pai e sua mãe.
 
-Quando eu conheci o Marcos, isso tinha acontecido fazia seis anos. A empresa já tinha se recuperado. O faturamento estava maior do que no tempo da sociedade, ele tinha comprado uma casa nova, a vida tinha seguido.
+Então hoje eu quero conversar com você sobre eles. Sem pressa, sem julgamento e sem pedir que você tome partido. Quero só que você olhe com calma para o primeiro líder que conheceu na vida. Porque, muito antes de você ter chefe, sócio, cliente ou equipe, alguém já tinha te mostrado o que é autoridade, o que é cuidado, o que é cobrança e o que é ausência.
 
-Pelo menos era o que parecia.
-
-Bastava alguém da equipe sugerir uma parceria para o rosto dele mudar. "Parceria não. Já vi esse filme." Ele não deixava ninguém cuidar do comercial, porque, nas palavras dele, "quem conhece o cliente leva o cliente". A senha do sistema, só ele tinha. Contratou um gerente para crescer, deixou o rapaz dois anos sem autonomia nenhuma, e o gerente pediu demissão. Dois bons representantes saíram pelo mesmo motivo.
-
-Numa das nossas conversas, eu perguntei:
-
-"Marcos, quantas pessoas trabalham hoje na sua empresa?"
-
-"Quarenta e duas."
-
-"Eu contei quarenta e três."
-
-Ele me olhou sem entender nada.
-
-"O seu ex-sócio ainda bate ponto aqui todo dia. Senta na sua cadeira, participa das suas decisões e vota contra toda proposta de crescimento."
-
-Ficou um silêncio comprido na sala. E eu aprendi, com os anos, que esse tipo de silêncio costuma ser o começo da cura.
+E você aprendeu. Aprendeu tão bem que até hoje reproduz.
 
 * * *
 
-Sabe o que me impressiona na frase de Jesus que abre este capítulo? Ele não disse que *talvez* você fosse ser ofendido. Disse que é impossível não ser.
+Existe uma pergunta que eu costumo fazer nos encontros com empresários, quase sempre no meio de uma conversa sobre delegação ou sobre equipe. Ela parece fora de contexto, e é justamente por isso que funciona:
 
-Ou seja, para quem empreende, a ofensa não é uma possibilidade. É uma certeza com data marcada.
+"Quando você era criança, o que acontecia dentro da sua casa quando o seu pai chegava?"
 
-Vai ser o sócio que sai. O funcionário que você formou e que abre um concorrente na esquina. O cliente a quem você deu prazo e que some sem pagar. O fornecedor que falha justo na semana mais importante do ano. Ou aquele parente que, no almoço de domingo, solta um "isso aí não vai dar certo" e volta a comer como se nada tivesse acontecido.
+A sala fica em silêncio. Alguém sorri, lembrando de um abraço na porta. Outro fecha a cara, lembrando do barulho da chave. Um terceiro diz que o pai quase nunca chegava. E sempre tem aquele que responde rápido demais, "era normal", e fica calado o resto da manhã.
 
-A palavra que o Evangelho usa para "escândalo" é *skandalon*, no grego. E ela tem um significado curioso: é a peça da armadilha onde fica a isca. O gatilho. Pensa num animal caindo numa armadilha. Ele não cai porque é fraco. Cai porque foi atraído por uma coisa que parecia boa.
+Quase ninguém percebe de imediato, mas naquele momento cada um está descrevendo o jeito como lidera hoje.
 
-A ofensa funciona do mesmo jeito. A isca dela parece justiça. Parece razão. Às vezes, parece até prudência.
+Quem cresceu com medo da chegada do pai muitas vezes virou um líder que controla tudo, porque controlar foi a forma que encontrou de nunca mais ser pego de surpresa. Quem cresceu ouvindo que nada era suficiente virou o empresário que nunca comemora uma meta, porque assim que bate uma, já está atrás da próxima, tentando provar alguma coisa para alguém que talvez nem esteja mais olhando. Quem teve um pai ausente às vezes repete a ausência sem perceber: está sempre na empresa, sempre ocupado, sempre "fazendo isso pela família". E quem cresceu numa casa sem limite nenhum costuma ter uma dificuldade enorme de dizer não, de corrigir alguém da equipe, de demitir quem precisa sair.
 
-"Eu tenho o direito de estar chateado."
-
-E tem mesmo. Esse é o problema. A armadilha da ofensa não pega só quem está errado. Pega, principalmente, quem tem razão.
-
-O apóstolo Paulo, escrevendo ao jovem Timóteo, fala de pessoas que precisam "voltar a si" e escapar do laço em que foram "feitas cativas". Repara na palavra: cativas. Quem guarda ofensa acha que está se protegendo. Na verdade, está preso. E o carcereiro mais cruel que existe é aquele que trabalha de graça, todos os dias, dentro da sua cabeça.
-
-### Quando a mágoa vira decisão de empresa
-
-Eu sei o que muita gente pensa quando ouve a palavra perdão. Pensa que é assunto de igreja, de terapia, de vida pessoal. Uma coisa bonita, mas que não tem nada a ver com margem, caixa e equipe.
-
-Eu penso exatamente o contrário. Depois de mais de vinte anos acompanhando empresas, posso te dizer com tranquilidade: poucas coisas mexem tanto nas decisões de um dono quanto as feridas que ele não tratou.
-
-A mágoa tem um jeito muito esperto de se disfarçar de gestão.
-
-Ela vira centralização. "Da última vez que eu confiei, me passaram a perna." Aí o dono assina tudo, aprova tudo, confere tudo, e acha que está sendo cuidadoso. Não está. Está sendo governado por uma lembrança.
-
-Ela vira desconfiança da equipe inteira. Um funcionário traiu, então agora todo funcionário é suspeito. Câmera em todo canto, controle de horário, relatório de tudo. E depois o mesmo dono reclama que "ninguém aqui veste a camisa". Mas me diz uma coisa: quem é que veste a camisa de alguém que trata todo mundo como réu?
-
-Ela vira teto de crescimento. Uma sociedade deu errado, então nunca mais vai ter sócio, investidor ou parceiro. E a empresa fica do tamanho do que um homem sozinho consegue carregar nas costas.
-
-E, no fim do dia, ela vai junto para casa. O dono chega para o jantar com a reunião da tarde ainda queimando na garganta. A esposa pergunta como foi o dia, e ele responde com toda a irritação que não teve coragem de mostrar para quem causou.
-
-Percebe? A ofensa não fica quietinha num canto da memória. Ela trabalha. Dá opinião. Decide.
-
-E o pior: decide em seu nome, com a sua assinatura.
+Repara que nenhuma dessas pessoas escolheu ser assim. Elas só aprenderam. E aprenderam no lugar onde a gente aprende as coisas mais profundas da vida: em casa, antes dos sete anos, sem ninguém explicar nada.
 
 * * *
 
-Agora olha que interessante. Isso que a Bíblia chama de cativeiro, a ciência conseguiu medir no corpo.
+O pastor Telmo Martinello, no livro *A Casa de Jetro*, diz que a paternidade imprime três coisas na vida de um filho: direção, limites e proteção. Quando eu li isso, fiquei pensando em como essas três palavras explicam tanto do que eu vejo nas empresas.
 
-Em 2001, uma psicóloga americana chamada Charlotte vanOyen Witvliet, do Hope College, fez um experimento muito simples. Ela pediu para os participantes pensarem em alguém que os tinha magoado. Em alguns momentos, eles deviam remoer a ofensa, alimentar o ressentimento. Em outros, deviam imaginar uma resposta de perdão. Enquanto isso, os pesquisadores mediam o corpo deles.
+A direção é o "você nasceu para isso", o "filho, você consegue". Quem recebeu direção costuma ter facilidade de olhar para o futuro, de planejar e de acreditar que o próximo nível existe. Quem não recebeu muitas vezes vive no improviso, apagando incêndio, sem saber exatamente para onde a empresa está indo, porque nunca teve alguém apontando para onde ele próprio poderia ir.
 
-Quando remoíam a mágoa, o coração acelerava, a pressão subia, os músculos ficavam tensos. Quando imaginavam o perdão, o corpo se acalmava.
+Os limites são o "até aqui pode, daqui não passa", ditos com amor. Quem recebeu limites aprende a dar limites. Quem recebeu limites com dureza e sem amor costuma oscilar entre dois extremos: ou vira um chefe rígido, que governa pelo medo, ou vira um chefe que não consegue cobrar ninguém, porque cobrar lembra uma dor antiga.
 
-Pensa no que isso quer dizer. Você não precisa encontrar a pessoa que te feriu para sofrer de novo. Basta lembrar dela. Cada vez que você revive a cena na cabeça, o seu corpo paga a conta como se ela estivesse acontecendo agora.
+E a proteção é a sensação de que existe alguém maior cuidando de você. Quem cresceu protegido tem coragem de arriscar, porque sabe que, se cair, não vai cair no vazio. Quem cresceu desprotegido costuma ter dificuldade de confiar. Confiar na equipe, no sócio, no cliente e, às vezes, até em Deus.
 
-E um cérebro sob estresse fica mais reativo, mais defensivo e menos estratégico. Ninguém faz um bom plano de cinco anos com o coração preso a uma briga de seis anos atrás.
-
-O curioso é que os filósofos antigos já tinham chegado lá sem nenhum aparelho de medir pressão. Sêneca escreveu um livro inteiro, *Sobre a ira*, para mostrar que a raiva machuca mais quem carrega do que quem provoca. E Marco Aurélio, que governava o maior império do mundo, deixou anotado no seu diário que a melhor forma de se vingar de alguém é não se tornar parecido com ele.
-
-A Bíblia, a filosofia e o laboratório, cada um no seu tempo, chegando ao mesmo lugar: quem não perdoa continua preso a quem o feriu.
-
-### O homem que saiu perdoado e não perdoou
-
-Jesus contou uma história que todo empresário entende na hora, porque ela fala de dívida.
-
-Um rei resolveu acertar as contas com os seus servos. Trouxeram até ele um homem que devia dez mil talentos. Para você ter uma ideia, era uma fortuna impagável, coisa de arrecadação de província inteira. O homem não tinha como pagar nem em mil vidas. Então o rei mandou vender tudo: a casa, os bens, a mulher, os filhos, o próprio homem.
-
-O servo se jogou de joelhos. "Tem paciência comigo, e eu te pago tudo."
-
-Não pagaria nunca. Ele sabia disso. O rei sabia disso. E o rei, movido de compaixão, fez o que nenhum banco faz. Não parcelou, não renegociou, não pediu garantia. Perdoou a dívida inteira. Zerou.
-
-O homem saiu do palácio livre. Leve. Com a vida devolvida.
-
-E, logo na saída, deu de cara com um colega que devia a ele cem denários. Era dinheiro, sim, uns cem dias de trabalho. Mas era uma fração ridícula do que ele tinha acabado de receber de presente.
-
-Ele agarrou o colega pelo pescoço. "Paga o que me deve."
-
-O colega caiu de joelhos e disse exatamente a mesma frase que ele tinha dito minutos antes: "Tem paciência comigo, e eu te pago tudo".
-
-Ele não teve paciência nenhuma. Mandou o colega para a prisão até pagar o último centavo.
-
-Os outros servos viram tudo, ficaram indignados e foram contar ao rei. O rei chamou o homem de volta e fez uma pergunta que atravessa os séculos: "Não devias tu também ter compaixão do teu companheiro, como eu tive de ti?". E quem acabou entregue aos carcereiros foi ele.
-
-Repara na virada. Quem terminou preso foi justamente quem se recusou a perdoar.
-
-Eu conto essa história nas mentorias e sempre faço a mesma pergunta: quem aqui já foi perdoado de alguma dívida? E as mãos vão subindo devagar. Um banco que esperou. Um cliente que deu uma segunda chance. Um fornecedor que segurou o prazo quando o caixa estava no chão. Um cônjuge que aguentou anos de ausência.
-
-Quando a gente esquece o que recebeu, fica implacável com o que os outros devem.
+Direção, limites e proteção. Agora pensa comigo: não são exatamente essas três coisas que a sua equipe espera de você?
 
 * * *
 
-Mas deixa eu tirar um peso das suas costas, porque eu sei o que está passando na sua cabeça agora. Muita gente resiste ao perdão porque tem uma ideia errada sobre ele.
+Isso não é só uma impressão minha. A ciência vem dizendo a mesma coisa há décadas, por caminhos diferentes.
 
-Perdoar não é concordar com o que aconteceu. Você pode perdoar o ex-sócio e continuar dizendo, com toda a clareza, que o que ele fez foi errado.
+Lá nos anos 1950 e 1960, um psiquiatra britânico chamado John Bowlby começou a estudar o vínculo entre crianças e as pessoas que cuidavam delas. Junto com a psicóloga Mary Ainsworth, ele desenvolveu o que ficou conhecido como teoria do apego. Uma das ideias mais bonitas dessa teoria é a da "base segura". A criança que sente que tem um porto seguro, alguém para onde voltar, é justamente a que tem coragem de se afastar, de explorar, de experimentar o mundo. A segurança não prende. Ela liberta para o risco.
 
-Perdoar também não é confiar de novo. Perdão é graça. Confiança se constrói. Você pode perdoar o funcionário que desviou dinheiro e, mesmo assim, nunca mais entregar a ele a chave do caixa. Uma coisa não anula a outra.
+Agora pensa no empresário que não consegue arriscar nada, que precisa ter certeza absoluta antes de qualquer decisão, que trava diante de cada mudança. Muitas vezes, o que falta ali não é coragem nem conhecimento. É base segura.
 
-E perdoar não é abrir mão da justiça. Se tem um contrato descumprido, um valor para cobrar, um processo legítimo, siga em frente. A diferença é que você vai fazer isso de cabeça fria, como uma decisão de gestão, e não como uma vingança com papel timbrado.
+Décadas depois, dois pesquisadores israelenses, Micha Popper e Ofra Mayseless, publicaram em 2003, numa das revistas acadêmicas mais respeitadas sobre liderança, a *The Leadership Quarterly*, um estudo comparando os grandes líderes com os bons pais. A conclusão deles foi que o líder que transforma pessoas faz, com a equipe, muito do que um bom pai faz com um filho. Ele acredita, encoraja, dá direção, corrige com cuidado e ajuda o outro a crescer até não precisar mais dele.
 
-Agora, a parte mais libertadora de todas: perdoar não depende do outro. Você não precisa de um pedido de desculpas. Se você ficar esperando o outro reconhecer o erro, vai entregar a ele, mais uma vez, o controle da sua vida.
+Ou seja: a gente tende a liderar do jeito que foi conduzido. Se ninguém nos mostrou um modelo melhor, a gente repete o que viu em casa, para o bem e para o mal.
 
-Perdão é você dizendo para si mesmo: "A partir de hoje, essa história não vota mais nas minhas decisões".
+E tem um professor do INSEAD, uma das escolas de negócios mais respeitadas da Europa, chamado Manfred Kets de Vries, que passou a vida estudando executivos. Ele defende que boa parte da liderança nasce das experiências da infância. Cada líder carrega o que ele chama de "teatro interior", uma espécie de palco dentro da cabeça onde continuam encenadas as relações com as primeiras figuras de autoridade.
 
-E não pense que isso é só bonito no papel. Um psicólogo americano chamado Everett Worthington passou a carreira inteira estudando o perdão. Até que, na virada do ano de 1995 para 1996, a mãe dele foi assassinada durante um assalto. O homem que ensinava o perdão teve de aplicar tudo o que sabia na dor mais funda que alguém pode sentir.
+Ele conta o caso de um executivo brilhante que funcionava muito bem como segundo homem da empresa. Mas, toda vez que chegava perto do posto mais alto, alguma coisa desandava. Ele se sabotava, travava, tomava decisões estranhas. Quando foram investigar a fundo, apareceu uma frase. O pai dele tinha passado a infância inteira repetindo que ele não tinha o que era preciso para ter sucesso. Aquele homem de terno, com cargo de diretor, ainda estava tentando não contrariar o pai. Ser o número um seria desobedecê-lo.
 
-Do que ele estudou e viveu, nasceu um caminho simples. Primeiro, você olha a ferida de frente, com honestidade, sem se fazer de vítima e sem transformar o outro num monstro. Depois, tenta entender que aquela pessoa também tinha os seus medos, as suas pressões, as suas feridas. Não para justificar, só para enxergar. Aí você se lembra das vezes em que errou e foi perdoado, e oferece o perdão como um presente. Torna isso concreto: escreve, fala em voz alta, conta para alguém de confiança. E, quando a lembrança voltar, porque ela vai voltar, você não começa do zero. Só lembra que já decidiu.
+Quantos empresários você conhece que fazem a empresa crescer até certo ponto e, de repente, sem explicação, param ou quebram? Às vezes o teto da empresa não está no mercado. Está numa frase dita na mesa da cozinha trinta anos atrás.
 
-Não é mágica. É método. E método é uma coisa que a gente, empresário, entende muito bem.
+* * *
 
-### A volta do Marcos
+Eu sei que, para alguns de vocês, essa conversa dói de um jeito diferente. Porque o problema não foi um pai duro. Foi um pai que não estava lá.
 
-Voltemos ao Marcos.
+Segundo os dados da Arpen-Brasil, a associação dos cartórios de registro civil, cerca de 170 mil crianças por ano são registradas no Brasil sem o nome do pai na certidão. É algo em torno de seis em cada cem nascimentos. E isso é só a ausência que aparece no papel. Existe uma outra, muito mais comum, que nenhum cartório registra: a do pai que mora na mesma casa, mas não está presente.
 
-Não teve cena de filme nem abraço de reconciliação. Talvez um dia aconteça. Não é isso que importa.
+Uma revisão de estudos publicada em 2008 na revista científica *Acta Paediatrica*, conduzida pela pesquisadora Anna Sarkadi e sua equipe, analisou duas décadas de pesquisas sobre o envolvimento dos pais na vida dos filhos. Os resultados mostraram que crianças com pais envolvidos apresentam menos problemas de comportamento, no caso dos meninos, menos problemas psicológicos, no caso das meninas, e melhor desenvolvimento cognitivo. Mas o detalhe mais importante é outro: só estar em casa ajudava pouco. O que fazia diferença de verdade era a presença ativa e regular. Conversar, brincar, acompanhar, estar inteiro.
 
-Num dos encontros, eu pedi para ele escrever numa folha tudo o que aquela saída tinha custado. Não só o dinheiro. Tudo. Ele escreveu sobre os clientes perdidos, as noites sem dormir, a vergonha diante da família, a sensação de ter sido feito de bobo.
+E existe ainda um estudo enorme, conduzido nos Estados Unidos no fim dos anos 1990 pelos médicos Vincent Felitti e Robert Anda, com a Kaiser Permanente e o CDC, o órgão de saúde pública americano. Eles acompanharam cerca de dezessete mil adultos e mostraram que as experiências difíceis da infância, como violência, abandono ou um ambiente familiar caótico, deixam marcas que aparecem décadas depois, na saúde, nas emoções e no comportamento. O corpo adulto lembra o que a criança viveu.
 
-Depois eu pedi uma segunda lista: tudo o que aquela mágoa ainda estava custando hoje.
+Eu não estou te contando isso para assustar ninguém. Estou contando para tirar um peso das suas costas. Se você reage de um jeito que nem você entende, talvez não seja fraqueza de caráter. Talvez seja memória.
 
-A segunda lista saiu mais comprida que a primeira.
+* * *
 
-Estava lá o gerente que foi embora. Os dois representantes. A parceria que ele recusou e que um concorrente aceitou. As férias que ele não tirava porque "aqui ninguém é de confiança". E a filha, que reclamava que o pai estava sempre de cara fechada.
+E a mãe?
 
-Ele ficou olhando as duas folhas, uma do lado da outra, e disse uma frase que eu nunca mais esqueci:
+A mãe também deixa a sua marca, e muitas vezes ela é a primeira voz que a gente ouve sobre quem a gente é. Existe um personagem na Bíblia que mostra isso de um jeito quase desconcertante. O nome dele é Jabez.
 
-"Ele me levou uma carteira de clientes. Eu dei pra ele seis anos da minha vida."
+A história ocupa só dois versículos, perdida no meio de uma lista enorme de nomes no primeiro livro de Crônicas. Ali está escrito que a mãe dele lhe deu esse nome porque o deu à luz com dor. Jabez, em hebraico, soa como "dor". Imagina crescer sendo chamado assim. Cada vez que alguém te chamava para jantar, te lembrava do sofrimento que você causou ao nascer.
 
-Naquele dia, o Marcos decidiu perdoar. Repara que eu não disse que ele *sentiu* perdão. Ele *decidiu*. Escreveu uma frase curta no verso da folha e me pediu para ser testemunha.
+Mas o texto diz que Jabez foi mais ilustre do que os seus irmãos. E conta o porquê: ele clamou a Deus. Pediu para ser abençoado, para ter o seu território ampliado, para ser guardado do mal e para não causar dor. E Deus atendeu.
 
-Nos meses seguintes, contratou um gerente comercial e, pela primeira vez, deu a ele meta, carteira e autonomia de verdade. Abriu conversa com um parceiro de distribuição em outro estado. E começou a sair da empresa às sete da noite.
+Repara no que aconteceu ali. Jabez não fingiu que o nome não existia. Não brigou com a mãe. Não passou a vida reclamando. Ele levou o próprio nome a Deus e pediu um destino maior do que o rótulo que tinha recebido.
 
-O faturamento cresceu, mas não foi isso que mais me marcou. O que me marcou foi ouvir a filha dele dizer, no encerramento da turma, que tinha "o pai de volta".
+É exatamente isso que eu quero para você. Não é negar a sua história. É parar de deixar que ela tenha a última palavra.
 
-O CNPJ do Marcos não precisava de uma estratégia nova. Precisava de um CPF que tivesse sido liberto.
+`[AUTOR: uma lembrança sua com o seu pai ou com a sua mãe que você percebe, hoje, no seu jeito de liderar.]`
 
-[AUTOR: inserir aqui uma ofensa que você precisou perdoar na vida empresarial e o que mudou nas suas decisões depois disso.]
+* * *
+
+Agora eu quero te levar para a beira de um rio.
+
+É o rio Jordão, e tem muita gente ali. João Batista está dentro da água, batizando quem chega, falando com aquela voz que fazia as multidões pararem. E, no meio da fila, aparece um homem de uns trinta anos, vindo de Nazaré. Ninguém ali sabe exatamente quem ele é. Ele ainda não curou nenhum doente. Não multiplicou nenhum pão. Não fez nenhum sermão famoso. Não tem nenhum resultado para mostrar.
+
+Jesus entra na água, é batizado e, quando sai, o céu se abre. E uma voz diz: "Este é o meu Filho amado, em quem me comprazo".
+
+Lê de novo, devagar, prestando atenção na ordem das coisas.
+
+Antes do primeiro milagre, veio a declaração de amor. Antes de qualquer performance, veio a identidade. Antes do ministério, veio a aprovação do Pai. Jesus não trabalhou para ouvir aquela frase. Ele trabalhou a partir dela.
+
+E aqui eu preciso ser muito honesto com você. Muitos dos empresários que eu acompanho vivem exatamente na ordem inversa. Eles trabalham, faturam, crescem, abrem filial, ganham prêmio, tudo isso tentando, no fundo, ouvir a frase que nunca ouviram. "Este é o meu filho amado." "Tenho orgulho de você." "Você conseguiu." A empresa vira um palco onde eles se apresentam para uma plateia de uma pessoa só, que muitas vezes nem está sentada lá.
+
+Isso cansa a alma e cansa a empresa. Um dono que precisa do resultado para se sentir amado não descansa, não delega, não erra em paz e não celebra ninguém. Ele está sempre devendo.
+
+* * *
+
+Franz Kafka, um dos maiores escritores do século passado, escreveu em 1919 uma carta enorme para o pai. Ela começa mais ou menos assim: "Querido pai, você me perguntou recentemente por que eu digo que tenho medo de você". E segue por dezenas de páginas, tentando explicar como aquele homem forte, bem-sucedido e dominador tinha marcado cada parte da sua vida. Kafka entregou a carta à mãe, para que ela a passasse ao pai. Ela nunca chegou ao destinatário.
+
+Às vezes eu penso que muitos empresários carregam uma carta assim dentro do peito. Uma carta que nunca foi escrita, que nunca foi entregue e que continua sendo respondida todos os dias, em cada reunião, em cada decisão, em cada noite em que eles ficam até tarde no escritório.
+
+Eu não estou te pedindo para culpar o seu pai ou a sua mãe. A Bíblia diz para honrar pai e mãe, e honrar inclui olhar para eles com humanidade, entendendo que eles também receberam o que receberam. A maioria deu o melhor que tinha. Alguns não tinham quase nada para dar. Entender de onde as coisas vieram não é acusar ninguém. É o primeiro passo para curar. E é sobre essa cura que a gente vai conversar daqui a pouco, quando falarmos de perdão.
+
+Por enquanto, o que eu quero é que você enxergue. Porque ninguém muda aquilo que não consegue ver.
+
+* * *
+
+E tem mais uma coisa, talvez a mais importante de todas.
+
+Se você tem filhos, neste exato momento você também é o primeiro líder que alguém está conhecendo. Eles estão vendo como você chega em casa, como você fala da empresa, como você trata quem erra, se você está presente ou só fisicamente ali. O Augusto Cury escreveu que pais brilhantes não são os que dão tudo, mas os que dão aquilo que o dinheiro não compra. O Içami Tiba repetia que quem ama educa, e educar inclui dizer não. Os dois estavam falando, de jeitos diferentes, das mesmas três coisas: direção, limites e proteção.
+
+A boa notícia é que o ciclo pode parar em você. O que você não recebeu, você pode aprender a dar. Às vezes por meio de um mentor que te adota como filho na fé, como mostra o Fabiano Ribeiro quando fala de paternidade espiritual. Às vezes por meio de um ambiente que te diz, pela primeira vez, "você consegue". E sempre por meio daquele Pai que falou no rio antes de qualquer resultado.
+
+O profeta Malaquias terminou o Antigo Testamento com uma promessa: o coração dos pais se voltaria para os filhos, e o coração dos filhos para os pais. Repara que a última palavra antes de quatrocentos anos de silêncio foi sobre família. Não foi sobre templo nem sobre reino. Foi sobre pai e filho.
+
+Acho que isso diz muito sobre a ordem das coisas.
 
 ### Antes de virar a página
 
-Eu sei que dá vontade de seguir lendo. Mas faz isso por você: separa uns trinta minutos sem celular, pega aquela sua página, a que você começou no primeiro capítulo, e responde três perguntas com calma.
+Pega a sua página. Este talvez seja um dos exercícios mais delicados do livro, então faz num momento calmo, sem pressa e sem ninguém por perto.
 
-1. Quem são as pessoas, ligadas ao seu trabalho, de quem você ainda não consegue falar sem sentir o estômago apertar?
-2. Escolha uma delas. O que essa mágoa ainda está custando hoje, nas suas decisões, na sua equipe e na sua casa?
-3. Qual regra da sua empresa nasceu de uma ferida, e não de uma estratégia?
+1. Quando você era criança, o que você sentia quando o seu pai chegava em casa? E a sua mãe? Escreve a primeira lembrança que vier, sem editar.
+2. Das três coisas que a paternidade imprime, direção, limites e proteção, qual você recebeu de sobra, qual recebeu torta e qual faltou? Agora olha para a sua empresa: onde essa falta aparece no seu jeito de liderar?
+3. Qual é a frase que você precisava ter ouvido e nunca ouviu? Escreve inteira, do jeito que gostaria de ter escutado.
 
-Depois, escreve a sua frase de decisão, do jeito do Marcos: "Eu decido perdoar ______ por ______. Essa história não decide mais por mim." Se quiser, conta para alguém de confiança.
+Na sua página, faz duas linhas novas: "O que eu recebi" e "O que eu escolho passar adiante".
 
-E aqui vai o desafio para os próximos sete dias: toda vez que a lembrança voltar, não discuta com ela. Só diga, por dentro, "já decidi", e faça uma marquinha no papel. No fim da semana, repara no que mudou no seu humor, no seu sono e no jeito como você decide.
+O desafio para os próximos sete dias tem duas partes. Na primeira, presta atenção nas suas reações no trabalho. Toda vez que perceber que reagiu do jeito do seu pai ou da sua mãe, para o bem ou para o mal, anota o momento. No fim da semana, você vai ter um retrato bem fiel do seu teatro interior. Na segunda, se você tem filhos, diz para eles a frase da pergunta 3. Mas diz num dia comum, sem motivo, antes de qualquer boa nota, de qualquer conquista ou de qualquer bom comportamento. Do jeito que o Pai falou no rio.
 
-Ah, e uma última coisa. Talvez, enquanto você respondia, tenha aparecido um nome que não tem nada a ver com sócio, cliente ou funcionário. Um nome mais antigo. Alguém que estava na sua vida muito antes do primeiro CNPJ, numa casa, numa mesa de jantar. Se apareceu, não fuja. É exatamente sobre isso que a gente vai conversar agora.
+Enxergar de onde as coisas vieram já é muito. Mas nem toda ferida nasce dentro de casa. Algumas chegam muitos anos depois, de quem a gente mesmo escolheu ter por perto. Às vezes por um e-mail curto e educado, assinado por um advogado, avisando que um sócio foi embora e levou junto o melhor da sua empresa.
+
+É dessas feridas que a gente vai falar agora.
+
+::: {custom-style="Destaque"}
+"Antes do primeiro milagre, o Filho ouviu que era amado. Muito empresário ainda trabalha para ouvir a frase que nunca escutou."
+:::

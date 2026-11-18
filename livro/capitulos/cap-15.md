@@ -1,137 +1,141 @@
 # Capítulo 15
-## Os números contam quem você é
+## Sua empresa é o seu reflexo
 
-> "Procura conhecer o estado das tuas ovelhas; põe o teu coração sobre os teus rebanhos."
-> — Provérbios 27:23
+> "Pelos seus frutos os conhecereis."
+> — Mateus 7:16
 
-Eu te prometi no fim do capítulo passado que a gente ia abrir o caixa. Então vamos começar com a pergunta que eu faço em quase toda turma, e que sempre provoca o mesmo efeito:
+No capítulo anterior, a gente terminou com uma provocação: dá para escrever cada processo, criar cada número e delegar cada tarefa, e mesmo assim ver a equipe trabalhando cada um do seu jeito. Eu prometi que ia te mostrar por quê. Então deixa eu te contar uma reunião que eu nunca esqueci.
 
-"Quanto a sua empresa lucrou no mês passado?"
+Era o terceiro encontro com aquele empresário, e ele chegou bufando.
 
-Uns olham para o teto. Outros pegam o celular. E alguns respondem com um número redondo demais para ser verdade.
+"Gustavo, eu não aguento mais. Ninguém aqui cumpre horário. Marco reunião às oito e ela começa oito e vinte. Peço um relatório para sexta e ele chega na terça. Parece que ninguém leva a empresa a sério."
 
-Um empresário, certa vez, respondeu cheio de convicção: "Uns trinta mil, mais ou menos."
+Ele tinha uma distribuidora de porte médio, uns quarenta colaboradores e, na recepção, uma placa enorme e bonita com os valores da empresa: Compromisso. Excelência. Respeito.
 
-Pedi que ele trouxesse os números no encontro seguinte. Ele trouxe. Faturamento, custos, folha, impostos, fornecedores. Fomos somando juntos, linha por linha. No final, não tinha trinta mil. Tinha oito. E isso antes de descontar as contas pessoais que ele pagava pela empresa: a escola dos filhos, o plano de saúde da família, a gasolina do carro do fim de semana, o cartão de crédito que ele "acertava depois".
+Eu perguntei, com calma: "A que horas você chegou hoje?"
 
-Descontado tudo isso, a empresa dava prejuízo.
+Ele deu uma risadinha sem graça. "Ah, hoje eu me atrasei um pouco. O trânsito..."
 
-Ele ficou um tempo em silêncio, olhando para a folha. Depois falou uma frase que eu nunca mais esqueci:
+"E ontem?"
 
-"Eu achava que tinha uma empresa lucrativa. Na verdade, eu tinha uma empresa que sustentava a minha desorganização."
+Silêncio.
 
-Ele não era incompetente. Trabalhava doze horas por dia, conhecia o produto como ninguém, tinha cliente fiel. O problema não era técnico. Era de identidade. Ele não sabia onde terminava ele e onde começava a empresa. E os números, que não mentem e não têm nenhuma delicadeza, só mostraram isso.
+"E quando alguém te entrega um relatório atrasado, o que acontece?"
 
-* * *
+"Eu reclamo. Mas acabo aceitando, porque não tenho tempo de ficar cobrando."
 
-Muito antes de existir a ELEV, eu escrevi numa folha de anotações uma frase que até hoje considero uma das mais importantes deste livro: "Seu maior ativo é o seu CPF. Com o CPF sujo e o CNPJ limpo, você não tem crédito."
+Pronto. A resposta estava ali, na mesa, entre nós dois. Não era preguiça da equipe. Não era culpa da geração nova. Não era o mercado. A empresa estava fazendo exatamente o que ele ensinava. Não com a placa da recepção, mas com o jeito dele de viver. A placa dizia "compromisso". O dono dizia, com a vida, "mais ou menos". E a equipe, que não é boba, escutou o dono e ignorou a placa.
 
-Ela vale ao pé da letra. Todo empresário que já foi ao banco pedir crédito sabe que, na pequena e na média empresa, o gerente olha o CPF dos sócios. Se o dono está enrolado, com dívida pessoal descontrolada ou nome sujo, o CNPJ sofre junto. Não adianta a empresa estar organizada se a pessoa que assina por ela não está.
-
-Mas ela vale também num sentido mais fundo. A palavra crédito vem do latim *credere*, que quer dizer acreditar. Ter crédito é ser alguém em quem dá para acreditar. A confiança que o mercado, a equipe, os fornecedores e a sua família depositam na sua empresa depende da confiança que eles podem depositar em você.
-
-E aqui mora um dos gargalos mais silenciosos que eu encontro nas empresas. O dono sabe quanto vende, mas não sabe quanto sobra. As contas pessoais passam pela empresa, e os buracos da empresa são tapados com o dinheiro do dono, sem registro, sem critério e sem fim. E, quase sem ninguém perceber, a estrutura vai crescendo mais rápido do que a margem consegue pagar.
-
-Se você olhar com atenção, vai ver que tudo isso tem uma raiz só. O dono que mistura as contas, quase sempre, é o dono que mistura as identidades. Ele não se vê como alguém que dirige uma empresa. Ele se vê como a própria empresa. Então o dinheiro da empresa é dele, e o dinheiro dele é da empresa.
-
-Lembra da nossa conversa no capítulo 2, sobre a identidade fundida? Ela aparece primeiro no extrato bancário.
+Eu mudei o nome e o segmento dele, mas essa cena se repete em empresas de todos os tamanhos. Talvez na sua também.
 
 * * *
 
-Quero te contar a história do maior gestor financeiro da Antiguidade. E o currículo dele é, no mínimo, surpreendente: ex-escravo, ex-presidiário e caluniado.
+Sabe, se o CPF tem identidade, o CNPJ também tem. E o nome dela é cultura.
 
-José estava esquecido numa prisão do Egito havia anos quando, de repente, o tiram de lá às pressas. Ele faz a barba, troca de roupa e é levado diante do homem mais poderoso do mundo. O faraó estava perturbado. Tinha sonhado com sete vacas gordas sendo devoradas por sete vacas magras, e com sete espigas cheias sendo engolidas por sete espigas murchas. Nenhum sábio do reino conseguia explicar.
+Eu gosto de definir cultura de um jeito bem simples: é como as coisas são feitas quando ninguém está olhando. É o que fica quando todo o resto muda. Troca o gerente, muda o produto, a empresa cresce, atravessa uma crise, e aquele jeito continua lá. Por isso, quando escrevemos o Manual de Cultura da ELEV, colocamos logo no começo que a cultura é a alma da empresa.
 
-José ouve e interpreta. Vão vir sete anos de muita fartura no Egito. Depois, sete anos de uma fome tão pesada que ninguém vai nem lembrar da fartura.
+E agora você vai entender por que este capítulo só aparece aqui, depois de tudo o que a gente conversou sobre identidade, perdão, orgulho e família. A cultura da empresa é a identidade do dono, multiplicada.
 
-Até aqui, ele é só um intérprete de sonhos. Mas repara no que ele fala em seguida, sem ninguém pedir. É isso que o transforma num gestor.
+Se o dono não sabe quem é, a empresa também não sabe. Se ele tolera pequenas mentiras em si mesmo, a empresa vai tolerá-las nos relatórios. Se ele vive com mágoa, o ambiente vai ser de desconfiança. Se ele é orgulhoso, ninguém vai trazer a notícia ruim a tempo. Se ele não tem limite em casa, também não vai ter no escritório.
 
-"Que o faraó escolha um homem sábio e entendido e o coloque sobre o Egito. E que, nos sete anos de fartura, separe a quinta parte de tudo o que a terra produzir."
-
-A quinta parte. Vinte por cento. José não disse "guardem um pouquinho". Ele estabeleceu uma regra, com número, antes de a tentação chegar. E, cá entre nós, a tentação nos anos bons é enorme. Quando o celeiro está cheio, todo mundo quer gastar.
-
-O faraó coloca José no comando. E o texto conta que ele juntou tanto trigo, mas tanto, que pararam de contar, porque não havia mais número que desse conta. Ele construiu armazéns em cada cidade, perto dos campos que os abasteciam. Se fosse hoje, a gente chamaria isso de logística, estoque e distribuição.
-
-Então a fome chega. E não só no Egito, mas em todas as terras ao redor. Quando o povo clama por pão, o Egito tem. E a Bíblia diz que de todas as terras vinham ao Egito para comprar de José. O país que poderia ter sido destruído pela crise virou o celeiro do mundo.
-
-Eu leio essa história e penso em tantos empresários que eu conheço. José não impediu a crise. Ele se preparou para ela. A regra dos vinte por cento foi decidida no começo, e não renegociada a cada colheita. E a disciplina mais difícil foi a dos anos bons, porque economizar na crise é obrigação, mas economizar na fartura é sabedoria.
-
-Sêneca, o filósofo romano, escreveu a um amigo que nenhum vento é favorável para quem não sabe a que porto se dirige. José sabia exatamente para onde estava indo. Por isso cada colheita tinha destino.
-
-E tem um detalhe que me emociona. Lembra quem era José antes disso? Um homem traído pelos próprios irmãos, vendido como escravo, acusado injustamente e esquecido na cadeia. Ele tinha todos os motivos para chegar diante do faraó amargurado. Chegou com clareza. Aquilo que a gente conversou na Parte II sobre o perdão não é só assunto do coração. É também o que deixa a mente livre para enxergar com precisão.
+Não dá para escrever a cultura da empresa sem antes ter olhado para a sua.
 
 * * *
 
-Na pandemia, eu vivi a minha temporada de vacas magras. Eu já te contei isso lá no começo do livro. Tinha conhecimento, tinha experiência, trabalhava muito, e mesmo assim a empresa estava no prejuízo. O que virou o jogo não foi trabalhar mais. Foi olhar com coragem para o fluxo, para a margem, para quanto a empresa dependia de mim e para o jeito como vendíamos. O que era prejuízo virou lucro.
+Quero te levar a Jerusalém, uns dois mil e quinhentos anos atrás.
 
-Mas a lição mais incômoda veio depois, quando a poeira baixou. Eu poderia ter feito tudo aquilo dois anos antes. Só não fiz porque estava ocupado demais trabalhando.
+A cidade estava em ruínas. Os muros tinham sido derrubados, as portas queimadas, e o povo que voltou do exílio vivia exposto, humilhado, sem proteção nenhuma. E isso não era recente. Fazia décadas que estava assim. Todo mundo reclamava. Ninguém reconstruía.
 
-[AUTOR: contar a primeira vez que você abriu os números reais da empresa na pandemia e o que sentiu ao ver o tamanho do vazamento.]
+Até que chegou um homem chamado Neemias.
 
-Deixa eu te mostrar uma conta que eu faço em sala e que costuma gerar um silêncio pesado.
+A gente vai conversar mais sobre ele lá na frente, quando falarmos de visão. Mas agora eu quero que você repare numa coisa específica: o jeito como ele organizou a obra.
 
-Imagina uma empresa que fatura cento e cinquenta mil reais por mês, com margem líquida de oito por cento. Sobram doze mil por mês.
+Neemias não contratou uma construtora. Ele dividiu o muro em trechos e entregou cada trecho a um grupo. Os ourives ficaram com um pedaço, os perfumistas com outro, os sacerdotes com outro. E tem um detalhe que se repete várias vezes no capítulo 3 do livro dele, quase como um refrão: muitos reconstruíram "em frente à sua própria casa".
 
-Agora imagina que essa empresa, sem vender um real a mais, sem contratar ninguém, sem abrir filial, só arrumando a casa, ganhe quatro pontos de margem. Ela fecha os vazamentos, renegocia com fornecedores, corta o custo fixo que não gera resultado, cobra melhor quem está devendo e para de pagar as contas pessoais do dono. A margem vai de oito para doze por cento. O lucro vai de doze para dezoito mil por mês. São cinquenta por cento a mais. Setenta e dois mil reais a mais por ano.
+Percebe a genialidade disso? Cada família cuidava do pedaço de muro que protegia os próprios filhos. A responsabilidade tinha nome, endereço e sentido. Ninguém conseguia se esconder no coletivo, e ninguém precisava ser convencido de que aquilo importava.
 
-Sem vender mais. Só organizando.
+Aí veio a oposição. Dois líderes da região, Sambalate e Tobias, começaram a zombar: "O que esses judeus fracos pensam que estão fazendo? Se uma raposa subir nesse muro, ele desaba." Depois da zombaria vieram as ameaças de ataque. O povo cansou. O entulho era muito. O medo cresceu. Até gente da própria cidade começou a dizer que não ia dar.
 
-E aí eu faço a pergunta que eu faço aos alunos: quantos anos você já deixou na mesa?
+Um líder fraco teria parado a obra. Neemias fez outra coisa. Ele reuniu o povo, colocou as famílias lado a lado e disse: "Não tenham medo. Lembrem-se do Senhor e lutem pelos seus irmãos, pelos seus filhos, pelas suas filhas, pelas suas mulheres e pelas suas casas."
 
-A maioria dos empresários acha que o problema é faturamento. "Se eu vendesse mais, tudo se resolvia." Mas vender mais com uma estrutura que vaza é encher balde furado com mais força. Você trabalha mais, cansa mais e, no fim do mês, sobra o mesmo. Às vezes sobra menos. Se você já sentiu que está vendendo mais e sobrando menos, o seu problema não é comercial. É estrutural.
+A partir daí, metade trabalhava e metade vigiava. Quem carregava material fazia isso com uma mão e segurava a arma com a outra. E tem uma frase dele que eu já li dezenas de vezes e que sempre me pega. Ele conta que nem ele, nem os irmãos, nem os homens da guarda tiravam a roupa nem para dormir. Ficavam prontos, como os vigias.
 
-* * *
+Sabe quanto tempo levou para terminar o muro que estava no chão havia décadas? Cinquenta e dois dias.
 
-Você não precisa virar contador. Mas tem alguns números que um dono precisa saber de cor, do mesmo jeito que sabe o aniversário dos filhos. Na Escola, a gente dedica dois encontros inteiros a isso, e o objetivo é um só: o empresário sair com os números na mão e os vazamentos fechados.
+Se você olhar com calma, vai ver que a cultura de Neemias tinha um propósito que tocava o coração das pessoas, porque não era "levantar um muro", era proteger a própria família. Tinha responsabilidade com nome, porque cada trecho tinha dono. E tinha um líder que vivia o padrão antes de exigir, porque Neemias não pediu vigilância que ele mesmo não praticasse.
 
-O primeiro é saber quanto sobra de cada venda depois de pagar o que vai embora junto com ela: o produto, o imposto, a comissão, a taxa do cartão. É isso que cada venda realmente traz para pagar a estrutura.
-
-O segundo é o seu custo fixo, tudo aquilo que você paga mesmo que não venda nada: aluguel, folha, sistemas, o seu pró-labore. Ele precisa caber no que a empresa gera, e não no que você gostaria que ela gerasse.
-
-Com esses dois, você descobre o terceiro, que é o faturamento mínimo para não ter prejuízo. Vou te dar um exemplo para ficar fácil. Se o seu custo fixo é de quarenta e cinco mil e de cada venda sobram trinta por cento, você precisa faturar cento e cinquenta mil só para empatar. Tudo antes disso é prejuízo. Tem empresário que descobre, assustado, que passa mais da metade do mês trabalhando só para pagar a estrutura.
-
-O quarto é a sua reserva de José: se a receita parasse hoje, por quantos meses a empresa conseguiria pagar as contas fixas? Empresa sem reserva não atravessa crise. Ela só torce.
-
-E o quinto é o que sobra no final de verdade, depois de tudo, inclusive depois de pagar a você um pró-labore justo. Porque, se você só tem lucro porque não se paga, você não tem lucro. Tem um subsídio pessoal disfarçado.
-
-Se você não sabe esses números, está dirigindo de noite com o farol apagado. Por mais habilidoso que seja, é só questão de tempo até a próxima curva.
+O empresário da distribuidora tinha uma placa. Neemias tinha um exemplo.
 
 * * *
 
-A primeira decisão financeira de um CPF maduro é simples de falar e difícil de fazer: separar.
+Quase toda empresa tem valores escritos. Pouquíssimas têm valores vividos. E a diferença está num passo que quase todo mundo pula: transformar o valor em comportamento que dá para ver.
 
-A conta da empresa é da empresa. A conta pessoal é pessoal. Você recebe um pró-labore definido, como qualquer outra função, e retira lucro só quando ele existe, de forma planejada. Nenhuma despesa pessoal passa pela empresa "só desta vez".
+Pensa comigo. "Excelência" não quer dizer nada até você dizer o que é excelência na sua empresa. É responder o cliente em até duas horas? É conferir o pedido duas vezes antes de despachar? É não mandar nada com erro de português? E "respeito"? Palavra linda. Mas o que, exatamente, é desrespeito aí dentro? Chegar atrasado na reunião? Falar mal do colega pelas costas? Levantar a voz?
 
-Parece burocracia, mas é cura de identidade. E, como toda cura, costuma doer nos primeiros meses, porque revela quanto a empresa estava pagando por você sem ninguém anotar. Só que, quando você separa as contas, separa também os papéis. Você deixa de ser a empresa e passa a ser o líder dela. E, curiosamente, começa a respeitar mais o próprio dinheiro, porque ele finalmente tem limite e destino.
+Na Escola ELEV, a gente faz um exercício que os alunos chamam, meio brincando, de "a hora da verdade". Para cada valor da empresa, o empresário tem que escrever quatro coisas: o valor, o comportamento que se espera de quem vive esse valor, o comportamento que não se tolera de jeito nenhum e um jeito prático de perceber se isso está acontecendo. Por exemplo, se o valor é verdade, o esperado pode ser contar o problema assim que ele aparece, o inaceitável pode ser esconder erro ou maquiar número, e um bom sinal é quantos problemas chegam até você antes de virar crise.
 
-Jesus contou uma história sobre isso. Ele perguntou: quem de vocês, querendo construir uma torre, não se senta primeiro para calcular o custo e ver se tem o suficiente para terminar? Senão, todo mundo vai rir e dizer: esse homem começou a construir e não conseguiu acabar.
+E sabe qual é a coluna em que todo mundo trava? A do que não se tolera. Toda empresa sabe dizer o que quer. Poucas têm coragem de escrever o que não aceita.
 
-Quantos empresários começam torres que não conseguem terminar? Abrem filial sem caixa, contratam sem margem, compram estoque sem saber se vai girar. Não por falta de inteligência, mas por falta de conta. E, por trás da falta de conta, quase sempre tem uma emoção: a pressa, o orgulho, o medo de parecer pequeno.
+Eu vou te dizer uma frase que costuma deixar a sala em silêncio: a cultura da sua empresa não é definida pelo que você diz que valoriza. É definida pelo pior comportamento que você tolera.
+
+Quando o dono da distribuidora aceitava o relatório atrasado "porque não tinha tempo de cobrar", ele estava ensinando, com uma clareza absoluta, que atrasar era permitido. Tolerar também é ensinar. Talvez seja a forma mais eficiente de ensino que existe.
+
+Lá atrás, Aristóteles já dizia que a gente não se torna justo falando sobre justiça, mas praticando atos justos. A virtude nasce do hábito repetido. E, no século vinte, Edgar Schein, professor do MIT e um dos maiores estudiosos de cultura organizacional do mundo, chegou à mesma conclusão por outro caminho. Depois de anos observando empresas, ele mostrou que a cultura não se forma pelo que está escrito na parede, mas por aquilo a que o líder presta atenção, pelo que ele mede, pelo que ele cobra e por como ele reage quando a coisa aperta. Jesus resumiu tudo isso numa frase só, que está lá no alto deste capítulo: pelos frutos vocês vão conhecer a árvore. Você não muda o fruto pintando a casca. Muda cuidando da raiz.
 
 * * *
 
-E aqui eu quero te levar de volta à nossa conversa do capítulo 3, sobre as vozes que a gente herda. Em nenhum lugar elas falam tão alto quanto na relação com o dinheiro.
+Deixa eu abrir para você um pedaço da nossa casa.
 
-Quem ouviu na infância que "dinheiro é sujo" sente culpa ao cobrar o preço justo, dá desconto antes de o cliente pedir e não se paga. Quem aprendeu que "rico é quem gasta" vive de aparência e compromete o caixa com um padrão de vida que a empresa não aguenta. Quem cresceu com medo de faltar guarda, mas não investe, e a empresa fica parada por falta de coragem.
+Quando escrevemos os valores do Grupo ELEV, não foi numa sala com post-its coloridos. Cada um deles nasceu de uma ferida, de um aprendizado ou de uma convicção. A verdade virou valor, aquele "sim é sim, não é não", porque eu já tinha visto quanto a mentira custa caro. A humildade virou valor porque eu já tinha visto o orgulho cegar gente boa, inclusive eu. E colocamos entre as atitudes inadmissíveis coisas como a soberba disfarçada de conhecimento e o imediatismo que atropela processos, porque sabemos o estrago que elas fazem.
 
-Essa intuição antiga ganhou nome na psicologia. O psicólogo americano Brad Klontz e seus colegas estudaram o que chamaram de roteiros de dinheiro: crenças sobre dinheiro que a gente aprende cedo, quase sempre em casa, e que depois passam a guiar o que a gente faz com ele, sem pedir licença. Gastar demais, não conseguir guardar, fugir de olhar o extrato. Muitas vezes não é falta de informação. É o roteiro antigo falando.
+Eu não te conto isso para você copiar. Cultura não se copia, nem do concorrente, nem do mentor. Conto para você mudar a pergunta. Em vez de "quais valores a minha empresa deveria ter?", pergunte: "quais valores eu já vivo a ponto de poder exigir dos outros?"
 
-Por isso nenhum curso de finanças resolve sozinho o problema de quem não resolveu a própria relação com o dinheiro. A pessoa aprende a planilha e continua repetindo o padrão. Os números da sua empresa não mostram só a sua gestão. Mostram as suas crenças.
+Só lidere com um valor que você esteja disposto a praticar primeiro. Como Neemias, que dormia vestido.
 
-Salomão escreveu, há três mil anos, aquela frase que está no começo do capítulo: procure conhecer o estado das suas ovelhas e ponha o coração nos seus rebanhos. Repara que ele não fala só em conhecer. Fala em pôr o coração. Organizar os números é, no fundo, organizar a alma. É olhar para o extrato com coragem, sem a mentira confortável do "mais ou menos".
+* * *
+
+Tem mais uma coisa que eu aprendi sobre cultura: ela não se constrói só com o que se escreve. Constrói-se, principalmente, com o que se reforça.
+
+Lá na ELEV, a gente tem uma regra simples: elogio é em público, correção é em particular. E não fomos nós que inventamos. Jesus ensinou que, se alguém errar com você, o primeiro passo é ir conversar a sós com a pessoa. Expor alguém na frente de todo mundo humilha e cria medo. Corrigir em particular preserva a dignidade e gera mudança. Com o elogio é o contrário: quando você reconhece na frente de todos um comportamento alinhado aos valores, ensina a empresa inteira, de uma vez, o que é valorizado ali. É uma aula de cultura de graça.
+
+Por isso a gente criou pequenos rituais. Um momento mensal para celebrar quem mais viveu os valores. Mensagens de apoio entre os colaboradores. Um jantar no fim do ano para comemorar as metas que foram de todos. Ritual parece detalhe. Não é. Ritual é cultura repetida até virar identidade.
+
+E, se a cultura é a identidade da empresa, cada contratação é uma decisão de identidade.
+
+O erro mais comum que eu vejo é contratar pelo currículo e demitir pelo comportamento. O empresário se encanta com a experiência, contrata, e seis meses depois descobre que a pessoa mente, fofoca ou trata mal os colegas. E aí demite, com custo financeiro e emocional para todo mundo. Lembra do conselho de Jetro? Gente capaz e de caráter. As duas coisas juntas, nunca só uma delas.
+
+O mesmo vale para promover. Se você promove alguém que bate a meta mas atropela a cultura, está dizendo para a empresa inteira que os valores são negociáveis. E valor negociável não é valor. É preço.
+
+Eu sei que um dos momentos mais difíceis da liderança é desligar alguém que vende muito, mas destrói o ambiente. Quase todo empresário adia. E quase todo empresário, quando finalmente decide, me diz a mesma frase: "Eu devia ter feito isso muito antes."
+
+[AUTOR: contar uma decisão difícil de desligamento ou de contratação por cultura e o que ela te ensinou sobre o líder que você queria ser.]
+
+E o dono da distribuidora, você deve estar se perguntando, o que aconteceu com ele?
+
+Ele não trocou a placa. Trocou o despertador. Na semana seguinte àquela conversa, chegou às sete e quarenta e cinco e abriu a reunião das oito em ponto, com quem estava na sala. Não deu bronca em ninguém. Só começou. Na segunda semana, fez a mesma coisa. Na terceira, quando um gerente entregou um relatório atrasado, ele chamou a pessoa na sala dele, a sós, e disse com calma: "A partir de hoje, quando o prazo não der, você me avisa antes. Atrasar sem avisar aqui não existe mais."
+
+Sabe o que ele me contou dois meses depois? Que a equipe não tinha mudado porque ele cobrou mais. Tinha mudado porque, pela primeira vez, a placa da recepção e o dono estavam dizendo a mesma coisa.
+
+Foi aí que ele entendeu, e eu espero que você entenda também: as pessoas não seguem o que você escreve. Seguem o que você é.
+
+No fim das contas, o líder não é o dono da cultura. É o primeiro guardião dela. Vive antes de cobrar, protege quando ela é atacada, corrige quando ela desvia e celebra quando ela floresce. Processos organizam, pessoas multiplicam, mas princípios sustentam tudo.
 
 ### Antes de virar a página
 
-Esse exercício é o mais desconfortável do livro, e talvez o que mais te devolva dinheiro. Pega o papel.
+Agora eu quero que você faça um exercício que exige coragem. Pega o papel.
 
-Sem consultar nada, escreve quanto você acha que a sua empresa lucrou no mês passado. Escreve o número e guarda.
+Escreve os três comportamentos da sua equipe que mais te incomodam hoje. Escreve sem medo, pode desabafar. Agora, do lado de cada um, responde a pergunta que eu fiz ao dono da distribuidora: em que medida eu pratico ou tolero isso?
 
-Agora, com calma, durante a semana, responde:
+Depois, responde:
 
-1. Quanto a empresa realmente lucrou, depois de tirar todas as despesas pessoais que passaram por ela? Qual é a diferença entre o número que você achava e o número real?
-2. Quanto sobra de cada venda, quanto é o seu custo fixo, quanto você precisa faturar para empatar e por quantos meses o caixa aguenta sem receita?
-3. Complete a frase: "Na minha casa, eu aprendi que dinheiro é ______." Onde essa frase aparece hoje nas suas decisões de preço, de pró-labore e de reserva?
+1. Quais são os três valores que eu já vivo a ponto de poder exigir dos outros?
+2. Para cada um deles, o que eu espero ver no dia a dia, e o que eu não vou tolerar de jeito nenhum?
+3. Qual é a tolerância que eu vou encerrar esta semana?
 
-O desafio dos próximos sete dias é dar o primeiro passo de José. Se você ainda não tem, abre contas separadas e define o seu pró-labore. Faz a lista de todas as despesas pessoais que passam pela empresa e escolhe a data em que elas vão parar de passar. E decide a sua regra: qual percentual do lucro vai para a reserva, todo mês, sem negociação. Na sua página, anota os seus números e a sua regra de José.
+O desafio dos próximos sete dias tem duas partes. A primeira é fazer um elogio público, com nome e com o motivo, para alguém que viveu um desses valores. A segunda é ter aquela conversa particular que você vem adiando, com respeito e com clareza. Na sua página, anota os três valores que você vive e que a sua empresa vai viver.
 
-Agora a sua empresa tem um dono que sabe quem é, uma cultura com rosto e números que contam a verdade. Ela já sabe como funcionar. Mas ainda falta a pergunta que separa as empresas que só sobrevivem daquelas que deixam marca: para onde ela está indo? Na próxima e última parte da nossa conversa, eu quero te levar até um lugar alto, de onde dá para ver o horizonte. Vamos falar de visão.
+Agora você já sabe quem é, como a sua empresa deve se comportar e quem deve fazer o quê. Mas existe um lugar onde a identidade do dono aparece sem disfarce, sem placa e sem discurso. Um lugar onde não dá para fingir. No próximo capítulo, a gente vai abrir o caixa. E você vai ver que os números da sua empresa contam, com uma precisão quase constrangedora, quem você é.
+
+::: {custom-style="Destaque"}
+"Se a cultura é a identidade da empresa, cada contratação é uma decisão de identidade."
+:::
