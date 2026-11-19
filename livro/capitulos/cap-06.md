@@ -96,7 +96,7 @@ Agora, cuidado com o outro extremo. Quando se fala em liderar a casa, muita gent
 
 Liderar a casa é dar o exemplo, servir primeiro e ter a coragem de pedir desculpas antes. É saber para onde a família está indo e conversar sobre isso. É estar inteiro onde você está. E é colocar limite com amor, aquilo que Eli não teve coragem de fazer.
 
-Isso vale para homem e para mulher, para quem é casado e para quem cria os filhos sozinho, para quem tem filho pequeno e para quem cuida dos pais idosos. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você chegou até aqui, é bem provável que essa pessoa seja você, ou que você divida essa função com alguém.
+Isso vale para homem e para mulher, para quem é casado e para quem cria os filhos sozinho. Toda casa precisa de alguém que assuma a responsabilidade de liderá-la. Se você chegou até aqui, é bem provável que essa pessoa seja você, ou que você divida essa função com alguém.
 
 E saiba que não existe neutralidade nisso. Muito empresário acredita que, se não toma posição em casa, pelo menos não piora nada. Mas a ausência também é uma decisão. Na empresa você sabe disso muito bem: se o dono não define a cultura, ela se define sozinha, e quase nunca do jeito que ele gostaria. A casa funciona da mesma forma. Se você não lidera a sua casa, alguma outra coisa vai liderar no seu lugar: as telas, a pressa, o cansaço, as mágoas que ninguém resolveu. E um dia você acorda numa casa com valores que nunca escolheu.
 

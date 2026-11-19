@@ -8,11 +8,11 @@ Abra o seu celular e procure a última conversa que você teve com outro empres�
 
 Sobre o que vocês falaram? Sobre o que aprenderam, o que estão tentando, o que deu errado e por quê? Ou sobre o governo, o imposto e o funcionário que não quer nada com nada?
 
-Guarde a resposta. Ela diz mais sobre o seu próximo ano do que qualquer planejamento.
+Guarde essa resposta com carinho, porque ela diz mais sobre o seu próximo ano do que qualquer planejamento.
 
-No capítulo anterior, a gente cuidou do motor: do corpo cansado, da cabeça sobrecarregada, da alma que estava só funcionando. Mas tem uma coisa que nenhum hábito resolve sozinho. Você pode dormir bem, treinar, rezar, ler. Se o ambiente onde você passa a maior parte do tempo puxa para o outro lado, ele tende a ganhar.
+No capítulo anterior, nós cuidamos do motor: do corpo cansado, da cabeça sobrecarregada, da alma que estava apenas funcionando. Mas existe algo que nenhum hábito resolve sozinho. Você pode dormir bem, treinar, orar e ler; se o ambiente em que você passa a maior parte do tempo puxa para o outro lado, ele tende a vencer. E isso não acontece porque você é fraco, e sim porque você é humano.
 
-Não porque você é fraco. Porque é humano.
+Saiba que este capítulo pode mudar a forma como você escolhe as pessoas ao seu redor. E talvez seja a mudança que mais vai acelerar tudo o que você construiu até aqui.
 
 * * *
 
@@ -22,7 +22,7 @@ Toda quinta-feira, depois de fechar o caixa, ele ia para o mesmo bar encontrar o
 
 Durante muito tempo, aquele era o melhor momento da semana dele.
 
-Até que, aos poucos, o Fábio começou a reparar no roteiro. Toda quinta, o assunto era o mesmo. O governo que atrapalha. O imposto que sufoca. O funcionário que não quer nada com nada. O cliente que some. A crise que nunca acaba. Uma sessão semanal de reclamação, muito bem-humorada e regada a cerveja.
+Até que, aos poucos, o Fábio começou a perceber que as conversas seguiam sempre o mesmo roteiro. Toda quinta, o assunto era o mesmo. O governo que atrapalha. O imposto que sufoca. O funcionário que não quer nada com nada. O cliente que some. A crise que nunca acaba. Uma sessão semanal de reclamação, muito bem-humorada e regada a cerveja.
 
 Ninguém falava de margem. Ninguém contava o que tinha aprendido. Ninguém perguntava "o que você faria no meu lugar?".
 
@@ -40,23 +40,23 @@ Perceba que ninguém naquela mesa era mal-intencionado. Ninguém queria o mal do
 
 * * *
 
-A gente costuma achar que o ambiente influencia só os fracos, os jovens, os que ainda não sabem o que querem. Os dados dizem outra coisa.
+Nós costumamos achar que o ambiente influencia só os fracos, os jovens, os que ainda não sabem o que querem. Os dados dizem outra coisa.
 
 Dois pesquisadores, Nicholas Christakis, de Harvard, e James Fowler, da Universidade da Califórnia, foram estudar os moradores de uma cidade americana chamada Framingham. Essas pessoas vinham sendo acompanhadas por médicos desde 1948, e os registros guardavam um detalhe precioso: quem era amigo de quem, quem era vizinho de quem, quem era parente de quem. Com isso, Christakis e Fowler conseguiram mapear a rede de relações de milhares de pessoas ao longo de décadas.
 
 E viram uma coisa impressionante. Hábitos e emoções circulavam por aquela rede quase como se fossem contagiosos. Quando um amigo próximo ganhava muito peso, a chance de a pessoa também ganhar subia de forma significativa. Mais tarde, num estudo publicado em 2008, mostraram que até a felicidade se espalhava assim, com um efeito que chegava ao amigo do amigo do seu amigo. Gente que você nunca viu mexendo, sem saber, no seu humor.
 
-Agora traz isso para a sua vida de empresário. A forma como você lida com o tempo, com o dinheiro, com a equipe e com as próprias emoções está sendo calibrada, neste exato momento, pelo grupo com quem você mais convive. Se ninguém à sua volta sabe a margem da própria empresa, você não vai sentir urgência nenhuma em descobrir a sua. Se todo mundo trata funcionário como problema, você vai tratar também. Se todo mundo acha normal almoçar em pé e passar anos sem tirar férias, você vai chamar isso de "vida de empresário".
+Agora traga isso para a sua vida de empresário. A forma como você lida com o tempo, com o dinheiro, com a equipe e com as próprias emoções está sendo calibrada, neste exato momento, pelo grupo com quem você mais convive. Se ninguém à sua volta sabe a margem da própria empresa, você não vai sentir urgência nenhuma em descobrir a sua. Se todo mundo trata funcionário como problema, você vai tratar também. Se todo mundo acha normal almoçar em pé e passar anos sem tirar férias, você vai chamar isso de "vida de empresário".
 
 O ambiente define o seu teto sem pedir licença.
 
-A pergunta não é se o ambiente está te influenciando. É em qual direção.
+Então a pergunta não é se o ambiente está influenciando você, e sim em qual direção ele está te levando.
 
 * * *
 
-E tem um tipo de ambiente que engana mais do que os outros: aquele em que você é o maior.
+E existe um tipo de ambiente que engana mais do que os outros: aquele em que você é o maior.
 
-Lá atrás, quando a gente conversou sobre o orgulho, eu te mostrei como é fácil o sucesso virar uma prisão silenciosa. Pois o lugar onde essa prisão costuma ser construída é justamente o grupo em que você é o mais bem-sucedido. Todo mundo te pede conselho. Ninguém te contraria. A sua opinião encerra a conversa. É confortável demais.
+Lá atrás, quando conversamos sobre o orgulho, eu te mostrei como é fácil o sucesso virar uma prisão silenciosa. Pois o lugar onde essa prisão costuma ser construída é justamente o grupo em que você é o mais bem-sucedido. Todo mundo te pede conselho. Ninguém te contraria. A sua opinião encerra a conversa. É confortável demais.
 
 E é exatamente por isso que é perigoso. Quanto menos você convive com quem sabe mais do que você, mais fácil é acreditar que já sabe tudo.
 
@@ -64,7 +64,7 @@ O maior da sala, muitas vezes, é só alguém que nunca saiu da sala.
 
 Se você percebeu que é o mais experiente, o mais rico ou o mais estruturado de todos os grupos que frequenta, isso não é um troféu. É um aviso. Está na hora de trocar de sala. De procurar, de propósito, ambientes onde você não é o maior. Onde você vai ouvir números maiores que os seus, ver soluções em que nunca tinha pensado e perceber erros que repete há anos.
 
-No começo, incomoda. Você vai se sentir pequeno. Vai ter vontade de voltar para a mesa onde todo mundo te escuta. Fique mesmo assim.
+Eu não vou te enganar: no começo, isso incomoda. Você vai se sentir pequeno e vai ter vontade de voltar para a mesa onde todo mundo te escuta. Fique mesmo assim. Esse desconforto é o sinal de que você finalmente está num lugar onde pode crescer.
 
 E onde ficam essas salas? Mais perto do que parece. Uma associação de empresários do seu setor em que você nunca quis entrar porque "é só gente grande". Um conselho consultivo com duas ou três pessoas mais experientes, que se reúne uma vez por mês para olhar os seus números. Um mentor que já fez o caminho que você quer fazer. Um grupo pequeno de donos de empresa, de setores diferentes, que se encontra com regularidade e com uma regra clara: aqui ninguém vem só para desabafar.
 
@@ -72,13 +72,13 @@ O formato importa menos do que o critério. Se você sai dali do mesmo tamanho q
 
 * * *
 
-Quer ver o que um ambiente é capaz de fazer com as pessoas? Tem uma cena na vida de Davi que eu considero uma das maiores aulas de liderança de que se tem registro.
+Quer ver o que um ambiente é capaz de fazer com as pessoas? Existe uma cena na vida de Davi que eu considero uma das maiores aulas de liderança de que se tem registro.
 
 Davi já tinha sido escolhido para ser o futuro rei de Israel. Mas, naquele momento, estava a anos de distância de qualquer trono. O rei Saul queria matá-lo, e ele vivia fugindo pelo deserto. Numa dessas fugas, foi se esconder numa caverna chamada Adulão.
 
 E aí começa a chegar gente. O texto descreve quem eram essas pessoas com uma franqueza quase engraçada: "Ajuntou-se a ele todo homem que se achava em aperto, e todo homem endividado, e todo homem amargurado de espírito, e ele se fez chefe deles; e eram com ele uns quatrocentos homens" (1 Samuel 22:2).
 
-Lê de novo o currículo. Em aperto. Endividados. Amargurados. Se Davi estivesse selecionando pela entrevista, não contratava ninguém dali.
+Leia de novo esse currículo: em aperto, endividados, amargurados. Se Davi estivesse selecionando pela entrevista, não contrataria ninguém dali.
 
 Mas alguma coisa aconteceu dentro daquela caverna. Aqueles homens passaram a conviver, dia e noite, com alguém que tinha visão, princípios e coragem. Ouviam como Davi pensava. Viam como ele decidia. E assistiram, mais de uma vez, ao homem que estava sendo caçado ter o perseguidor nas mãos e poupar a vida dele, porque não ia chegar ao trono por atalho.
 
@@ -86,15 +86,15 @@ Anos depois, quando a Bíblia lista os valentes de Davi, guerreiros cujos feitos
 
 O ambiente que Davi criou ali fez diferença.
 
-E tem um detalhe que eu adoro. Num dos momentos mais escuros da fuga, perseguido e esgotado, Davi também precisou de alguém. Jônatas, o melhor amigo dele, foi até o deserto encontrá-lo e, diz o texto, "fortaleceu a sua mão em Deus" (1 Samuel 23:16). Até o líder dos valentes precisou de alguém para segurar a mão dele.
+E existe um detalhe nessa história que eu adoro. Num dos momentos mais escuros da fuga, perseguido e esgotado, Davi também precisou de alguém. Jônatas, o melhor amigo dele, foi até o deserto encontrá-lo e, diz o texto, "fortaleceu a sua mão em Deus" (1 Samuel 23:16). Até o líder dos valentes precisou de alguém para segurar a mão dele.
 
 Você precisa de um ambiente que te eleve. E as pessoas à sua volta precisam que você seja um ambiente que eleva. As duas coisas ao mesmo tempo.
 
 * * *
 
-Mas atenção: não é qualquer grupo que eleva. Tem grupo que só acolhe. Tem grupo que só aplaude. E tem grupo que, como a mesa de quinta do Fábio, puxa discretamente para baixo.
+Mas atenção: não é qualquer grupo que eleva. Existe grupo que só acolhe, existe grupo que só aplaude e existe grupo que, como a mesa de quinta do Fábio, puxa discretamente para baixo.
 
-O provérbio que abre este capítulo dá a pista: ferro afia ferro. Você já viu alguém afiando uma faca? Sai faísca. Faz barulho. Tem atrito. Não é confortável.
+O provérbio que abre este capítulo dá a pista: ferro afia ferro. Você já viu alguém afiando uma faca? Sai faísca. Faz barulho, tem atrito, não é confortável.
 
 Muito empresário vive cercado de algodão. Funcionário com medo de discordar. Amigo que prefere não se meter. Família que não entende do negócio. É um ambiente gostoso, mas não afia nada.
 
@@ -112,13 +112,13 @@ O bar do Fábio tinha prazer de sobra. Faltava o bem.
 
 * * *
 
-Agora, preciso fazer um alerta, porque já vi muita gente errar a mão aqui. Mudar de ambiente não é trocar de amigos como quem troca de fornecedor.
+Agora, eu preciso fazer um alerta, porque já vi muita gente errar a mão neste ponto. Mudar de ambiente não é trocar de amigos como quem troca de fornecedor.
 
 O Fábio não abandonou a mesa de quinta. Continuou aparecendo, de vez em quando. Ele só parou de esperar dela o que ela não podia oferecer. E foi procurar, em outro lugar, um grupo de empresários que já tinham passado pelo que ele estava vivendo. Gente que tinha saído do caixa, que falava de indicador sem vergonha nenhuma, que desafiava em vez de só concordar.
 
-Tem relação que existe para te acolher. Tem relação que existe para te afiar. As duas têm valor. O problema começa quando você espera crescimento de quem só sabe acolher. Ou quando passa a desprezar o acolhimento porque agora só quer quem te desafia.
+Existem relações que existem para acolher você e relações que existem para afiar você. As duas têm valor. O problema começa quando você espera crescimento de quem só sabe acolher. Ou quando passa a desprezar o acolhimento porque agora só quer quem te desafia.
 
-E tem um risco bem sutil. Quem muda de ambiente às vezes volta para o grupo antigo com ar de superioridade, corrigindo todo mundo, despejando os conceitos novos que aprendeu. É o mesmo orgulho de antes, com roupa nova. O caminho é outro: levar o que você aprendeu como semente, não como sermão. Quando alguém perguntar o que mudou, você conta.
+E existe um risco bem sutil. Quem muda de ambiente às vezes volta para o grupo antigo com ar de superioridade, corrigindo todo mundo, despejando os conceitos novos que aprendeu. É o mesmo orgulho de antes, com roupa nova. O caminho é outro: levar o que você aprendeu como semente, não como sermão. Quando alguém perguntar o que mudou, você conta.
 
 Foi assim que, alguns anos depois, dois amigos do bar pediram ao Fábio para conhecer o grupo novo.
 
@@ -128,19 +128,19 @@ Crescimento verdadeiro não deixa um rastro de gente desprezada. Deixa portas ab
 
 * * *
 
-Tem um motivo a mais para levar este capítulo a sério: a solidão de quem empreende.
+Existe ainda um motivo a mais para levar este capítulo a sério: a solidão de quem empreende.
 
-Pouca gente fala dela, mas quem tem empresa conhece bem. Você não pode desabafar com a equipe sobre o caixa apertado, porque isso gera insegurança. Não quer contar tudo em casa, para não preocupar ninguém. E fica sozinho com o peso das decisões que só você pode tomar.
+Pouca gente fala dela, mas quem tem empresa conhece bem esse lugar. Você não pode desabafar com a equipe sobre o caixa apertado, porque isso gera insegurança. Não quer contar tudo em casa, para não preocupar ninguém. E fica sozinho com o peso das decisões que só você pode tomar.
 
 Quando essa solidão dura muito, ela distorce a realidade. Os problemas ficam maiores do que são. As oportunidades passam sem você ver. E as decisões são tomadas no escuro, sem ninguém do lado para perguntar: "você já pensou nisso?".
 
 Os empresários mais fortes que eu conheço não são os que nunca precisam de ajuda. São os que têm humildade para pedir ajuda antes que seja tarde.
 
-O ambiente certo não decide por você. Mas tira de você o peso de decidir sozinho.
+O ambiente certo não decide por você, mas tira de você o peso de decidir sozinho. E, se hoje você se sente só no topo da sua empresa, saiba que essa solidão não é o preço obrigatório da liderança. É um sinal de que está na hora de buscar companhia à altura do caminho que você quer percorrer.
 
 * * *
 
-E, antes de fechar, eu quero virar o espelho para você.
+E, antes de encerrarmos, eu quero virar o espelho para você.
 
 Você está procurando um ambiente que te eleve. Mas, para a sua equipe, o ambiente é você. Para os seus filhos, o ambiente é você. Para aquele empresário mais novo que te olha como referência, o ambiente é você.
 
@@ -161,7 +161,7 @@ O desafio para os próximos sete dias é tomar um café. Escolha alguém que est
 
 No seu Balanço do CPF, preencha o campo **Quem me afia (2 nomes) → o ambiente em que vou entrar**. Se hoje não houver ninguém com liberdade para te confrontar com amor, escreva isso mesmo.
 
-Com o motor cuidado e as pessoas certas por perto, falta atravessar a rua. É dentro da empresa que tudo o que conversamos até aqui vai virar estrutura. Ou não.
+Com o motor cuidado e as pessoas certas por perto, falta atravessar a rua. É dentro da empresa que tudo o que conversamos até aqui vai se transformar em estrutura. E eu te garanto: você está mais preparado para isso do que estava no começo deste livro.
 
 ::: {custom-style="Destaque"}
 "O maior da sala, muitas vezes, é só alguém que nunca saiu da sala."
