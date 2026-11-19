@@ -9,6 +9,6 @@ author: "Gustavo Nardi"
 :::
 
 ::: {custom-style="Block Text"}
-**Manuscrito — versão 3**
+**Manuscrito — versão 4 (na voz do autor)**
 Prefácio, dedicatória e agradecimentos entram na próxima etapa.
 :::
