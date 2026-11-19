@@ -70,7 +70,7 @@ Se você reconheceu um desses sinais, não se culpe. Apenas acenda a luz. Quem n
 
 Existe uma história muito antiga sobre exatamente isso: um homem traído pelas pessoas mais próximas e que, anos depois, recebeu nas mãos o poder de se vingar.
 
-José era o filho preferido de Jacó, e todo mundo sabia. O pai lhe deu uma túnica especial, que o destacava dos outros onze, e os irmãos odiavam aquilo. José, novo e meio ingênuo, ainda contava a eles os sonhos em que todos se curvavam diante dele.
+José era o filho preferido de Jacó, e todo mundo sabia. O pai deu a ele uma túnica especial, que o destacava dos outros onze, e os irmãos odiavam aquilo. José, novo e meio ingênuo, ainda contava a eles os sonhos em que todos se curvavam diante dele.
 
 Um dia, os irmãos estavam longe, cuidando do rebanho, e viram José chegando pelo campo. "Lá vem o sonhador." Arrancaram a túnica dele, jogaram o rapaz numa cisterna vazia e, enquanto comiam, decidiram vendê-lo a uma caravana que seguia para o Egito. Mancharam a túnica com sangue de bode e levaram ao pai, que chorou o filho como morto.
 
