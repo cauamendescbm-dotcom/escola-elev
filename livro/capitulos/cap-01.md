@@ -1,6 +1,10 @@
 # Parte I — Quem você é
 
-Antes de falar da sua empresa, eu quero falar de você. Nesta primeira parte, vamos separar, com calma, a pessoa do negócio. Você vai descobrir quem é além do CNPJ, que vozes antigas ainda decidem por você e onde elas nasceram. Não é a parte mais confortável da jornada. Mas é a que sustenta todas as outras.
+Antes de entrarmos no tema dos negócios, eu quero falar daquilo que sustenta o seu negócio: o CPF que fundou a sua empresa e que permanece sendo a ferramenta fundamental para que ela continue se desenvolvendo. Nesta primeira parte, nós vamos desmembrar aquilo que, de maneira imperceptível, acabou desviando o seu olhar do que trouxe a sua empresa até aqui.
+
+Saiba que, a partir desta leitura, você vai começar a olhar mais para si mesmo, a priorizar aquilo que realmente importa e a descobrir quais mudanças são necessárias. Vai entender que a vulnerabilidade, diante de um ambiente seguro, é uma virtude, e não uma fraqueza, e que as revelações fazem parte do processo de transformação. Todas essas etapas, quando executadas, vão refletir diretamente nos seus resultados.
+
+Uma coisa eu te prometo: durante esta leitura, você não vai encontrar conforto. Mas seja forte e resiliente. Permaneça. Aquilo que será construído a partir deste capítulo é parte fundamental para sustentar aquilo que você sempre sonhou e que ainda está por vir.
 
 # Capítulo 1
 ## Quem é você quando a empresa fecha as portas?
