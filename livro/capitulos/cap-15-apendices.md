@@ -2,7 +2,7 @@
 
 ## O Balanço do CPF
 
-Esta é a folha que você vai preencher ao longo do livro, um campo por capítulo. Copie-a no seu caderno ou tire uma cópia, e mantenha-a num lugar onde você a veja toda semana.
+Esta é a folha que vai acompanhar você ao longo do livro, um campo por capítulo. Copie-a no seu caderno ou tire uma cópia, e mantenha-a num lugar onde você possa vê-la toda semana. Saiba que, quando ela estiver completa, você terá nas mãos um retrato honesto de quem você é e de quem escolheu se tornar.
 
 **Nome:** ______________________________ **Data de início:** ____/____/______
 
@@ -28,7 +28,7 @@ Esta é a folha que você vai preencher ao longo do livro, um campo por capítul
 
 ## Convite
 
-Este livro pode ser lido sozinho. A mudança que ele propõe raramente acontece sozinha.
+Você pode ler este livro sozinho, mas a mudança que ele propõe raramente acontece sem companhia.
 
 Para quem quiser continuar a caminhada acompanhado, existe a ELEV, criada para desenvolver pessoas que lideram empresas.
 

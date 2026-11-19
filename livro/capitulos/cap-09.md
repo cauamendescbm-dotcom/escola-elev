@@ -1,6 +1,8 @@
 # Parte IV — Do CPF ao CNPJ
 
-Até aqui, a conversa foi para dentro: quem você é, quem ainda decide por você e quem depende de você. Agora a conversa entra na empresa. Mas não muda de assunto. Estrutura, cultura e números parecem temas técnicos, e são. Só que cada um deles é um espelho. A empresa que você tem hoje é a sua identidade transformada em sistema.
+Até aqui, a nossa conversa foi para dentro: quem você é, quem ainda decide por você e quem depende de você. Agora chegou o momento de atravessar a porta da sua empresa, sem mudar de assunto. Estrutura, cultura e números parecem temas técnicos, e são. Mas saiba que cada um deles funciona como um espelho, porque a empresa que você tem hoje é a sua identidade transformada em sistema.
+
+Nesta parte, você vai descobrir por que a sua equipe ainda depende tanto de você, qual é o comportamento que realmente define a cultura da sua empresa e o que os seus números estão contando sobre quem você é. Eu te prometo que algumas páginas vão incomodar. Permaneça mesmo assim, porque é aqui que tudo aquilo que você construiu por dentro começa a aparecer do lado de fora, nos seus resultados.
 
 # Capítulo 9
 ## Ele não delegou. Ele largou.
@@ -8,101 +10,85 @@ Até aqui, a conversa foi para dentro: quem você é, quem ainda decide por voc�
 > "Não é bom o que fazes. [...] Sozinho não o podes fazer."
 > — Êxodo 18:17-18
 
-Este é o capítulo em que o livro vira.
+Eu quero que você saiba, logo de início, que este é o capítulo em que o livro vira.
 
-Tudo o que você fez até aqui, olhar para a sua identidade, rastrear as vozes herdadas, dar baixa em mágoas, descer do posto de maior da sala, colocar a casa em ordem, cuidar do corpo, trocar de ambiente, foi preparação. Era a fundação. A partir de agora, a gente começa a levantar o prédio.
-
-E o primeiro andar tem um nome que você já conhece desde a introdução: a escada.
+Tudo aquilo que você fez até aqui, olhar para a sua identidade, rastrear as vozes herdadas, dar baixa nas mágoas, descer do posto de maior da sala, colocar a casa em ordem, cuidar do próprio corpo e escolher um ambiente melhor, foi preparação. Foi a fundação. A partir de agora, a gente começa a levantar o prédio, e o primeiro andar tem um nome que você já conhece desde a introdução: a escada.
 
 * * *
 
-Lembra do pet shop?
-
-Lá no capítulo 2, você conheceu o dono dele e a voz que ele carregava desde a infância: "crescer dá muito trabalho". Agora eu quero te mostrar o que aconteceu quando ele finalmente tentou sair da operação.
+Lembra do dono do pet shop, que você conheceu lá no capítulo 2? Ele carregava desde a infância uma voz que dizia "crescer dá muito trabalho". Agora eu quero te mostrar o que aconteceu quando ele finalmente tentou sair da operação.
 
 A equipe trocava a cada poucos meses, cliente antigo sumia sem explicação, e a frase que eu mais ouvia dele era a mesma que eu ouço de empresários do Brasil inteiro: "Hoje em dia ninguém quer nada com nada".
 
-Quando fomos olhar de perto, apareceu uma coisa curiosa. O dono já não ficava na loja. E eu preciso ser justo com ele: essa decisão estava corretíssima. O empresário que passa o dia dando banho em cachorro, atendendo balcão e contando saco de ração nunca vai ter cabeça para pensar o negócio. Sair da operação era o movimento certo.
+Quando fomos olhar de perto, apareceu uma coisa curiosa. O dono já não ficava na loja, e eu preciso ser justo com ele: essa decisão estava corretíssima. O empresário que passa o dia dando banho em cachorro, atendendo balcão e contando saco de ração nunca vai ter cabeça para pensar o próprio negócio. Sair da operação era o movimento certo.
 
-O problema não foi a decisão.
+O problema não foi a decisão. Foi o jeito como ela foi tomada.
 
-Foi o jeito.
+Ele saiu e deixou tudo na mão da equipe, sem dizer para onde a empresa ia, sem descrever o que cada um tinha de fazer e sem nenhum número para saber quem ia bem, quem precisava de ajuda e onde o dinheiro estava vazando. Treinamento, nem pensar. Ele não participava nem da contratação.
 
-Ele saiu e deixou tudo na mão da equipe. Sem dizer para onde a empresa ia. Sem descrever o que cada um tinha de fazer. Sem nenhum número para saber quem ia bem, quem precisava de ajuda e onde o dinheiro estava vazando. Treinamento, nem pensar. Ele não participava nem da contratação.
-
-E veja a ironia. O dono dizia que as pessoas não tinham compromisso. Mas, sem perceber, fazia exatamente a mesma coisa: não estava comprometido com a própria responsabilidade de liderar.
-
-Ele não tinha saído da operação. Tinha saído da liderança.
+E veja a ironia. O dono dizia que as pessoas não tinham compromisso, mas, sem perceber, fazia exatamente a mesma coisa: não estava comprometido com a própria responsabilidade de liderar. Ele não tinha saído da operação. Tinha saído da liderança.
 
 Ele não delegou. Ele largou.
 
 * * *
 
-Lembra da escada da introdução? Operador, dono, líder. "Eu sou a máquina", "eu tenho a máquina", "eu formo quem conduz".
+Lembra da escada da introdução? Operador, dono e líder. "Eu sou a máquina", "eu tenho a máquina" e "eu formo quem conduz".
 
-O dono do pet shop tentou pular do primeiro degrau direto para fora da escada. Saiu da operação sem construir o segundo degrau. Não havia processo para segurar a loja sem ele. E, sem processo, não havia como formar ninguém para o terceiro.
+O dono do pet shop tentou pular do primeiro degrau direto para fora da escada. Saiu da operação sem construir o segundo degrau, então não havia processo para segurar a loja sem ele. E, sem processo, não havia como formar ninguém para o terceiro. Ninguém pula degrau sem pagar a conta.
 
-Ninguém pula degrau sem pagar a conta.
-
-E agora eu te pergunto: lembra do placar que você anotou na introdução? Quantos "O" apareceram na sua lista? Guarde esse número. A gente vai mexer nele antes do fim deste capítulo.
+Por isso eu te pergunto: lembra do placar que você anotou na introdução? Quantas letras O apareceram na sua lista? Guarde esse número com carinho, porque a gente vai mexer nele antes do fim deste capítulo.
 
 * * *
 
 Existe uma cena de gestão com mais de três mil anos que parece ter acontecido ontem, numa empresa qualquer do seu bairro.
 
-Moisés tinha tirado um povo inteiro do Egito. Milhares de pessoas atravessando o deserto, com tudo o que isso envolve: briga por água, discussão por espaço de tenda, herança, gado que sumiu, vizinho que invadiu. E quem resolvia tudo isso? Ele. Sozinho.
+Moisés tinha tirado um povo inteiro do Egito. Eram milhares de pessoas atravessando o deserto, com tudo o que isso envolve: briga por água, discussão por espaço de tenda, herança, gado que sumiu, vizinho que invadiu. E quem resolvia tudo isso? Ele, sozinho.
 
-O texto de Êxodo 18 conta que Moisés se sentava de manhã e só se levantava no fim da tarde. Uma fila enorme na frente dele, o dia inteiro. Gente esperando horas para resolver questões que, muitas vezes, eram pequenas.
+O texto de Êxodo 18 conta que Moisés se sentava de manhã e só se levantava no fim da tarde, com uma fila enorme na frente dele, o dia inteiro. Havia gente esperando horas para resolver questões que, muitas vezes, eram pequenas.
 
-Um dia, chega para visitá-lo o sogro, Jetro. Um homem mais velho, que tinha cuidado de gente a vida toda. Jetro passa o dia inteiro observando. Não fala nada. E, no fim da tarde, faz a pergunta que todo bom mentor faria:
+Um dia, chega para visitá-lo o sogro, Jetro, um homem mais velho, que tinha cuidado de gente a vida toda. Jetro passa o dia inteiro observando, sem dizer nada. E, no fim da tarde, faz a pergunta que todo bom mentor faria:
 
 "Que é isso que você está fazendo com o povo? Por que você fica sentado sozinho, e todo mundo em pé diante de você, da manhã até a noite?"
 
-Moisés responde do jeito que todo operador responde: "É que o povo vem a mim".
-
-Traduzindo: "Eles precisam de mim".
+Moisés responde do jeito que todo operador responde: "É que o povo vem a mim". Traduzindo para a linguagem da empresa: "Eles precisam de mim".
 
 A resposta de Jetro é dura e carinhosa ao mesmo tempo: "Não é bom o que você está fazendo. Você vai se esgotar, você e esse povo. Isso é pesado demais para você. Você não consegue fazer sozinho".
 
-Perceba que Jetro não chama Moisés de centralizador, de vaidoso, de controlador. Ele só diz: do jeito que está, não vai aguentar. E, em vez de apenas criticar, entrega um caminho.
+Perceba que Jetro não chama Moisés de centralizador, de vaidoso ou de controlador. Ele só diz que, do jeito que está, não vai aguentar. E, em vez de apenas criticar, ele entrega um caminho.
 
 Primeiro, ensine a eles as regras e mostre o caminho em que devem andar e o trabalho que devem fazer. Antes de passar qualquer coisa adiante, deixe claro o que é certo, como se faz e o que se espera.
 
-Depois, escolha homens capazes, tementes a Deus, que amem a verdade e odeiem o ganho desonesto. Competência e caráter, juntos. Não só currículo.
+Depois, escolha homens capazes, tementes a Deus, que amem a verdade e odeiem o ganho desonesto. Competência e caráter, juntos, e não só currículo.
 
 Então, coloque essas pessoas como responsáveis por grupos de mil, de cem, de cinquenta e de dez. Hoje a gente chamaria isso de organograma.
 
-E, por fim, o mais libertador: as questões grandes eles trazem a você; as pequenas, eles mesmos resolvem.
+E, por fim, vem a parte mais libertadora: as questões grandes eles trazem a você, e as pequenas eles mesmos resolvem.
 
 A promessa no final vale para qualquer empresa: "Assim será mais leve para você, e eles levarão a carga com você. E todo este povo irá em paz ao seu lugar".
 
-Em paz. Quando o dono centraliza tudo, quem sofre não é só ele. A equipe também sofre. Na fila, na espera, na insegurança de não poder decidir nada, no medo de errar porque nunca foi ensinada. Centralizar parece generosidade. Na prática, é gargalo.
+Em paz. Quando o dono centraliza tudo, quem sofre não é só ele. A equipe também sofre: na fila, na espera, na insegurança de não poder decidir nada e no medo de errar, porque nunca foi ensinada. Centralizar parece generosidade, mas, na prática, é gargalo.
 
 * * *
 
-Agora, preciso fazer uma pausa, porque sei o que muita gente sente neste ponto. Culpa. "Então o problema da minha empresa sou eu?"
+Agora eu preciso fazer uma pausa, porque sei o que muita gente sente neste ponto: culpa. Talvez você esteja se perguntando: "Então o problema da minha empresa sou eu?"
 
-Calma.
+Calma. Centralização não é falha de caráter. É falta de estrutura. A maioria das empresas que trava não trava por falta de esforço. Trava porque cresceu além da estrutura que a sustentava. Você não errou ao construir a sua empresa com as próprias mãos. Foi justamente essa força que trouxe o negócio até aqui. Só que a força que ergue uma empresa raramente é a mesma que a faz crescer.
 
-Centralização não é falha de caráter. É falta de estrutura. A maioria das empresas que trava não trava por falta de esforço. Trava porque cresceu além da estrutura que a sustentava. Você não errou ao construir a sua empresa com as próprias mãos. Foi justamente essa força que trouxe o negócio até aqui. Só que a força que ergue uma empresa raramente é a mesma que a faz crescer.
+Faça um teste comigo. Se você sumisse por trinta dias, sem celular e sem e-mail, a sua empresa cresceria ou travaria?
 
-Faz um teste. Se você sumisse por trinta dias, sem celular e sem e-mail, a sua empresa cresceria ou travaria?
+Se a sua resposta foi "travaria", existe um sócio oculto sentado na sua cadeira. Você já ouviu o nome dele na introdução, e ele é difícil de reconhecer porque se parece muito com uma virtude. Ele se chama "ninguém faz como eu".
 
-Se a resposta foi "travaria", tem um sócio oculto sentado na sua cadeira. Você já ouviu o nome dele na introdução, e ele é difícil de reconhecer porque se parece muito com uma virtude. Ele se chama "ninguém faz como eu".
-
-Ele vota em todas as reuniões. É ele quem diz "deixa que eu resolvo", "é mais rápido eu mesmo fazer". E ele tem um argumento difícil de rebater: na maioria das vezes, é verdade. Você faz mais rápido. Você faz melhor.
-
-E é exatamente por isso que você continua preso.
+Esse sócio vota em todas as reuniões. É ele quem diz "deixa que eu resolvo" e "é mais rápido eu mesmo fazer". E ele tem um argumento difícil de rebater: na maioria das vezes, é verdade. Você faz mais rápido e faz melhor. E é exatamente por isso que você continua preso.
 
 * * *
 
 Por que é tão difícil dar baixa nesse sócio? Porque ele alimenta uma identidade.
 
-Ser imprescindível dá sentido. Ser o único que sabe resolver dá importância. Ouvir "sem você isso aqui não anda" é música para um coração que, lá no fundo, ainda não sabe bem quem é. Muito dono não sai da operação porque tem medo de descobrir quem é quando não está apagando incêndio.
+Ser imprescindível dá sentido à vida de muita gente. Ser o único que sabe resolver dá importância. E ouvir "sem você isso aqui não anda" é música para um coração que, lá no fundo, ainda não sabe bem quem é. Eu já vi muito dono que não sai da operação porque tem medo de descobrir quem é quando não está apagando incêndio.
 
-Lembra da conversa do capítulo 1, sobre a identidade fundida com a empresa? É aqui que ela cobra a conta. Se você é o que faz, delegar parece perder um pedaço de si.
+Lembra da conversa do capítulo 1, sobre a identidade fundida com a empresa? É aqui que ela cobra a conta. Se você é aquilo que faz, delegar parece perder um pedaço de si mesmo.
 
-E é aqui que tudo o que você trabalhou até agora se encontra. Quem sabe quem é, soltou as mágoas, desceu do posto de maior da sala e tem a casa em ordem não precisa ser imprescindível para se sentir valioso. Consegue formar pessoas melhores do que ele em várias funções sem se sentir ameaçado. Encontrou valor em outro lugar: em quem ele forma.
+E saiba que é exatamente aqui que tudo aquilo que você trabalhou até agora se encontra. Quem sabe quem é, soltou as mágoas, desceu do posto de maior da sala e tem a casa em ordem não precisa ser imprescindível para se sentir valioso. Essa pessoa consegue formar gente melhor do que ela em várias funções sem se sentir ameaçada, porque encontrou o próprio valor em outro lugar: em quem ela forma.
 
 Por isso este livro passou oito capítulos olhando para dentro antes de entrar na empresa. Não era desvio. Era o caminho. Ninguém sobe para o terceiro degrau carregando um CPF que precisa ser insubstituível.
 
@@ -110,66 +96,62 @@ Por isso este livro passou oito capítulos olhando para dentro antes de entrar n
 
 * * *
 
-Mas não basta querer soltar. É preciso saber soltar. E aqui está a diferença entre delegar e largar.
-
-Delegar é passar a responsabilidade com clareza, preparo e acompanhamento. Largar é passar o problema adiante e torcer para dar certo.
+Querer soltar, porém, não basta. É preciso saber soltar, e é aqui que mora a diferença entre delegar e largar. Delegar é passar a responsabilidade com clareza, preparo e acompanhamento. Largar é passar o problema adiante e torcer para dar certo.
 
 Eu gosto de explicar a delegação como quem ensina um filho a dirigir. Ninguém entrega a chave e diz "boa sorte".
 
-No começo, você dirige e ele observa, enquanto você explica o que faz e por quê. É aqui que nasce o processo escrito: se você não consegue explicar, ainda não está pronto para delegar.
+No começo, você dirige e ele observa, enquanto você explica o que faz e por quê. É aqui que nasce o processo escrito, e vale uma regra simples: se você ainda não consegue explicar, ainda não está pronto para delegar.
 
-Depois, ele dirige com você do lado, e você corrige na hora, com paciência. É o momento mais difícil para o operador, porque ele sente que faria mais rápido sozinho. E faria mesmo. E continuaria preso para sempre.
+Depois, ele dirige com você do lado, e você corrige na hora, com paciência. Este é o momento mais difícil para o operador, porque ele sente que faria mais rápido sozinho. E faria mesmo. E continuaria preso para sempre.
 
-Em seguida, ele dirige e você só observa, sem pegar no volante a cada errinho. Agora você está formando o julgamento dele, não só a mão.
+Em seguida, ele dirige e você só observa, sem pegar no volante a cada errinho. Agora você está formando o julgamento dele, e não só a mão.
 
 Por fim, ele dirige sozinho, e vocês combinam como ele vai te contar como foi: uma conversa semanal, um relatório curto, um número que os dois acompanham juntos.
 
-O pet shop pulou direto para a última etapa. Sem as três primeiras e sem nenhum número. O resultado era previsível.
+O pet shop pulou direto para a última etapa, sem as três primeiras e sem nenhum número. O resultado era previsível.
 
-E tem uma coisa bonita, pouco falada, sobre delegar bem: a pessoa cresce. Quem recebe responsabilidade com preparo se sente digno de confiança. E quem se sente digno de confiança se compromete. Boa parte daquela "falta de comprometimento" de que os empresários reclamam é, na verdade, falta de pertencimento. Ninguém se compromete com o que não entende, não ajudou a construir e não sabe medir.
+E existe uma coisa bonita, pouco falada, sobre delegar bem: a pessoa cresce. Quem recebe responsabilidade com preparo se sente digno de confiança, e quem se sente digno de confiança se compromete. Boa parte daquela "falta de comprometimento" de que os empresários reclamam é, na verdade, falta de pertencimento. Ninguém se compromete com aquilo que não entende, não ajudou a construir e não sabe medir.
 
-Lá na China antiga, Lao-Tsé escreveu que o melhor governante é aquele de quem o povo mal percebe a existência. Quando a obra termina, todos dizem: "fomos nós que fizemos". Não existe elogio maior para um líder do que uma equipe que sente que a vitória é dela.
+Lá na China antiga, Lao-Tsé escreveu que o melhor governante é aquele de quem o povo mal percebe a existência, porque, quando a obra termina, todos dizem: "fomos nós que fizemos". Não existe elogio maior para um líder do que uma equipe que sente que a vitória é dela.
 
-E por onde começar? Não pela tarefa mais estratégica, nem pela que você mais odeia. Comece pela que se repete toda semana, toma muito do seu tempo e tem um resultado fácil de conferir. A conferência do caixa. A escala da equipe. A compra de reposição. O primeiro atendimento ao cliente novo. Tarefa repetitiva e mensurável é o melhor campo de treino, para você e para quem vai assumir. Você aprende a soltar com risco baixo. A pessoa aprende a decidir com uma rede de segurança embaixo.
+E por onde começar? Não pela tarefa mais estratégica, nem pela que você mais odeia. Comece pela que se repete toda semana, toma muito do seu tempo e tem um resultado fácil de conferir: a conferência do caixa, a escala da equipe, a compra de reposição, o primeiro atendimento ao cliente novo. Tarefa repetitiva e mensurável é o melhor campo de treino, para você e para quem vai assumir. Você aprende a soltar com risco baixo, e a pessoa aprende a decidir com uma rede de segurança embaixo.
 
-Depois da primeira, a segunda é mais fácil. Na terceira, você já percebe que a sua agenda começou a ter espaço para aquilo que só o dono pode fazer: pensar a empresa.
+Depois da primeira, a segunda fica mais fácil. Na terceira, você já percebe que a sua agenda começou a ter espaço para aquilo que só o dono pode fazer: pensar a empresa.
 
 * * *
 
-Quando você sobe de degrau, uma coisa curiosa acontece: o mundo demora a perceber. E muitas vezes demora porque você mesmo continua se apresentando como antes.
+Quando você sobe de degrau, uma coisa curiosa acontece: o mundo demora a perceber. E, muitas vezes, demora porque você mesmo continua se apresentando como antes.
 
-A Carla (nome alterado) é dentista e dona de uma clínica odontológica com doze pessoas na equipe. Tinha contratado gerente, organizado processos, estava estudando abrir a segunda unidade. Por dentro, estava subindo de degrau.
+A Carla (nome alterado) é dentista e dona de uma clínica odontológica com doze pessoas na equipe. Ela tinha contratado gerente, organizado processos e estava estudando abrir a segunda unidade. Por dentro, estava subindo de degrau.
 
 Mesmo assim, reclamava de uma coisa que não sabia explicar: "Eu entro na reunião com o fornecedor e ele fala com o meu gerente. Vou negociar o aluguel e o corretor se dirige ao meu marido, que só foi me fazer companhia".
 
-Perguntei como ela tinha ido à última reunião importante. Ela riu: "Do jeito que eu estava. Saí correndo do consultório, de jaleco ainda".
+Perguntei como ela tinha ido à última reunião importante, e ela riu: "Do jeito que eu estava. Saí correndo do consultório, de jaleco ainda".
 
-Não tem nada de errado com o jaleco. É o uniforme de quem atende, de quem executa. E era exatamente essa a mensagem que a Carla levava para cada negociação: a de que ela ainda estava no primeiro degrau. A imagem dela estava atrasada em relação ao lugar que ela já ocupava na empresa.
+Não existe nada de errado com o jaleco. Ele é o uniforme de quem atende, de quem executa. E era exatamente essa a mensagem que a Carla levava para cada negociação: a de que ela ainda estava no primeiro degrau. A imagem dela estava atrasada em relação ao lugar que ela já ocupava na empresa.
 
-Isso é coerência, e tem pouco a ver com vaidade. A sua apresentação, a roupa, a pontualidade, o tom com que você fala, o jeito de escrever uma mensagem, é a primeira frase que você diz em qualquer sala. E, se ela contradiz o papel que você ocupa, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
+Isso tem pouco a ver com vaidade e muito a ver com coerência. A sua apresentação, a roupa, a pontualidade, o tom com que você fala e o jeito de escrever uma mensagem são a primeira frase que você diz em qualquer sala. E, se essa frase contradiz o papel que você ocupa, você passa a reunião inteira tentando corrigir uma impressão que você mesmo criou.
 
-José, o mesmo que você viu perdoar os irmãos, viveu isso. Quando finalmente foi chamado da prisão para falar com o faraó, a oportunidade da vida dele, o texto registra um detalhe que quase todo mundo pula: antes de entrar, ele "barbeou-se e mudou as suas roupas" (Gênesis 41:14). Não mudou quem era. Ajustou a apresentação para que quem ele era pudesse ser ouvido.
+José, o mesmo que você viu perdoar os irmãos, viveu isso. Quando finalmente foi chamado da prisão para falar com o faraó, a grande oportunidade da vida dele, o texto registra um detalhe que quase todo mundo pula: antes de entrar, ele "barbeou-se e mudou as suas roupas" (Gênesis 41:14). Ele não mudou quem era. Ajustou a apresentação para que quem ele era pudesse ser ouvido.
 
-E a imagem não fala só com os outros. Fala também com você. Em 2012, os pesquisadores Hajo Adam e Adam Galinsky publicaram um experimento curioso: voluntários que achavam estar vestindo um jaleco de médico se saíram melhor em tarefas de atenção do que os que achavam vestir um jaleco de pintor, embora a peça fosse a mesma. Chamaram isso de "cognição vestida". Uma tentativa de repetir o estudo, anos depois, não encontrou o mesmo efeito, então vale tomar o número com cautela. A intuição, porém, qualquer empresário reconhece: o modo como você se apresenta lembra a você mesmo que papel está ocupando.
+E saiba que a imagem não fala só com os outros. Fala também com você. Em 2012, os pesquisadores Hajo Adam e Adam Galinsky publicaram um experimento curioso: voluntários que achavam estar vestindo um jaleco de médico se saíram melhor em tarefas de atenção do que os que achavam vestir um jaleco de pintor, embora a peça fosse a mesma. Eles chamaram isso de "cognição vestida". Uma tentativa de repetir o estudo, anos depois, não encontrou o mesmo efeito, então vale tomar o resultado com cautela. A intuição, porém, qualquer empresário reconhece: o modo como você se apresenta lembra a você mesmo que papel está ocupando.
 
-Não se trata de parecer mais do que você é. Trata-se de parar de se apresentar como menos.
-
-Se você já não opera tudo, mas continua se vestindo, falando e se portando como quem opera tudo, as pessoas vão continuar te tratando assim. Inclusive a sua equipe.
+Não se trata de parecer mais do que você é. Trata-se de parar de se apresentar como menos. Se você já não opera tudo, mas continua se vestindo, falando e se portando como quem opera tudo, as pessoas vão continuar tratando você assim, inclusive a sua equipe.
 
 Apresente-se no degrau que você ocupa.
 
 ### Antes de virar a página
 
-Pegue o placar O-D-L da introdução e olhe para as atividades marcadas com O.
+Pegue o placar O-D-L da introdução e olhe com calma para as atividades marcadas com O.
 
 1. Se eu parar de fazer qual delas, a minha empresa vai crescer?
 2. O que eu ganho, por dentro, continuando a fazer isso?
 
-O desafio para os próximos sete dias é dar o primeiro passo de Jetro. Escolha uma única atividade marcada com O e uma pessoa com capacidade e caráter para assumi-la. Nesta semana, faça com ela olhando, depois faça junto com ela, e escreva o passo a passo numa página só. Combine qual número vocês vão olhar juntos quando ela estiver dirigindo sozinha.
+O desafio para os próximos sete dias é dar o primeiro passo de Jetro. Escolha uma única atividade marcada com O e uma pessoa com capacidade e caráter para assumi-la. Nesta semana, faça a tarefa com ela olhando, depois faça junto com ela e escreva o passo a passo numa página só. Combine também qual número vocês vão olhar juntos quando ela estiver dirigindo sozinha.
 
 No seu Balanço do CPF, preencha o campo **Sócio oculto nº 5, "ninguém faz como eu" → degrau atual, próximo degrau e a tarefa que vou delegar**.
 
-Delegar resolve a tarefa. Mas existe uma coisa que nenhuma delegação resolve sozinha: o jeito como as coisas são feitas na sua empresa quando você não está olhando. No próximo capítulo, a gente vai falar da identidade da sua empresa. E eu já te adianto: ela se parece muito com você.
+Talvez soltar essa primeira tarefa doa um pouco. Permita-se sentir isso, porque é a dor de quem está crescendo, e não de quem está perdendo. Mas saiba que delegar resolve a tarefa e não resolve tudo. Existe uma coisa que nenhuma delegação resolve sozinha: o jeito como as coisas são feitas na sua empresa quando você não está olhando. No próximo capítulo, vamos falar da identidade da sua empresa. E eu já te adianto: ela se parece muito com você.
 
 ::: {custom-style="Destaque"}
 "Ele não delegou. Ele largou."

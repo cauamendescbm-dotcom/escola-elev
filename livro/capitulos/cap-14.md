@@ -4,7 +4,7 @@
 > "E morreu numa boa velhice, cheio de dias, de riquezas e de honra."
 > — 1 Crônicas 29:28
 
-Pegue uma folha. Antes de qualquer outra coisa, faça de novo o teste da introdução.
+Chegamos ao nosso último encontro, e eu quero começá-lo do mesmo jeito que começamos lá atrás. Pegue uma folha e, antes de qualquer outra coisa, faça de novo o teste da introdução.
 
 Escreva as dez últimas coisas que você fez na sua empresa. As dez últimas, não as mais importantes. Ao lado de cada uma, marque a letra do degrau: **O**, se você executou uma tarefa da operação; **D**, se organizou ou pensou a empresa (um processo, um indicador, uma rotina, os números, uma decisão de estratégia); **L**, se desenvolveu alguém (ensinou, delegou com acompanhamento, deu um feedback, preparou um sucessor).
 
@@ -12,7 +12,7 @@ Agora conte. Quantos O, quantos D, quantos L?
 
 Volte ao topo do seu Balanço do CPF, onde está o placar que você anotou no começo do livro, e coloque os dois lado a lado.
 
-Talvez a diferença seja grande: você saiu de oito O para quatro, e pela primeira vez apareceu um L na sua lista. Lembre-se de que trocar dois ou três O por D ou L já é subir meio degrau. Talvez a diferença seja pequena, e você esteja um pouco frustrado. As duas coisas são normais. Uma escada não se sobe numa leitura. Mas repara numa coisa que vale mais do que o número: você sabe ler o placar. Há algumas semanas, aquelas dez tarefas eram só a sua rotina. Hoje, cada uma delas te diz em que degrau você está vivendo.
+Talvez a diferença seja grande: você saiu de oito O para quatro, e pela primeira vez apareceu um L na sua lista. Lembre-se de que trocar dois ou três O por D ou L já é subir meio degrau. Talvez a diferença seja pequena, e você esteja um pouco frustrado. Eu quero te tranquilizar: as duas situações são normais, porque uma escada não se sobe numa leitura. Mas perceba uma coisa que vale mais do que o número: você sabe ler o placar. Há algumas semanas, aquelas dez tarefas eram só a sua rotina. Hoje, cada uma delas te diz em que degrau você está vivendo.
 
 E é exatamente sobre o último degrau que eu quero conversar com você neste capítulo final.
 
@@ -24,7 +24,7 @@ O nome dele é Davi. E o que ele conta naquele dia é a história do maior sonho
 
 Davi quis construir uma casa para Deus. Um templo de pedra e cedro, digno do que ele acreditava. Juntou recursos, desenhou, imaginou cada detalhe. E ouviu, com todas as letras, que não seria ele a construir. Seria o filho, Salomão.
 
-Pensa no tamanho dessa frustração para um homem acostumado a vencer. O projeto da vida dele seria terminado por outra pessoa, e ele nem estaria vivo para ver.
+Pense no tamanho dessa frustração para um homem acostumado a vencer. O projeto da vida dele seria terminado por outra pessoa, e ele nem estaria vivo para ver.
 
 Davi podia ter ficado amargo. Podia ter pensado: "se não for eu, não vai ser ninguém". Você conhece empresários assim. Talvez tenha chegado perto de ser um deles. Seguram a empresa até o último dia, centralizam tudo, não preparam ninguém e, quando finalmente saem, levam junto a única pessoa que sabia como as coisas funcionavam.
 
@@ -50,11 +50,11 @@ Durante o livro inteiro, a gente tratou esse degrau como uma questão de gestão
 
 O psicanalista Erik Erikson, um dos maiores estudiosos do desenvolvimento humano do século XX, descreveu a vida adulta como uma sequência de encruzilhadas. A da maturidade, segundo ele, fica entre duas palavras: **generatividade** e **estagnação**. Generatividade é o impulso de formar, guiar e cuidar da próxima geração: os filhos, a equipe, quem vem depois. É querer deixar alguma coisa que continue viva quando você não estiver mais lá. Estagnação é a vida que se fecha em si mesma, ocupada só em manter o que já conquistou.
 
-Lê essas duas palavras de novo, agora pensando na sua empresa.
+Leia essas duas palavras de novo, agora pensando na sua empresa e na sua vida.
 
 O operador vive para manter a máquina funcionando. O dono organiza a máquina para que ela funcione melhor. Mas só o líder faz a pergunta que Davi fez: quem vai continuar isso quando eu não estiver aqui? E, mais importante, o que eu estou fazendo hoje para que essa pessoa esteja pronta?
 
-Eu vendi uma empresa com superágio e vi essa mesma empresa quebrar dois anos depois. Contei isso a você lá no começo. A estrutura estava lá: processos, números, organograma. Mesmo assim, não bastou. Aquela história me ensinou que estrutura não se sustenta sozinha. Processo não decide, planilha não lidera, organograma não tem coragem. Toda obra precisa de alguém por trás dela. E, mais cedo ou mais tarde, esse alguém não vai ser você.
+Eu vendi uma empresa com superágio e vi essa mesma empresa quebrar dois anos depois. Contei isso a você lá no começo, e agora você entende por que essa história abriu o nosso livro. A estrutura estava lá: processos, números, organograma. Mesmo assim, não bastou. Aquela história me ensinou que estrutura não se sustenta sozinha. Processo não decide, planilha não lidera, organograma não tem coragem. Toda obra precisa de alguém por trás dela. E, mais cedo ou mais tarde, esse alguém não vai ser você.
 
 A pergunta, então, não é se você vai sair. É quem vai estar pronto quando você sair.
 
@@ -62,13 +62,13 @@ A pergunta, então, não é se você vai sair. É quem vai estar pronto quando v
 
 Jesus terminou o sermão mais famoso da história com dois homens construindo duas casas, uma na rocha e outra na areia. A tempestade veio para as duas. Só uma ficou de pé. E ele faz questão de dizer quem é o prudente: não é quem ouve, é quem ouve e pratica.
 
-Você ouviu muita coisa ao longo destas páginas. Agora eu quero te mostrar o que você praticou.
+Você ouviu muita coisa ao longo destas páginas. Agora eu quero te mostrar, com alegria, aquilo que você praticou.
 
 Pegue o seu Balanço do CPF, a folha inteira, e releia devagar, de cima para baixo, como quem relê uma carta antiga. Talvez esteja rabiscada, com respostas riscadas e reescritas. Melhor assim. Repare na coluna dos sócios ocultos: a voz herdada, o padrão de casa, a mágoa, o orgulho, o "ninguém faz como eu". Quando você começou o livro, eles assinavam decisões no seu quadro societário sem você saber. Hoje têm nome, e alguns já receberam baixa. Depois leia tudo de uma vez e veja as respostas conversarem entre si: a voz herdada explica a margem apertada, o jeito como você foi cobrado em casa explica o jeito como você cobra a equipe, a mágoa explica por que delegar parecia perigoso, a frase da sua casa corrige a visão da empresa. Isso tem nome: alinhamento. Quem você é, o que você vive em casa e o que você constrói na empresa passam a apontar para o mesmo lugar.
 
 O CNPJ só alcança o que o CPF permite. Por isso este livro começou no CPF e termina nele. O CNPJ é a obra. O CPF é o construtor. E nenhuma obra dura mais do que o alicerce de quem a levantou.
 
-Coloque essa folha num lugar onde você vá vê-la toda semana. Ela é um painel de navegação. E refaça o teste da escada a cada três meses. Algumas linhas do Balanço vão mudar, porque você vai mudar. É sinal de que está funcionando.
+Coloque essa folha num lugar onde você vá vê-la toda semana. Ela não é um documento de arquivo; é um painel de navegação. E refaça o teste da escada a cada três meses. Algumas linhas do Balanço vão mudar, porque você vai mudar. É sinal de que está funcionando.
 
 * * *
 
@@ -90,11 +90,11 @@ A segunda: ele entregou a planta. Davi não deixou o filho adivinhando o que tin
 
 A terceira, e talvez a mais esquecida: ele falou em público. Na frente dos líderes do reino, Davi disse quem era o filho e o que esperava dele. Deu autoridade com a própria voz. Quantos gerentes você conhece que receberam a função, mas nunca ouviram o dono dizer diante da equipe "confio nele, e as decisões dessa área agora são dele"? Sem essa frase, a equipe continua batendo na sua porta. E o seu Salomão continua sendo só um ajudante com cargo bonito.
 
-Recursos, planta e palavra. Nenhum dos três depende de a empresa estar grande. Dependem de você decidir que a obra é maior do que as suas mãos.
+Recursos, planta e palavra. Nenhum dos três depende de a empresa estar grande. Dependem apenas de você decidir que a obra é maior do que as suas mãos. E, quando você tomar essa decisão, saiba que estará entrando no degrau mais bonito da escada.
 
 ### Antes de virar a página
 
-Esta é a última vez que eu te peço para pegar a caneta. Prometo.
+Esta é a última vez que eu peço para você pegar a caneta. Prometo.
 
 Uma pergunta só, e ela é grande: daqui a vinte anos, o que as três pessoas mais importantes da sua vida vão dizer sobre quem você foi? Sobre quem você foi, e não sobre o que você construiu. Escreva. E, logo abaixo, com toda a honestidade, escreva o que elas diriam se a pergunta fosse feita hoje.
 
@@ -112,19 +112,21 @@ Se você chegou até aqui, obrigado.
 
 Não pelo tempo que deu a este livro. Pela coragem de olhar para dentro. A maioria dos empresários prefere olhar para o mercado, para o concorrente, para o governo, para a equipe. Olhar para si mesmo é mais difícil, porque não dá para terceirizar a culpa. E você olhou.
 
-Talvez tenha encontrado feridas que fingia não ter. Talvez tenha precisado soltar alguém que nunca te pediu perdão, ou admitir que o orgulho estava saindo caro, que a sua casa vinha ficando para depois, que a empresa tinha virado esconderijo. Se aconteceu, não se envergonhe. Esse incômodo é o sinal de que alguma coisa começou a mudar.
+Talvez tenha encontrado feridas que fingia não ter. Talvez tenha precisado soltar alguém que nunca te pediu perdão, ou admitir que o orgulho estava saindo caro, que a sua casa vinha ficando para depois, que a empresa tinha virado esconderijo. Se aconteceu, não se envergonhe. Lá no começo, eu te prometi que você não encontraria conforto nesta leitura, e cumpri. Mas aquele incômodo era o sinal de que alguma coisa começou a mudar. E o que começou a mudar em você não vai parar aqui.
 
 Este livro não foi escrito por alguém que chegou. Foi escrito por alguém que ainda está subindo a escada e resolveu dividir com você o mapa que encontrou até aqui. Eu também ainda descubro sócios ocultos no meu quadro. Ainda me pego operando o que deveria estar formando alguém para fazer. A diferença é que hoje eu sei ler o placar.
 
-Te deixo três pedidos.
+Eu deixo com você três pedidos.
 
-Não deixa este livro parado na estante. Volta nele. Relê os capítulos que mais doeram, porque é neles que está o seu próximo degrau.
+Não deixe este livro parado na estante. Volte a ele. Releia os capítulos que mais doeram, porque é neles que está o seu próximo degrau.
 
-Não sobe sozinho. Tudo o que a gente conversou ganha força quando você vive isso perto de pessoas que te conhecem, te cobram e te afiam.
+Não suba sozinho. Tudo o que conversamos ganha força quando você vive isso perto de pessoas que conhecem você, cobram você e te afiam.
 
-E começa pela sua casa. Antes de mudar a empresa, muda o jeito como você vai abrir a porta hoje à noite. É ali que a sua liderança é testada de verdade.
+E comece pela sua casa. Antes de mudar a empresa, mude o jeito como você vai abrir a porta hoje à noite. É ali que a sua liderança é testada de verdade.
 
 O seu CNPJ não precisa de um CPF perfeito. Precisa de um CPF inteiro: que sabe quem é, que anda leve, que aprende, que lidera em casa, que cuida de si, que forma quem conduz e que enxerga longe.
+
+Seja forte e resiliente. Permaneça. Aquilo que você começou a construir nestas páginas é a base que vai sustentar tudo o que você sempre sonhou, e tudo o que ainda está por vir.
 
 Com gratidão e fé no seu próximo degrau,
 
