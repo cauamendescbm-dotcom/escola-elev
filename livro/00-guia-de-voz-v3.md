@@ -32,3 +32,23 @@ O autor reescreveu, com as próprias palavras, a abertura da Parte I. Esse texto
   - cada capítulo deve deixar claro o que o leitor está conquistando.
 - **Abertura de cada parte:** no modelo do texto de referência, com o que vamos fazer, o que você vai descobrir, o aviso do incômodo e o encorajamento.
 - **Fechamento de cada capítulo:** além do gancho, uma palavra de encorajamento curta, sem repetir sempre a mesma fórmula.
+
+## Tratamento do leitor (aprovado pelo autor)
+
+- **"Você"** é sempre o tratamento do leitor.
+- Como complemento, valem as formas do português brasileiro falado, escolhidas pelo que soa mais natural e claro em cada frase:
+  - **"te"**: "eu te prometo", "isso vai te ajudar", "deixa eu te contar";
+  - **"você" depois do verbo**: "isso incomoda você";
+  - **"para você"**, **"com você"**, **"em você"**, **"a você"**.
+  - Varie as formas para não repetir o mesmo pronome em sequência.
+- **"Lhe"** fica fora do livro, porque engessa o texto. Os verbos de "tu" (sabes, fazes, tua) só aparecem dentro de citações bíblicas.
+- **Possessivos:** use "seu" e "sua", nunca "teu" e "tua" fora de citação. Prefira "a sua empresa" a "sua empresa" quando o ritmo pedir.
+- **O leitor é o sujeito das frases de sentimento.** Escreva "talvez você sinta um incômodo por dentro", e não "algo se incomode dentro de você".
+- **Clareza acima de tudo.**
+  - Cada frase precisa dizer quem faz o quê.
+  - Nada de "isso" ou "disso" sem referente claro.
+  - Nada de advérbios burocráticos ("internamente", "efetivamente", "basicamente").
+- **Imperativo:**
+  - Nos exercícios, use as formas do "você": escreva, preencha, pegue, separe.
+  - Na narração, o tom pode ser mais próximo ("deixa eu te contar", "imagine comigo"), desde que não se misture com o "tu".
+- **Pontuação:** depois de ponto final, a frase começa com maiúscula. Não comece frase com "mas" logo depois de ponto quando a vírgula resolve.
